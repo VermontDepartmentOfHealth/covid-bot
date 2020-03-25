@@ -49,9 +49,12 @@ namespace Microsoft.BotBuilderSamples.Dialog
 
         protected override Task<QnAMakerOptions> GetQnAMakerOptionsAsync(DialogContext dc)
         {
+            var threshold = !string.IsNullOrEmpty(this._configuration["ScoreThreshold"]) ?
+                                float.Parse(this._configuration["ScoreThreshold"]) :
+                                DefaultThreshold;
             return Task.FromResult(new QnAMakerOptions
             {
-                ScoreThreshold = DefaultThreshold,
+                ScoreThreshold = threshold,
                 Top = DefaultTopN,
                 QnAId = 0,
                 RankerType = "Default",
