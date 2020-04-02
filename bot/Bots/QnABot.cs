@@ -8,6 +8,7 @@ using Microsoft.Bot.Builder;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Schema;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 
 namespace Microsoft.BotBuilderSamples.Bots
 {
@@ -16,12 +17,14 @@ namespace Microsoft.BotBuilderSamples.Bots
         protected readonly BotState ConversationState;
         protected readonly Microsoft.Bot.Builder.Dialogs.Dialog Dialog;
         protected readonly BotState UserState;
+        private readonly IConfiguration _configuration;
 
-        public QnABot(ConversationState conversationState, UserState userState, T dialog)
+        public QnABot(ConversationState conversationState, UserState userState, T dialog, IConfiguration configuration)
         {
             ConversationState = conversationState;
             UserState = userState;
             Dialog = dialog;
+            this._configuration = configuration;
         }
 
         public override async Task OnTurnAsync(ITurnContext turnContext, CancellationToken cancellationToken = default)
@@ -43,7 +46,10 @@ namespace Microsoft.BotBuilderSamples.Bots
             {
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
-                    await turnContext.SendActivityAsync(MessageFactory.Text($"Hello and welcome!"), cancellationToken);
+                    var GreetingMsg = !string.IsNullOrEmpty(this._configuration["GreetingMsg"]) ?
+                    this._configuration["GreetingMsg"] : $"Hello and welcome!";
+
+                    await turnContext.SendActivityAsync(MessageFactory.Text(GreetingMsg), cancellationToken);
                 }
             }
         }
