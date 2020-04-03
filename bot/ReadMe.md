@@ -12,6 +12,12 @@ Add a separate `appsettings.<environment>.json` file for each environment in `Pr
 
 You can get them from someone who's worked on the project or grab the keys from Azure if you have access
 
+* The `GreetingMsg` config value is used to set the greeting messgage that will be displayed whenever a new conversation is started with the bot.
+* The `DefaultAnswer` config value is used to set the messgage that is dispalyed when no suitable answer can be found.
+* The `ScoreThreshold` config value is used to set the minimum confidence score that the bot will consider a match worth returning.
+	 - [More info on confidence scores here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/confidence-score)
+
+
 ### Contributing
 
 #### SOV Org Members
