@@ -46,10 +46,9 @@ namespace Microsoft.BotBuilderSamples.Bots
             {
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
-                    var GreetingMsg = !string.IsNullOrEmpty(this._configuration["GreetingMsg"]) ?
-                    this._configuration["GreetingMsg"] : $"Hello and welcome!";
+                    var greetingMsg = this._configuration["GreetingMsg"] ?? $"Hello and welcome!";
 
-                    await turnContext.SendActivityAsync(MessageFactory.Text(GreetingMsg), cancellationToken);
+                    await turnContext.SendActivityAsync(MessageFactory.Text(greetingMsg), cancellationToken);
                 }
             }
         }
