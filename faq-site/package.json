@@ -1,0 +1,21 @@
+{
+    "name": "covid-faq",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx @11ty/eleventy",
+        "serve": "npx @11ty/eleventy --serve",
+        "update-data": "node tools/updateData.js",
+        "update-and-build": "npm run update-data && npm run build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@11ty/eleventy": "^0.10.0",
+        "dotenv": "^8.2.0",
+        "mark.js": "^8.11.1",
+        "node-fetch": "^2.6.0"
+    }
+}
