@@ -1,0 +1,99 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    color: #0c0c0c;
+}
+
+html {
+    font-family: "Noto Sans", sans-serif;
+    line-height: 1.5em;
+}
+
+footer.footer,
+header.header,
+main.content {
+    padding: 12px;
+}
+
+header.header {
+    text-align: center;
+    background: #0171a1;
+    color: white;
+}
+
+main.content {
+    max-width: 48em;
+    margin: 0 auto;
+    display: block;
+    /* for ie 11 */
+}
+
+footer.footer {
+    background: #dddddd;
+    text-align: center;
+}
+
+.search {
+    width: 100%;
+    border-radius: 3px;
+    box-shadow: none;
+    border: 1px solid grey;
+    height: 33px;
+    line-height: 33px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    margin-top: 15px;
+}
+
+mark {
+    background: rgba(255, 247, 94, 0.86);
+    color: black;
+}
+
+.contents mark {
+    background: rgba(255, 247, 94, 0.56);
+}
+
+.match-title .contents mark {
+    background: rgba(255, 247, 94, 0.26);
+}
+
+.faqs {
+    padding-left: 15px;
+    margin-top: 30px;
+}
+
+.faqs li {
+    list-style: none;
+}
+
+.faqs ul li {
+    list-style: disc;
+}
+
+.filtering .faq {
+    display: none;
+}
+
+.filtering .faq.marked {
+    display: block;
+}
+
+li.faq {
+    margin-top: 20px;
+}
+
+summary.context {
+    text-indent: -15px;
+}
+
+summary.context h2 {
+    display: inline;
+}
+
+a.permalink {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #626991;
+}
