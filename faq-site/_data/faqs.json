@@ -1,0 +1,2917 @@
+{
+    "qnaDocuments": [
+        {
+            "id": 270,
+            "answer": "Sorry we couldn't find a good match for your question. Please try rephrasing the question, checking out the [CDC website](https://www.cdc.gov/coronavirus), exploring our FAQ, emailing [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov), or calling 2-1-1",
+            "source": "Editorial",
+            "questions": [
+                "This did NOT answer my question.\n"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": []
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 271,
+            "answer": "**What are the symptoms of COVID-19?**\n\nSymptoms reported for patients with COVID-19 include mild to severe respiratory illness. Symptoms include:\n\n* Fever\n\n* Cough\n\n* Shortness of breath\n\nCall your health care professional if you develop symptoms and have been in close contact with a person known to have COVID-19 or if you have recently traveled internationally or traveled by cruise. Find more information on the Health Department’s website: [www.healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "source": "KB-COVID",
+            "questions": [
+                "What are the symptoms of COVID-19?",
+                "How can I tell if I have Covid-19?",
+                "I have symptoms, how can I tell if I have Covid-19?",
+                "what symptoms should I look for",
+                "Does a fever mean I have Covid-19?",
+                "Does a sore throat mean I have Covid-19?",
+                "Is diarrhea a sign of the virus?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 310,
+                        "displayText": "How can I get help finding a health care provider?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 272,
+                        "displayText": "Differences between COVID-19 and the flu?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 272,
+            "answer": "**What is the difference between COVID-19 and the flu?**\n\nCOVID-19 is a new disease and we are still learning about how it makes people sick.\n\n**Cause**\n\nCOVID-19: Caused by one virus, the novel 2019 coronavirus, now called severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2.\n\nFlu: Caused by any of several different types and strains of influenza viruses.\n\n**Transmission**\n\nWhile both the flu and COVID-19 may be transmitted in similar ways, there is also a possible difference: COVID-19 might be spread through the airborne route, meaning that tiny droplets remaining in the air could cause disease in others even after the ill person is no longer near.\n\n**Antiviral Medications**\n\nCOVID-19: Antiviral medications are currently being tested to see if they can address symptoms.\n\nFlu: Antiviral medications can address symptoms and sometimes shorten the duration of the illness.\n\n**Vaccine**\n\nCOVID-19: No vaccine is available at this time, though it is in progress.\n\nFlu: A vaccine is available and effective to prevent some of the most dangerous types or to reduce the severity of the flu.\n\n**For info on deaths and infections go to source:** [www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu](http://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu)",
+            "source": "KB-COVID",
+            "questions": [
+                "What is the difference between COVID-19 and the flu?",
+                "What is covid19?",
+                "Is COVID-19 the same as the flu?",
+                "Is COVID-19 worse than the flu?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 333,
+                        "displayText": "Can I get the virus from touching my mail?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 332,
+                        "displayText": "Can I get the virus from food?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 274,
+                        "displayText": "How does COVID-19 spread?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 273,
+            "answer": "**Is there a vaccine for COVID-19? When will a vaccine be available**\n\nThere is no vaccine for COVID-19, but research and work are underway to develop one.",
+            "source": "KB-COVID",
+            "questions": [
+                "Is there a vaccine for COVID-19? When will a vaccine be available?",
+                "When will a vaccine be available?",
+                "When will there be a vaccine for COVID-19?\n"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 274,
+            "answer": "**How does COVID-19 spread?**\n\nThe virus is thought to spread mainly from person-to-person.\n\n* Between people who are in close contact with one another (within about 6 feet).\n\n* Through respiratory droplets produced when an infected person coughs, sneezes or talks.\n\n* These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.\n\n* Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.\n\n* Maintaining good social distance (about 6 feet) is very important in preventing the spread of COVID-19.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nTo help prevent spread of the virus, the CDC recommends people practice frequent “hand hygiene,” which is either washing hands with soap or water or using an alcohol-based hand rub. The CDC also recommends routine cleaning of frequently touched surfaces.",
+            "source": "KB-COVID",
+            "questions": [
+                "How does COVID-19 spread?",
+                "How can you get COVID-19?",
+                "how is coronavirus spreading?",
+                "How does transmission happen?",
+                "how does Covid-19 move between people?",
+                "Can a person be infected through an open wound?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 275,
+            "answer": "**Are children more susceptible to the virus that causes COVID-19 compared with the general population?**\n\nNo, there is no evidence that children are more susceptible. In fact, most confirmed cases of COVID-19 reported from China have occurred in adults. Infections in children have been reported, including in very young children. From limited information published from past Severe Acute Respiratory Syndrome coronavirus (SARS) and Middle East respiratory syndrome coronavirus (MERS) outbreaks, infection among children was relatively uncommon.\n\nChildren should engage in usual preventive actions to avoid infection, including cleaning hands often using soap and water or alcohol-based hand sanitizer with at least 60% alcohol, avoiding people who are sick, and staying up to date on vaccinations, including the flu vaccine. Everyone, including children, should practice social distancing with one another.",
+            "source": "KB-COVID",
+            "questions": [
+                "Are children more susceptible to the virus that causes COVID-19 compared with the general population?",
+                "Can kids get Covid-19?",
+                "Can kids get it?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 323,
+                        "displayText": "How to practice social distancing with children."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 276,
+            "answer": "**How can you help prevent getting the virus?**\n\n* Stay at least 6 ft away from others. Stay at home as much as possible.\n\n* Avoid close contact with people who are sick.\n\n* Avoid touching your eyes, nose, and mouth.\n\n* Stay home when you are sick.\n\n* Cover your coughs and sneezes with your sleeve or a tissue, then throw the tissue in the trash.\n\n* Clean and disinfect frequently touched objects and surfaces using a regular household cleaning spray or wipe.\n\n* Wash your hands often with soap and water for at least 20 seconds, especially after going to the bathroom; before eating; and after blowing your nose, coughing, or sneezing.\n\n* If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water if hands are visibly dirty.",
+            "source": "KB-COVID",
+            "questions": [
+                "How can you help prevent getting the virus?",
+                "prevention",
+                "preventative",
+                "How do I stay safe?\n",
+                "What can I do to keep from getting COVID-19?",
+                "How can I avoid getting COVID-19?",
+                "How do you prevent coronavirus?",
+                "how to stay safe?",
+                "family member of essential worker, how to stay safe?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 277,
+            "answer": "**Should I wear a face mask when I go out in public?**\n\nAs of Friday, April 3, Health Commissioner Mark Levine, MD, recommends Vermonters should wear cloth facial masks, or coverings, if they need to leave their homes for essential purposes. People may be infected with COVID-19 and not show symptoms for up to two days (48 hours). Wearing a facial cloth mask helps to protect others from possible infection. Medical-grade masks should be reserved for health care workers. \n\n**The most effective way to slow the spread is to continue to follow the governor’s Stay Home, Stay Safe Order, and social distancing, as well as regularly washing hands and not touching your face.**\n\nIf you feel sick, stay home to rest and avoid going out into public places. If you are sick and plan to see a doctor, you should call the office before your visit. Your doctor can provide guidance on how to avoid spreading illness, such as what steps to take while traveling to their facility and upon arrival, and whether you should wear a mask.",
+            "source": "KB-COVID",
+            "questions": [
+                "Should I wear a face mask when I go out in public?",
+                "Do face masks work?",
+                "Should I get face masks?",
+                "What are face masks for?",
+                "Why do doctors wear face masks?",
+                "Can face masks keep you from getting sick?",
+                "Has the guidance changed regarding masks?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 336,
+                        "displayText": "Do homemade face masks work?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 278,
+            "answer": "**Can pets get sick from COVID-19?**\n\nTo date, CDC has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that pets, including dogs, can spread COVID-19. There is no reason to think that any animals, including pets, in the United States might be a source of infection with this new coronavirus. However, it is important to include pets in your family’s preparedness planning efforts, including having a two-week supply of pet food and pet medicines available. For more information on preparing for your pet, please visit [www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) .",
+            "source": "KB-COVID",
+            "questions": [
+                "Can pets get sick from COVID-19?",
+                "Can my pet get sick?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 279,
+            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nThe CDC is advising the following: restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus. When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask. For more information on preparing for your pet, please visit [www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) .",
+            "source": "KB-COVID",
+            "questions": [
+                "Should I avoid contact with pets or other animals if I am sick with COVID-19?",
+                "Can I give my pet Covid-19?",
+                "Can I give it to my pet?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 280,
+            "answer": "**How many people are being monitored in Vermont?**\n\nThe number of people being monitored is updated every day on our website [www.healthvermont.gov/COVID-19.](http://www.healthvermont.gov/CODID-19) The number changes rapidly as people return to Vermont from affected areas and as others complete the 14 day monitoring period.",
+            "source": "KB-COVID",
+            "questions": [
+                "How many people are being monitored in Vermont?",
+                "How man people have COVID-19 in Vermont?",
+                "How many people are infected in Vermont?",
+                "Does the state track people who are infected?",
+                "does the state keep track of potential cases?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 281,
+                        "displayText": "What is monitoring?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 281,
+            "answer": "**What is monitoring?**\n\nMonitoring means someone who has returned from an affected area or cruise ship, or who has been in close contact with a person who tested positive for COVID-19, checks their temperature every day, watches for symptoms, and stays home. Identifying information for people being monitored is not available to the public.\n\nThe number of people being monitored is updated every day on our website, in addition to detailed “Information for People Under Monitoring”: [www.healthvermont.gov/COVID-19.](http://www.healthvermont.gov/CODID-19)",
+            "source": "KB-COVID",
+            "questions": [
+                "What is monitoring?",
+                "How does monitoring work?",
+                "What does it mean if someone is being monitored?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 282,
+            "answer": "**Who is getting tested?**\n\nIf you are ill, call your health care provider to find out if you can be seen for an evaluation. Testing is not treatment and not everyone needs to be tested. If you are sick, many people can manage their symptoms at home with rest, drinking fluids and taking fever-reducing medicine, when needed.\n\nAs of March 20, 2020, health care providers can submit samples to the University of Vermont Medical Center Laboratory (UVMMC) for prioritization. However, testing resources in Vermont and in the U.S. are currently limited. For the immediate term, the Health Department lab will prioritize testing samples from the following groups with symptoms of COVID-19: health care workers, patients who are hospitalized, long-term care facility residents, people who are incarcerated, people who are immunocompromised, and other high-priority groups with symptoms. All other samples submitted to the lab will be tested as quickly as resources allow. \n\nAs of March 27, the Health Department announced new guidance to expand testing to include more people with mild to moderate symptoms. The process is still the same – if you are having symptoms of COVID-19, you should call your health care provider to arrange for being tested. Health care providers are encouraged to order a test for any adult who is showing symptoms of COVID-19. \n\nAnyone who meets the medical requirements for testing for COVID-19 can be tested at no cost. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website [healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "source": "KB-COVID",
+            "questions": [
+                "Who is getting tested?",
+                "How do you decide who gets tested?",
+                "Who can be tested?",
+                "Can I get tested?",
+                "testing with no referrals",
+                "testing without talking to a doctor"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 337,
+                        "displayText": "Do I need to get my pet tested for COVID-19?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 283,
+            "answer": "**Is Vermont conducting tests for COVID-19?**\n\nYes, the Vermont Department of Health Laboratory, University of Vermont Medical Center and commercial labs are running tests for COVID-19. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website  [healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).\n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "Is Vermont conducting tests for COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 284,
+            "answer": "**How long is the turnaround for testing?**\n\nTest results be available within 1 – 3 days. Test results will be reported by the Health Department to the patient. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website [healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)",
+            "source": "KB-COVID",
+            "questions": [
+                "How long is the turnaround for testing?",
+                "How long does it take to get test results?",
+                "How long after I get tested will I know if I'm sick?",
+                "Why is it taking more than 3-5 days for nurses working in nursing facilities to find out their results?",
+                "Why does it take so long to get test results?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 285,
+            "answer": "**Where is testing being done?**\n\nAs of March 20, 2020, health care providers submit samples to the University of Vermont Medical Center Laboratory (UVMMC) for prioritization. Samples from higher risk populations will be tested at the Vermont Department of Health Laboratory. Lower priority tests are done at commercial labs.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website (www.healthvermont.gov/COVID-19).\n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "Where is testing being done?",
+                "Testing locations",
+                "Where is testing?",
+                "How can I get tested?",
+                "Where can I get tested?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 318,
+                        "displayText": "Urgent Care centers that can collect samples?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 286,
+            "answer": "**What does a presumptive positive test mean?**\n\nA presumptive positive means the test needs to be confirmed by the CDC.",
+            "source": "KB-COVID",
+            "questions": [
+                "What does a presumptive positive test mean?",
+                "What does it mean if a test is presumptive positive?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 287,
+            "answer": "**Is there a cost to people who are tested?**\n\nNo, there is no cost for individuals for the test.",
+            "source": "KB-COVID",
+            "questions": [
+                "Is there a cost to people who are tested?",
+                "Does getting tested cost money?",
+                "How much does it cost to get tested?",
+                "Does insurance cover testing?",
+                "Do I need insurance to be tested?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 288,
+            "answer": "**Does the Health Department have enough resources for testing?**\n\nTesting materials in Vermont and in the U.S. are currently limited. For the immediate term, the Health Department lab will prioritize testing samples from the following groups with symptoms of COVID-19: health care workers, patients who are hospitalized, long-term care facility residents, people who are incarcerated, people who are immunocompromised, and other high-priority groups with symptoms. Currently, our staffing capacity for testing is 7 days a week. In addition to the Health Department’s lab, commercial labs are now testing lower priority samples.",
+            "source": "KB-COVID",
+            "questions": [
+                "Does the Health Department have enough resources for testing?",
+                "Is Vermont going to run out of tests?",
+                "Are there enough tests?",
+                "Do we have enough tests?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 289,
+            "answer": "**What is the Health Department doing?**\n\nThe Vermont Department of Health is working closely with long-term care facilities and other congregate living facilities to prepare for COVID-19 cases and prevent outbreaks, by reviewing CDC guidance for infection control and supporting development of strategies and plans. If cases occur in these settings, the Vermont Department of Health helps the facility implement control measures and prevent additional cases.\n\nThe Department is working to investigate positive cases' possible travel or exposure history and to identify anyone who had close contact with the person. Those individuals will be assessed for their exposure risk and provided with guidance for their health. Where appropriate, they will receive recommendations for self-isolation or other restrictions.\n\nThe Health Department is also prioritizing outreach to close contacts of someone who has tested positive for COVID-19 who are hospitalized, residents of long-term care facilities, people who are incarcerated, and those who are immunocompromised. This means the Health Department will work to identify people who are at high risk because they were in close contact with the individual, their household and other close contacts, health care workers and first responders who may have been exposed. They will be assessed for their exposure risk and provided with guidance for their health and recommendations for self-isolation or other measures.\n\nIn addition, we are maintaining updated and current information on our website, [healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "source": "KB-COVID",
+            "questions": [
+                "What is the Health Department doing?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 319,
+                        "displayText": "More info about Covid-19 Cases"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 290,
+            "answer": "**What should business owners in Vermont do?**\n\nSuspend in-person operations. Businesses and non-profits are directed to suspend in-person business operations, and as directed previously, must ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. For a detailed list of essential services or functions in Vermont, visit https://governor.vermont.gov/content/addendum-6-executive-order-01-20\n\nThe Agency of Commerce and Community Development (ACCD) has published a guide using NAICS codes https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses to help businesses interpret acceptable in-person business functions under this Order. Additionally, the Agency has published FAQs [https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) which should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the Request for Continuation of Business Operations Form at bit.ly/covid-vt-business-operations.\n\nVisit the ACCD’s COVID-19 Recovery Resource website for information on financial assistance, sector guidance, and unemployment information: https://accd.vermont.gov/covid-19/business  \n\nVisit Vermont Department of Labor’s website: https://labor.vermont.gov/covid19 for guidance for employers and employee, industry updates and notifications.\n\nPlease see the section of https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus on businesses. \n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "What should business owners in Vermont do?",
+                "What should I do if I manage a business?",
+                "What should factories do?",
+                "What should construction companies do?",
+                "What should my business do?",
+                "Should I close my business?",
+                "Are there any guidelines for small businesses?",
+                " should that business shut down"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 291,
+            "answer": "**What should child cares and schools in Vermont do?**\n\nOn March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented on or before Monday, April 13, 2020.\n\nAll child care programs are closed during this same period, except for those that will remain open to provide services to Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\nFor more information, see Special Guidance for schools, child care programs and colleges at healthvermont.gov/COVID-19",
+            "source": "KB-COVID",
+            "questions": [
+                "What should child cares and schools in Vermont do?",
+                "What should I do at my day care?",
+                "how long are daycares closed",
+                "Childcare closures",
+                "special education"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 292,
+            "answer": "**What should pregnant or breastfeeding women and children do?**\n\nThere is not currently information from published scientific reports about susceptibility of pregnant women to COVID-19. Pregnant women experience immunologic and physiologic changes which might make them more susceptible to viral respiratory infections, including COVID-19.\n\nThere is no evidence that children are more susceptible to COVID-19. In fact, most confirmed cases of COVID-19 reported from China have occurred in adults. Infections in children have been reported, including in very young children. There is an ongoing investigation to determine more about this outbreak. This is a rapidly evolving situation and information will be updated as it becomes available.\n\nInformation about children and pregnant women and COVID-19 is available at [www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnant-women.html](http://www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnant-women.html) .",
+            "source": "KB-COVID",
+            "questions": [
+                "What should pregnant or breastfeeding women and children do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 293,
+            "answer": "**What should colleges and universities in Vermont do?**\n\nPlease see “Interim Guidance for Administrators of US Institutions of Higher Education to Plan, Prepare, and Respond to Coronavirus Disease 2019” (CDC) at [www.cdc.gov/coronavirus/2019-ncov/community/guidance-ihe-response.html](http://www.cdc.gov/coronavirus/2019-ncov/community/guidance-ihe-response.html) .",
+            "source": "KB-COVID",
+            "questions": [
+                "What should colleges and universities in Vermont do?",
+                "Can I pick up my stuff from college?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 294,
+            "answer": "**What should colleges and universities who are planning student foreign travel do?**\n\nPlease see “Guidance for Student Foreign Travel for Institutions of Higher Education” (CDC) at [www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html](http://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html)",
+            "source": "KB-COVID",
+            "questions": [
+                "What should colleges and universities who are planning student foreign travel do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 295,
+            "answer": "**What should Vermont community-based and faith-based organizations do?**\n\nPlease see “Interim Guidance: Get Your Community- and Faith-Based Organizations Ready for Coronavirus Disease 2019” (CDC) at [www.cdc.gov/coronavirus/2019-ncov/community/guidance-community-faith-organizations.html](http://www.cdc.gov/coronavirus/2019-ncov/community/guidance-community-faith-organizations.html)",
+            "source": "KB-COVID",
+            "questions": [
+                "What should Vermont community-based and faith-based organizations do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 296,
+            "answer": "**What should people in long-term care facilities or group homes do?**\n\nA 3/13/20 executive order from the Governor requires nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care.\n\nThese resources are all under the long-term care facilities section of healthvermont.gov/covid19.\n\n* Vermont Health Advisory: Coronavirus Disease (COVID-19) in Long-Term Care Facilities: https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf  \n\n* CDC: Strategies to Prevent the Spread of COVID-19 in Long-Term Care Facilities: https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html \n\n* The Department of Disabilities, Aging and Independent Living also has additional info on its website: https://dail.vermont.gov/novel-coronavirus-information\n\nOn March 16, 2020, The Vermont Department of Health and Department Aging and Independent Living recommended that all Senior Centers and Adult Day Programs close their programs until April 15th. At that point the departments will reassess and determine next steps. \n\nhttps://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf\n\nHere are other useful resources:\n\n* PPE Availability Memo: https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_providers_3-17-2020.pdf\n\n* LTC Screening Protocol: https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf",
+            "source": "KB-COVID",
+            "questions": [
+                "What should people in long-term care facilities or group homes do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 297,
+            "answer": "**Are there any recommendations for older people and those with chronic medical conditions?**\n\nSome people are at higher risk of getting very sick from this illness, including older adults (65 years and older) and people with chronic medical conditions like heart disease, diabetes lung disease, moderate to severe asthma, or who are immunocompromised including cancer treatment. . According to the CDC, starting at age 65, there is an increasing risk of disease and the risk increases with age. The highest risk of serious illness is in people older than 80 years. \n\nOlder adults and people with chronic medical conditions should take extra precautions including:\n\n* Having needed supplies on hand \n\t * Contact your medical provider to ask about obtaining extra necessary medications in case you need to stay home for a prolonged period of time. \n\t * Have over-the-counter medicines and supplies for fever and other symptoms. \n\t * Have enough household items and groceries on hand so that you will be prepared to stay at home for a period of time\n\n* Avoiding crowds\n\n* Postponing cruise travel and non-essential air travel\n\n* Staying away from others who are sick\n\nRead the CDC’s full guidance on \n\n[People At Risk for Serious Illness from COVID-19.](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)\n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "Are there any recommendations for older people and those with chronic medical conditions?",
+                "seniors",
+                "Do underlying conditions put me at higher risk for contracting the virus?",
+                "A person with chronic conditions more susceptible to virus complications?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 296,
+                        "displayText": "What should those in long-term care facilities do?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 335,
+                        "displayText": "Is it safe to go grocery shopping?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 298,
+            "answer": "**What do I do if I believe I had close contact with someone who has COVID-19?**\n\nIf you have been in close contact with a person who tested positive for COVID-19, monitor yourself for symptoms. This includes checking your temperature every day, watching for symptoms (fever, cough, and shortness of breath) and staying home. \n\nIf you develop symptoms of COVID-19 and are a close contact of someone who tested positive, you should: \n\n1. Call your health care provider and\n\n2. Call the Vermont Department of Health at 802-863-7240. \n\nIf you do not develop symptoms, you do not need to call the Health Department.",
+            "source": "KB-COVID",
+            "questions": [
+                "What do I do if I believe I had close contact with someone who has COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 314,
+                        "displayText": "What does close contact mean?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 299,
+            "answer": "**What is the Health Department doing about people who have returned from travel to affected areas?**\n\nAs of March 4, following guidance from the Centers for Disease Control and Prevention, travelers returning from China, Italy, South Korea and Iran should stay home and monitor their health for 14 days after returning to the United States. Travelers returning from Japan should monitor their health for 14 days after returning to the United States.\n\nAll travelers who have returned from those countries in the last 14 days should call the Health Department at 802-863-7240.",
+            "source": "KB-COVID",
+            "questions": [
+                "What is the Health Department doing about people who have returned from travel to affected areas?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 300,
+            "answer": "**Should I be tested for COVID-19?**\n\nIf you are ill, call your health care provider to find out if you can be seen for an evaluation. Not everyone needs to be tested.\n\n**A person’s health care provider arranges for testing. DO NOT call the Health Department for testing.**",
+            "source": "KB-COVID",
+            "questions": [
+                "Should I be tested for COVID-19?",
+                "should I be tested"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 318,
+                        "displayText": "Which Urgent Care centers can collect samples?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 301,
+            "answer": "**Should I go to a specific health care professional?**\n\nFeel free to reach out to the provider most convenient to you.\n\nIf you have traveled to an affected area or have had close contact with a person who has tested positive for COVID-19, and you have symptoms of fever, cough or shortness of breath, we would like you to call ahead however (if medically possible) and alert the provider that you need evaluation for novel coronavirus (COVID-19).",
+            "source": "KB-COVID",
+            "questions": [
+                "Should I go to a specific health care professional?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 302,
+            "answer": "**I traveled through an international airport. Do I need to notify the Health Department?**\n\nAccording to CDC, layovers at international airports in are included in CDC’s recommendation to avoid nonessential travel. If a layover is unavoidable, CDC recommends that travelers not leave the airport. \n\nAs of March 10, travelers with international layovers returning to Vermont will follow the same monitoring guidelines as if they are a returning traveler from that country. Visit [healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) for an up-to-date list of level 3 countries.",
+            "source": "KB-COVID",
+            "questions": [
+                "I traveled through an international airport. Do I need to notify the Health Department?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 281,
+                        "displayText": "What is monitoring?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 303,
+            "answer": "**How many U.S. cases of COVID-19?**\n\nThe updated national numbers are available at\n[www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html](http://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html) .",
+            "source": "KB-COVID",
+            "questions": [
+                "How many U.S. cases of COVID-19?",
+                "Where are the hot spots for Covid-19",
+                "What are the COVID-19 hot spots?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 304,
+            "answer": "**Where is it safe to travel internationally?**\n\nAs of March 27, the CDC recommends that travelers avoid all nonessential international travel. \n\nStay up to date on the latest COVID-19 travel advisories from CDC [https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html). \n\nYou can also check CDC's FAQs for Travelers [https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html)",
+            "source": "KB-COVID",
+            "questions": [
+                "Where is it safe to travel internationally?",
+                "Canada",
+                "The Canadian Border"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 305,
+            "answer": "**What should I do if I have traveled internationally or traveled by cruise ship?**\n\nIf you develop symptoms of shortness of breath, cough or fever, contact your health care provider right away. \n\nTravelers returning from the any international country, or by cruise ship, should **stay home**, monitor their health by checking their temperature every day and watching for symptoms (fever, cough, shortness of breath), and practice social distancing (staying at least 6 feet away from others) **for 14 days**. This includes airport lay-overs and train travel. \n\nIf you have symptoms of fever, cough or difficulty breathing call you your health care provider. \n\nStay up to date on the latest COVID-19 travel advisories from CDC https://www.cdc.gov/coronavirus/2019-ncov/travelers/.",
+            "source": "KB-COVID",
+            "questions": [
+                "What should I do if I have traveled internationally or traveled by cruise ship?",
+                "I came back from England, what should I do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 306,
+            "answer": "**Is it okay to travel within the United States? Do I need to be quarantined when I return?**\n\nVermonters are being asked to stay home, except for essential activities. There are currently no travel restrictions for travel within the U.S. or specific health-related recommendations upon return. However, cases of coronavirus disease (COVID-19) have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers with coronavirus infection. There are several things you should consider when deciding whether it is safe for you to travel.\n\nOn March 28, 2020, the CDC is issued a Domestic Travel Advisory for residents of New York, New Jersey, and Connecticut, which advises them to not travel within the U.S. for 14 days, unless it is essential. \n\nHere are considerations:\n\n* Is COVID-19 spreading where you’re going?\n\n* Will you or your travel companion(s) be in close contact with others during your trip?\n\n* Are you or your travel companion(s) at higher risk of severe illness if you do get COVID-19?\n\n* Do you have a plan for taking time off from work or school, in case you get exposed to, or are sick with, COVID-19?\n\n* Do you live with someone who is older or has a severe chronic health condition?\n\n* Is COVID-19 spreading where you live?\n\nCDC has information about travel in the United States here: https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html Because guidance keeps evolving, you can watch that page for the latest information.",
+            "source": "KB-COVID",
+            "questions": [
+                "Should I fly to Texas?",
+                "Should I go to Texas?",
+                "Is it okay to travel within the United States? Do I need to be quarantined when I return?",
+                "Can I travel to Boston",
+                "What is essential travel"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 355,
+                        "displayText": "Are there any travel restrictions into Vermont?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 307,
+            "answer": "**Do family members of people who traveled internationally or by cruise ship need to stay at home?** If your family member has traveled internationally to any country they should maintain physical distance (approximately 6 feet) from family members and others in the home.Stay up to date on the latest COVID-19 travel advisories from CDC [https://www.cdc.gov/coronavirus/2019-ncov/travelers/](https://www.cdc.gov/coronavirus/2019-ncov/travelers/)\n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "Do family members of people who traveled to an affected area need to stay at home?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 314,
+                        "displayText": "What does close contact mean?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 308,
+            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\nIsolate at home:\n\n* Don’t leave home, except to get medical care. Call ahead before visiting a health care provider or emergency department.\n\n* Most people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\n* As much as possible, stay in a specific room in your home and use a separate bathroom. Stay at least six feet away from others in your home at all times. Don’t share household items.\n\n* Have someone else care for your pets. Although no animals have been reported to get sick with COVID-19, people with the virus should limit contact with animals until more information is known. If you do care for your pet, wash your hands before and after.\n\nDaily cleaning and washing:\n\n* Clean and disinfect surfaces in your separate room and bathroom. Have someone else clean the other areas of your home.\n\n* Thoroughly wash household items, like utensils, after using.\n\n* Wash your hands often with soap and water for at least 20 seconds. Use alcohol-based hand sanitizer if soap and water aren’t available.\n\nIf you are diagnosed with COVID-19, there is additional guidance at healthvermont.gov/COVID19 Frequently Asked Questions section – “If you or a family member are sick.” \n\nFor more information, visit the CDC \"Steps to help prevent the spread of COVID-19 if you are sick.\"\n\nIf you are a close contact of a person who tested positive for COVID-19, you should:\n\n1. Call your health care provider and\n\n2. Call the Vermont Department of Health at 802-863-7240. \n\nIf you are being monitored because you have returned from an international country other than China or Iran, or by cruise ship, you should call your health care provider if you become sick. It is not necessary to call the Health Department to report symptoms.\n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "I think I have Covid-19",
+                "I think I might have it",
+                "What to do if you don't feel well.\n",
+                "What to do if you have a cough.\n\n",
+                "What to do if you have a fever.",
+                "What do I do if I'm sick?",
+                "What do I do if I have a sore throat?",
+                "How do I know if I have COVID-19?",
+                "What should I do if I feel sick and think I may have COVID-19?",
+                "What do I do if I think I had coronavirus"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 340,
+                        "displayText": "When can I stop self-isolating?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 310,
+                        "displayText": "How can I get help finding a health care provider?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 271,
+                        "displayText": "What are the symptoms of COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 309,
+            "answer": "**What types of disinfectants should I be using to clean?**\n\nThis CDC document has a section on cleaning:\nInterim Guidance for Businesses and Employers to Plan and Respond to Coronavirus Disease 2019 (COVID-19), February 2020, found here: [https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/guidance-business-response.html](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/guidance-business-response.html)\n\nThe CDC also says:\n\nFor disinfection, review this list of products with EPA-approved emerging viral pathogens, found here:\n[https://www.americanchemistry.com/Novel-Coronavirus-Fighting-Products-List.pdf](https://www.americanchemistry.com/Novel-Coronavirus-Fighting-Products-List.pdf)Here is a link to an EPA list of anti-microbial products for use against novel coronavirus: [https://www.epa.gov/sites/production/files/2020-03/documents/sars-cov-2-list_03-03-2020.pdf](https://www.epa.gov/sites/production/files/2020-03/documents/sars-cov-2-list_03-03-2020.pdf)",
+            "source": "KB-COVID",
+            "questions": [
+                "What types of disinfectants should I be using to clean?",
+                "using certain cleaners",
+                "bleach",
+                "Lysol",
+                "cleaning the workplace after exposure"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 310,
+            "answer": "**How can someone get help finding a health care provider?**\n\n2-1-1 lists community clinics and hospital-connected clinics around the state, and as a standard on calls where the person is seeking a referral to a provider, staff ask about a source of health insurance and advise the client that they can also contact their insurer for a referral to private providers. [2-1-1](tel:211) does not list individual primary care physicians in their database.",
+            "source": "KB-COVID",
+            "questions": [
+                "How can someone get help finding a health care provider?",
+                "don't have a primary care physician",
+                "no primary care physician",
+                "Who would a person call who has no PCP",
+                "What if I don’t have a health care provider? "
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 311,
+            "answer": "**How long can the virus live on surfaces?**\n\nPer CDC: Current evidence suggests that novel coronavirus may live for hours to days on surfaces made from a variety of materials. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads. Cleaning of visibly dirty surfaces followed by disinfection is a best practice measure for prevention of COVID-19 and other viral respiratory illnesses in households and community settings.\n\nYou can see more information on this page of the CDC website: Interim Environmental Cleaning and Disinfection Recommendations for U.S. Households with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) (found here: https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html",
+            "source": "KB-COVID",
+            "questions": [
+                "How long is the virus viable on surfaces?",
+                "How long can the virus live on surfaces?",
+                "how long will COVID-19 survive on objects outside?",
+                "how long will COVID-19 survive on objects?",
+                "can the virus be tracked on surfaces"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 312,
+            "answer": "**What if I’ve had contact with someone who us under monitoring?**\n\nThere is no identifiable increased risk to someone who has been in a home or in close contact with a person under monitoring and is NOT ill (experiencing symptoms). People are thought to be most contagious when they are most symptomatic (the sickest). It might be possible to spread the virus before people show symptoms –there have been reports of this happening–but this is not thought to be the main way the virus spreads.",
+            "source": "KB-COVID",
+            "questions": [
+                "What if I’ve had contact with someone who us under monitoring?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 313,
+            "answer": "**Can someone do a presentation about COVID-19 for my group?**\n\nThe Health Department is not able to present at or attend meetings right now, because our resources are dedicated to other aspects of protecting public health during the novel coronavirus outbreak. This may change in the future if we can bring in other resources.\nThere is now a presentation on COVID-19 on [healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) under “Guidance for Specific Group – Communities.”\n\n",
+            "source": "KB-COVID",
+            "questions": [
+                "Can someone do a presentation about COVID-19 for my group?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 314,
+            "answer": "**What does close contact mean?**\n\nClose contact means being within six feet of someone who has tested positive for COVID-19 for a long time. This happens when caring for, being intimate partners with, living with, visiting, or sharing a health care waiting area. If you have been in close contact with someone who has tested positive for COVID-19: stay home, limit contact with others, and monitor yourself for symptoms. You do not need to call the Health Department. \n\nFor those who have tested positive for COVID-19, the Health Department is looking into possible travel or exposure history and identifying anyone with whom they have had close contact. They will be assessed for their exposure risk and given health guidance. Where appropriate, they will receive recommendations for self-isolation or other restrictions. For the purpose of identifying close contacts, the infectious period starts two days (48 hours) before any symptoms began and continues until the person has recovered.\n\nClose contact does not mean being more than 6 feet away in the same indoor environment for a long period of time, walking by, or briefly being in the same room with someone who has tested positive for COVID-19. In these situations, you should observe yourself for symptoms. You do not need to call the Health Department\n\n \n\n**Examples of close contacts:**    \n\n* You live in the same home    \n\n* You are intimate partners     \n\n* You rode in the same car while the person was infectious     \n\n* You had dinner together while the person was infectious\n\n     \n\n**Examples of** ***not*** **close contacts:**\n\n* You were their cashier at the grocery store\n\n* You are a pharmacist who gave the person medication\n\n* You were in front of the person in line at the store \n\n* You’re a coworker who briefly walked by to ask a question\n\nAnyone who develops symptoms should stay home and call their health care provider.\n\nFind more information for close contacts of someone with COVID-19 at [healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) (under Frequently Asked Questions section - “What does close contact mean?”).",
+            "source": "KB-COVID",
+            "questions": [
+                "What does close contact mean?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 340,
+                        "displayText": "When can I stop self-isolating?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 315,
+            "answer": "**Can the COVID-19 virus spread through pools and hot tubs?**\n\nThere is no evidence that COVID-19 can be spread to humans through the use of pools and hot tubs. Proper operation, maintenance, and disinfection (e.g., with chlorine and bromine) of pools and hot tubs should remove or inactivate the virus that causes COVID-19.\n\nThis guidance and other water-related guidance can be found at [https://www.cdc.gov/coronavirus/2019-ncov/php/water.html](https://www.cdc.gov/coronavirus/2019-ncov/php/water.html) .",
+            "source": "KB-COVID",
+            "questions": [
+                "Can the COVID-19 virus spread through pools and hot tubs?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 316,
+            "answer": "**What does social distancing mean?**\n\nSocial distancing means maintaining distance (approximately 6 feet or 2 meters) from others you do not live with. This includes when outside for a walk or exercise. Limit your trips outside of the home to grocery and drug stores.\n\nCoronavirus spreads easily from person to person. It travels through the air when a sick person coughs, sneezes or talks. One way to contain the spread of COVID-19 is to stop people from sharing it. Without a vaccine or treatment, we can help contain the virus by:\n\n* If you are sick, please stay home to protect others.\n\n* Staying home as much as possible, leaving only for essential reasons, such as personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others.\n\n* Continuing to go outside, take walks, go to the grocery store and pharmacies while practicing “social distancing” and proper hygiene.  \n\n* Limit contact with family members and friends who are sick. This includes anyone who has symptoms of a cold, flu or contagious stomach illnesses. \n\n* Adults and children should wash hands any time you go inside, before you eat, and before you spend time with people who are more vulnerable to effects of COVID-19.  \n\n ",
+            "source": "KB-COVID",
+            "questions": [
+                "What does social distancing mean?",
+                "within feet from me"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 317,
+            "answer": "**How does a health care provider collect samples for COVID-19 testing?**\n\n While wearing personal protective equipment like gloves and a mask, the provider collects samples (specimens) from the patient in one of three ways:\n\n* The patient coughs up saliva and mucus into a collection cup or dry container.\n\n* The provider collects a nasal swab. This is when a dry swab is inserted through one nostril and rubs the area to collect specimens.\n\n* The provider collects an oral swab. This is when a dry swab is inserted into the patient’s mouth and is rubbed against the tonsil and throat area.",
+            "source": "Editorial",
+            "questions": [
+                "How does a health care provider collect samples for COVID-19 testing?",
+                "What is the process of getting tested like?\n",
+                "How does a doctor test me for Covid-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 318,
+            "answer": "**Which Urgent Care centers can collect samples for testing?**\n\nWhether you need to be tested is determined by your health care provider. Not everyone needs to be tested. For people who have been referred by their health care provider to visit an urgent care center for testing, this is only **hospital-based** urgent care centers. Your provider will give you more instructions.",
+            "source": "Editorial",
+            "questions": [
+                "Which Urgent Care centers can collect samples for testing?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 319,
+            "answer": "**Can you tell me more information about a patient with COVID-19?**\n\nIn order to protect patient privacy, we can’t provide details about specific cases. We are focusing our efforts on tracing any close contact patients may have had with others. We will keep the public informed as we are able, including any known risk to the public.",
+            "source": "Editorial",
+            "questions": [
+                "Can you tell me more information about a patient with COVID-19?",
+                "where the persons who have Covid19 have been"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 329,
+                        "displayText": "Why is Vermont reporting in this way?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 320,
+            "answer": "**What should dentists know about COVID019?**\n\nHere is guidance specific to COVID-19: https://www.ada.org/en/publications/ada-news/2020-archive/february/ada-releases-coronavirus-handout-for-dentists-based-on-cdc-guidelines  You can also look to the COVID-19 webpage on our website, at www.healthvermont.gov/covid19, where up-to-date guidance on these issues can be found, including status for travelers.",
+            "source": "Editorial",
+            "questions": [
+                "What should dentists know about COVID019?",
+                "What should dentists do?",
+                "I'm a dentist, what should I do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 321,
+            "answer": "**Can the Health Department provide documentation that I can go to work?**\n\nNo, the Health Department does not have a role in “clearing” people who have been ill or traveled for return to work.",
+            "source": "Editorial",
+            "questions": [
+                "Can the Health Department provide documentation that I can go to work?",
+                "Can you certify that I can go to work?",
+                "Can the Health Department certify that I can work?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 322,
+            "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, everyone should stay at home, leaving only for essential reasons critical to health and safety.  If you must leave your home for an essential reason, practice social distancing (keeping at least 6 feet away from others). While older people and those with underlying health conditions are at greatest risk, young people are not immune to getting sick. Even people who show only mild symptoms may pass the virus to others — particularly in the early course of the infection, before they even realize they are sick. Staying at home and social distancing protects everyone and helps slow the spread of this virus.",
+            "source": "Editorial",
+            "questions": [
+                "I’m young. Can I continue to socialize?",
+                "I'm young. Is it safe for me to go out?",
+                "I'm not old. Can I continue to socialize?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 323,
+            "answer": "**How should we practice social distancing with children?**\n\nWhile Vermont schools are closed, it’s important for our whole community to re-think how we maintain social connections while also slowing the spread of disease. \n\nMost people who get sick from COVID-19 – including children – will experience mild symptoms and recover, but staying at home, and practicing social distancing when you must go out, will help us limit the virus’ spread to our vulnerable populations. \n\nSocial distancing means keeping about 6 feet away from others and avoiding places where you may be close to other people. \n\nDuring the school closure, the Vermont Department of Health recommends: \n\n* If your child is sick, keep your child home \n\n* Avoid group playdates or parties indoors \n\n* Avoid crowded activities \n\n* Bring hand sanitizer with you to the playground and clean shared sports equipment regularly \n\nSpend time outdoors as a family or consider individual outdoor activities like biking or hiking, as it’s easier to keep a good distance from each other. Take advantage of technology to play games or keep in touch with friends. Some of these changes will be difficult, but we can all do our part to slow down this pandemic.",
+            "source": "Editorial",
+            "questions": [
+                "How should we practice social distancing with children?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 324,
+            "answer": "**How can community helpers and volunteers keep from getting sick with COVID-19?**\n\nMaking sure neighbors have what they need is crucial, but make sure helpers and volunteers are still taking precautions to protect our most vulnerable Vermonters.\n\nThe Vermont Department of Health recommends any volunteers bringing items to those who need to stay home:\n\n* Keep a distance of six feet away. \n\n* Avoid entering the person’s home. \n\n* Wash your hands regularly, avoid touching your face and cover your cough or sneeze with a tissue, then throw the tissue in the trash. \n\n* If you feel sick or learn that you have had contact with someone who is sick, stop doing community support work immediately. \n\n* Keep a list of anyone you come into close contact with in case contact tracing is required. \n\n* Wear clean gloves when handling items that may be given to people with a weaker immune system, and when you are close to someone who may be sick. \n\nCommon sense practices can go a long way while Vermonters take care of each other.",
+            "source": "Editorial",
+            "questions": [
+                "How can community workers practice social distancing?",
+                "I work in the community, how can I practice social distancing?",
+                "How can community helpers and volunteers keep from getting sick with COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 325,
+            "answer": "**How can I prepare at home?**\n\n**\n\n* **Plan ways to care for those in your home who might be at greater risk for serious complications,** like older adults and persons who have underlying chronic (long-lasting) medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need. \n\n* **Choose a room in your home that can be used to separate sick household members from those who are healthy.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n\n* **Make sure you have enough groceries and other supplies for 14 days in case you get sick and need to quarantine.** Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n\n* **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially those with who are older, have chronic (long-lasting) medical conditions or who live alone.\n\n* **Take care of the emotional health of your household members.** Outbreaks can be stressful for adults and children. Talk with your children about the outbreak, try to stay calm, and reassure them that they are safe.",
+            "source": "Editorial",
+            "questions": [
+                "How can I prepare at home?",
+                "How should I prepare?",
+                "What should I be doing to prepare?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 326,
+            "answer": "**What is Vermont doing?**\n\nThe Health Department activated its Health Operations Center in early February to work on this response.\n\n* On April 2, Governor Scott announced new steps in the State’s plan to prepare for a surge in COVID-19 cases. The State has coordinated with communities and hospitals statewide, including Dartmouth-Hitchcock Medical Center in New Hampshire, and the Vermont National Guard to increase capacity in the event of a surge of COVID-19 patients who require medical care. These sites will be operated in close coordination with health care providers and will only be used if hospitals exceed their capacity. For details, please see the press release https://governor.vermont.gov/press-release/governor-phil-scott-announces-additional-medical-surge-locations  \n\n \n\n* On Monday, March 30, as an addendum to his emergency declaration, Gov. Scott directed residents and non-residents coming from outside the state for anything other than an essential purpose to home-quarantine for 14 days and strongly discouraged travel to Vermont by those located in COVID-19 “hot spots.” Gov. Scott is encouraging compliance with newly released CDC guidance around interstate travel from New York, New Jersey and Connecticut, which advised residents of those states to refrain from non-essential domestic travel for 14 days. For details, please review the addendum at [https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf)  \n\n* On March 30, as an addendum to his emergency declaration, Gov. Scott ordered all lodging operations to be suspended. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. For details, please review the addendum at [https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf)\n\n* On March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented on or before Monday, April 13, 2020.\n\n* Effective March 25 at 5:00 p.m., the governor ordered all businesses and not-for-profit entities not expressly exempted in the order to suspend all in-person business operations. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue. The Order provides exemptions for businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security. This includes – but is not limited to – health care operations; retail serving essential human needs, like grocery stores, pharmacies and hardware stores; fuel products and supply; news media; maintenance of critical infrastructure; and transportation and critical manufacturing sectors. For a full list, please review the order at https://governor.vermont.gov/content/addendum-6-executive-order-01-20. \n\n* March 24, Governor Scott directed Vermonters to stay at home, leaving only for essential reasons, critical to health and safety, such as: personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others. If leaving the home, Vermonters should adhere to social distancing policies, including remaining six feet from others (except for those with whom they share a home) and thoroughly and regularly washing hands.\n\n* Effective on Monday, March 23 at 8:00 p.m., Governor Scott directed all businesses and not-for-profit entities in the state to put telecommuting or work-from-home procedures into place, to the maximum extent possible.\n\n* March 21, Governor Scott amended his emergency declaration to further reduce the allowable size of non-essential mass gatherings. Gatherings are now limited to no more than 10 people at the same time in a single space. A \"non-essential mass gathering\" does NOT include normal operations at airports, bus or railway stations people may be in transit.\n\n* March 21, the governor ordered gyms, fitness centers and similar exercise facilities, hair salons and barbers, nail salons, spas and tattoo parlors to close all in-person operations no later than 8:00 p.m. on Monday, March 23.\n\n* The governor also ordered the closure of all bars and restaurants statewide effective Tuesday, March 17 at 2 p.m. until April 6. This may be extended. Establishments can continue to offer food takeout and delivery.\n\n* On March 16, the governor amended his executive order prohibiting all large non-essential mass gatherings to 50 people, or 50% of a building’s occupancy level, whichever is lower.\n\n* On March 15, the governor directed the orderly dismissal of all schools, and cancellation of all school related activities, no later than Wednesday, March 18. This directive, which will be distributed to schools later today, will last through April 6 -- but may very well be extended for a longer period.\n\n* On March 13, the Governor issued an executive order to declare a state of emergency and define prohibitions related to large gatherings and visiting vulnerable settings to support the response and contain community spread.\n\n* On March 11 the state activated its Emergency Operations Center to support the Health Department’s response.\n\n* On February 29, the Governor directed Vermont Emergency Management to form a task force representing all sectors of the state to develop a comprehensive response plan. \n\n* Effective March 25 at 5:00 p.m., the governor orders all businesses and not-for-profit entities not expressly exempted in the order to suspend all in-person business operations. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue. The Order provides exemptions for businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security. This includes – but is not limited to – health care operations; retail serving essential human needs, like grocery stores, pharmacies and hardware stores; fuel products and supply; news media; maintenance of critical infrastructure; and transportation and critical manufacturing sectors. For a full list, please review the order at [https://governor.vermont.gov/content/addendum-6-executive-order-01-20](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).",
+            "source": "Editorial",
+            "questions": [
+                "What is Vermont doing?",
+                "What is the state doing?",
+                "What has Vermont done?",
+                "What will Vermont do?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 327,
+            "answer": "**CDC recommends the following for hand hygiene**: \n\nHousehold members should clean hands [https://www.cdc.gov/handwashing/when-how-handwashing.html](https://www.cdc.gov/handwashing/when-how-handwashing.html) often, including immediately after removing gloves and after contact with someone who is ill, by washing hands with soap and water for 20 seconds. If soap and water are not available and hands are not visibly dirty, an alcohol-based hand sanitizer that contains at least 60% alcohol may be used. However, if hands are visibly dirty, always wash hands with soap and water.\n\n**Hand Sanitizer Recipe** (based on recipe from the World Health Organization: [https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf) )\n\n*   1 cup (250 mL) isopropyl\n     alcohol (91%)\n\n*   1 teaspoon (5 mL) glycerol\n     (or other moisturizer such as aloe vera gel, warm honey or olive oil)\n\n*   2 Tablespoons (33 mL) water\n\nAdd the ingredients in the order listed above to a clean container, mixing with a spoon. If using honey, stir until the honey is completely dissolved. Keep this mixture out of the reach of children. The final concentration of isopropyl alcohol in this mixture is 75%, so keep it away from flames.",
+            "source": "Editorial",
+            "questions": [
+                "Should I use antibacterial soap?",
+                "What does the CDC recommend for hand hygiene?",
+                "How to make hand sanitizer"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 328,
+            "answer": "**Where can I find additional Resources?**\n\n* Visit [CDC’s FAQs](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)\n\n* [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19)\n\n* Call [2-1-1][2-1-1](href=tel:211)\n\n* If your question still isn’t answered, email AHS.VDHPublicCommunication@vermont.gov",
+            "source": "Editorial",
+            "questions": [
+                "Where can I find additional resources?",
+                "what resources are available",
+                "Where can I get more information?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 329,
+            "answer": "**Why is Vermont reporting people who have tested for COVID-19 in the way that it is?**\n\nWith the quickly changing situation, we continue to adjust reporting, looking for the best ways to communicate with the public. \n\nIt is important to remember that as the number of people testing positive increases, we need to assume that we are all at risk, whatever our location. Now is the time when staying at home and social distancing can make an enormous difference. Please continue to look to https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus for guidance.",
+            "source": "Editorial",
+            "questions": [
+                "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 330,
+            "answer": "**What information is available regarding mass gatherings?**\n\nMarch 24, Governor Scott directed Vermonters to stay at home, leaving only for essential reasons, critical to health and safety, such as: personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others. If leaving the home, Vermonters should adhere to social distancing policies, including remaining six feet from others (except for those with whom they share a home) and thoroughly and regularly washing hands.\nGuidance may change based on the evolving situation: check [www.healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)\n\n",
+            "source": "Editorial",
+            "questions": [
+                "What information is available regarding mass gatherings?",
+                "Are churches able to gather if they have 10 or less people attending",
+                "Should Churches still have services if they are small?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 331,
+            "answer": "**What information is available regarding bars and restaurants?**\n\nOn March 16, the governor ordered the closure of all bars and restaurants statewide effective Tuesday, March 17 at 2 p.m. until April 6. This may be extended.\n\n Establishments can continue to offer food take out and delivery.",
+            "source": "Editorial",
+            "questions": [
+                "What information is available regarding bars and restaurants?",
+                "when will we be allowed to dine in restaurants in Vermont again?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 332,
+            "answer": "**Can I get the virus from food?**\n\nCOVID-19 is thought to spread mainly through close contact from person-to-person in respiratory droplets from someone who is infected. People who are infected often have symptoms of illness. Some people without symptoms may be able to spread virus.\n\nCurrently there is **no evidence to show that COVID-19 is spread through food or food packaging.** There is likely very low risk of getting sick from food products or packaging that are shipped over a period of days or weeks at room temperature, refrigerated or frozen.\n\nUnlike foodborne gastrointestinal (GI) viruses that often make people ill through contaminated food, COVID-19 is a virus that causes respiratory illness. Foodborne exposure to this virus is not known to be a way to get COVID-19. \n\nIt is important to always follow general food safety guidelines:\n\n* Wash your hands with soap and water for 20 seconds before preparing or eating food \n\n* Throughout the day, wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nTo help prevent spread of the virus, the CDC recommends people practice frequent “hand hygiene,” which is either washing hands with soap or water or using an alcohol-based hand rub. The CDC also recommends routine cleaning of frequently touched surfaces.\n\nYou should always handle and prepare food safely, including keeping raw meat separate from other foods, refrigerating fresh foods (perishable), and cooking meat to the right temperature to kill harmful germs. \n\nFor more information on food safety, visit https://www.cdc.gov/foodsafety/.",
+            "source": "Editorial",
+            "questions": [
+                "Can I get the virus from food?",
+                "can i get covid from takeout?",
+                "If i pick up food from a restaurant, can I get coronavirus?",
+                "Should I clean groceries?",
+                "Safe way to get food",
+                "Covid-19 and Food",
+                "Covid19 and food",
+                "How long can the virus live on food?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 335,
+                        "displayText": "Is it safe to go grocery shopping?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 274,
+                        "displayText": "How does COVID-19 spread?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 333,
+            "answer": "**Can I get the virus from touching my mail or paper products?**\n\nAccording to the U.S. Postal Service, CDC, World Health Organization, and the U.S. Surgeon General, there is currently no evidence that COVID-19 is being spread through the mail or paper products. \n\nCOVID-19 is thought to spread mainly through close contact from person-to-person in respiratory droplets from someone who is infected. People who are infected often have symptoms of illness. Some people without symptoms may be able to spread virus.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nTo help prevent spread of the virus, the CDC recommends people practice frequent “hand hygiene,” which is either washing hands with soap or water or using an alcohol-based hand rub. The CDC also recommends routine cleaning of frequently touched surfaces.",
+            "source": "Editorial",
+            "questions": [
+                "Can I get the virus from touching my mail or paper products?",
+                "Is the mail that I take out of my box at the post office safe from the virus?",
+                "How likely is it that my mail will have Covid-19 on it?",
+                "How long can COVID-19 remain viable on paper?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 311,
+                        "displayText": "How long can the virus live on surfaces?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 334,
+            "answer": "**What should I do if I’m being monitored by the Health Department and then become sick?**\n\n* If you have developed symptoms of COVID-19 (fever, cough, shortness of breath) **AND**\n\n* Have returned from **China** or **Iran**, or are a **close contact** of a person who tested positive for COVID-19, you should: \n\t 1. Call your health care provider and \n\t 2. Call the Vermont Department of Health at 802-863-7240. \n\nIf you are being monitored because you have returned from an affected area other than China or Iran, or by cruise ship, you should call your health care provider if you become sick. It is not necessary to call the Health Department to report symptoms.",
+            "source": "Editorial",
+            "questions": [
+                "What should I do if I’m being monitored by the Health Department and then become sick?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 335,
+            "answer": "**Is it safe to go grocery shopping?**\n\nCurrently there is no evidence to show that COVID-19 is spread through food or food packaging. However, there is concern about the ability to keep physical distance from other shoppers and to reduce your risk of getting sick while getting groceries.\n\nThe Vermont Retail & Grocers Association has a regularly updated list of what retailers and grocers throughout the state are doing to combat the COVID-19 pandemic. These services range from limited delivery, to curbside pickup and designated shopping hours for vulnerable populations. [Grocery Services](https://vtrga.org/news/stores-offering-vulnerable-hours-and-additional-services-in-response-to-covid-19?fbclid=IwAR0-PH9So7LqFUUvRH3IkKQBKEM9ZQJCceOePC-slTwDBTq4h0sttwR1ycw)\n\nAnyone who is sick or thinks they might be sick should stay home. Ask a family member, friend or neighbor to help you get your groceries, or see about having food delivered.\n\nWhen you leave the store, you should wash your hands or use hand sanitizer.",
+            "source": "Editorial",
+            "questions": [
+                "Is it safe to go grocery shopping?",
+                "can i bring groceries into the house? "
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 274,
+                        "displayText": "How does COVID-19 spread?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 332,
+                        "displayText": "Can I get the virus from food?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my Question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 336,
+            "answer": "**Do homemade face masks work?**\n\n Wearing a homemade face mask or covering can offer some protection to others. This is because people may be infected with COVID-19 and not show symptoms for up to two days (48 hours). The face mask can contain respiratory droplets and prevent them from spreading to others. \n\nWhile health care workers may be able to use homemade masks as a last resort, medical-grade masks are considered personal protective equipment. These should be reserved for health care workers. ",
+            "source": "Editorial",
+            "questions": [
+                "Do homemade face masks work?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 274,
+                        "displayText": "How does Covid-19 spread?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 277,
+                        "displayText": "Should I wear a face mask when I go out in public?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 337,
+            "answer": "**Do I need to get my pet tested for COVID-19?**\n\nNo. At this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.",
+            "source": "Editorial",
+            "questions": [
+                "Do I need to get my pet tested for COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 274,
+                        "displayText": "How is COVID-19 spread?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 338,
+            "answer": "**Can animals carry the virus that causes COVID-19 on their skin or fur?**\n\nAt this time, there is no evidence that the virus that causes COVID-19 can spread to people from the skin or fur of pets.",
+            "source": "Editorial",
+            "questions": [
+                "Can animals carry the virus that causes COVID-19 on their skin or fur?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 274,
+                        "displayText": "How does COVID-19 spread?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 339,
+            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, in the United States might be a source of COVID-19.",
+            "source": "Editorial",
+            "questions": [
+                "Are pets from a shelter safe to adopt?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 340,
+            "answer": "**When can I stop self-isolating?**\n\n People with COVID-19 who have stayed home (home isolated) can stop home isolation under the following conditions:\n\nIf you will not have a test to determine if you are still contagious, you can leave home after these three things have happened:\n\n* You have had no fever for at least 72 hours (that is three full days of no fever without the use medicine that reduces fevers) AND\n\n* other symptoms have improved (for example, when your cough or shortness of breath have improved) AND\n\n* at least 7 days have passed since your symptoms first appeared\n\n If you will be tested to determine if you are still contagious, you can leave home after these three things have happened:\n\n* You no longer have a fever (without the use medicine that reduces fevers) AND\n\n* other symptoms have improved (for example, when your cough or shortness of breath have improved) AND\n\n* you received two negative tests in a row, 24 hours apart. Your doctor will follow CDC guidelines.In all cases, follow the guidance of your healthcare provider and the Health Department. The decision to stop home isolation should be made in consultation with your healthcare provider and state and Health Department.",
+            "source": "Editorial",
+            "questions": [
+                "When can I stop self-isolating?",
+                "How long after being ill with Covid-19 does someone need to stay quarantined?",
+                "Once someone has had symptoms and has apparently recovered, how long will that person be contagious?",
+                "If I’ve been exposed, how long do I quarantine",
+                "How long do I Isolate?",
+                "How long do I quarantine?",
+                "when is it safe to go back out for essentials ",
+                "How do you know if they are over it?",
+                "When can someone who has had Covid-19 return to work?",
+                "Return to work after COVID-19"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 341,
+            "answer": "**Can people who recover from COVID-19 be infected again?**The immune response to COVID-19 is not yet understood. Patients with another type of coronavirus, MERS-CoV (also known as MERS) are unlikely to be re-infected shortly after they recover, but it is not yet known whether this is true for people sick from COVID-19.",
+            "source": "Editorial",
+            "questions": [
+                "Can people who recover from COVID-19 be infected again?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 342,
+            "answer": "**I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?**\n\nEmployees with COVID-19 related concerns in the workplace can contact the Vermont Occupational Safety and Health Administration (VOSHA). Employees can submit a safety complaint form on VOSHA’s website [labor.vermont.gov/form/safety-complaint-form](https://labor.vermont.gov/form/safety-complaint-form), or call toll free at 1-800-287-2765",
+            "source": "Editorial",
+            "questions": [
+                "How can I share a safety complaint about my workplace related to COVID-19?",
+                "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?",
+                "I don’t feel my employer is abiding by the stay at home order properly.",
+                "can my work place make me",
+                "I don't feel safe at work",
+                "My work won't close down",
+                "My work isn't taking proper precautions",
+                "What do I do if someone is working  who is not essential?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 343,
+            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nTaking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger.\n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nThe Health Department website now has information for coping with COVID-19 stress, including resources for local help, self-care, and domestic violence. [www.healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)\n\nVisit the CDC website for more tips for coping with stress, including how to help children cope with stress [cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html)\n\nNeed support right now?\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the National Suicide Prevention Lifeline [suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/) or call 1-800-273-8255",
+            "source": "Editorial",
+            "questions": [
+                "How can I take care of myself, my family, or friends with the stress from COVID-19?",
+                "I'm feeling depressed",
+                "I'm feeling suicidal"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 344,
+            "answer": "**What should health care workers do?**\n\nThe Health Department now has a dedicated webpage for health care workers - healthvermont.gov/covid19-providers. It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n* Give the patient a surgical mask.\n\n* Notify facility infection control personnel immediately.\n\n* Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n\n* Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room",
+            "source": "Editorial",
+            "questions": [
+                "What should health care workers do?",
+                "What should assisted living workers do?",
+                "Should assisted living workers have PPE?",
+                "Should assisted living workers have masks?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 359,
+                        "displayText": "Can I volunteer to help with the response?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 345,
+            "answer": "**How can I stay connected while social distancing (being physically distant)?**\n\nDuring this time of uncertainty, many Vermonters are feeling understandably angry, worried, and scared. Staying away from friends and family can make the feeling of isolation worse. We encourage all Vermonters to keep connections with family, friends, and your community in new ways. Use technology to communicate, enjoy the outdoors, take time to learn a new skill, follow up on long overdue projects, or volunteer to support those who may be in need. It is important to get outside for fresh air and exercise. Spend time outdoors as a family or consider individual outdoor activities like biking or hiking, as it’s easier to keep a good distance from each other.\n\nThis is a big transition in how we all live our daily lives – we’re all working together to adjust and change the way we express kindness and affection to others. Knowing this – all being in this together – goes into all the difficult decisions the State is making.",
+            "source": "Editorial",
+            "questions": [
+                "How can I stay connected while social distancing?",
+                "How can I stay connected while being physically distant?",
+                "can i go outside"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 369,
+                        "displayText": "What does the “Stay Home, Stay Safe” Order mean?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 346,
+            "answer": "**Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of this executive order will be handled primarily through education and voluntary compliance. The executive order does not close roads, nor does it establish roadblocks or checkpoints. Motor vehicle and pedestrian traffic will continue as Vermonters engage in permissible activities outdoors and travel to and from businesses (including grocery stores and pharmacies) and other entities that are continuing to operate as the order allows. The executive order does not establish cause to initiate a motor vehicle stop or detain people for questioning about their travel, but law enforcement officers may be reminding people of the order’s provisions if they see groups congregating or businesses operating in violation of the order.\n\nFor more on what the governor's stay home/stay safe order means to Vermonters, visit [https://vem.vermont.gov/StayHome](https://vem.vermont.gov/StayHome)",
+            "source": "Editorial",
+            "questions": [
+                "Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 347,
+            "answer": "**Can I use my reusable grocery bags?**\n\nYes, people can continue to use reusable grocery bags. However, some stores are choosing to no longer allow reusable bags and containers at this time. Check with your local store for their current policies.  \n\nCurrent evidence suggests that novel coronavirus may live for hours to days on surfaces made from a variety of materials. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads. It is important to remember to wash your hands before you eat and avoid touching your face. Washing or wiping down your reusable bags with a disinfectant continues to be a best practice for preventing bacterial illnesses, such as E.coli, from meat and unwashed fruits and vegetables.\n\n",
+            "source": "Editorial",
+            "questions": [
+                "Can I use my reusable grocery bags?",
+                "shopping bags",
+                "shopping totes"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 348,
+            "answer": "**Is there a medicine I can take to prevent or treat COVID-19?**\n\nAs reports appear in the news of certain drugs being potentially used for treatment or prevention of COVID-19, the Vermont Department of Health strongly urges caution.\n\nThough the anti-malarial drugs chloroquine and hydroxychloroquine, among others, have been widely discussed as potential treatments, the Centers for Disease Control and Prevention has said there are no data currently available from randomized clinical trials that would inform how these drugs could be used to treat COVID-19.\n\nIn fact, there are significant potential risks to taking such drugs, including death.\n\nHealth officials remind Vermonters that most people who get COVID-19 can manage their symptoms at home with rest, drinking fluids and taking fever-reducing medication. Talk to your health care provider before taking any substance alleged to prevent or treat COVID-19.\n\nProviders should only prescribe these drugs for individuals with diagnosed conditions, and not for prevention, to help maintain the supply for Vermonters who need them.",
+            "source": "Editorial",
+            "questions": [
+                "Is there a medicine I can take to prevent or treat COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 349,
+            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nThe Vermont Department of Health has launched VTHelplink, a new, single source clearinghouse for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients. \n\nAt the [https://vthelplink.org/](https://vthelplink.org/) website, in addition to information resources, an online screening tool is available that Vermonters can use to learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (e.g., residential treatment) and population (e.g., people who are pregnant). \n\n**Here’s how you can reach VTHelplink:** \n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year. \n\nVisit [https://vthelplink.org/](https://vthelplink.org/)",
+            "source": "Editorial",
+            "questions": [
+                "Where do people living with a substance use disorder go for information on treatment and recovery services?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 350,
+            "answer": "**Why is Vermont not reporting how many people have recovered from COVID-19 in Vermont?**\n\nCurrently, that data is not available at this time. We are looking for ways to share the data available to help everyone understand how the illness affects Vermonters.",
+            "source": "Editorial",
+            "questions": [
+                "Why is Vermont not reporting how many people have recovered from COVID-19 in Vermont?",
+                "How many people have recovered from COVID-19 in Vermont?",
+                "Of the people who have completed monitoring how many have recovered?",
+                "how many subjects have recovered?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 351,
+            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is information about COVID-19 available in several languages on this website [https://www.newamericansinvermont.com](https://www.newamericansinvermont.com).\n\nFind more videos and links to other translated information on the Health Department’s website, [www.healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) under “Translated Materials.”",
+            "source": "Editorial",
+            "questions": [
+                "Are there any translated materials about COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 352,
+            "answer": "**Where can I go to get tested?**\n\nThe Vermont Department of Health announced expanded testing of Vermonters with COVID-19 symptoms. There are several testing sites and drive-through locations across the state and more may be added as the situations evolves. \n\n**Before you can be tested** you must have a referral from your health care provider. People who arrive at a testing site without a referral from their health care provider will not be tested.\n\n**If you are sick** or concerned about your health, contact your health care provider by phone. Do not call the Health Department, and do not go to the hospital, except in a life-threatening situation.",
+            "source": "Editorial",
+            "questions": [
+                "Where can I go to get a sample collected for testing?",
+                "Where can I go to get tested?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 353,
+            "answer": "**Does smoking or vaping increase the risk of getting seriously ill from COVID-19?**\n\nThere is growing evidence that e-cigarette use or vaping can harm lung health. The coronavirus attacks the lungs, making it harder for people who smoke or vape – tobacco, cannabis or anything else – to fight off the virus, putting them at much greater risk of severe illness, even death.  \n\n802Quits is the Vermont tobacco quit resource. You can get help to quit by phone or online. \n\nBy phone, call **1-800-QUIT-NOW** for 1:1 coaching, available 24/7, with email and text support. \n\nOnline: [802Quits.org](https://802quits.org/) \n\nBy quitting, you’ll also protect people in your household by reducing their exposure to secondhand smoke and aerosol as you spend more time at home right now.",
+            "source": "Editorial",
+            "questions": [
+                "Does smoking or vaping increase the risk of getting seriously ill from COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 355,
+            "answer": "**Are there any travel restrictions into Vermont?**\n\nAs of March 30, 2020, the governor has directed Vermont residents and non-residents alike coming from outside the State for non-essential purposes to self-monitor and stay home for a period of 14 days. This includes the recommendation of the federal government that those who have passed through or left New York City should self-monitor and stay home for a period of 14 days. \n\nWhile in quarantine, residents and non-residents may need to rely on neighbors, friends or family living outside of the household to deliver groceries to their home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required. \n\nPermitted “essential purpose” travel includes travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security.\n\nVisitors are instructed not to travel to Vermont if they are displaying symptoms or if they are travelling from cities and regions identified as COVID-19 “hot spots,” including, among others, the states of Florida and Louisiana and the cities of Detroit, Chicago and New York City. \n\nIn addition, residents of New York, New Jersey and Connecticut should stay in their home states in strict compliance with CDC travel guidance issued Saturday, March 28, 2020. This is essential if you will be in close contact with people who are older adults or have a severe chronic health condition. \n\nFor more information, visit https://governor.vermont.gov/content/addendum-7-executive-order-01-20",
+            "source": "Editorial",
+            "questions": [
+                "Are there any travel restrictions into Vermont?",
+                "What if I work in a different state?",
+                "Travel",
+                "Coming From New York",
+                "return home from Florida",
+                "Drive from Florida",
+                "If I traveled from Florida yesterday, do I have to self-quarantine?",
+                "Appointment in Vermont, I live in New York can I keep it?",
+                "May I enter Vermont from Massachusetts?",
+                "Penalty for traveling"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 306,
+                        "displayText": "Is it okay to travel within the United States?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 377,
+                        "displayText": "Information on travel to neighboring states."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 356,
+            "answer": "**Are hotels, motels and other lodging facilities closed?**\n\nYes. As of March 30, 2020, Governor Scott has ordered all lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – to be closed, unless they are helping with the State’s COVID-19 response. Online lodging reservations are also suspended.",
+            "source": "Editorial",
+            "questions": [
+                "Are hotels, motels and other lodging facilities closed?",
+                "Are by campgrounds going to open for 2020 season",
+                "Hotel",
+                "Can I stay in an airbnb?",
+                "Am I allowed to stay in an airbnb?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 357,
+            "answer": "**How many people have tested positive for COVID-19 are in my town or county?**\n\nYou can now find the number of people who have tested positive for COVID-19 by county on [healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) under “COVID-19 Activity Map and Chart.” This map is updated daily.",
+            "source": "Editorial",
+            "questions": [
+                "How many people have tested positive for COVID-19 are in my town or county?",
+                "How many active cases are there in Vermont?",
+                "are there any cases in west dover?",
+                "Is there a breakdown of cases per county?",
+                "virus cases in my town, VT",
+                "virus cases in my town",
+                "my town",
+                "how many cases in my town?",
+                "Is there a county registry for COVID-19 cases",
+                "Is there a town registry for COVID-19 cases?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 358,
+            "answer": "**What is isolation, quarantine and self-observation?**\n\nIsolation is for people who are sick with COVID-19. \n\nQuarantine is for people with no symptoms and who were in close contact with someone sick with COVID-19 or are returning to Vermont from out of the state for anything other than an essential purpose.\n\nSelf-observations is for other Vermonters who don’t have symptoms of COVID-19\n\nFor more information, see the “What is isolation, quarantine and self-observation” chart at [healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)",
+            "source": "Editorial",
+            "questions": [
+                "What is isolation, quarantine and self-observation?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 359,
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\n**People with medical or other health care backgrounds** are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the Vermont Medical Reserve Corp at https://www.vermont.gov/volunteer if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Individuals who are licensed in other states or who were previously licensed can visit the Health Department website and review the guide on emergency licensure at https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19. \n\nOther individuals who have needed skills (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at https://www.vermont.gov/volunteer and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\nGive blood: Visit the American Red Cross to learn how to safely donate blood: https://www.redcross.org/local/new-hampshire-vermont.html. \n\nSupport your local Food Bank. Donate online at https://www.vtfoodbank.org/ or you can text GIVEHEALTH to 85511. If you're in need of help, please visit https://www.vtfoodbank.org/coronavirus-services-for-individuals   \n\nYou can also help your neighbors – older adults and at-risk people should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the guidelines on being a good neighbor at: https://vem.vermont.gov/neighborly.",
+            "source": "Editorial",
+            "questions": [
+                "Can I volunteer to help with the State’s response to COVID-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 360,
+                        "displayText": "Is volunteering allowed?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 360,
+            "answer": "**Is volunteering allowed under the Stay Home, Stay Safe Order?**\n\nYes, provided it is with an agency that is deemed necessary for public health and safety. The best way to volunteer is virtually, but if you want to help by packing donated food or something out in the community, you can only do so if the non-profit is eligible to be open, and can provide a safe workspace with enough social distancing between volunteers (at least 6 feet).",
+            "source": "Editorial",
+            "questions": [
+                "Is volunteering allowed under the Stay Home, Stay Safe Order?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 361,
+            "answer": "**I understand the state is running short on personal protective equipment (PPE), I have some that is unused, can I donate it?**\n\nYes, individuals can donate unused, unopened N95, medical or surgical masks by simply dropping them off at your nearest Vermont State Police Barracks. For locations, visit [https://vsp.vermont.gov/stations](https://vsp.vermont.gov/stations).",
+            "source": "Editorial",
+            "questions": [
+                "I understand the state is running short on personal protective equipment (PPE), I have some that is unused, can I donate it?",
+                "Where can PPE be donated?",
+                "Where can masks be donated?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 362,
+            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging operations to be suspended. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the Vermont State Police Guidance on enforcement at [vsp.vermont.gov/covid19/stayhome_enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
+            "source": "Editorial",
+            "questions": [
+                "What do owners of lodging facilities need to do?",
+                "still make reservations"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 363,
+            "answer": "**There are renters in local Airbnbs, is that allowed?**\n\nThe order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder this order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. See the Vermont State Police Guidance on enforcement [https://vsp.vermont.gov/covid19/stayhome_enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement)",
+            "source": "Editorial",
+            "questions": [
+                "There are renters in local Airbnbs, is that allowed?",
+                "Airbnbs not not being compliant with order"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 364,
+            "answer": "**Are out-of-state visitors allowed to be in Vermont?**\n\nThere is currently no ban on non-residents entering the state of Vermont. However, there are directives to limit and discourage travel, as lodging facilities – including vacation rentals, hotels, inns, Airbnbs, etc. – have been ordered closed except for those needed for COVID-19 response. The State has suspended Amtrak service and the Vermont Association of Snow Travelers (VAST) has closed its trail network for the season.\n\nAll visitors need to follow all of the governor’s orders, which includes staying at home or in their place of residence and leaving only for essential reasons such as: personal safety; groceries or medicine; curbside pick-up of goods, meals or beverages; medical care; exercise; care of others; and work.",
+            "source": "Editorial",
+            "questions": [
+                "Are out-of-state visitors allowed to be in Vermont?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 365,
+            "answer": "**How many people who have tested positive for or have symptoms of COVID-19 are in the hospitals?**\n\nYou can now find the number of people who are hospitalized and have tested positive for COVID-19 or are suspected to have COVID-19 at [healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "source": "Editorial",
+            "questions": [
+                "How many people who have tested positive for or have symptoms of COVID-19 are in the hospitals?",
+                "How many people have been hospitalized with Covid-19?",
+                "What percentage of people with Covid-19 are hospitalized?",
+                "How many people are inpatients with Covid-19?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 366,
+            "answer": "**What details can you share about people who have died from COVID-19?**\n\nThe number of deaths from COVID-19 in Vermont can be found in the “COVID-19 Activity in Vermont” section of  [healthvermont.gov/COVID19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus). We do not have details on the county of residence, age and sex for the public at this time. For the number of deaths from COVID-19 in the U.S., visit the CDC page: [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)",
+            "source": "Editorial",
+            "questions": [
+                "What details can you share about people who have died from COVID-19?",
+                "Where are the deaths in Vermont?",
+                "Where can we find information about Covid-19 deaths in Vermont?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 367,
+            "answer": "**What do I do if I work for a job that is considered essential, but my child care program is closed?**\n\nChild care is available for those who have been deemed essential to the COVID-19 response. Workers in critical businesses who are working out of the home and do not have other options are eligible for child care. For more information and to fill out an online form for assistance with options for child care for children up to grade 8, visit: https://vem.vermont.gov/essentialpersons. You can also call [2-1-1](href=tel:211) ext. 6.\n\n",
+            "source": "Editorial",
+            "questions": [
+                "What do I do if I work for a job that is considered essential, but my child care program is closed?",
+                "can I get daycare if I am considered an essential employee?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 371,
+                        "displayText": "What is considered essential?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 368,
+            "answer": "**Can I get unemployment? How do I file an unemployment claim?** Find out about unemployment related to COVID-19 at Department of Labor’s web page for employees:  https://labor.vermont.gov/covid19/employees.\n\nFind answers to frequently asked questions about unemployment insurance on the Agency of Commerce and Community Development’s COVID-19 Resource Recovery Center website: https://accd.vermont.gov/covid-19/business",
+            "source": "Editorial",
+            "questions": [
+                "Can I get unemployment? How do I file an unemployment claim?",
+                "stimulus package unemployment benefits",
+                "self-employed"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 369,
+            "answer": "**What does the “Stay Home, Stay Safe” Order mean for Vermonters?**\n\nVermonters are being asked to stay at home and leave only for essential reasons, such as: personal safety; groceries or medicine; curbside pick-up of goods, meals or beverages; medical care; exercise; care of others; and work. \n\nYou can continue to go outside, take walks, go to the grocery store and pharmacies as long as you practice social distancing by keeping at least 6 feet away from others (except for those you live with) and washing your hands often. If you are sick, please stay home to protect others. \n\nFor more on what the governor's Stay Home, Stay Safe Order means to Vermonters, visit [vem.vermont.gov/StayHome](https://vem.vermont.gov/StayHome)",
+            "source": "Editorial",
+            "questions": [
+                "What does the “Stay Home, Stay Safe” Order mean for Vermonters?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 370,
+            "answer": "**What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?**\n\nBusinesses and non-profits are directed to suspend in-person business operations and must ensure all workers work remotely whenever possible. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.",
+            "source": "Editorial",
+            "questions": [
+                "What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 290,
+                        "displayText": "What should business owners in Vermont do?"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 371,
+            "answer": "**What is considered an essential service or function?**\n\nBusinesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain open and do not need to suspend in-person operation restrictions. However, they are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. For a detailed list of essential and functions in Vermont: [https://governor.vermont.gov/content/addendum-6-executive-order-01-20](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).",
+            "source": "Editorial",
+            "questions": [
+                "What is considered an essential service or function?",
+                "is pet grooming business considered essential",
+                "Are Fire alarm technicians considered essential workers",
+                "are liquor stores closing in the state",
+                "who are essential workers?",
+                "Can I have someone do landscaping work in my yard now?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 372,
+            "answer": "**I have questions about financial assistance and housing.**\n\nThe Agency of Commerce and Community Development has answers to questions regarding financial assistance (for example mortgage, utility bills, internet, and taxes) and housing (for example, paying rent, short-term housing and emergency housing) on its COVID-19 Resource Recovery Center website: https://accd.vermont.gov/covid-19/individuals",
+            "source": "Editorial",
+            "questions": [
+                "I have questions about financial assistance and housing."
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 373,
+            "answer": "Your question is not read by a person, but answered by an automated chat bot. To talk to a real live person: \n\n* call [2-1-1](tel:211) or \n\n* email [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov).gov.\n\n",
+            "source": "ChitChat",
+            "questions": [
+                "Am I talking to a person?",
+                "Are you a person?",
+                "Are you a robot?",
+                "Is this a robot?",
+                "Can I talk to a person?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 374,
+            "answer": "Hello, please ask a question to find out information about Covid-19 in Vermont.",
+            "source": "ChitChat",
+            "questions": [
+                "Hello",
+                "Hey there",
+                "Greetings",
+                "Well hello",
+                "Yo",
+                "Hi",
+                "Hi there!",
+                "Hiya",
+                "Hi-ya",
+                "Howdy",
+                "Oh hello",
+                "Evening",
+                "Good evening"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 375,
+            "answer": "**I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?**\n\nWe encourage parents to follow State and CDC guidelines for travel and social distancing. Be sure to consider the health of each household, including current symptoms and chronic disease in anyone in the homes before moving a child between them.\n\nIf one of the parents has concerns and does not want to move children between households, we encourage parents to consult with their child’s pediatrician to discuss any possible health risks to the child.",
+            "source": "Editorial",
+            "questions": [
+                "I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?",
+                "I have split custody and I need to get my child from New York."
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 377,
+                        "displayText": "Court-ordered parental visitation information."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 376,
+            "answer": "**Is my job or business considered essential? Can I continue to work?**\n\nIf you have questions about whether your business meets the definition of “critical to public health and safety, as well as economic and national security” as per Governor Scott's Executive Order, please review the Agency of Commerce and Community Development’s Stay Home, Stay Safe FAQs for Businesses https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs and the Sector Specific Guidance at https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance.",
+            "source": "Editorial",
+            "questions": [
+                "Is my job or business considered essential? Can I continue to work?",
+                "Are stores essential?",
+                "Is my job essential?",
+                "Are factories considered essential?",
+                "Can I keep working?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 371,
+                        "displayText": "What is considered an essential service?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 342,
+                        "displayText": "How can I share a safety complaint?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 377,
+            "answer": "**Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you are in an essential industry in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel. However, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, just as you would if the contact occurred in the Vermont.",
+            "source": "Editorial",
+            "questions": [
+                "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?",
+                "Can I travel to NH for work?",
+                "I work in New Hampshire and live in Vermont"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 375,
+                        "displayText": "Split custody information."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 316,
+                        "displayText": "What does social distancing mean?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 376,
+                        "displayText": "Is my job or business considered essential? "
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 378,
+            "answer": "**Can I still do outdoor activities with the Stay Home, Stay Safe order?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise and taking in Vermont’s natural beauty is important for our mind and bodies. We can safely continue to enjoy the outdoors with these measures:\n\n* **Stay close to home.** Find areas close you can walk or bike to. If you must drive, please limit the distance from home to ten miles, and only drive with members of your household.\n\n* **Practice social distancing while outside.** You lower your risk when you stay at least 6 ft apart from others. This includes having your dog on a leash and close to you.\n\n* **Be cautious and choosing low-risk activities to avoid injury.** This will help lower the burden on the our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check https://www.trailfinder.info/ to see if your trail is currently open before you visit. \n\nFor more information, visit the Vermont Department of Forests, Parks and Recreation at https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19",
+            "source": "Editorial",
+            "questions": [
+                "Can I still do outdoor activities with the Stay Home, Stay Safe order?"
+            ],
+            "metadata": [],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 379,
+            "answer": "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end? \n\nThe current models project the “peak” of cases between mid-to-late April and early May. The sacrifices Vermonters are making by staying at home are working, and the following weeks will be critical to saving lives. We must keep going so we do not lose the progress we have made. At this time, we do not know how long the Stay Home, Stay Safe order will be in place. ",
+            "source": "Editorial",
+            "questions": [
+                "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 380,
+            "answer": "**What should families do if they are not able to get formula, diapers, or other baby necessities?**\n\nFamilies can call Help Me Grow-VT at 2-1-1 ext. 6 to be directed to services in their area that may be able to assist with formula, diapers, or other necessities. Any infant or child under age 5 that is on Medicaid or Dr. Dynasaur is considered income eligible for WIC (Women, Infants and Children). Food banks and food shelves may be resources for families not eligible for WIC. \n\nVermont WIC is open and most services are being done by phone appointment to align with social distancing efforts. Please visit the WIC website at https://www.healthvermont.gov/family/wic for the most accurate information about the program. Apply for WIC online or text VTWIC to 855-11. To connect with WIC in your area, visit https://www.healthvermont.gov/local.",
+            "source": "Editorial",
+            "questions": [
+                "What should families do if they are not able to get formula, diapers, or other baby necessities?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "assistance"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 270,
+                        "displayText": "This did NOT answer my question.\n"
+                    }
+                ]
+            },
+            "isQAEmbeddingPresent": false
+        }
+    ]
+}
