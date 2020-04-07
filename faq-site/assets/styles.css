@@ -59,6 +59,18 @@ mark {
     background: rgba(255, 247, 94, 0.26);
 }
 
+li.topic {
+    list-style: none;
+}
+
+.topics {
+    padding-left: 0;
+}
+
+.topic h2 {
+    color: #0098d9;
+}
+
 .faqs {
     padding-left: 15px;
     margin-top: 30px;
@@ -72,10 +84,12 @@ mark {
     list-style: disc;
 }
 
+.filtering .topic,
 .filtering .faq {
     display: none;
 }
 
+.filtering .topic.marked,
 .filtering .faq.marked {
     display: block;
 }
@@ -88,7 +102,7 @@ summary.context {
     text-indent: -15px;
 }
 
-summary.context h2 {
+summary.context h3 {
     display: inline;
 }
 

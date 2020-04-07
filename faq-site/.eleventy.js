@@ -8,6 +8,59 @@ module.exports = function(eleventyConfig) {
         "node_modules/mark.js/dist/mark.min.js": "/assets/mark.js"
     });
 
+    eleventyConfig.addCollection("FaqsByTopic", col => {
+        let allFaqs = col.items[0].data.faqs.qnaDocuments
+
+        // get all sorted topics
+        let sortedTopics = col.items[0].data.topics
+
+        // get all new topics
+        let allTopics = allFaqs.map(faq => {
+            let catMetadata = faq.metadata.find(m => m.name === "category")
+            return catMetadata ? catMetadata.value : ""
+        }).filter(cat => cat)
+
+        // deduplicate
+        let allUniqTopics = [...new Set(allTopics)];
+
+        // get new topics
+        let newTopics = allUniqTopics.filter(at => {
+            let faqTopicExists = sortedTopics.some(st => {
+                let nameExists = stringsAlphaEqual(st, at)
+                return nameExists
+            })
+            return !faqTopicExists
+        })
+
+        // merge topics
+        let mergeTopics = sortedTopics.concat(newTopics)
+
+        // remove chitchat
+        let publishTopics = mergeTopics.filter(t => t.toLowerCase() !== "chitchat")
+
+        // map topics array into {topic: name, faqs: []}
+        let topicCollection = publishTopics.map(topic => {
+
+            let faqs = allFaqs.filter(faq => {
+                let catMetadata = faq.metadata.find(m => m.name === "category")
+                let faqMatchesTopic = catMetadata && stringsAlphaEqual(catMetadata.value, topic)
+                return faqMatchesTopic
+            })
+
+            let properName = topic.charAt(0).toUpperCase() + topic.slice(1);
+
+            return {
+                name: properName,
+                faqs: faqs
+            }
+        })
+
+        // make sure faqs exist for topic
+        let publishTopicCollection = topicCollection.filter(t => t.faqs.length)
+
+        return publishTopicCollection;
+    });
+
     // add filters
     eleventyConfig.addFilter("slugify", function(s) {
         // strip special chars
@@ -29,3 +82,8 @@ module.exports = function(eleventyConfig) {
         markdownTemplateEngine: "njk",
     };
 };
+
+
+function stringsAlphaEqual(a, b) {
+    return a.toLowerCase().replace(/[^\w]/g, '') === b.toLowerCase().replace(/[^\w]/g, '')
+}

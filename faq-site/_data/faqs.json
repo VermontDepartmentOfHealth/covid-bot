@@ -7,7 +7,12 @@
             "questions": [
                 "This did NOT answer my question.\n"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "chitchat"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -27,9 +32,16 @@
                 "what symptoms should I look for",
                 "Does a fever mean I have Covid-19?",
                 "Does a sore throat mean I have Covid-19?",
-                "Is diarrhea a sign of the virus?"
+                "Is diarrhea a sign of the virus?",
+                "If temperature elevation last 15 days is this of concern. ",
+                "Also have some diarrhea "
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "symptoms"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -47,8 +59,13 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 308,
+                        "displayText": "What should I do if I think I may have COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 270,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             },
@@ -64,7 +81,12 @@
                 "Is COVID-19 the same as the flu?",
                 "Is COVID-19 worse than the flu?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "covid-19 vs. flu"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -103,7 +125,12 @@
                 "When will a vaccine be available?",
                 "When will there be a vaccine for COVID-19?\n"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccines or medicines to prevent or treat"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -130,7 +157,12 @@
                 "how does Covid-19 move between people?",
                 "Can a person be infected through an open wound?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "transmission (virus spread)"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -154,7 +186,12 @@
                 "Can kids get Covid-19?",
                 "Can kids get it?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "children"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -194,7 +231,12 @@
                 "how to stay safe?",
                 "family member of essential worker, how to stay safe?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "prevention"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -222,7 +264,12 @@
                 "Can face masks keep you from getting sick?",
                 "Has the guidance changed regarding masks?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "face masks"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -244,13 +291,18 @@
         },
         {
             "id": 278,
-            "answer": "**Can pets get sick from COVID-19?**\n\nTo date, CDC has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that pets, including dogs, can spread COVID-19. There is no reason to think that any animals, including pets, in the United States might be a source of infection with this new coronavirus. However, it is important to include pets in your family’s preparedness planning efforts, including having a two-week supply of pet food and pet medicines available. For more information on preparing for your pet, please visit [www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) .",
+            "answer": "**Can pets get sick from COVID-19?**\n\nTo date, CDC has not received any reports of pets becoming sick with COVID-19 in the U.S. At this time, there is no evidence that pets, including dogs, can spread COVID-19 to humans or other animals. \n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. For more information on staying safe and healthy around animals including pets, visit CDC’s [www.cdc.gov/healthypets/index.html](https://www.cdc.gov/healthypets/index.html).\n\nIt is also important to include pets in your family’s preparedness planning efforts, including having a two-week supply of pet food and pet medicines available. For more information on preparing for your pet, please visit [www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html). \n\n",
             "source": "KB-COVID",
             "questions": [
                 "Can pets get sick from COVID-19?",
                 "Can my pet get sick?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -274,7 +326,12 @@
                 "Can I give my pet Covid-19?",
                 "Can I give it to my pet?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -300,7 +357,12 @@
                 "Does the state track people who are infected?",
                 "does the state keep track of potential cases?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "monitoring"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -329,7 +391,12 @@
                 "How does monitoring work?",
                 "What does it mean if someone is being monitored?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "monitoring"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -354,9 +421,16 @@
                 "Who can be tested?",
                 "Can I get tested?",
                 "testing with no referrals",
-                "testing without talking to a doctor"
+                "testing without talking to a doctor",
+                "Why aren't the doctors sending my parents to get tested?",
+                "Why isn't my doctor having me tested for COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -383,7 +457,12 @@
             "questions": [
                 "Is Vermont conducting tests for COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -400,7 +479,7 @@
         },
         {
             "id": 284,
-            "answer": "**How long is the turnaround for testing?**\n\nTest results be available within 1 – 3 days. Test results will be reported by the Health Department to the patient. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website [healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)",
+            "answer": "**How long is the turnaround for testing?**\n\nTest results will be available within 1 – 3 days. Results will be reported to the patient by their health care provider. However, in the event of a positive result, the Health Department will also be reaching out to the patient to convey public health recommendations and collect information on contacts. It’s possible that Health Department notification may occur prior to the provider’s conversation with their patient. Patients awaiting lab results should contact their provider with questions.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website ([www.healthvermont.gov/COVID-19](https://www.healthvermont.gov/COVID-19)).",
             "source": "KB-COVID",
             "questions": [
                 "How long is the turnaround for testing?",
@@ -409,7 +488,12 @@
                 "Why is it taking more than 3-5 days for nurses working in nursing facilities to find out their results?",
                 "Why does it take so long to get test results?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -433,9 +517,16 @@
                 "Testing locations",
                 "Where is testing?",
                 "How can I get tested?",
-                "Where can I get tested?"
+                "Where can I get tested?",
+                "Testing in southern VT",
+                "Testing near me"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -463,7 +554,12 @@
                 "What does a presumptive positive test mean?",
                 "What does it mean if a test is presumptive positive?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -489,7 +585,12 @@
                 "Does insurance cover testing?",
                 "Do I need insurance to be tested?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -514,7 +615,12 @@
                 "Are there enough tests?",
                 "Do we have enough tests?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -536,7 +642,12 @@
             "questions": [
                 "What is the Health Department doing?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "state response"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -570,7 +681,12 @@
                 "Are there any guidelines for small businesses?",
                 " should that business shut down"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - businesses"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -596,7 +712,12 @@
                 "Childcare closures",
                 "special education"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - schools and child cares"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -618,7 +739,12 @@
             "questions": [
                 "What should pregnant or breastfeeding women and children do?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - pregnant women, breastfeeding, and children"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -641,7 +767,12 @@
                 "What should colleges and universities in Vermont do?",
                 "Can I pick up my stuff from college?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - colleges and universities"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -663,7 +794,12 @@
             "questions": [
                 "What should colleges and universities who are planning student foreign travel do?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - colleges and universities – student foreign travel"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -685,7 +821,12 @@
             "questions": [
                 "What should Vermont community-based and faith-based organizations do?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - community-based and faith-based organizations"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -707,7 +848,12 @@
             "questions": [
                 "What should people in long-term care facilities or group homes do?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - long-term care facilities, group homes, senior centers"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -730,9 +876,16 @@
                 "Are there any recommendations for older people and those with chronic medical conditions?",
                 "seniors",
                 "Do underlying conditions put me at higher risk for contracting the virus?",
-                "A person with chronic conditions more susceptible to virus complications?"
+                "A person with chronic conditions more susceptible to virus complications?",
+                " two elderly women",
+                "diabetes"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "special audience - older adults/people with chronic medical conditions"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -764,7 +917,12 @@
             "questions": [
                 "What do I do if I believe I had close contact with someone who has COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "possible exposures"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -791,7 +949,12 @@
             "questions": [
                 "What is the Health Department doing about people who have returned from travel to affected areas?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel - international"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -814,7 +977,12 @@
                 "Should I be tested for COVID-19?",
                 "should I be tested"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "possible exposures"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -841,7 +1009,12 @@
             "questions": [
                 "Should I go to a specific health care professional?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "possible exposures"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -863,7 +1036,12 @@
             "questions": [
                 "I traveled through an international airport. Do I need to notify the Health Department?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "possible exposures"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -892,7 +1070,12 @@
                 "Where are the hot spots for Covid-19",
                 "What are the COVID-19 hot spots?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "national numbers"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -916,7 +1099,12 @@
                 "Canada",
                 "The Canadian Border"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel - international"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -939,7 +1127,12 @@
                 "What should I do if I have traveled internationally or traveled by cruise ship?",
                 "I came back from England, what should I do?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel – international"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -965,7 +1158,12 @@
                 "Can I travel to Boston",
                 "What is essential travel"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel – united states"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -992,7 +1190,12 @@
             "questions": [
                 "Do family members of people who traveled to an affected area need to stay at home?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "family of travelers"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1014,7 +1217,7 @@
         },
         {
             "id": 308,
-            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\nIsolate at home:\n\n* Don’t leave home, except to get medical care. Call ahead before visiting a health care provider or emergency department.\n\n* Most people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\n* As much as possible, stay in a specific room in your home and use a separate bathroom. Stay at least six feet away from others in your home at all times. Don’t share household items.\n\n* Have someone else care for your pets. Although no animals have been reported to get sick with COVID-19, people with the virus should limit contact with animals until more information is known. If you do care for your pet, wash your hands before and after.\n\nDaily cleaning and washing:\n\n* Clean and disinfect surfaces in your separate room and bathroom. Have someone else clean the other areas of your home.\n\n* Thoroughly wash household items, like utensils, after using.\n\n* Wash your hands often with soap and water for at least 20 seconds. Use alcohol-based hand sanitizer if soap and water aren’t available.\n\nIf you are diagnosed with COVID-19, there is additional guidance at healthvermont.gov/COVID19 Frequently Asked Questions section – “If you or a family member are sick.” \n\nFor more information, visit the CDC \"Steps to help prevent the spread of COVID-19 if you are sick.\"\n\nIf you are a close contact of a person who tested positive for COVID-19, you should:\n\n1. Call your health care provider and\n\n2. Call the Vermont Department of Health at 802-863-7240. \n\nIf you are being monitored because you have returned from an international country other than China or Iran, or by cruise ship, you should call your health care provider if you become sick. It is not necessary to call the Health Department to report symptoms.\n\n",
+            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\n\nIsolate at home:\n\n* Don’t leave home, except to get medical care. Call ahead before visiting a health care provider or emergency department.\n\n* Most people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\n* As much as possible, stay in a specific room in your home and use a separate bathroom. Stay at least six feet away from others in your home at all times. Don’t share household items.\n\n* Have someone else care for your pets. Although no animals have been reported to get sick with COVID-19, people with the virus should limit contact with animals until more information is known. If you do care for your pet, wash your hands before and after.\n\nDaily cleaning and washing:\n\n* Clean and disinfect surfaces in your separate room and bathroom. Have someone else clean the other areas of your home.\n\n* Thoroughly wash household items, like utensils, after using.\n\n* Wash your hands often with soap and water for at least 20 seconds. Use alcohol-based hand sanitizer if soap and water aren’t available.\n\nIf you are diagnosed with COVID-19, there is additional guidance at healthvermont.gov/COVID19 Frequently Asked Questions section – “If you or a family member are sick.” \n\nFor more information, visit the CDC \"Steps to help prevent the spread of COVID-19 if you are sick.\"\n\nIf you are a close contact of a person who tested positive for COVID-19, you should:\n\n1. Call your health care provider and\n\n2. Call the Vermont Department of Health at 802-863-7240. \n\nIf you are being monitored because you have returned from an international country other than China or Iran, or by cruise ship, you should call your health care provider if you become sick. It is not necessary to call the Health Department to report symptoms.\n\n",
             "source": "KB-COVID",
             "questions": [
                 "I think I have Covid-19",
@@ -1028,7 +1231,12 @@
                 "What should I do if I feel sick and think I may have COVID-19?",
                 "What do I do if I think I had coronavirus"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "sick people"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1069,7 +1277,12 @@
                 "Lysol",
                 "cleaning the workplace after exposure"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cleaning – types of disinfectants"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1095,7 +1308,12 @@
                 "Who would a person call who has no PCP",
                 "What if I don’t have a health care provider? "
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "finding health care provider"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1121,7 +1339,12 @@
                 "how long will COVID-19 survive on objects?",
                 "can the virus be tracked on surfaces"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "life of covid-19 on surfaces"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1143,7 +1366,12 @@
             "questions": [
                 "What if I’ve had contact with someone who us under monitoring?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "contact with person under monitoring"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1165,7 +1393,12 @@
             "questions": [
                 "Can someone do a presentation about COVID-19 for my group?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "request to visit meeting/group"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1187,7 +1420,12 @@
             "questions": [
                 "What does close contact mean?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "close contact"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1214,7 +1452,12 @@
             "questions": [
                 "Can the COVID-19 virus spread through pools and hot tubs?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "transmission (virus spread)"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1237,7 +1480,12 @@
                 "What does social distancing mean?",
                 "within feet from me"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1261,7 +1509,12 @@
                 "What is the process of getting tested like?\n",
                 "How does a doctor test me for Covid-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1283,7 +1536,12 @@
             "questions": [
                 "Which Urgent Care centers can collect samples for testing?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1306,7 +1564,12 @@
                 "Can you tell me more information about a patient with COVID-19?",
                 "where the persons who have Covid19 have been"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cases"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1328,14 +1591,20 @@
         },
         {
             "id": 320,
-            "answer": "**What should dentists know about COVID019?**\n\nHere is guidance specific to COVID-19: https://www.ada.org/en/publications/ada-news/2020-archive/february/ada-releases-coronavirus-handout-for-dentists-based-on-cdc-guidelines  You can also look to the COVID-19 webpage on our website, at www.healthvermont.gov/covid19, where up-to-date guidance on these issues can be found, including status for travelers.",
+            "answer": "**What should dentists know about COVID019?**On March 20, 2020, Governor Phil Scott ordered dental health care professionals practicing in Vermont to suspend all elective dental care until April 15, 2020 – at which time the situation will be reassessed. This order applies to both children and adult patients. \n\nHealth care professionals must continue to be available to their patients as needed for emergencies and urgent care. \n\nFor more, read the Addendum 3 to Executive Order 01-20 at [governor.vermont.gov/content/addendum-3-executive-order-01-20](https://governor.vermont.gov/content/addendum-3-executive-order-01-20).\n\nTo read the Health Department’s Health Alert, visit [healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf).",
             "source": "Editorial",
             "questions": [
                 "What should dentists know about COVID019?",
                 "What should dentists do?",
-                "I'm a dentist, what should I do?"
+                "I'm a dentist, what should I do?",
+                "Can I go to a dentist appointment?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "dental offices"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1359,7 +1628,12 @@
                 "Can you certify that I can go to work?",
                 "Can the Health Department certify that I can work?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "employees and work"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1383,7 +1657,12 @@
                 "I'm young. Is it safe for me to go out?",
                 "I'm not old. Can I continue to socialize?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1405,7 +1684,12 @@
             "questions": [
                 "How should we practice social distancing with children?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1434,7 +1718,12 @@
                 "I work in the community, how can I practice social distancing?",
                 "How can community helpers and volunteers keep from getting sick with COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1458,7 +1747,12 @@
                 "How should I prepare?",
                 "What should I be doing to prepare?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "home preparation"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1475,7 +1769,7 @@
         },
         {
             "id": 326,
-            "answer": "**What is Vermont doing?**\n\nThe Health Department activated its Health Operations Center in early February to work on this response.\n\n* On April 2, Governor Scott announced new steps in the State’s plan to prepare for a surge in COVID-19 cases. The State has coordinated with communities and hospitals statewide, including Dartmouth-Hitchcock Medical Center in New Hampshire, and the Vermont National Guard to increase capacity in the event of a surge of COVID-19 patients who require medical care. These sites will be operated in close coordination with health care providers and will only be used if hospitals exceed their capacity. For details, please see the press release https://governor.vermont.gov/press-release/governor-phil-scott-announces-additional-medical-surge-locations  \n\n \n\n* On Monday, March 30, as an addendum to his emergency declaration, Gov. Scott directed residents and non-residents coming from outside the state for anything other than an essential purpose to home-quarantine for 14 days and strongly discouraged travel to Vermont by those located in COVID-19 “hot spots.” Gov. Scott is encouraging compliance with newly released CDC guidance around interstate travel from New York, New Jersey and Connecticut, which advised residents of those states to refrain from non-essential domestic travel for 14 days. For details, please review the addendum at [https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf)  \n\n* On March 30, as an addendum to his emergency declaration, Gov. Scott ordered all lodging operations to be suspended. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. For details, please review the addendum at [https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf)\n\n* On March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented on or before Monday, April 13, 2020.\n\n* Effective March 25 at 5:00 p.m., the governor ordered all businesses and not-for-profit entities not expressly exempted in the order to suspend all in-person business operations. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue. The Order provides exemptions for businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security. This includes – but is not limited to – health care operations; retail serving essential human needs, like grocery stores, pharmacies and hardware stores; fuel products and supply; news media; maintenance of critical infrastructure; and transportation and critical manufacturing sectors. For a full list, please review the order at https://governor.vermont.gov/content/addendum-6-executive-order-01-20. \n\n* March 24, Governor Scott directed Vermonters to stay at home, leaving only for essential reasons, critical to health and safety, such as: personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others. If leaving the home, Vermonters should adhere to social distancing policies, including remaining six feet from others (except for those with whom they share a home) and thoroughly and regularly washing hands.\n\n* Effective on Monday, March 23 at 8:00 p.m., Governor Scott directed all businesses and not-for-profit entities in the state to put telecommuting or work-from-home procedures into place, to the maximum extent possible.\n\n* March 21, Governor Scott amended his emergency declaration to further reduce the allowable size of non-essential mass gatherings. Gatherings are now limited to no more than 10 people at the same time in a single space. A \"non-essential mass gathering\" does NOT include normal operations at airports, bus or railway stations people may be in transit.\n\n* March 21, the governor ordered gyms, fitness centers and similar exercise facilities, hair salons and barbers, nail salons, spas and tattoo parlors to close all in-person operations no later than 8:00 p.m. on Monday, March 23.\n\n* The governor also ordered the closure of all bars and restaurants statewide effective Tuesday, March 17 at 2 p.m. until April 6. This may be extended. Establishments can continue to offer food takeout and delivery.\n\n* On March 16, the governor amended his executive order prohibiting all large non-essential mass gatherings to 50 people, or 50% of a building’s occupancy level, whichever is lower.\n\n* On March 15, the governor directed the orderly dismissal of all schools, and cancellation of all school related activities, no later than Wednesday, March 18. This directive, which will be distributed to schools later today, will last through April 6 -- but may very well be extended for a longer period.\n\n* On March 13, the Governor issued an executive order to declare a state of emergency and define prohibitions related to large gatherings and visiting vulnerable settings to support the response and contain community spread.\n\n* On March 11 the state activated its Emergency Operations Center to support the Health Department’s response.\n\n* On February 29, the Governor directed Vermont Emergency Management to form a task force representing all sectors of the state to develop a comprehensive response plan. \n\n* Effective March 25 at 5:00 p.m., the governor orders all businesses and not-for-profit entities not expressly exempted in the order to suspend all in-person business operations. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue. The Order provides exemptions for businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security. This includes – but is not limited to – health care operations; retail serving essential human needs, like grocery stores, pharmacies and hardware stores; fuel products and supply; news media; maintenance of critical infrastructure; and transportation and critical manufacturing sectors. For a full list, please review the order at [https://governor.vermont.gov/content/addendum-6-executive-order-01-20](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).",
+            "answer": "**What is Vermont doing?**\n\nThe Health Department activated its Health Operations Center in early February to work on this response.\n\n* On April 3, Governor Scott issued an order clarifying that any previous orders or directives that had an expiration date before April 15, are subject to the Stay Home, Stay Safe order, which means they must remain closed until April 15. This specifically refers to the closing of bars and restaurants for dine-in service and the Department of Motor Vehicles for in-person services, which would have otherwise expired on April 6. This timeframe will be reevaluated as that date approaches. For details, please review the addendum at [https://governor.vermont.gov/content/addendum-8-executive-order-01-20](https://governor.vermont.gov/content/addendum-8-executive-order-01-20).\n\n* On April 2, Governor Scott announced new steps in the State’s plan to prepare for a surge in COVID-19 cases. The State has coordinated with communities and hospitals statewide, including Dartmouth-Hitchcock Medical Center in New Hampshire, and the Vermont National Guard to increase capacity in the event of a surge of COVID-19 patients who require medical care. These sites will be operated in close coordination with health care providers and will only be used if hospitals exceed their capacity. For details, please see the press release https://governor.vermont.gov/press-release/governor-phil-scott-announces-additional-medical-surge-locations  \n\n \n\n* On Monday, March 30, as an addendum to his emergency declaration, Gov. Scott directed residents and non-residents coming from outside the state for anything other than an essential purpose to home-quarantine for 14 days and strongly discouraged travel to Vermont by those located in COVID-19 “hot spots.” Gov. Scott is encouraging compliance with newly released CDC guidance around interstate travel from New York, New Jersey and Connecticut, which advised residents of those states to refrain from non-essential domestic travel for 14 days. For details, please review the addendum at [https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf)  \n\n* On March 30, as an addendum to his emergency declaration, Gov. Scott ordered all lodging operations to be suspended. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. For details, please review the addendum at [https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%207%20TO%20EXECUTIVE%20ORDER%2001-20.pdf)\n\n* On March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented on or before Monday, April 13, 2020.\n\n* Effective March 25 at 5:00 p.m., the governor ordered all businesses and not-for-profit entities not expressly exempted in the order to suspend all in-person business operations. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue. The Order provides exemptions for businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security. This includes – but is not limited to – health care operations; retail serving essential human needs, like grocery stores, pharmacies and hardware stores; fuel products and supply; news media; maintenance of critical infrastructure; and transportation and critical manufacturing sectors. For a full list, please review the order at https://governor.vermont.gov/content/addendum-6-executive-order-01-20. \n\n* March 24, Governor Scott directed Vermonters to stay at home, leaving only for essential reasons, critical to health and safety, such as: personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others. If leaving the home, Vermonters should adhere to social distancing policies, including remaining six feet from others (except for those with whom they share a home) and thoroughly and regularly washing hands.\n\n* Effective on Monday, March 23 at 8:00 p.m., Governor Scott directed all businesses and not-for-profit entities in the state to put telecommuting or work-from-home procedures into place, to the maximum extent possible.\n\n* March 21, Governor Scott amended his emergency declaration to further reduce the allowable size of non-essential mass gatherings. Gatherings are now limited to no more than 10 people at the same time in a single space. A \"non-essential mass gathering\" does NOT include normal operations at airports, bus or railway stations people may be in transit.\n\n* March 21, the governor ordered gyms, fitness centers and similar exercise facilities, hair salons and barbers, nail salons, spas and tattoo parlors to close all in-person operations no later than 8:00 p.m. on Monday, March 23.\n\n* The governor also ordered the closure of all bars and restaurants statewide effective Tuesday, March 17 at 2 p.m. until April 6. This may be extended. Establishments can continue to offer food takeout and delivery.\n\n* On March 16, the governor amended his executive order prohibiting all large non-essential mass gatherings to 50 people, or 50% of a building’s occupancy level, whichever is lower.\n\n* On March 15, the governor directed the orderly dismissal of all schools, and cancellation of all school related activities, no later than Wednesday, March 18. This directive, which will be distributed to schools later today, will last through April 6 -- but may very well be extended for a longer period.\n\n* On March 13, the Governor issued an executive order to declare a state of emergency and define prohibitions related to large gatherings and visiting vulnerable settings to support the response and contain community spread.\n\n* On March 11 the state activated its Emergency Operations Center to support the Health Department’s response.\n\n* On February 29, the Governor directed Vermont Emergency Management to form a task force representing all sectors of the state to develop a comprehensive response plan. \n\n* Effective March 25 at 5:00 p.m., the governor orders all businesses and not-for-profit entities not expressly exempted in the order to suspend all in-person business operations. Operations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue. The Order provides exemptions for businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security. This includes – but is not limited to – health care operations; retail serving essential human needs, like grocery stores, pharmacies and hardware stores; fuel products and supply; news media; maintenance of critical infrastructure; and transportation and critical manufacturing sectors. For a full list, please review the order at [https://governor.vermont.gov/content/addendum-6-executive-order-01-20](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).",
             "source": "Editorial",
             "questions": [
                 "What is Vermont doing?",
@@ -1483,7 +1777,12 @@
                 "What has Vermont done?",
                 "What will Vermont do?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "state response"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1507,7 +1806,12 @@
                 "What does the CDC recommend for hand hygiene?",
                 "How to make hand sanitizer"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cleaning hands, and recipe for hand sanitizer"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1531,7 +1835,12 @@
                 "what resources are available",
                 "Where can I get more information?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "additional resources"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1553,7 +1862,12 @@
             "questions": [
                 "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cases"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1582,7 +1896,12 @@
                 "Are churches able to gather if they have 10 or less people attending",
                 "Should Churches still have services if they are small?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "preventing spread in communities - large events, mass gatherings"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1605,7 +1924,12 @@
                 "What information is available regarding bars and restaurants?",
                 "when will we be allowed to dine in restaurants in Vermont again?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "preventing spread in communities - bars and restaurants"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1634,7 +1958,12 @@
                 "Covid19 and food",
                 "How long can the virus live on food?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "transmission (virus spread)"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1669,7 +1998,12 @@
                 "How likely is it that my mail will have Covid-19 on it?",
                 "How long can COVID-19 remain viable on paper?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "transmission (virus spread)"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1696,7 +2030,12 @@
             "questions": [
                 "What should I do if I’m being monitored by the Health Department and then become sick?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "monitoring"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1719,7 +2058,12 @@
                 "Is it safe to go grocery shopping?",
                 "can i bring groceries into the house? "
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "grocery shopping"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1751,7 +2095,12 @@
             "questions": [
                 "Do homemade face masks work?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "face masks"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1783,7 +2132,12 @@
             "questions": [
                 "Do I need to get my pet tested for COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1810,7 +2164,12 @@
             "questions": [
                 "Can animals carry the virus that causes COVID-19 on their skin or fur?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1837,7 +2196,12 @@
             "questions": [
                 "Are pets from a shelter safe to adopt?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1866,9 +2230,15 @@
                 "when is it safe to go back out for essentials ",
                 "How do you know if they are over it?",
                 "When can someone who has had Covid-19 return to work?",
-                "Return to work after COVID-19"
+                "Return to work after COVID-19",
+                "When should I return to work?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "sick people"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1890,7 +2260,12 @@
             "questions": [
                 "Can people who recover from COVID-19 be infected again?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "sick people"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1919,7 +2294,12 @@
                 "My work isn't taking proper precautions",
                 "What do I do if someone is working  who is not essential?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "employees and work"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1936,14 +2316,19 @@
         },
         {
             "id": 343,
-            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nTaking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger.\n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nThe Health Department website now has information for coping with COVID-19 stress, including resources for local help, self-care, and domestic violence. [www.healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)\n\nVisit the CDC website for more tips for coping with stress, including how to help children cope with stress [cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html)\n\nNeed support right now?\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the National Suicide Prevention Lifeline [suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/) or call 1-800-273-8255",
+            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nTaking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger.\n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nThe Health Department website now has information for coping with COVID-19 stress, including resources for local help, self-care, suicide prevention, and domestic violence. [www.healthvermont.gov/COVID-19](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus)\n\nVisit the CDC website for more tips for coping with stress, including how to help children cope with stress [cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html)\n\nNeed support right now?\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the National Suicide Prevention Lifeline [suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/) or call 1-800-273-8255",
             "source": "Editorial",
             "questions": [
                 "How can I take care of myself, my family, or friends with the stress from COVID-19?",
                 "I'm feeling depressed",
                 "I'm feeling suicidal"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "mental health, stress and coping"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1968,7 +2353,12 @@
                 "Should assisted living workers have PPE?",
                 "Should assisted living workers have masks?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - health care workers"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -1997,7 +2387,12 @@
                 "How can I stay connected while being physically distant?",
                 "can i go outside"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2029,7 +2424,12 @@
             "questions": [
                 "Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2053,7 +2453,12 @@
                 "shopping bags",
                 "shopping totes"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "grocery shopping"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2075,7 +2480,12 @@
             "questions": [
                 "Is there a medicine I can take to prevent or treat COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccines or medicines to prevent or treat"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2097,7 +2507,12 @@
             "questions": [
                 "Where do people living with a substance use disorder go for information on treatment and recovery services?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - people who use substances, smoke or vape"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2122,7 +2537,12 @@
                 "Of the people who have completed monitoring how many have recovered?",
                 "how many subjects have recovered?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cases"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2144,7 +2564,12 @@
             "questions": [
                 "Are there any translated materials about COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "translation"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2165,9 +2590,15 @@
             "source": "Editorial",
             "questions": [
                 "Where can I go to get a sample collected for testing?",
-                "Where can I go to get tested?"
+                "Where can I go to get tested?",
+                "How do you get tested for COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "sample collection for testing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2175,8 +2606,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 308,
+                        "displayText": "What should I do if I think I may have COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 270,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             },
@@ -2189,7 +2625,12 @@
             "questions": [
                 "Does smoking or vaping increase the risk of getting seriously ill from COVID-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - people who use substances, smoke or vape"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2220,7 +2661,12 @@
                 "May I enter Vermont from Massachusetts?",
                 "Penalty for traveling"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel – vermont"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2235,6 +2681,11 @@
                         "displayOrder": 0,
                         "qnaId": 377,
                         "displayText": "Information on travel to neighboring states."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 364,
+                        "displayText": "Out-of-state visitors allowed to be in Vermont?"
                     },
                     {
                         "displayOrder": 0,
@@ -2256,7 +2707,12 @@
                 "Can I stay in an airbnb?",
                 "Am I allowed to stay in an airbnb?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel – vermont"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2285,9 +2741,17 @@
                 "my town",
                 "how many cases in my town?",
                 "Is there a county registry for COVID-19 cases",
-                "Is there a town registry for COVID-19 cases?"
+                "Is there a town registry for COVID-19 cases?",
+                "COVID-19 hot spots in my town",
+                "COVID-19 hot spots in Burlington ",
+                "Do any of Rutland's nursing homes have COVID-19 cases?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cases"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2309,7 +2773,12 @@
             "questions": [
                 "What is isolation, quarantine and self-observation?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "isolation vs. quarantine vs. observation"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2326,12 +2795,18 @@
         },
         {
             "id": 359,
-            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\n**People with medical or other health care backgrounds** are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the Vermont Medical Reserve Corp at https://www.vermont.gov/volunteer if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Individuals who are licensed in other states or who were previously licensed can visit the Health Department website and review the guide on emergency licensure at https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19. \n\nOther individuals who have needed skills (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at https://www.vermont.gov/volunteer and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\nGive blood: Visit the American Red Cross to learn how to safely donate blood: https://www.redcross.org/local/new-hampshire-vermont.html. \n\nSupport your local Food Bank. Donate online at https://www.vtfoodbank.org/ or you can text GIVEHEALTH to 85511. If you're in need of help, please visit https://www.vtfoodbank.org/coronavirus-services-for-individuals   \n\nYou can also help your neighbors – older adults and at-risk people should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the guidelines on being a good neighbor at: https://vem.vermont.gov/neighborly.",
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the Vermont Medical Reserve Corp at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, Physician Assistant and Podiatrists who are licensed in other states or who were previously licensed can visit the Health Department website and review the guide on emergency licensure at [www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other previously licensed medical professionals, including nurses, can learn more at [https://sos.vermont.gov/opr/about-opr/covid-19-response/](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\n**Give blood**: Visit the American Red Cross to learn how to safely donate blood: [www.redcross.org/local/new-hampshire-vermont.html](https://www.redcross.org/local/new-hampshire-vermont.html). \n\nSupport your local Food Bank. Donate online at [vtfoodbank.org](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. If you're in need of help, please visit [www.vtfoodbank.org/gethelp](https://www.vtfoodbank.org/gethelp)\n\nYou can also help your neighbors – older adults and at-risk people should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the guidelines on being a good neighbor at: [https://vem.vermont.gov/neighborly](https://vem.vermont.gov/neighborly).",
             "source": "Editorial",
             "questions": [
-                "Can I volunteer to help with the State’s response to COVID-19?"
+                "Can I volunteer to help with the State’s response to COVID-19?",
+                "Can I volunteer"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "volunteering and donations"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2358,7 +2833,12 @@
             "questions": [
                 "Is volunteering allowed under the Stay Home, Stay Safe Order?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "volunteering and donations"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2387,7 +2867,12 @@
                 "Where can PPE be donated?",
                 "Where can masks be donated?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "volunteering and donations"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2410,7 +2895,12 @@
                 "What do owners of lodging facilities need to do?",
                 "still make reservations"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - owners of lodging facilities (hotels, motels, inns, airbnb)"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2433,7 +2923,12 @@
                 "There are renters in local Airbnbs, is that allowed?",
                 "Airbnbs not not being compliant with order"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "specific audience - owners of lodging facilities (hotels, motels, inns, airbnb)"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2455,7 +2950,12 @@
             "questions": [
                 "Are out-of-state visitors allowed to be in Vermont?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel – vermont"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2463,8 +2963,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 355,
+                        "displayText": "Are there any travel restrictions into Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 270,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             },
@@ -2480,7 +2985,12 @@
                 "What percentage of people with Covid-19 are hospitalized?",
                 "How many people are inpatients with Covid-19?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cases"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2504,7 +3014,12 @@
                 "Where are the deaths in Vermont?",
                 "Where can we find information about Covid-19 deaths in Vermont?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "cases"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2513,7 +3028,7 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 270,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             },
@@ -2527,7 +3042,12 @@
                 "What do I do if I work for a job that is considered essential, but my child care program is closed?",
                 "can I get daycare if I am considered an essential employee?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "employees and work"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2556,7 +3076,12 @@
                 "stimulus package unemployment benefits",
                 "self-employed"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "employees and work"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2578,7 +3103,12 @@
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for Vermonters?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2600,7 +3130,12 @@
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2632,7 +3167,12 @@
                 "who are essential workers?",
                 "Can I have someone do landscaping work in my yard now?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2654,7 +3194,12 @@
             "questions": [
                 "I have questions about financial assistance and housing."
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "assistance"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2680,7 +3225,12 @@
                 "Is this a robot?",
                 "Can I talk to a person?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "chitchat"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2714,7 +3264,12 @@
                 "Evening",
                 "Good evening"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "chitchat"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2737,7 +3292,12 @@
                 "I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?",
                 "I have split custody and I need to get my child from New York."
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "children"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2773,7 +3333,12 @@
                 "Are factories considered essential?",
                 "Can I keep working?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "employees and work"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2807,7 +3372,12 @@
                 "Can I travel to NH for work?",
                 "I work in New Hampshire and live in Vermont"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2842,9 +3412,18 @@
             "answer": "**Can I still do outdoor activities with the Stay Home, Stay Safe order?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise and taking in Vermont’s natural beauty is important for our mind and bodies. We can safely continue to enjoy the outdoors with these measures:\n\n* **Stay close to home.** Find areas close you can walk or bike to. If you must drive, please limit the distance from home to ten miles, and only drive with members of your household.\n\n* **Practice social distancing while outside.** You lower your risk when you stay at least 6 ft apart from others. This includes having your dog on a leash and close to you.\n\n* **Be cautious and choosing low-risk activities to avoid injury.** This will help lower the burden on the our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check https://www.trailfinder.info/ to see if your trail is currently open before you visit. \n\nFor more information, visit the Vermont Department of Forests, Parks and Recreation at https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19",
             "source": "Editorial",
             "questions": [
-                "Can I still do outdoor activities with the Stay Home, Stay Safe order?"
+                "Can I still do outdoor activities with the Stay Home, Stay Safe order?",
+                " travel to another place in Vermont for recreation?",
+                "Ride in the car",
+                "Go for a ride in the car.",
+                "Can we just go for a ride and not stop anywhere?"
             ],
-            "metadata": [],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order and social distancing"
+                }
+            ],
             "alternateQuestions": "",
             "alternateQuestionClusters": [],
             "context": {
@@ -2861,10 +3440,13 @@
         },
         {
             "id": 379,
-            "answer": "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end? \n\nThe current models project the “peak” of cases between mid-to-late April and early May. The sacrifices Vermonters are making by staying at home are working, and the following weeks will be critical to saving lives. We must keep going so we do not lose the progress we have made. At this time, we do not know how long the Stay Home, Stay Safe order will be in place. ",
+            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nThe current models project the “peak” of cases between mid-to-late April and early May. The sacrifices Vermonters are making by staying at home are working, and the following weeks will be critical to saving lives. We must keep going so we do not lose the progress we have made. At this time, we do not know how long the Stay Home, Stay Safe order will be in place. ",
             "source": "Editorial",
             "questions": [
-                "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?"
+                "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?",
+                "How long has Governor Scott asked residents to stay home?",
+                "When will the apex be in VT?",
+                "apex"
             ],
             "metadata": [
                 {
@@ -2910,6 +3492,48 @@
                         "displayText": "This did NOT answer my question.\n"
                     }
                 ]
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 381,
+            "answer": "**How can I make my own homemade face mask?**\n\nHomemade face masks can be made using simple materials found in most homes. For example, an old t-shirt or bandana and rubber bands or hair ties. Watch a quick video by the CDC on how to make your own at: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html",
+            "source": "Editorial",
+            "questions": [
+                "How can I make my own homemade face mask?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "face masks"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": []
+            },
+            "isQAEmbeddingPresent": false
+        },
+        {
+            "id": 382,
+            "answer": "**Can I get COVID-19 from my pets or other animals?**\nThere is no reason at this time to think that any animals, including pets, in the U.S. source of infection with this new coronavirus that causes COVID-19. To date, CDC has not received any reports of pets or other animals becoming sick with COVID-19 in the U.S.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. For more information on staying safe and healthy around animals including pets, visit CDC’s [www.cdc.gov/healthypets/index.html](https://www.cdc.gov/healthypets/index.html).\n\n",
+            "source": "Editorial",
+            "questions": [
+                "Can I get COVID-19 from my pets or other animals?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": []
             },
             "isQAEmbeddingPresent": false
         }

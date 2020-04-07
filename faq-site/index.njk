@@ -36,36 +36,45 @@
                 <input type="search" class="search" id="search" placeholder="Type to search">
             </div>
 
-            <ul class="faqs">
-                {% for faq in faqs.qnaDocuments %}
-                    <li id="{{faq.id}}" class="faq">
-                        <details >
-                            <summary class="context">
-                                <h2>{{faq.questions | first}}</h2>
-                                <a class="permalink" href="#{{faq.id}}">#</a>
-                            </summary>
+            <ul class="topics">
 
-                            <div class="contents">
+                {% for topic in collections.FaqsByTopic %}
+                    <li id="{{topic.name}}" class="topic">
 
-                                <h3>Question(s)</h3>
+                        <h2>{{topic.name}}</h2>
 
-                                <ul class="questions">
-                                    {% for q in faq.questions %}
-                                        <li class="question">{{q}}</li>
-                                    {% endfor %}
-                                </ul>
+                        <ul class="faqs">
+                            {% for faq in topic.faqs %}
+                                <li id="{{faq.id}}" class="faq">
+                                    <details >
+                                        <summary class="context">
+                                            <h3>{{faq.questions | first}}</h3>
+                                            <a class="permalink" href="#{{faq.id}}">#</a>
+                                        </summary>
 
-                                <h3>Answer</h3>
-                                <p>
-                                    {{faq.answer | md | safe}}
-                                </p>
-                            </div>
+                                        <div class="contents">
 
-                        </details>
+                                            <h4>Question(s)</h4>
+
+                                            <ul class="questions">
+                                                {% for q in faq.questions %}
+                                                    <li class="question">{{q}}</li>
+                                                {% endfor %}
+                                            </ul>
+
+                                            <h4>Answer</h4>
+                                            <p>
+                                                {{faq.answer | md | safe}}
+                                            </p>
+                                        </div>
+
+                                    </details>
+                                </li>
+                            {% endfor %}
+                        </ul>
                     </li>
                 {% endfor %}
             </ul>
-
         </main>
 
         <footer class="footer">

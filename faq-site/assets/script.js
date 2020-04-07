@@ -1,5 +1,5 @@
 var keywordInput = document.querySelector("#search");
-var searchArea = document.querySelector(".faqs")
+var searchArea = document.querySelector(".topics")
 var markInstance = new Mark(searchArea);
 
 keywordInput.addEventListener("input", performMark);
@@ -59,19 +59,32 @@ function markComplete() {
     document
         .querySelectorAll("mark")
         .forEach(function(el) {
-            var item = el.closest(".faq")
+            var faqItem = el.closest(".faq")
 
-            if (item) {
-                item.classList.add("marked")
+            if (faqItem) {
+                faqItem.classList.add("marked")
 
                 if (el.closest("h2")) {
-                    item.classList.add("match-title")
+                    faqItem.classList.add("match-title")
                 } else {
-                    item.classList.add("match-body")
+                    faqItem.classList.add("match-body")
+                }
+            }
+
+            var topicItem = el.closest(".topic")
+
+            if (topicItem) {
+                topicItem.classList.add("marked")
+
+                if (el.closest("h2")) {
+                    topicItem.classList.add("match-title")
+                } else {
+                    topicItem.classList.add("match-body")
                 }
             }
 
         })
+
 
     document
         .querySelectorAll(".match-title")
