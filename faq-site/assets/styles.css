@@ -34,6 +34,15 @@ footer.footer {
     text-align: center;
 }
 
+.title {
+    color: #f2f7fa;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: #dbebf3;
+}
+
 .search-bar {
     margin-top: 15px;
 }

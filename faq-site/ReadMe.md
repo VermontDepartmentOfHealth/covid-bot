@@ -34,6 +34,8 @@ npm run update-and-build  # gets new KB data and builds site
 - [ ] save telemetry from search terms
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] test for questions missing a category
+- [x] add timestamp
 - [x] add topics
 - [x] filter out "This did not answer my question"
 - [x] figure out async await for fs.writeFile

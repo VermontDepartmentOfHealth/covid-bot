@@ -17,6 +17,9 @@ module.exports = function(eleventyConfig) {
         // get all new topics
         let allTopics = allFaqs.map(faq => {
             let catMetadata = faq.metadata.find(m => m.name === "category")
+            if (!catMetadata) {
+                console.error("Missing Category for question: ", faq.questions[0])
+            }
             return catMetadata ? catMetadata.value : ""
         }).filter(cat => cat)
 
@@ -82,6 +85,20 @@ module.exports = function(eleventyConfig) {
         return body;
     });
 
+    eleventyConfig.addShortcode("now", () => {
+        var time = new Date();
+        var options = {
+            weekday: 'short',
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+            hour: 'numeric',
+            minute: "numeric",
+            hour12: true
+        };
+        var formatted = time.toLocaleString('en-US', options)
+        return formatted
+    });
 
     let md = require("markdown-it")();
     eleventyConfig.addFilter("md", content => md.render(content))
