@@ -2,9 +2,9 @@
 
 The Vermont Department of Health has a knowledge base that is published via a chatbot and faq page in response to the COVID-19 pandemic
 
-**VDH**: https://www.healthvermont.gov/COVID
-**BOT**: https://apps.health.vermont.gov/COVID/
-**FAQ**: https://apps.health.vermont.gov/COVID/faq/
+* **VDH**: https://www.healthvermont.gov/COVID
+* **BOT**: https://apps.health.vermont.gov/COVID/
+* **FAQ**: https://apps.health.vermont.gov/COVID/faq/
 
 
 ## Repo Structure
@@ -25,7 +25,11 @@ NodeJS static site generator written using Eleventy that templates the knowledge
 
 Postman collection to call methods in the Knowledge Base API
 
-### 4. WebChat Client
+### 4. QnA Maker
+
+QnA Maker front end to create, maintain, test, and publish the Knowledge Base
+
+### 5. WebChat Client
 
 Front end chat client that calls the bot service, either as an iFrame or JS initialization.
 
@@ -47,13 +51,13 @@ Front end chat client that calls the bot service, either as an iFrame or JS init
 
 For testing purposes, please use the following links to not interfere with our production telemetry
 
-**BOT**: https://apps-test.health.vermont.gov/COVID/
-**FAQ**: https://apps-test.health.vermont.gov/COVID/faq/
+* **BOT**: https://apps-test.health.vermont.gov/COVID/
+* **FAQ**: https://apps-test.health.vermont.gov/COVID/faq/
 
 
 ## Acronyms
 
-VDH 
+VDH
  ~ Vermont Department of Health
 
 FAQs
@@ -63,4 +67,7 @@ KB
  ~ Knowledge Base
 
 AI
- ~ Application Insights 
+ ~ Application Insights
+
+QnA
+ ~ Question and Answer
