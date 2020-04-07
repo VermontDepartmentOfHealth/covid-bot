@@ -1,0 +1,26 @@
+// answered and unanswered
+let startDate = todatetime("2020-03-25T16:30:00");
+// bad convo ids
+let wrongIDs = traces
+| where customDimensions.Question contains "This did NOT answer my question" 
+| project extract("^[a-z0-9]{7}", 0, itemId);
+// get all q/a pairs
+traces
+| extend input = tostring(customDimensions.Question),
+        answer = tostring(customDimensions.Answer),
+        scoreInt = toint(round(todouble(customDimensions.Score))),
+        convoId = extract("^[a-z0-9]{7}", 0, itemId)
+| where message contains "GenerateAnswer"
+    and input  !contains "This did NOT answer my question"
+    and timestamp > startDate
+| extend score = iif(convoId in (wrongIDs), -1, scoreInt), // separate bad vs good
+         EST = datetime_add("hour", -4, timestamp)         // convert UTC to EST
+| order by timestamp desc 
+| project itemId,
+          input,
+          faq = extract("^\\*\\*(.*)\\*\\*", 1, answer),
+          type = case(score == -1, "wrong",
+                      score == 0, "no answer",
+                      "answered"),
+          score,
+          timestamp = format_datetime(EST, "MM/dd/yyyy hh:mm tt")

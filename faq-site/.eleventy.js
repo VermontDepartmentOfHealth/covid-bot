@@ -4,7 +4,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("favicon.ico");
 
     // grab 3rd party dependencies
-    eleventyConfig.addPassthroughCopy({ "node_modules/mark.js/dist/mark.min.js": "/scripts/mark.js" });
+    eleventyConfig.addPassthroughCopy({
+        "node_modules/mark.js/dist/mark.min.js": "/assets/mark.js"
+    });
 
     // add filters
     eleventyConfig.addFilter("slugify", function(s) {

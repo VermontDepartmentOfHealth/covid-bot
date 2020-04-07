@@ -23,11 +23,13 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
-- [x] auto downloads
+
+
+- [x] update data live api
 - [ ] get primary question from answer markdown
 - [ ] filter out "This did not answer my question"
 - [ ] categorization
-- [ ] scrollybar TOC
+- [ ] add toc overview
 - [ ] add synonms to mark.js
 - [ ] low-perf debouncing
 - [ ] conditionally hide alt phrasings when not search hits
@@ -36,3 +38,5 @@ npm run update-and-build  # gets new KB data and builds site
 - [ ] determine multiple env for config (workaround comment out)
 - [x] figure out async await for fs.writeFile
 - [ ] show revision history
+- [x] fix mark.js failing
+- [x] fix encoding â€™
