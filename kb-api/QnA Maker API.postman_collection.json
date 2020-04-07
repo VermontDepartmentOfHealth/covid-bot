@@ -1,0 +1,323 @@
+{
+	"info": {
+		"_postman_id": "2652a076-4618-4b37-b378-33b43eeb2d56",
+		"name": "QnA Maker API",
+		"description": "# QnA Maker API ReadMe\n\n**Published at**:\nhttps://vt-ads.postman.co/workspaces/12d8888e-bf95-475f-8ff2-c39094bf9372/collections\n\n## Docs - [Cognitive Services API](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/)\n\n* **QnA Maker Runtime**\n  * [Runtime](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamakerruntime/runtime)\n* **QnA Maker**\n  * [Knowledgebase](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase)\n  * [Alterations](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/alterations)\n\n\n## Variables\n\n\n* Runtime API\n  * **`RuntimeEndpoint`**: `https://sov-covid-bot.azurewebsites.net`\n  * **`RuntimeApiKey`**: `***`\n* KB API\n  * **`Endpoint`**: `https://sov-covid-bot.cognitiveservices.azure.com`\n  * **`Ocp-Apim-Subscription-Key`**: `***`\n* Settings\n  * **`kbId`**: `***`\n  * **`environment`**: `prod`\n\nYou can get the QnA Maker Runtime API endpoints by going to your Azure > Cognitive Services > Keys & Endpoints\n\n![Cognitive Services > Keys & Endpoints](https://i.imgur.com/s3xOTiW.png)\n\nYou can get the QnA Maker API endpoints by going to [www.qnamaker.ai/](https://www.qnamaker.ai/Home/MyServices), Pick your knowledge base, Go to Settings, and going to Deployment Details.  Or, if you've already built a bot, by going to Azure > Web App Bot > Configuration, and grabbing the QnA keys.\n\n![QnA Maker > KB > Settings > Deployment Details](https://i.imgur.com/gS6whbm.png)\n\n![Web App Bot > Configuration > QnA Keys](https://i.imgur.com/3fsPNHb.png)\n\n## Further Reading\n\n* [QnA Maker Postman Collection-Template now available](https://bisser.io/qna-maker-postman-collection-template-now-available/)\n* [HTTP 401 Access Denied when calling Azure Cognitive Services APIs](https://blogs.msdn.microsoft.com/kwill/2017/05/17/http-401-access-denied-when-calling-azure-cognitive-services-apis/)\n* [Quickstart: Get an answer from knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/quickstarts/get-answer-from-knowledge-base-using-url-tool?pivots=url-test-tool-postman)\n* [Alterations – A Hidden Gem In QnA Maker](https://www.datafish.eu/article/alterations-a-hidden-gem-in-qnamaker/)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Runtime",
+			"item": [
+				{
+					"name": "Generate Answer",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "EndpointKey {{RuntimeApiKey}}"
+							},
+							{
+								"key": "Content-type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"question\":\"How many windows in NY\"}"
+						},
+						"url": {
+							"raw": "{{RuntimeEndpoint}}/qnamaker/knowledgebases/{{kbId}}/generateAnswer",
+							"host": [
+								"{{RuntimeEndpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"knowledgebases",
+								"{{kbId}}",
+								"generateAnswer"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"auth": {
+				"type": "apikey",
+				"apikey": [
+					{
+						"key": "key",
+						"value": "Authorization",
+						"type": "string"
+					},
+					{
+						"key": "value",
+						"value": "{{RuntimeApiKey}}",
+						"type": "string"
+					},
+					{
+						"key": "in",
+						"value": "header",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "8e41b4a4-b5e9-4273-b6ae-86427ec5fb55",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "13d45256-03eb-4795-8a37-090bb6f9f565",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "KnowledgeBase",
+			"item": [
+				{
+					"name": "List All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/knowledgebases",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"knowledgebases"
+							]
+						},
+						"description": "Gets all knowledgebases for a user"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/knowledgebases/{{kbId}}",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"knowledgebases",
+								"{{kbId}}"
+							]
+						},
+						"description": "Gets details of a specific knowledgebase."
+					},
+					"response": []
+				},
+				{
+					"name": "Download",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/knowledgebases/{{kbId}}/{{environment}}/qna",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"knowledgebases",
+								"{{kbId}}",
+								"{{environment}}",
+								"qna"
+							]
+						},
+						"description": "Download the knowledgebase."
+					},
+					"response": []
+				}
+			],
+			"auth": {
+				"type": "apikey",
+				"apikey": [
+					{
+						"key": "key",
+						"value": "Ocp-Apim-Subscription-Key",
+						"type": "string"
+					},
+					{
+						"key": "value",
+						"value": "{{Ocp-Apim-Subscription-Key}}",
+						"type": "string"
+					},
+					{
+						"key": "in",
+						"value": "header",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "7bcac97e-a68a-4be9-82ae-eebdc353d363",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "50ecf031-47d0-44a9-8537-7a56d419b4f6",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Alterations",
+			"item": [
+				{
+					"name": "Get Alterations",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/alterations",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"alterations"
+							]
+						},
+						"description": "Download alterations from runtime."
+					},
+					"response": []
+				},
+				{
+					"name": "Replace Alterations",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"wordAlterations\": [\r\n    {\r\n      \"alterations\": [\r\n        \"qnamaker\",\r\n        \"qna maker\"\r\n      ]\r\n    },\r\n    {\r\n      \"alterations\": [\r\n        \"botframework\",\r\n        \"bot framework\"\r\n      ]\r\n    },\r\n    {\r\n      \"alterations\": [\r\n        \"webchat\",\r\n        \"web chat\"\r\n      ]\r\n    }\r\n  ]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/alterations",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"alterations"
+							]
+						},
+						"description": "Replace alterations data."
+					},
+					"response": []
+				}
+			],
+			"auth": {
+				"type": "apikey",
+				"apikey": [
+					{
+						"key": "value",
+						"value": "{{Ocp-Apim-Subscription-Key}}",
+						"type": "string"
+					},
+					{
+						"key": "key",
+						"value": "Ocp-Apim-Subscription-Key",
+						"type": "string"
+					},
+					{
+						"key": "in",
+						"value": "header",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "1dbda3de-0f10-43ab-baa7-5dc1b270b4f6",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "ae6b668a-16cf-4b05-b349-9585ec0bfb41",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "6e311aba-39d8-4a24-bfcd-9128ab632d00",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "e8e8a15c-ad67-468f-b466-57f7b43d91e1",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
