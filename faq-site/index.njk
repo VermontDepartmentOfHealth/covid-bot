@@ -18,7 +18,7 @@
         {# Google Fonts #}
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
 
-        <link href="assets/styles.css" rel="stylesheet">
+        <link href="assets/styles.css?v=1" rel="stylesheet">
 
     </head>
 
@@ -32,8 +32,9 @@
 
         <main class="content">
 
-            <div>
-                <input type="search" class="search" id="search" placeholder="Type to search">
+            <div class="search-bar">
+                <label for="search">Type to Filter FAQs</label>
+                <input type="search" class="search" id="search" placeholder="e.g. 'Testing' or 'Volunteer'">
             </div>
 
             <ul class="topics">
@@ -71,6 +72,19 @@
                     </li>
                 {% endfor %}
             </ul>
+
+            <div class="no-results-message">
+                The FAQ filter requires an exact match - please try:
+                <ul>
+                    <li>Rephrasing with a smaller word or phrase</li>
+                    <li>Scrolling through the avialble topics</li>
+                    <li>Querying our FAQ via our Chatbot</li>
+                    <li>Calling the VT Deparment of Health call center at
+                        <a href="tel:802-863-7240">(802) 863-7240</a>
+                        to talk to a person</li>
+                </ul>
+            </div>
+
         </main>
 
         <footer class="footer">
@@ -87,7 +101,7 @@
 
         <script src="assets/mark.js"></script>
         <script src="assets/polyfill.js"></script>
-        <script src="assets/script.js"></script>
+        <script src="assets/script.js?v=1"></script>
 
     </body>
 

@@ -25,11 +25,13 @@ npm run update-and-build  # gets new KB data and builds site
 
 
 - [ ] add back to top button / remove filter
+- [ ] reset position when clearing filter
 - [ ] add synonyms to mark.js
 - [ ] add toc overview
 - [ ] expand / collapse all
 - [ ] low-perf debouncing
 - [ ] show revision history
+- [ ] save telemetry from search terms
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
 - [x] add topics

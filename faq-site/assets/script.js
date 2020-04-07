@@ -12,7 +12,7 @@ function performMark() {
     var shouldFilter = keyword.length > 2
 
     // apply filtering class if we have a search term
-    searchArea
+    document.body
         .classList
         .toggle('filtering', shouldFilter)
 
@@ -29,7 +29,8 @@ function performMark() {
             if (shouldFilter) {
 
                 markInstance.mark(keyword, {
-                    done: markComplete
+                    done: markComplete,
+                    separateWordSearch: false
                 });
 
             }
@@ -56,34 +57,42 @@ function markComplete() {
         })
 
     // tag all marked element parents
-    document
+    var matches = document
         .querySelectorAll("mark")
-        .forEach(function(el) {
-            var faqItem = el.closest(".faq")
 
-            if (faqItem) {
-                faqItem.classList.add("marked")
 
-                if (el.closest("h2")) {
-                    faqItem.classList.add("match-title")
-                } else {
-                    faqItem.classList.add("match-body")
-                }
+    matches.forEach(function(el) {
+        var faqItem = el.closest(".faq")
+
+        if (faqItem) {
+            faqItem.classList.add("marked")
+
+            if (el.closest("h2")) {
+                faqItem.classList.add("match-title")
+            } else {
+                faqItem.classList.add("match-body")
             }
+        }
 
-            var topicItem = el.closest(".topic")
+        var topicItem = el.closest(".topic")
 
-            if (topicItem) {
-                topicItem.classList.add("marked")
+        if (topicItem) {
+            topicItem.classList.add("marked")
 
-                if (el.closest("h2")) {
-                    topicItem.classList.add("match-title")
-                } else {
-                    topicItem.classList.add("match-body")
-                }
+            if (el.closest("h2")) {
+                topicItem.classList.add("match-title")
+            } else {
+                topicItem.classList.add("match-body")
             }
+        }
 
-        })
+    })
+
+    // add no match
+    document.body
+        .classList
+        .toggle('no-results', !matches.length)
+
 
 
     document

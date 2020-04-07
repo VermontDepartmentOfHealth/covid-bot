@@ -34,6 +34,10 @@ footer.footer {
     text-align: center;
 }
 
+.search-bar {
+    margin-top: 15px;
+}
+
 .search {
     width: 100%;
     border-radius: 3px;
@@ -43,7 +47,6 @@ footer.footer {
     line-height: 33px;
     padding-left: 10px;
     font-size: 1.2em;
-    margin-top: 15px;
 }
 
 mark {
@@ -127,4 +130,12 @@ a.permalink {
 
 .faq:hover .permalink {
     opacity: 1;
+}
+
+.no-results-message {
+    display: none;
+}
+
+.filtering.no-results .no-results-message {
+    display: block;
 }
