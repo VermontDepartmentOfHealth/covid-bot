@@ -51,12 +51,16 @@ mark {
     color: black;
 }
 
-.contents mark {
+.answer mark {
     background: rgba(255, 247, 94, 0.56);
 }
 
-.match-title .contents mark {
+.match-title .answer mark {
     background: rgba(255, 247, 94, 0.26);
+}
+
+.answer ul>li>p {
+    margin: 0;
 }
 
 li.topic {
@@ -94,6 +98,10 @@ li.topic {
     display: block;
 }
 
+.phrasing {
+    display: none;
+}
+
 li.faq {
     margin-top: 20px;
 }
@@ -107,7 +115,16 @@ summary.context h3 {
 }
 
 a.permalink {
-    font-size: 1.5em;
+    font-size: 1.4em;
     text-decoration: none;
-    color: #626991;
+    color: #4f5369;
+}
+
+.faq .permalink {
+    opacity: 0;
+    transition: opacity .3s ease;
+}
+
+.faq:hover .permalink {
+    opacity: 1;
 }

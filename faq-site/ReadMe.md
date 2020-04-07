@@ -24,19 +24,19 @@ npm run update-and-build  # gets new KB data and builds site
 ## // TODO
 
 
-
-- [x] update data live api
-- [ ] get primary question from answer markdown
-- [ ] filter out "This did not answer my question"
-- [ ] categorization
+- [ ] add back to top button / remove filter
+- [ ] add synonyms to mark.js
 - [ ] add toc overview
-- [ ] add synonms to mark.js
-- [ ] low-perf debouncing
-- [ ] conditionally hide alt phrasings when not search hits
 - [ ] expand / collapse all
+- [ ] low-perf debouncing
+- [ ] show revision history
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] add topics
+- [x] filter out "This did not answer my question"
 - [x] figure out async await for fs.writeFile
-- [ ] show revision history
+- [x] update data live api
 - [x] fix mark.js failing
 - [x] fix encoding â€™
+- [x] get primary question from answer markdown
+- [x] conditionally hide alt phrasings when not search hits

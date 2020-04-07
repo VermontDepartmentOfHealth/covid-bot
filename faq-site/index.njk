@@ -48,24 +48,20 @@
                                 <li id="{{faq.id}}" class="faq">
                                     <details >
                                         <summary class="context">
-                                            <h3>{{faq.questions | first}}</h3>
+                                            <h3>{{faq.answer | extractQuestion}}</h3>
                                             <a class="permalink" href="#{{faq.id}}">#</a>
                                         </summary>
 
-                                        <div class="contents">
+                                        <ul class="alt-phrasings">
+                                            {% for q in faq.questions %}
+                                                <li class="phrasing">{{q}}</li>
+                                            {% endfor %}
+                                        </ul>
 
-                                            <h4>Question(s)</h4>
+                                        <div class="answer">
 
-                                            <ul class="questions">
-                                                {% for q in faq.questions %}
-                                                    <li class="question">{{q}}</li>
-                                                {% endfor %}
-                                            </ul>
+                                            {{faq.answer | extractAnswer | md | safe}}
 
-                                            <h4>Answer</h4>
-                                            <p>
-                                                {{faq.answer | md | safe}}
-                                            </p>
                                         </div>
 
                                     </details>

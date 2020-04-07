@@ -62,12 +62,24 @@ module.exports = function(eleventyConfig) {
     });
 
     // add filters
-    eleventyConfig.addFilter("slugify", function(s) {
-        // strip special chars
-        let newStr = s.replace(/[^a-z ]/gi, '').trim();
-        // take first 8 words and separate with "-""
-        newStr = newStr.split(" ").slice(0, 4).join("-");
-        return newStr;
+    eleventyConfig.addFilter("extractQuestion", function(answer) {
+
+        // get initial bold text
+        let match = answer.match(/^\*\*(.*)\*\*/);
+        if (!match) {
+            console.error("Couldn't parse bold question text from: ", answer)
+            return "Question"
+        }
+
+        return match[1];
+    });
+
+    eleventyConfig.addFilter("extractAnswer", function(answer) {
+
+        // replace initial bold text
+        let body = answer.replace(/^\*\*(.*)\*\*/, "");
+
+        return body;
     });
 
 
