@@ -26,9 +26,32 @@
 
         <header id="header" class="header">
 
-            <h1 class="title">VT COVID-19 FAQ</h1>
-            <small class="subtitle">Last Updated:
-                {% now %}</small>
+            <p class="brand">
+                <img src="assets/logo-collapsed.png" alt="VDH Logo">
+                <span class="show-lg">Vermont Department of Health</span>
+                <span class="show-md">VT Department of Health</span>
+                <span class="show-sm">VDH</span>
+            </p>
+            <h1 class="title">
+                <span>
+                    <span class="show-lg">Coronavirus (COVID-19)</span>
+                    <span class="show-md">Coronavirus (COVID-19)</span>
+                    <span class="show-sm">COVID-19</span>
+                </span>
+                <span>
+                    <span class="show-lg">Frequently Asked Questions</span>
+                    <span class="show-md">Frequently Asked Questions</span>
+                    <span class="show-sm">FAQ</span>
+                </span>
+            </h1>
+            <p class="subtitle">
+                <small >
+                    <strong>Last Updated</strong>:
+                    {% now %}
+                    {# todo get timestamp from KB info #}
+                </small>
+            </p>
+
         </header>
 
         <main class="content">
@@ -80,7 +103,7 @@
                     <li>Rephrasing with a smaller word or phrase</li>
                     <li>Scrolling through the avialble topics</li>
                     <li>Querying our FAQ via our Chatbot</li>
-                    <li>Calling the VT Deparment of Health call center at
+                    <li>Calling the VT Department of Health call center at
                         <a href="tel:802-863-7240">(802) 863-7240</a>
                         to talk to a person</li>
                 </ul>
