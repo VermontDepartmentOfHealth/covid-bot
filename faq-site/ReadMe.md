@@ -25,15 +25,17 @@ npm run update-and-build  # gets new KB data and builds site
 
 
 - [ ] add back to top button / remove filter
+- [ ] fix [tel:211]
 - [ ] reset position when clearing filter
 - [ ] add synonyms to mark.js
-- [ ] add toc overview
-- [ ] expand / collapse all
-- [ ] low-perf debouncing
-- [ ] show revision history
-- [ ] save telemetry from search terms
+- [ ] #18 add toc overview
+- [ ] #17 expand / collapse all
+- [ ] #20 low-perf debouncing
+- [ ] #18 show revision history
+- [ ] #22 add telemetry from search terms
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] add VDH logo / branding
 - [x] test for questions missing a category
 - [x] add timestamp
 - [x] add topics
