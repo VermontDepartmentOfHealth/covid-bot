@@ -1,4 +1,4 @@
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("favicon.ico");
@@ -50,11 +50,21 @@ module.exports = function(eleventyConfig) {
                 return faqMatchesTopic
             })
 
+            // parse question and answer
+            let updatedFaqs = faqs.map(faq => {
+                faq.question = extractQuestion(faq.answer)
+                faq.answerBody = extractAnswer(faq.answer)
+                return faq
+            })
+
+            // sort faqs
+            let sortedFaqs = updatedFaqs.sort((a, b) => a.question.localeCompare(b.question))
+
             let properName = topic.charAt(0).toUpperCase() + topic.slice(1);
 
             return {
                 name: properName,
-                faqs: faqs
+                faqs: sortedFaqs
             }
         })
 
@@ -64,26 +74,7 @@ module.exports = function(eleventyConfig) {
         return publishTopicCollection;
     });
 
-    // add filters
-    eleventyConfig.addFilter("extractQuestion", function(answer) {
 
-        // get initial bold text
-        let match = answer.match(/^\*\*(.*)\*\*/);
-        if (!match) {
-            console.error("Couldn't parse bold question text from: ", answer)
-            return "Question"
-        }
-
-        return match[1];
-    });
-
-    eleventyConfig.addFilter("extractAnswer", function(answer) {
-
-        // replace initial bold text
-        let body = answer.replace(/^\*\*(.*)\*\*/, "");
-
-        return body;
-    });
 
     eleventyConfig.addShortcode("now", () => {
         var time = new Date();
@@ -112,6 +103,26 @@ module.exports = function(eleventyConfig) {
     };
 };
 
+
+function extractQuestion(answer) {
+
+    // get initial bold text
+    let match = answer.match(/^\*\*(.*)\*\*/);
+    if (!match) {
+        console.error("Couldn't parse bold question text from: ", answer)
+        return "Question"
+    }
+
+    return match[1];
+}
+
+function extractAnswer(answer) {
+
+    // replace initial bold text
+    let body = answer.replace(/^\*\*(.*)\*\*/, "");
+
+    return body;
+}
 
 function stringsAlphaEqual(a, b) {
     return a.toLowerCase().replace(/[^\w]/g, '') === b.toLowerCase().replace(/[^\w]/g, '')

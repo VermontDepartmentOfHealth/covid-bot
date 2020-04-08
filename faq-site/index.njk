@@ -73,7 +73,7 @@
                                 <li id="{{faq.id}}" class="faq">
                                     <details >
                                         <summary class="context">
-                                            <h3>{{faq.answer | extractQuestion}}</h3>
+                                            <h3>{{faq.question}}</h3>
                                             <a class="permalink" href="#{{faq.id}}">#</a>
                                         </summary>
 
@@ -85,7 +85,7 @@
 
                                         <div class="answer">
 
-                                            {{faq.answer | extractAnswer | md | safe}}
+                                            {{faq.answerBody | md | safe}}
 
                                         </div>
 
