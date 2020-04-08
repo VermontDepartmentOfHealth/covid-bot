@@ -46,7 +46,7 @@ module.exports = function(eleventyConfig) {
 
             let faqs = allFaqs.filter(faq => {
                 let catMetadata = faq.metadata.find(m => m.name === "category")
-                let faqMatchesTopic = catMetadata && stringsAlphaEqual(catMetadata.value, topic)
+                let faqMatchesTopic = catMetadata && catMetadata.value && stringsAlphaEqual(catMetadata.value, topic)
                 return faqMatchesTopic
             })
 
