@@ -1,3 +1,4 @@
+// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out
 var synonyms = {
     "doctor": "healthcare professional",
     "healthcare professional": "health care provider",

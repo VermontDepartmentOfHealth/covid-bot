@@ -1,7 +1,7 @@
 require('dotenv').config()
 const {promises: fs} = require("fs");
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
-
+const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
 
 module.exports = updateData();
 
@@ -53,12 +53,11 @@ async function updateAlterations(client) {
 
 async function writeFile(path, contents) {
 
-
     let projectRoot = __dirname.replace(/tools$/, "");
     let fullPath = `${projectRoot}/${path}`;
 
     try {
-        await fs.writeFile(fullPath, contents)
+        await fs.writeFile(fullPath, GENERATED_FILE_WARNING + contents)
 
         console.log(`Data has been written to ${path}`);
 

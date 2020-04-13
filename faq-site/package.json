@@ -16,6 +16,7 @@
         "@11ty/eleventy": "^0.10.0",
         "@ads-vdh/qnamaker-api": "^1.0.1",
         "dotenv": "^8.2.0",
+        "jsonc-parser": "^2.2.1",
         "mark.js": "^8.11.1"
     }
 }
