@@ -23,11 +23,13 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
-
+- [ ] #26 update timestamp from KB modified time, not build time #26
+- [ ] #24 add linter
+- [ ] add subcategories
 - [ ] add back to top button / remove filter
 - [ ] fix [tel:211]
 - [ ] reset position when clearing filter
-- [ ] add synonyms to mark.js
+- [ ] #25 add synonyms to mark.js
 - [ ] #18 add toc overview
 - [ ] #17 expand / collapse all
 - [ ] #20 low-perf debouncing

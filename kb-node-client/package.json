@@ -1,0 +1,29 @@
+{
+    "name": "@ads-vdh/qnamaker-api",
+    "version": "1.0.2",
+    "publishConfig": {
+        "access": "public"
+    },
+    "description": "An unofficial node wrapper for the Microsoft QnAMaker API",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VermontDepartmentOfHealth/covid-bot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/VermontDepartmentOfHealth/covid-bot/issues"
+    },
+    "homepage": "https://github.com/VermontDepartmentOfHealth/covid-bot#readme",
+    "keywords": [
+        "azure",
+        "QnAMaker",
+        "KnoweldgeBase",
+        "BotServices"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^2.6.0"
+    }
+}

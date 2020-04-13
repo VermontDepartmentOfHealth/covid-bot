@@ -1,40 +1,67 @@
 require('dotenv').config()
-const { promises: fs } = require("fs");
-const fetch = require('node-fetch');
-
+const {promises: fs} = require("fs");
+const qnaMakerApi = require('@ads-vdh/qnamaker-api');
+const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
 
 module.exports = updateData();
 
 async function updateData() {
 
-    // remove tools directory from current path
-    let url = `${process.env.Endpoint}/qnamaker/v4.0/knowledgebases/${process.env.kbId}/${process.env.environment}/qna`
-
-    
-    // get data
-    let resp = await fetch(url, {
-        method: 'get',
-        headers: {
-            "Ocp-Apim-Subscription-Key": process.env.OcpApimSubscriptionKey
-        },
+    let client = qnaMakerApi({
+        endpoint: process.env.Endpoint,
+        apiKey: process.env.OcpApimSubscriptionKey,
+        kbId: process.env.kbId
     })
-    let knowledgeBase = await resp.json();
 
+    updateKnowledgeBase(client)
+    updateAlterations(client)
 
-    // write data
+}
+
+async function updateKnowledgeBase(client) {
+    let knowledgeBase = await client.knowledgeBase.download()
+
+    let contents = JSON.stringify(knowledgeBase, null, 4);
+
+    writeFile("_data/faqs.jsonc", contents)
+}
+
+async function updateAlterations(client) {
+
+    let alterations = await client.alterations.get();
+
+    // etl mapping
+    let allEntries = alterations.wordAlterations.map(alts => {
+        let altWords = alts.alterations
+        let entries = altWords.map((el, i) => {
+            let nextIndex = i === altWords.length - 1 ? 0 : i + 1
+            let next = altWords[nextIndex]
+            let cur = altWords[i]
+
+            return [cur, next]
+        })
+
+        return entries
+    })
+    let flatEntries = [].concat(...allEntries)
+    let synonyms = Object.fromEntries(flatEntries)
+
+    let contents = "var synonyms = " + JSON.stringify(synonyms, null, 4);
+
+    writeFile("assets/synonyms.js", contents)
+}
+
+async function writeFile(path, contents) {
+
     let projectRoot = __dirname.replace(/tools$/, "");
-    let filePath = `${projectRoot}/_data/faqs.json`;
-    let content = JSON.stringify(knowledgeBase, null, 4);
+    let fullPath = `${projectRoot}/${path}`;
 
     try {
-        await fs.writeFile(filePath, content)
+        await fs.writeFile(fullPath, GENERATED_FILE_WARNING + contents)
+
+        console.log(`Data has been written to ${path}`);
+
     } catch (error) {
         console.error(error)
     }
-
-    console.log(`Knowlege base data written to ${filePath}`);
-
-
 }
-// C:\Users\kylemit\Documents\Stash\covid-faq\_data\faqs.json
-// C:\Users\kylemit\Documents\Stash\covid-faq\tools\_data\faqs.js

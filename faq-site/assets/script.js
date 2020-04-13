@@ -30,7 +30,8 @@ function performMark() {
 
                 markInstance.mark(keyword, {
                     done: markComplete,
-                    separateWordSearch: false
+                    separateWordSearch: false,
+                    synonyms: synonyms // should be loaded by synonyms.js
                 });
 
             }

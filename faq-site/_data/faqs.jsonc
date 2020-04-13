@@ -1,3 +1,4 @@
+// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out
 {
     "qnaDocuments": [
         {
@@ -861,7 +862,7 @@
         },
         {
             "id": 776,
-            "answer": "**Are there any recommendations for older people and those with chronic medical conditions?**\n\nSome people are at higher risk of getting very sick from this illness, including older adults (65 years and older) and people with chronic medical conditions like heart disease, diabetes lung disease, moderate to severe asthma, or who are immunocompromised including cancer treatment. According to the CDC, starting at age 65, there is an increasing risk of disease and the risk increases with age. The highest risk of serious illness is in people older than 80 years. \n\nOlder adults and people with chronic medical conditions should take extra precautions including:\n\n* Having needed supplies on hand \n\t * Contact your medical provider to ask about obtaining extra necessary medications in case you need to stay home for a prolonged period of time. \n\t * Have over-the-counter medicines and supplies for fever and other symptoms. \n\t * Have enough household items and groceries on hand so that you will be prepared to stay at home for a period of time\n\n* Avoiding crowds\n\n* Postponing cruise travel and non-essential air travel\n\n* Staying away from others who are sick\n\nRead the CDC’s full guidance on \n\n[People At Risk for Serious Illness from COVID-19.](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)\n\n",
+            "answer": "**Are there any recommendations for older people and those with chronic medical conditions?**\n\nSome people are at higher risk of getting very sick from this illness, including older adults (65 years and older) and people with chronic medical conditions like heart disease, diabetes lung disease, moderate to severe asthma, or who are immunocompromised including cancer treatment. According to the CDC, starting at age 65, there is an increasing risk of disease and the risk increases with age. The highest risk of serious illness is in people older than 80 years. \n\nOlder adults and people with chronic medical conditions should take extra precautions including:\n\n* Having needed supplies on hand \n\t * Contact your medical provider to ask about obtaining extra necessary medications in case you need to stay home for a prolonged period of time. \n\t * Have over-the-counter medicines and supplies for fever and other symptoms. \n\t * Have enough household items and groceries on hand so that you will be prepared to stay at home for a period of time\n\n* Avoiding crowds\n\n* Postponing cruise travel and non-essential air travel\n\n* Staying away from others who are sick\n\nRead the CDC’s full guidance on \n\n[People At Risk for Serious Illness from COVID-19.](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html)\n\n",
             "source": "KB-COVID",
             "questions": [
                 "Are there any recommendations for older people and those with chronic medical conditions?",
@@ -2889,7 +2890,7 @@
         },
         {
             "id": 840,
-            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging operations to be suspended. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the Vermont State Police Guidance on enforcement at [vsp.vermont.gov/covid19/stayhome_enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nOn April 10, effective immediately, the governor authorized lodging operators to accept reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook.",
+            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging facilities to close, except for exemptions when supporting the state’s COVID-19 response. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the Vermont State Police Guidance on enforcement at [vsp.vermont.gov/covid19/stayhome_enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nGovernor Scott announced on Friday, April 10 that lodging operators may accept reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook. ",
             "source": "Editorial",
             "questions": [
                 "What do owners of lodging facilities need to do?",
@@ -3455,7 +3456,7 @@
         },
         {
             "id": 857,
-            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nThe current models project the “peak” of cases between mid-to-late April and early May. The sacrifices Vermonters are making by staying at home are working, and the following weeks will be critical to saving lives. We must keep going so we do not lose the progress we have made. At this time, we do not know how long the Stay Home, Stay Safe order will be in place.\n\nTo see the latest COVID-19 modeling projections, visit [vem.vermont.gov/covid19](https://vem.vermont.gov/covid19).",
+            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nCurrent data shows that the measures taken to slow the spread of COVID-19 are working, but the state has not yet hit its peak number of cases. To continue on this path, it is critical that Vermonters continue staying home and making their day-to-day sacrifices to help save lives.\n\nTo see the latest COVID-19 modeling projections, visit [vem.vermont.gov/covid19](https://vem.vermont.gov/covid19).",
             "source": "Editorial",
             "questions": [
                 "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?",
@@ -3724,7 +3725,13 @@
             "alternateQuestionClusters": [],
             "context": {
                 "isContextOnly": false,
-                "prompts": []
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
             }
         },
         {
@@ -3744,12 +3751,18 @@
             "alternateQuestionClusters": [],
             "context": {
                 "isContextOnly": false,
-                "prompts": []
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question. "
+                    }
+                ]
             }
         },
         {
             "id": 870,
-            "answer": "**What should retailers do to keep their employees safe?**\n\nRetailers have a core obligation to protect the health and safety of their employees and their customers. Given the human contact inherent to most shopping, retailers should take steps to decrease the risk of getting the virus. See the Agency of Commerce and Community Development’s Stay Home Stay Safe Guidance to Retailers: [accd.vermont.gov/sites/accdnew/files/documents/Stay-Home-Stay-Safe-Guidance-for-Retailers.pdf](https://accd.vermont.gov/sites/accdnew/files/documents/Stay-Home-Stay-Safe-Guidance-for-Retailers.pdf)",
+            "answer": "**What should retailers do to keep their employees safe?**\n\nGrocery stores, hardware stores, pharmacies and other businesses that provide necessary goods and services are considered essential and must operate in a way that keeps employees and customers safe. Because every business is unique, the Health Department cannot give guidance that covers every situation. Please see the [COVID-19 Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf) for general health and safety tips for employers to consider.",
             "source": "Editorial",
             "questions": [
                 "What should retailers do to keep their employees safe?"
@@ -3801,7 +3814,7 @@
         },
         {
             "id": 872,
-            "answer": "**I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?**\n\nPeople who have fully recovered from COVID-19 have antibodies in their plasma that can attack the virus. The Red Cross is looking for people who are fully recovered from COVID-19 and may be able to donate plasma. The donated plasma may help current patients with serious or immediately life-threatening COVID-19 infections, or those a health care provider determines to be at high risk of having serious or life-threatening illness from COVID-19.\n\nIf you are fully recovered from a COVID-19 diagnosis that was confirmed by a lab test and would like to donate your plasma, fill out the form on the Red Cross website: [https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html)",
+            "answer": "**I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?**\n\nPeople who have fully recovered from COVID-19 have antibodies in their blood plasma. This is the body’s immune response to the virus. Currently, plasma donations are only being done experimentally. It has not yet been confirmed by the scientific community. However, it could prove to be important in the future to treating serious cases of illness from COVID-19.\n\nThe Red Cross is looking for people who are fully recovered from COVID-19 and may be able to donate plasma. If you are fully recovered from a COVID-19 diagnosis that was confirmed by a lab test and would like to donate your plasma, fill out the form on the Red Cross website: [https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html)",
             "source": "Editorial",
             "questions": [
                 "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
@@ -3821,6 +3834,110 @@
                         "displayOrder": 0,
                         "qnaId": 749,
                         "displayText": "This did NOT answer my question. "
+                    }
+                ]
+            }
+        },
+        {
+            "id": 873,
+            "answer": "**Is there universal testing being done at group living facilities?**\n\nState officials also announced additional measures to slow the spread of COVID-19 in certain types of group living facilities. When a person tests positive at these facilities, everyone in the facility will be tested. This includes nursing homes, corrections facilities, residential home for those with disabilities, residential treatment centers, assisted living facilities and state psychiatric care facilities.",
+            "source": "Editorial",
+            "questions": [
+                "Is there universal testing being done at group living facilities?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 874,
+            "answer": "**What is serologic, or antibody, testing and will it be used in Vermont?**\n\nSerologic testing measures antibodies in the blood of a person who has been infected with COVID-19, whether they felt sick or not. In other words, it measures the body’s immune response to the virus, but does not detect the virus itself. According to the FDA, in the early days of an infection when the body’s immune response is still building, antibodies may not be detected. This limits the test’s effectiveness for diagnosing COVID-19 and why it should not be used as the sole basis to diagnose COVID-19.\n\nSerologic testing is a critical part of Vermont’s strategy. At this stage, it is more important to know who is currently infected with COVID-19. We don’t want to abandon containment strategy yet.\n\nAs the number of people who are infected with COVID-19 begins to level off or go down, it will be important to see who is immune. This also allow us to know how many people had COVID-19, who should get the vaccine first when it’s available, who could still get COVID-19, and who could return to work.\n\nWith any test, there is always a risk of incorrect test results – false positive and false negative results. We need a good and accurate test we can rely on. The Vermont Department of Health has convened a working group of experts to research antibody tests. Based on those findings we will decide how to best include this type of test in Vermont. ",
+            "source": "Editorial",
+            "questions": [
+                "What is serologic, or antibody, testing and will it be used in Vermont?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 875,
+            "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you haven’t had any symptoms and you tested positive for COVID-19, you may stop home isolation when:\n* at least seven days have passed since the date of your first positive COVID-19 test and\n* you still have not had any symptoms.\n\nAfter stop home isolation, continue to stay six feet away from others and wear a face covering in any setting where other people are present.",
+            "source": "Editorial",
+            "questions": [
+                "I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "symptoms and sickness"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 876,
+            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nThe U.S. Food and Drug Administration (FDA) has information and best practices for retail food stores, restaurants, and pick-up and delivery services during the pandemic to protect workers and customers. Many of these are smart food safety practices that employers can consider at any time. This information addresses key considerations for how foods offered at retail can be prepared safely and delivered to the public, as well as key best practices for employee health and personal hygiene, cleaning and sanitizing. See the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic]( https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19). See more [information for businesses and employees](www.healthvermont.gov/covid-19-businesses).",
+            "source": "Editorial",
+            "questions": [
+                "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "work and employees"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
