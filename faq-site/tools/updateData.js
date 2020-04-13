@@ -23,7 +23,7 @@ async function updateKnowledgeBase(client) {
 
     let contents = JSON.stringify(knowledgeBase, null, 4);
 
-    writeFile("_data/faqs.json", contents)
+    writeFile("_data/faqs.jsonc", contents)
 }
 
 async function updateAlterations(client) {
