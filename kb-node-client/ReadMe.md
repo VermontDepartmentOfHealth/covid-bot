@@ -16,6 +16,8 @@ npm install @ads-vdh/qnamaker-api --save
 **Initialize the Client**:
 
 ```js
+let qnaMakerApi = require("@ads-vdh/qnamaker-api");
+
 let client = qnaMakerApi({
   endpoint: endpoint,
   apiKey: ocpApimSubscriptionKey,

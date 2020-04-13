@@ -4,11 +4,14 @@
 
 1. Download and Install [Postman](https://www.postman.com/)
 2. Import Collection `QnA Maker API.postman_collection.json`
-   ![import collection](https://i.imgur.com/1TY2ZJo.png)
-3. Import Environment `QnA Maker Variables.postman_environment.json`
-   ![import environment](https://i.imgur.com/5zzcwh8.png)
-4. Add variables to your empty environment template
 
+   ![import collection](https://i.imgur.com/1TY2ZJo.png)
+
+3. Import Environment `QnA Maker Variables.postman_environment.json`
+
+   ![import environment](https://i.imgur.com/5zzcwh8.png)
+
+4. Add variables to your empty environment template
 
 ## Variables
 

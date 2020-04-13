@@ -49,6 +49,8 @@ Add `.npmrc` file in the current directory with the following info:
 
 ### Publish Package
 
+Revision version number in `package.json`
+
 ```bash
 npm publish --access public
 ```
