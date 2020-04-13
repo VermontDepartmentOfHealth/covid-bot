@@ -4,6 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "clean": "npx rimraf _site",
         "build": "npx @11ty/eleventy",
         "serve": "npx @11ty/eleventy --serve",
         "update-data": "node tools/updateData.js",
