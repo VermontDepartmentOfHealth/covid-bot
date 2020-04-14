@@ -1473,7 +1473,8 @@
                 "dating",
                 "Is it ok to have a friend visit my house?",
                 "Should I get together with a friend?",
-                "visit relatives at home"
+                "visit relatives at home",
+                "an I work on my own home?"
             ],
             "metadata": [
                 {
@@ -1590,10 +1591,10 @@
             "answer": "**What should dentists know about COVID019?**On April 10, Governor Phil Scott extended his order of dental health care professionals practicing in Vermont to suspend all elective dental care until May 15, 2020. This order applies to both children and adult patients. \n\nHealth care professionals must continue to be available to their patients as needed for emergencies and urgent care. \n\nFor more, read the Addendum 3 to Executive Order 01-20 at [governor.vermont.gov/content/addendum-3-executive-order-01-20](https://governor.vermont.gov/content/addendum-3-executive-order-01-20).\n\nTo read the Health Department’s Health Alert, visit [healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf).",
             "source": "Editorial",
             "questions": [
-                "What should dentists know about COVID019?",
                 "What should dentists do?",
                 "I'm a dentist, what should I do?",
-                "Can I go to a dentist appointment?"
+                "Can I go to a dentist appointment?",
+                "What should dentists know about COVID-19?"
             ],
             "metadata": [
                 {
@@ -1886,7 +1887,9 @@
                 "What information is available regarding mass gatherings?",
                 "Are churches able to gather if they have 10 or less people attending",
                 "Should Churches still have services if they are small?",
-                "planning large event"
+                "planning large event",
+                "public events",
+                "Ten people"
             ],
             "metadata": [
                 {
@@ -2379,7 +2382,8 @@
             "questions": [
                 "How can I stay connected while social distancing?",
                 "How can I stay connected while being physically distant?",
-                "can i go outside"
+                "can i go outside",
+                "exercise"
             ],
             "metadata": [
                 {
@@ -2796,7 +2800,7 @@
         },
         {
             "id": 837,
-            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the Vermont Medical Reserve Corp at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, Physician Assistant and Podiatrists who are licensed in other states or who were previously licensed can visit the Health Department website and review the guide on emergency licensure at [www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other previously licensed medical professionals, including nurses, can learn more at [https://sos.vermont.gov/opr/about-opr/covid-19-response/](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\n**Give blood**: Visit the American Red Cross to learn how to safely donate blood: [www.redcross.org/local/new-hampshire-vermont.html](https://www.redcross.org/local/new-hampshire-vermont.html). \n\nSupport your local Food Bank. Donate online at [vtfoodbank.org](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. If you're in need of help, please visit [www.vtfoodbank.org/gethelp](https://www.vtfoodbank.org/gethelp)\n\nYou can also help your neighbors – older adults and at-risk people should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the guidelines on being a good neighbor at: [https://vem.vermont.gov/neighborly](https://vem.vermont.gov/neighborly).",
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the Vermont Medical Reserve Corp at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, physician assistants and podiatrists can learn more on the [Board of Medical Practice website](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other medical professionals, including nurses and osteopathic physicians, can learn more on the [Office of Professional Regulation's website](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\n**Give blood**: Visit the American Red Cross to learn how to safely donate blood: [www.redcross.org/local/new-hampshire-vermont.html](https://www.redcross.org/local/new-hampshire-vermont.html). \n\nSupport your local Food Bank. Donate online at [vtfoodbank.org](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. If you're in need of help, please visit [www.vtfoodbank.org/gethelp](https://www.vtfoodbank.org/gethelp)\n\nYou can also help your neighbors – older adults and at-risk people should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the guidelines on being a good neighbor at: [https://vem.vermont.gov/neighborly](https://vem.vermont.gov/neighborly).",
             "source": "Editorial",
             "questions": [
                 "Can I volunteer to help with the State’s response to COVID-19?",
@@ -2825,6 +2829,11 @@
                         "displayOrder": 0,
                         "qnaId": 838,
                         "displayText": "Is volunteering allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 877,
+                        "displayText": "Can I get a temporary health professional license?"
                     }
                 ]
             }
@@ -3178,7 +3187,8 @@
                 "How to get documentation if you are an essential worker?",
                 "Vermont’s Airport is open or not?",
                 "What is open?",
-                "Are landscapers able to work? "
+                "Are landscapers able to work? ",
+                "Are office staff essential workers?"
             ],
             "metadata": [
                 {
@@ -3205,7 +3215,8 @@
             "source": "Editorial",
             "questions": [
                 "I have questions about financial assistance and housing.",
-                "can't pay premium"
+                "can't pay premium",
+                "I am homeless what do I do?"
             ],
             "metadata": [
                 {
@@ -3433,7 +3444,8 @@
                 "Can I go for a drive?",
                 "Driving restrictions",
                 "Is going for a walk with neighbors practicing social distancing, considered essential activity?",
-                "Is it OK to go for walks with neighbors practicing social distancing?"
+                "Is it OK to go for walks with neighbors practicing social distancing?",
+                "outdoors"
             ],
             "metadata": [
                 {
@@ -3576,7 +3588,8 @@
             "questions": [
                 "Where can I get tested for COVID-19?",
                 "is there a testing site in my town?",
-                "where can I be tested?"
+                "where can I be tested?",
+                "Covid-19 testing locations"
             ],
             "metadata": [
                 {
@@ -3631,7 +3644,7 @@
         },
         {
             "id": 863,
-            "answer": "**What information is available concerning executive orders for nursing homes, assisted-living, and state therapeutic care residences?**\n\nA March 13 executive order from the Governor requires nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care. More information can be found on our website at [www.healthvermont.gov/COVID19-longtermcare](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings)",
+            "answer": "**What information is available concerning executive orders for nursing homes, assisted-living, and state therapeutic care residences?**\n\nA March 13 executive order from the Governor requires nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care. There is guidance on preventing the spread of COVID-19 for managers and owners of [senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf). The guidance includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFor more information, visit [healthvermont.gov/COVID19-longtermcare](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings).",
             "source": "Editorial",
             "questions": [
                 "What information is available concerning executive orders for nursing homes, assisted-living, and state therapeutic care residences?"
@@ -3866,7 +3879,7 @@
         },
         {
             "id": 874,
-            "answer": "**What is serologic, or antibody, testing and will it be used in Vermont?**\n\nSerologic testing measures antibodies in the blood of a person who has been infected with COVID-19, whether they felt sick or not. In other words, it measures the body’s immune response to the virus, but does not detect the virus itself. According to the FDA, in the early days of an infection when the body’s immune response is still building, antibodies may not be detected. This limits the test’s effectiveness for diagnosing COVID-19 and why it should not be used as the sole basis to diagnose COVID-19.\n\nSerologic testing is a critical part of Vermont’s strategy. At this stage, it is more important to know who is currently infected with COVID-19. We don’t want to abandon containment strategy yet.\n\nAs the number of people who are infected with COVID-19 begins to level off or go down, it will be important to see who is immune. This also allow us to know how many people had COVID-19, who should get the vaccine first when it’s available, who could still get COVID-19, and who could return to work.\n\nWith any test, there is always a risk of incorrect test results – false positive and false negative results. We need a good and accurate test we can rely on. The Vermont Department of Health has convened a working group of experts to research antibody tests. Based on those findings we will decide how to best include this type of test in Vermont. ",
+            "answer": "**What is serologic, or antibody, testing and will it be used in Vermont?**\n\nSerologic testing measures antibodies in the blood of a person who has been infected with COVID-19, whether they felt sick or not. In other words, it measures the body’s immune response to the virus, but does not detect the virus itself. According to the FDA, in the early days of an infection when the body’s immune response is still building, antibodies may not be detected. This limits the test’s effectiveness for diagnosing COVID-19 and why it should not be used as the sole basis to diagnose COVID-19.\n\nSerologic testing is a critical part of Vermont’s strategy. At this stage, it is more important to know who is currently infected with COVID-19. We don’t want to abandon containment strategy yet.\n\nAs the number of people who are infected with COVID-19 begins to level off or go down, it will be important to see who is immune. This also allows us to know how many people had COVID-19, who should get the vaccine first when it’s available, who could still get COVID-19, and who could return to work.\n\nWith any test, there is always a risk of incorrect test results – false positive and false negative results. We need a good and accurate test we can rely on. The Vermont Department of Health has convened a working group of experts to research antibody tests. Based on those findings we will decide how to best include this type of test in Vermont. ",
             "source": "Editorial",
             "questions": [
                 "What is serologic, or antibody, testing and will it be used in Vermont?"
@@ -3918,7 +3931,7 @@
         },
         {
             "id": 876,
-            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nThe U.S. Food and Drug Administration (FDA) has information and best practices for retail food stores, restaurants, and pick-up and delivery services during the pandemic to protect workers and customers. Many of these are smart food safety practices that employers can consider at any time. This information addresses key considerations for how foods offered at retail can be prepared safely and delivered to the public, as well as key best practices for employee health and personal hygiene, cleaning and sanitizing. See the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic]( https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19). See more [information for businesses and employees](www.healthvermont.gov/covid-19-businesses).",
+            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nThe U.S. Food and Drug Administration (FDA) has information and best practices for retail food stores, restaurants, and pick-up and delivery services during the pandemic to protect workers and customers. Many of these are smart food safety practices that employers can consider at any time. This information addresses key considerations for how foods offered at retail can be prepared safely and delivered to the public, as well as key best practices for employee health and personal hygiene, cleaning and sanitizing. See the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic]( https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19). See more [information for businesses and employees](https://www.healthvermont.gov/response/coronavirus-covid-19/businesses-and-employees).",
             "source": "Editorial",
             "questions": [
                 "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?"
@@ -3927,6 +3940,84 @@
                 {
                     "name": "category",
                     "value": "work and employees"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 877,
+            "answer": "**I’m a health professional and would like to volunteer. How do I get a temporary license?**\n\nHealth care professionals can quickly become temporarily licensed to provide care during the COVID-19 public health emergency. This includes people who were previously licensed, even if they are retired from practice and do not hold an active license in any state.\n\nThe new emergency measures grant a temporary license for health professionals who:\n * Are licensed and in good standing in other states\n * Were licensed in Vermont, but whose licenses lapsed in recent years\n\nThere are no fees of any kind to obtain a temporary emergency license.\n\nThe process for applying will depend on the applicant’s status. Some just need to submit information about who they are and where they will be practicing. Others will be required to apply for the license using a streamlined process.\n\nTo apply for a license or get more information about the process contact the licensing authority for your profession:\n * [Board of Medical Practice](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19) (medical doctors, physician assistants, and podiatrists) or 802-657-4223.\n * [Office of Professional Regulation](https://sos.vermont.gov/opr/about-opr/covid-19-response/) (other health care professions – including nurses and osteopathic physicians) or 802-828-1505.",
+            "source": "Editorial",
+            "questions": [
+                "I’m a health professional and would like to volunteer. How do I get a temporary license?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "caring for yourself and others"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 878,
+            "answer": "**What information is available for managers and owners of apartment complexes to help prevent the spread of COVID-19?**\n\nFor guidance on preventing the spread of COVID-19 for managers and owners of apartment complexes, visit [healthvermont.gov/COVID19-groupliving](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings). Find information for making a plan, preparing common spaces and communicating with residents or staff, in addition to outlining the role of the Health Department.",
+            "source": "Editorial",
+            "questions": [
+                "What information is available for managers and owners of apartment complexes to help prevent the spread of COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "businesses, organizations, schools"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 879,
+            "answer": "**What should I do if I have a dental emergency?**\n\nThere are some cases where you may need to see a dentist. Some in-person treatment options may be limited because some dental treatments produce aerosol, which raises the risk of spreading COVID-19. And in some cases, complete care may not be safe to provide during the pandemic.\n\nIf you are experiencing one of the following symptoms or situations, then you should contact your regular dentist: \n * Heavy bleeding that won’t stop \n * Painful swelling in or around your mouth \n * Pain in a tooth, teeth or jawbone \n * Gum infection with pain or swelling \n * Treatment after surgery (dressing change, stitch removal) \n * Broken or knocked out tooth \n * Denture adjustment for people receiving radiation or other treatment for cancer \n * Wire of braces poking your cheek or gums \n *    Biopsy of abnormal tissue\n\nYou can contact your regular dentist by: \n * Phone – calling or texting \n * Video chats through FaceTime, Skype, Facebook Messenger or Google Hangouts\n\nIf you don’t have a regular dentist, call 211, and they can assist you in finding one.\n\nThe dentist will ask you if you have a fever (take a current temperature reading), dry cough, or trouble breathing. They will be able to give you advice to alleviate pain, swelling or other urgent issue.\n\nFor more information on what is a dental emergency, please check the [American Dental Association’s patient guide](https://www.mouthhealthy.org/en/dental-care-concerns/covid-19).",
+            "source": "Editorial",
+            "questions": [
+                "What should I do if I have a dental emergency?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "businesses, organizations, schools"
                 }
             ],
             "alternateQuestions": "",
