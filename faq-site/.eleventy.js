@@ -1,4 +1,6 @@
-module.exports = function (eleventyConfig) {
+const utilities = require('./tools/utilities')
+
+module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("favicon.ico");
@@ -29,7 +31,7 @@ module.exports = function (eleventyConfig) {
         // get new topics
         let newTopics = allUniqTopics.filter(at => {
             let faqTopicExists = sortedTopics.some(st => {
-                let nameExists = stringsAlphaEqual(st, at)
+                let nameExists = utilities.stringsAlphaEqual(st, at)
                 return nameExists
             })
             return !faqTopicExists
@@ -46,14 +48,14 @@ module.exports = function (eleventyConfig) {
 
             let faqs = allFaqs.filter(faq => {
                 let catMetadata = faq.metadata.find(m => m.name === "category")
-                let faqMatchesTopic = catMetadata && catMetadata.value && stringsAlphaEqual(catMetadata.value, topic)
+                let faqMatchesTopic = catMetadata && catMetadata.value && utilities.stringsAlphaEqual(catMetadata.value, topic)
                 return faqMatchesTopic
             })
 
             // parse question and answer
             let updatedFaqs = faqs.map(faq => {
-                faq.question = extractQuestion(faq.answer)
-                faq.answerBody = extractAnswer(faq.answer)
+                faq.question = utilities.extractQuestion(faq.answer)
+                faq.answerBody = utilities.extractAnswer(faq.answer)
                 return faq
             })
 
@@ -95,35 +97,5 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("md", content => md.render(content))
 
 
-    return {
-
-        // By default markdown files are pre-processing with liquid template engine
-        // https://www.11ty.io/docs/config/#default-template-engine-for-markdown-files
-        markdownTemplateEngine: "njk",
-    };
+    return {};
 };
-
-
-function extractQuestion(answer) {
-
-    // get initial bold text
-    let match = answer.match(/^\*\*(.*)\*\*/);
-    if (!match) {
-        console.error("Couldn't parse bold question text from: ", answer)
-        return "Question"
-    }
-
-    return match[1];
-}
-
-function extractAnswer(answer) {
-
-    // replace initial bold text
-    let body = answer.replace(/^\*\*(.*)\*\*/, "");
-
-    return body;
-}
-
-function stringsAlphaEqual(a, b) {
-    return a.toLowerCase().replace(/[^\w]/g, '') === b.toLowerCase().replace(/[^\w]/g, '')
-}
