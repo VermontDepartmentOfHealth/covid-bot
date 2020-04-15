@@ -17,6 +17,13 @@
       "name": "Update Data",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\tools\\updateData.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Lint Data",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\tools\\lintData.js"
     }
   ]
 }

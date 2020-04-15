@@ -8,7 +8,8 @@
         "build": "npx @11ty/eleventy",
         "serve": "npx @11ty/eleventy --serve",
         "update-data": "node tools/updateData.js",
-        "update-and-build": "npm run update-data && npm run build"
+        "update-and-build": "npm run update-data && npm run build",
+        "lint": "node tools/lintData.js"
     },
     "keywords": [],
     "author": "",
@@ -16,8 +17,10 @@
     "dependencies": {
         "@11ty/eleventy": "^0.10.0",
         "@ads-vdh/qnamaker-api": "^1.0.1",
+        "chalk": "^3.0.0",
         "dotenv": "^8.2.0",
         "jsonc-parser": "^2.2.1",
-        "mark.js": "^8.11.1"
+        "mark.js": "^8.11.1",
+        "node-fetch": "^2.6.0"
     }
 }
