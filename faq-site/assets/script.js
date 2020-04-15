@@ -2,7 +2,48 @@ var keywordInput = document.querySelector("#search");
 var searchArea = document.querySelector(".topics")
 var markInstance = new Mark(searchArea);
 
+
+var sendAnalyticsDebounced = debounceGenerator(sendAnalytics, 2500)
+
+
 keywordInput.addEventListener("input", performMark);
+
+keywordInput.addEventListener("input", sendAnalyticsDebounced);
+
+
+/**
+ * Debounce Function Generator
+ * @param {func} func the function you would utlimately like invoked
+ * @param {number} delay the wait time before executing
+ * @returns {func} debouncedFunction that you can invoke
+ * @description https://www.geeksforgeeks.org/debouncing-in-javascript/
+ */
+function debounceGenerator(func, delay) {
+    var debounceTimer
+
+    return function() {
+
+        var context = this
+        var args = arguments
+
+        clearTimeout(debounceTimer)
+
+        debounceTimer = setTimeout(function() {
+            return func.apply(context, args)
+        }, delay)
+    }
+}
+
+function sendAnalytics() {
+
+    // debounce 
+    // Read the keyword
+    var keyword = keywordInput.value;
+
+    ga('send', 'pageview', 'COVID/faq/?searchText=' + keyword);
+
+}
+
 
 function performMark() {
 
