@@ -184,7 +184,8 @@
             "questions": [
                 "Are children more susceptible to the virus that causes COVID-19 compared with the general population?",
                 "Can kids get Covid-19?",
-                "Can kids get it?"
+                "Can kids get it?",
+                "are children at risk"
             ],
             "metadata": [
                 {
@@ -261,7 +262,8 @@
                 "Why do doctors wear face masks?",
                 "Can face masks keep you from getting sick?",
                 "Has the guidance changed regarding masks?",
-                "Are masks required"
+                "Are masks required",
+                "face covering, is it mandatory?"
             ],
             "metadata": [
                 {
@@ -450,7 +452,8 @@
             "answer": "**Is Vermont conducting tests for COVID-19?**\n\nYes, the Vermont Department of Health Laboratory, University of Vermont Medical Center and commercial labs are running tests for COVID-19. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website  [www.healthvermont.gov/COVID19-currentactivity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\n",
             "source": "KB-COVID",
             "questions": [
-                "Is Vermont conducting tests for COVID-19?"
+                "Is Vermont conducting tests for COVID-19?",
+                "How many people have been tested for COVID-19 in Vermont?"
             ],
             "metadata": [
                 {
@@ -917,7 +920,8 @@
                 "Exposure ",
                 "exposed",
                 "community exposure",
-                "may have been exposed to covid-19 came within a few feet of me and spoke a few words"
+                "may have been exposed to covid-19 came within a few feet of me and spoke a few words",
+                "What if you are exposed to someone presumed COVID-19 positive at work?"
             ],
             "metadata": [
                 {
@@ -1677,7 +1681,8 @@
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
-                "Can neighborhood kids play together outside during the COVID-19 outbreak in Vermont?"
+                "Can neighborhood kids play together outside during the COVID-19 outbreak in Vermont?",
+                "Can I go to playgrounds?"
             ],
             "metadata": [
                 {
@@ -1889,7 +1894,9 @@
                 "Should Churches still have services if they are small?",
                 "planning large event",
                 "public events",
-                "Ten people"
+                "Ten people",
+                "public functions",
+                "How many people in a public gathering?"
             ],
             "metadata": [
                 {
@@ -1996,7 +2003,8 @@
                 "Is the mail that I take out of my box at the post office safe from the virus?",
                 "How likely is it that my mail will have Covid-19 on it?",
                 "How long can COVID-19 remain viable on paper?",
-                "Should I clean packages?"
+                "Should I clean packages?",
+                "Is there a risk to handle mail?"
             ],
             "metadata": [
                 {
@@ -2178,8 +2186,13 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 860,
+                        "displayText": "Can I get COVID-19 from my pets or other animals?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 749,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2244,8 +2257,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 857,
+                        "displayText": "When will the “Stay Home, Stay Safe” Order end?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 749,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2419,7 +2437,8 @@
             "answer": "**Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of this executive order will be handled primarily through education and voluntary compliance. The executive order does not close roads, nor does it establish roadblocks or checkpoints. Motor vehicle and pedestrian traffic will continue as Vermonters engage in permissible activities outdoors and travel to and from businesses (including grocery stores and pharmacies) and other entities that are continuing to operate as the order allows. The executive order does not establish cause to initiate a motor vehicle stop or detain people for questioning about their travel, but law enforcement officers may be reminding people of the order’s provisions if they see groups congregating or businesses operating in violation of the order.\n\nFor more on what the governor's stay home/stay safe order means to Vermonters, visit [https://vem.vermont.gov/StayHome](https://vem.vermont.gov/StayHome)",
             "source": "Editorial",
             "questions": [
-                "Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?"
+                "Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?",
+                "Can Vermont residents travel within state?"
             ],
             "metadata": [
                 {
@@ -2746,7 +2765,8 @@
                 "COVID-19 hot spots in my town",
                 "COVID-19 hot spots in Burlington",
                 "Do any of Rutland's nursing homes have COVID-19 cases?",
-                "Which counties have Covid-19?"
+                "Which counties have Covid-19?",
+                "Diagnoses in Orleans county"
             ],
             "metadata": [
                 {
@@ -2777,7 +2797,8 @@
                 "what does quarantine mean?",
                 "what does self-observation mean?",
                 "If you are on 14 quarantine, can you do curb side pick up?",
-                "directly exposed to the virus"
+                "directly exposed to the virus",
+                "should everyone quarantine?"
             ],
             "metadata": [
                 {
@@ -3052,7 +3073,7 @@
         },
         {
             "id": 845,
-            "answer": "**What do I do if I work for a job that is considered essential, but my child care program is closed?**\n\nChild care is available for those who have been deemed essential to the COVID-19 response. Workers in critical businesses who are working out of the home and do not have other options are eligible for child care. For more information and to fill out an online form for assistance with options for child care for children up to grade 8, visit: [https://vem.vermont.gov/essentialpersons](https://vem.vermont.gov/essentialpersons). You can also call [2-1-1](href=tel:211) ext. 6.\n\n",
+            "answer": "**What do I do if I work for a job that is considered essential, but my child care program is closed?**\n\nChild care is available for those who have been deemed essential to the COVID-19 response. Workers in critical businesses who are working out of the home and do not have other options are eligible for child care. For more information and to fill out an online form for assistance with options for child care for children up to grade 8, visit: [https://vem.vermont.gov/essentialpersons](https://vem.vermont.gov/essentialpersons). You can also call [2-1-1](tel:211) ext. 6.\n\n",
             "source": "Editorial",
             "questions": [
                 "What do I do if I work for a job that is considered essential, but my child care program is closed?",
@@ -3090,7 +3111,8 @@
                 "Can I get unemployment? How do I file an unemployment claim?",
                 "stimulus package unemployment benefits",
                 "self-employed",
-                " need the extra 600 dollars"
+                " need the extra 600 dollars",
+                "Can I collect unemployment due to Covid-19?"
             ],
             "metadata": [
                 {
@@ -3445,7 +3467,9 @@
                 "Driving restrictions",
                 "Is going for a walk with neighbors practicing social distancing, considered essential activity?",
                 "Is it OK to go for walks with neighbors practicing social distancing?",
-                "outdoors"
+                "outdoors",
+                "Exercise allowed",
+                "Can I go motorcycling?"
             ],
             "metadata": [
                 {
@@ -3468,7 +3492,7 @@
         },
         {
             "id": 857,
-            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nCurrent data shows that the measures taken to slow the spread of COVID-19 are working, but the state has not yet hit its peak number of cases. To continue on this path, it is critical that Vermonters continue staying home and making their day-to-day sacrifices to help save lives.\n\nTo see the latest COVID-19 modeling projections, visit [vem.vermont.gov/covid19](https://vem.vermont.gov/covid19).",
+            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nOriginally, data predicted that COVID-19 cases in Vermont would peak in mid- to late-April, or maybe in early May. Most recent data suggest the peak will happen in mid-April. Recently, the number of new cases has begun to level off. However, we would like to continue to wait and see if that continues before determining whether we have hit our peak in Vermont. To continue on this path, it is critical that Vermonters continue staying home and making their day-to-day sacrifices to help save lives.\n\nTo see the latest COVID-19 modeling projections, visit [vem.vermont.gov/covid19](https://vem.vermont.gov/covid19).",
             "source": "Editorial",
             "questions": [
                 "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?",
@@ -3481,7 +3505,8 @@
                 "Is April 15 realistic? ",
                 "When will restrictions be lifted?",
                 "What if the SURGE doesn't happen",
-                "How much longer is it necessary to mitigate this virus?"
+                "How much longer is it necessary to mitigate this virus?",
+                "Where is the projection model for Vermont?"
             ],
             "metadata": [
                 {
@@ -3560,7 +3585,8 @@
             "answer": "**Can I get COVID-19 from my pets or other animals?**\nThere is no reason at this time to think that any animals, including pets, in the U.S. source of infection with this new coronavirus that causes COVID-19. \n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. For more information on staying safe and healthy around animals including pets, visit CDC’s [www.cdc.gov/healthypets/index.html](https://www.cdc.gov/healthypets/index.html).\n\n",
             "source": "Editorial",
             "questions": [
-                "Can I get COVID-19 from my pets or other animals?"
+                "Can I get COVID-19 from my pets or other animals?",
+                "Can pets transmit Covid-19?"
             ],
             "metadata": [
                 {
@@ -3662,6 +3688,11 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 873,
+                        "displayText": "Universal testing at group living facilities?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 749,
                         "displayText": "This did NOT answer my question. "
                     }
@@ -3674,7 +3705,8 @@
             "source": "Editorial",
             "questions": [
                 "How can I report a person or business who is violating the Stay Home, Stay Safe Order?",
-                "businesses not in compliance to the covid-19 order"
+                "businesses not in compliance to the covid-19 order",
+                "If I see my neighbor not abiding by guidelines, am I supposed to inform someone?"
             ],
             "metadata": [
                 {
@@ -3697,7 +3729,7 @@
         },
         {
             "id": 865,
-            "answer": "**Is there a rapid (fast) test for COVID-19?**\n\nVermont will soon have a limited supply of rapid COVID-19 test machines and supplies. These tests take about 15 minutes for results. The Health Department is currently determining the best locations for these testing machines based on a number of factors. Potential locations could include hospitals, small facilities experiencing a COVID-19 outbreak, and new testing sites. We will be exploring all of these options and more.",
+            "answer": "**Is there a rapid (fast) test for COVID-19?**\n\nVermont will soon have a has a limited supply of rapid COVID-19 test machines and supplies. These tests take about 15 minutes for results. Currently, the Health Department is confirming the accuracy of these new tests to detect COVID-19 before they are used. Once they are validated, the Health Department will determine the best locations for these testing machines based on a number of factors. Potential locations could include hospitals, small facilities experiencing a COVID-19 outbreak, and new testing sites.",
             "source": "Editorial",
             "questions": [
                 "Is there a rapid (fast) test for COVID-19?"
@@ -3809,7 +3841,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "assistance"
+                    "value": "additional resources"
                 }
             ],
             "alternateQuestions": "",
@@ -3856,7 +3888,8 @@
             "answer": "**Is there universal testing being done at group living facilities?**\n\nState officials also announced additional measures to slow the spread of COVID-19 in certain types of group living facilities. When a person tests positive at these facilities, everyone in the facility will be tested. This includes nursing homes, corrections facilities, residential home for those with disabilities, residential treatment centers, assisted living facilities and state psychiatric care facilities.",
             "source": "Editorial",
             "questions": [
-                "Is there universal testing being done at group living facilities?"
+                "Is there universal testing being done at group living facilities?",
+                "enforce that a nursing home test a resident for Covid-19?"
             ],
             "metadata": [
                 {
@@ -3931,7 +3964,7 @@
         },
         {
             "id": 876,
-            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nThe U.S. Food and Drug Administration (FDA) has information and best practices for retail food stores, restaurants, and pick-up and delivery services during the pandemic to protect workers and customers. Many of these are smart food safety practices that employers can consider at any time. This information addresses key considerations for how foods offered at retail can be prepared safely and delivered to the public, as well as key best practices for employee health and personal hygiene, cleaning and sanitizing. See the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic]( https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19). See more [information for businesses and employees](https://www.healthvermont.gov/response/coronavirus-covid-19/businesses-and-employees).",
+            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nThe U.S. Food and Drug Administration (FDA) has information and best practices for retail food stores, restaurants, and pick-up and delivery services during the pandemic to protect workers and customers. Many of these are smart food safety practices that employers can consider at any time. This information addresses key considerations for how foods offered at retail can be prepared safely and delivered to the public, as well as key best practices for employee health and personal hygiene, cleaning and sanitizing. See the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19). See more [information for businesses and employees](https://www.healthvermont.gov/response/coronavirus-covid-19/businesses-and-employees).",
             "source": "Editorial",
             "questions": [
                 "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?"
@@ -4013,6 +4046,32 @@
             "source": "Editorial",
             "questions": [
                 "What should I do if I have a dental emergency?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "businesses, organizations, schools"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 749,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 880,
+            "answer": "**Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?**\n\nThe governor’s Stay Home, Stay Safe Order says that “other building and property services for the safety, sanitation and operations of residences or other businesses” are considered critical. This means that property management and landscaping businesses may do limited in-person operations under the governor’s Stay Home, Stay Safe Order. According to the Agency of Commerce and Community Development (ACCD), these include building services such as janitorial services, security services, pest control and maintenance and repair operations that are essential to protecting property.\n\nAny aesthetic work should not be happening, which includes gardening, tree pruning (if not essential for safety), spring lawn cleanups, or any other work to “get ready” for the season.\n\nBusinesses may continue limited in-person operations that will protect them from failure or damage (for example, minimal and basic care of golf courses, ball fields, campgrounds, and trail networks to prevent damage and loss). Any work that can be delayed, must be delayed.\n\nMore details are available on the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
+            "source": "Editorial",
+            "questions": [
+                "Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?"
             ],
             "metadata": [
                 {
