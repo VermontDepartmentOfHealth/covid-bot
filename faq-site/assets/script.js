@@ -3,7 +3,14 @@ var searchArea = document.querySelector(".topics")
 var markInstance = new Mark(searchArea);
 
 
-var sendAnalyticsDebounced = debounceGenerator(sendAnalytics, 2500)
+var sendAnalytics = function() {
+    // https://stackoverflow.com/a/61241460/1366033
+    gtag('config', 'UA-52251621-2', {
+        'page_title': 'FAQ Search',
+        'page_path': '/COVID/faq/?searchText=' + encodeURI(keywordInput.value)
+    });
+}
+var sendAnalyticsDebounced = debounce(sendAnalytics, 2500)
 
 
 keywordInput.addEventListener("input", performMark);
@@ -13,36 +20,45 @@ keywordInput.addEventListener("input", sendAnalyticsDebounced);
 
 /**
  * Debounce Function Generator
- * @param {func} func the function you would utlimately like invoked
+ * @param {func} func the function you would ultimately like invoked
  * @param {number} delay the wait time before executing
- * @returns {func} debouncedFunction that you can invoke
- * @description https://www.geeksforgeeks.org/debouncing-in-javascript/
+ * @returns {func} debouncedFunction that you can call
+ * @description https://stackoverflow.com/a/61241621/1366033
  */
-function debounceGenerator(func, delay) {
-    var debounceTimer
+function debounce(func, delay) {
+    var timeoutId
 
     return function() {
 
         var context = this
         var args = arguments
 
-        clearTimeout(debounceTimer)
+        clearTimeout(timeoutId)
 
-        debounceTimer = setTimeout(function() {
+        timeoutId = setTimeout(function() {
             return func.apply(context, args)
         }, delay)
     }
 }
 
-function sendAnalytics() {
 
-    // debounce 
-    // Read the keyword
-    var keyword = keywordInput.value;
 
-    ga('send', 'pageview', 'COVID/faq/?searchText=' + keyword);
+function debounce(func, wait) {
+    var timeoutId;
 
-}
+    return function() {
+        var context = this,
+            args = arguments;
+
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(function() {
+            func.apply(context, args);
+        }, wait);
+    };
+};
+
+
+
 
 
 function performMark() {
