@@ -16,14 +16,25 @@ module.exports = function(eleventyConfig) {
         // get all sorted topics
         let sortedTopics = col.items[0].data.topics
 
+        // transform faq object
+        allFaqs = allFaqs.map(faq => {
+            let { id, answer, questions, metadata } = faq
+
+            let qna = { id, questions }
+
+            // extract question and answer
+            qna.question = utilities.extractQuestion(answer) || faq.questions[0]
+            qna.answerBody = utilities.extractAnswer(answer)
+
+            // flatten metadata
+            qna.metadata = utilities.flattenArrayToObject(metadata)
+
+            return qna
+        })
+
+
         // get all new topics
-        let allTopics = allFaqs.map(faq => {
-            let catMetadata = faq.metadata.find(m => m.name === "category")
-            if (!catMetadata) {
-                console.error("Missing Category for question: ", faq.questions[0])
-            }
-            return catMetadata ? catMetadata.value : ""
-        }).filter(cat => cat)
+        let allTopics = allFaqs.map(faq => faq.metadata.category).filter(cat => cat)
 
         // deduplicate
         let allUniqTopics = [...new Set(allTopics)];
@@ -46,26 +57,13 @@ module.exports = function(eleventyConfig) {
         // map topics array into {topic: name, faqs: []}
         let topicCollection = publishTopics.map(topic => {
 
-            let faqs = allFaqs.filter(faq => {
-                let catMetadata = faq.metadata.find(m => m.name === "category")
-                let faqMatchesTopic = catMetadata && catMetadata.value && utilities.stringsAlphaEqual(catMetadata.value, topic)
-                return faqMatchesTopic
-            })
-
-            // parse question and answer
-            let updatedFaqs = faqs.map(faq => {
-                faq.question = utilities.extractQuestion(faq.answer)
-                faq.answerBody = utilities.extractAnswer(faq.answer)
-                return faq
-            })
+            let catFaqs = allFaqs.filter(faq => utilities.stringsAlphaEqual(faq.metadata.category, topic))
 
             // sort faqs
-            let sortedFaqs = updatedFaqs.sort((a, b) => a.question.localeCompare(b.question))
-
-            let properName = topic.charAt(0).toUpperCase() + topic.slice(1);
+            let sortedFaqs = catFaqs.sort((a, b) => a.question.localeCompare(b.question))
 
             return {
-                name: properName,
+                name: utilities.toProperCase(topic),
                 faqs: sortedFaqs
             }
         })
