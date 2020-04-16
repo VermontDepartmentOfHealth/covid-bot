@@ -24,6 +24,12 @@
       "name": "Lint Data",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\tools\\lintData.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Deploy to Prod",
+      "program": "${workspaceFolder}\\tools\\deployToProd.js"
     }
   ]
 }

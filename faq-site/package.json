@@ -9,7 +9,8 @@
         "serve": "npx @11ty/eleventy --serve",
         "update-data": "node tools/updateData.js",
         "update-and-build": "npm run update-data && npm run build",
-        "lint": "node tools/lintData.js"
+        "lint": "node tools/lintData.js",
+        "deploy-to-prod": "node tools/deployToProd.js"
     },
     "keywords": [],
     "author": "",
