@@ -2,6 +2,7 @@ module.exports = {
     extractQuestion,
     extractAnswer,
     stringsAlphaEqual,
+    toProperCase,
     flattenArrayToObject
 }
 
@@ -25,6 +26,11 @@ function extractAnswer(answer) {
 function stringsAlphaEqual(a, b) {
     return a.toLowerCase().replace(/[^\w]/g, '') === b.toLowerCase().replace(/[^\w]/g, '')
 }
+
+function toProperCase(str) {
+    return str[0].toUpperCase() + str.slice(1);
+}
+
 
 function flattenArrayToObject(arr) {
     let entries = arr.map(el => [el.name, el.value])
