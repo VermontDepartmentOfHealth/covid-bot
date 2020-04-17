@@ -101,13 +101,13 @@ module.exports = function(eleventyConfig) {
 
                 // sort faqs
                 let sortedFaqs = subCatFaqs.sort((a, b) => {
-                    let aSortInt = a.metadata.sort || 0
-                    let bSortInt = b.metadata.sort || 0
+                    let aSortInt = a.metadata.sort ? +a.metadata.sort : 0
+                    let bSortInt = b.metadata.sort ? +b.metadata.sort : 0
                         // order first by sort (if it exists)
                     if (aSortInt > bSortInt) {
-                        return 1;
-                    } else if (bSortInt) {
                         return -1;
+                    } else if (bSortInt) {
+                        return 1;
                     }
 
                     // then by alphabetical
