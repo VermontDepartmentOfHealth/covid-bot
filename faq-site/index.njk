@@ -33,166 +33,171 @@
 
     </head>
 
-    <body class="page ">
+    <body >
+        {# content appended to body should not use display grid #}
+        
+        <div class="page">
 
-        <header id="header" class="header">
+            <header id="header" class="header">
 
-            <p class="brand">
-                <img src="assets/logo-collapsed.png" alt="VDH Logo">
-                <span class="show-lg">Vermont Department of Health</span>
-                <span class="show-md" title="Vermont Department of Health">VT Department of Health</span>
-                <span class="show-sm" title="Vermont Department of Health">VT Dept. of Health</span>
-            </p>
-            <h1 class="title">
-                <span>
-                    <span class="show-lg">Coronavirus (COVID-19)</span>
-                    <span class="show-md">Coronavirus (COVID-19)</span>
-                    <span class="show-sm" title="Coronavirus (COVID-19)">COVID-19</span>
-                </span>
-                <span>
-                    <span class="show-lg">Frequently Asked Questions</span>
-                    <span class="show-md">Frequently Asked Questions</span>
-                    <span class="show-sm" title="Frequently Asked Questions">FAQ</span>
-                </span>
-            </h1>
-            <p class="subtitle">
-                <small >
-                    <strong>Last Updated</strong>:
-                    {% now %}
-                    {# todo get timestamp from KB info #}
-                </small>
-            </p>
+                <p class="brand">
+                    <img src="assets/logo-collapsed.png" alt="VDH Logo">
+                    <span class="show-lg">Vermont Department of Health</span>
+                    <span class="show-md" title="Vermont Department of Health">VT Department of Health</span>
+                    <span class="show-sm" title="Vermont Department of Health">VT Dept. of Health</span>
+                </p>
+                <h1 class="title">
+                    <span>
+                        <span class="show-lg">Coronavirus (COVID-19)</span>
+                        <span class="show-md">Coronavirus (COVID-19)</span>
+                        <span class="show-sm" title="Coronavirus (COVID-19)">COVID-19</span>
+                    </span>
+                    <span>
+                        <span class="show-lg">Frequently Asked Questions</span>
+                        <span class="show-md">Frequently Asked Questions</span>
+                        <span class="show-sm" title="Frequently Asked Questions">FAQ</span>
+                    </span>
+                </h1>
+                <p class="subtitle">
+                    <small >
+                        <strong>Last Updated</strong>:
+                        {% now %}
+                        {# todo get timestamp from KB info #}
+                    </small>
+                </p>
 
-        </header>
+            </header>
 
-        <aside>
-            <nav>
-            
-            <h2>Table of Contents</h2>
+            <aside>
+                <nav>
+                
+                <h2>Table of Contents</h2>
 
-            <ul class="nav-topics">
-                {% for topic in collections.FaqsByTopic %}
-                    <li class="nav-topic">
+                <ul class="nav-topics">
+                    {% for topic in collections.FaqsByTopic %}
+                        <li class="nav-topic">
 
-                        <a class="navlink" href="#{{ topic.name | slugify }}">{{topic.name}}</a>
+                            <a class="navlink" href="#{{ topic.name | slugify }}">{{topic.name}}</a>
 
-                        {% if topic.subs.length %}
-                            
-                        <ul class="nav-subs">
-                            {% for sub in topic.subs %}
-                                {% if sub.name %}
-                                    <li class="nav-sub">
-                                        <a class="navlink" href="#{{ sub.name | slugify }}">{{sub.name}}</a>
-                                    </li>
-                                {% endif %}
-                            {% endfor %}
-                        </ul>
-
-                        {% endif %}
-
-                    </li>
-                {% endfor %}
-            </ul>
-
-            </nav>
-        </aside>
-
-        <main class="content">
-
-            <div class="search-bar">
-                <label for="search">Type to filter FAQs</label>
-                <input type="search" class="search" id="search" placeholder='For example, "testing" or "volunteer"'>
-            </div>
-
-            <ul class="topics">
-                {% for topic in collections.FaqsByTopic %}
-                    <li id="{{topic.name | slugify}}" class="topic">
-
-                        <div class="title-link">
-                            <h2>{{topic.name}}</h2>
-                            <a class="permalink" href="#{{topic.name | slugify}}">#</a>
-                        </div>
-
-                        <ul class="subs">
-                            {% for sub in topic.subs %}
-                                <li id="{{sub.name | slugify}}" class="sub">
-
+                            {% if topic.subs.length %}
+                                
+                            <ul class="nav-subs">
+                                {% for sub in topic.subs %}
                                     {% if sub.name %}
-                                        <div class="title-link">
-                                            <h3>{{sub.name}}</h3>
-                                            <a class="permalink" href="#{{sub.name | slugify}}">#</a>
-                                        </div>
+                                        <li class="nav-sub">
+                                            <a class="navlink" href="#{{ sub.name | slugify }}">{{sub.name}}</a>
+                                        </li>
                                     {% endif %}
+                                {% endfor %}
+                            </ul>
 
-                                    <ul class="faqs">
-                                        {% for faq in sub.faqs %}
-                                            <li id="{{faq.id}}" class="faq">
+                            {% endif %}
 
-                                                <details >
-                                                    <summary class="context title-link">
-                                                        <h4>{{faq.question}}</h4>
-                                                        <a class="permalink" href="#{{faq.id}}">#</a>
-                                                    </summary>
-                                                    
-                                                    {# container for details polyfill #}
-                                                    <span>
-                                                        <ul class="alt-phrasings">
-                                                            {% for q in faq.questions %}
-                                                                <li class="phrasing">{{q}}</li>
-                                                            {% endfor %}
-                                                        </ul>
-
-                                                        <div class="answer">
-
-                                                            {{faq.answerBody | md | safe}}
-
-                                                        </div>
-                                                    </span>
-                                                    
-
-                                                </details>
-
-                                            </li>
-                                        {% endfor %}
-                                    </ul>
-                                </li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                {% endfor %}
-            </ul>
-
-            <div class="no-results-message">
-                The FAQ filter requires an exact match - please try:
-                <ul>
-                    <li>Rephrasing with a smaller word or phrase</li>
-                    <li>Scrolling through the avialble topics</li>
-                    <li>Querying our FAQ via our
-                        <a href="https://www.healthvermont.gov/response/coronavirus-covid-19/frequently-asked-questions">Chatbot</a>
-                    </li>
-                    <li>Calling
-                        <a href="tel:211">2-1-1</a>
-                        to talk to a person</li>
+                        </li>
+                    {% endfor %}
                 </ul>
-            </div>
 
-            <div class="page-actions">
-                <!-- Back to Top -->
-                <!-- Reset Filter -->
-            </div>
-        </main>
+                </nav>
+            </aside>
 
-        <footer class="footer">
+            <main class="content">
 
-            <p class="copyright">
-                &copy; 2020 Vermont Department of Health
-            </p>
-            <p>
-                Stay informed at
-                <a href="https://www.healthvermont.gov/covid">HealthVermont.gov/COVID</a>
-            </p>
+                <div class="search-bar">
+                    <label for="search">Type to filter FAQs</label>
+                    <input type="search" class="search" id="search" placeholder='For example, "testing" or "volunteer"'>
+                </div>
 
-        </footer>
+                <ul class="topics">
+                    {% for topic in collections.FaqsByTopic %}
+                        <li id="{{topic.name | slugify}}" class="topic">
+
+                            <div class="title-link">
+                                <h2>{{topic.name}}</h2>
+                                <a class="permalink" href="#{{topic.name | slugify}}">#</a>
+                            </div>
+
+                            <ul class="subs">
+                                {% for sub in topic.subs %}
+                                    <li id="{{sub.name | slugify}}" class="sub">
+
+                                        {% if sub.name %}
+                                            <div class="title-link">
+                                                <h3>{{sub.name}}</h3>
+                                                <a class="permalink" href="#{{sub.name | slugify}}">#</a>
+                                            </div>
+                                        {% endif %}
+
+                                        <ul class="faqs">
+                                            {% for faq in sub.faqs %}
+                                                <li id="{{faq.id}}" class="faq">
+
+                                                    <details >
+                                                        <summary class="context title-link">
+                                                            <h4>{{faq.question}}</h4>
+                                                            <a class="permalink" href="#{{faq.id}}">#</a>
+                                                        </summary>
+                                                        
+                                                        {# container for details polyfill #}
+                                                        <span>
+                                                            <ul class="alt-phrasings">
+                                                                {% for q in faq.questions %}
+                                                                    <li class="phrasing">{{q}}</li>
+                                                                {% endfor %}
+                                                            </ul>
+
+                                                            <div class="answer">
+
+                                                                {{faq.answerBody | md | safe}}
+
+                                                            </div>
+                                                        </span>
+                                                        
+
+                                                    </details>
+
+                                                </li>
+                                            {% endfor %}
+                                        </ul>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                    {% endfor %}
+                </ul>
+
+                <div class="no-results-message">
+                    The FAQ filter requires an exact match - please try:
+                    <ul>
+                        <li>Rephrasing with a smaller word or phrase</li>
+                        <li>Scrolling through the avialble topics</li>
+                        <li>Querying our FAQ via our
+                            <a href="https://www.healthvermont.gov/response/coronavirus-covid-19/frequently-asked-questions">Chatbot</a>
+                        </li>
+                        <li>Calling
+                            <a href="tel:211">2-1-1</a>
+                            to talk to a person</li>
+                    </ul>
+                </div>
+
+                <div class="page-actions">
+                    <!-- Back to Top -->
+                    <!-- Reset Filter -->
+                </div>
+            </main>
+
+            <footer class="footer">
+
+                <p class="copyright">
+                    &copy; 2020 Vermont Department of Health
+                </p>
+                <p>
+                    Stay informed at
+                    <a href="https://www.healthvermont.gov/covid">HealthVermont.gov/COVID</a>
+                </p>
+
+            </footer>
+        </div>
+        
 
         <script src="assets/mark.js"></script>
         <script src="assets/details-polyfill.js"></script>

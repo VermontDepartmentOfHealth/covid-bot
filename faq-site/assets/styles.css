@@ -14,7 +14,7 @@ html {
 
 /* ie 11 layout */
 
-body {
+.page {
     display: -ms-grid;
     -ms-grid-columns: 300px 1fr minmax(100px, 48rem) 1fr;
     -ms-grid-rows: auto 1fr auto;
@@ -45,7 +45,7 @@ footer {
 
 /* layout */
 
-body {
+.page {
     display: grid;
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 300px 1fr minmax(100px, 48rem) 1fr;
@@ -354,7 +354,7 @@ ul.nav-subs {
 }
 
 @media screen and (max-width: 750px) {
-    body {
+    .page {
         -ms-grid-columns: 0 1fr minmax(100px, 48rem) 1fr;
         grid-template-columns: 0 1fr minmax(100px, 48rem) 1fr;
     }

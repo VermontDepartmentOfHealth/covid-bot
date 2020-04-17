@@ -23,6 +23,7 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
+- [ ] fix focus styles
 - [x] add tooltip to abbrevations
 - [x] title case subcategories
 - [ ] subcategories sort override (symptoms, sick, monitor)
@@ -30,7 +31,7 @@ npm run update-and-build  # gets new KB data and builds site
 - [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #39 add back to top button / remove filter
 - [ ] #37 add toggle for TOC on mobile
-- [ ] #36 polyfill summary detail
+- [x] #36 polyfill summary detail
 - [ ] #40 guarantee unique IDs for subcategories
 - [ ] fix [tel:211]
 - [ ] reset position when clearing filter
