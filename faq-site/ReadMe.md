@@ -23,7 +23,6 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
-- [ ] #39 add back to top button / remove filter
 - [ ] fix focus styles
 - [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #37 add toggle for TOC on mobile
@@ -35,6 +34,7 @@ npm run update-and-build  # gets new KB data and builds site
 - [ ] fix [tel:211]
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] #39 add back to top button
 - [x] #40 guarantee unique IDs for subcategories
 - [x] handle no js
 - [x] subcategories sort override (symptoms, sick, monitor)
