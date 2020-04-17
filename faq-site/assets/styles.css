@@ -110,6 +110,10 @@ footer.footer {
     margin-right: 10px;
 }
 
+.brand .show-sm {
+    font-size: .9em;
+}
+
 .title {
     color: #f2f7fa;
     margin: 10px;

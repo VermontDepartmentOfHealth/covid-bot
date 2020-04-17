@@ -23,7 +23,7 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
-- [ ] add tooltip to abbrevations
+- [x] add tooltip to abbrevations
 - [x] title case subcategories
 - [ ] subcategories sort override (symptoms, sick, monitor)
 - [x] rename category abbrev (VT -> Vermont)
