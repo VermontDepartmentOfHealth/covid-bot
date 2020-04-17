@@ -160,3 +160,9 @@ function markComplete() {
     //     })
 
 }
+
+
+var btn = document.getElementById("BackToTop")
+btn.addEventListener('click', function() {
+    window.scrollTo(0, 0)
+});

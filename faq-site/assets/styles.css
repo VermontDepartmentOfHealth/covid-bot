@@ -134,11 +134,15 @@ footer.footer {
 }
 
 
-/* search */
+/* no-js */
 
-.no-js .search-bar {
+.no-js .search-bar,
+.no-js .page-actions {
     display: none;
 }
+
+
+/* search */
 
 .search-bar {
     margin-top: 20px;
@@ -344,6 +348,24 @@ ul.nav-subs {
 .nav-sub>a.navlink {
     color: #0171a1;
     font-size: 1.1em;
+}
+
+
+/* page actions */
+
+#BackToTop {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 4px 9px;
+    border-radius: 4px;
+    border: 1px solid #0171a1;
+    background: #0098d9;
+    color: white;
+    box-shadow: white 0px 0px 6px 14px;
+    font-size: 1em;
+    font-family: "Noto Sans", sans-serif;
+    cursor: pointer;
 }
 
 
