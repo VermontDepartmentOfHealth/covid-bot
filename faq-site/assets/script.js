@@ -120,28 +120,25 @@ function markComplete() {
 
 
     matches.forEach(function(el) {
-        var faqItem = el.closest(".faq")
+        let matchTitle = el.closest("h2")
+        let matchType = matchTitle ? "match-title" : "match-body"
 
+        var faqItem = el.closest(".faq")
         if (faqItem) {
             faqItem.classList.add("marked")
+            faqItem.classList.add(matchType)
+        }
 
-            if (el.closest("h2")) {
-                faqItem.classList.add("match-title")
-            } else {
-                faqItem.classList.add("match-body")
-            }
+        var subItem = el.closest(".sub")
+        if (subItem) {
+            subItem.classList.add("marked")
+            subItem.classList.add(matchType)
         }
 
         var topicItem = el.closest(".topic")
-
         if (topicItem) {
             topicItem.classList.add("marked")
-
-            if (el.closest("h2")) {
-                topicItem.classList.add("match-title")
-            } else {
-                topicItem.classList.add("match-body")
-            }
+            topicItem.classList.add(matchType)
         }
 
     })
@@ -153,10 +150,10 @@ function markComplete() {
 
 
 
-    document
-        .querySelectorAll(".match-title")
-        .forEach(function(el) {
-            searchArea.prepend(el)
-        })
+    // document
+    //     .querySelectorAll(".match-title")
+    //     .forEach(function(el) {
+    //         searchArea.prepend(el)
+    //     })
 
 }

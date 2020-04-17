@@ -24,11 +24,13 @@ function extractAnswer(answer) {
 }
 
 function stringsAlphaEqual(a, b) {
-    return a.toLowerCase().replace(/[^\w]/g, '') === b.toLowerCase().replace(/[^\w]/g, '')
+    a = (a || "").toLowerCase().replace(/[^\w]/g, '')
+    b = (b || "").toLowerCase().replace(/[^\w]/g, '')
+    return a === b
 }
 
 function toProperCase(str) {
-    return str[0].toUpperCase() + str.slice(1);
+    return str ? str[0].toUpperCase() + str.slice(1) : ""
 }
 
 

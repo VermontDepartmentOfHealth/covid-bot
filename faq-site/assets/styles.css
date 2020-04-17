@@ -8,6 +8,7 @@ html {
 html {
     font-family: "Noto Sans", sans-serif;
     line-height: 1.5em;
+    scroll-behavior: smooth;
 }
 
 footer.footer,
@@ -25,7 +26,6 @@ header.header {
 
 main.content {
     max-width: 48em;
-    margin: 0 auto;
     display: block;
     /* for ie 11 */
 }
@@ -34,6 +34,9 @@ footer.footer {
     background: #dddddd;
     text-align: center;
 }
+
+
+/* header */
 
 .brand {
     margin: 0;
@@ -100,21 +103,44 @@ mark {
     margin: 0;
 }
 
+ul.topics,
+ul.subs {
+    padding-left: 0;
+}
+
+li.sub,
 li.topic {
     list-style: none;
 }
 
-.topics {
-    padding-left: 0;
+.title-link h2,
+.title-link h3,
+.title-link h4 {
+    display: inline;
+}
+
+li.topic {
+    margin-top: 40px;
+}
+
+li.sub {
+    margin-top: 30px;
+}
+
+li.faq {
+    margin-top: 20px;
 }
 
 .topic h2 {
     color: #0098d9;
 }
 
+.sub h3 {
+    color: #0171a1;
+}
+
 .faqs {
     padding-left: 15px;
-    margin-top: 30px;
 }
 
 .faqs li {
@@ -125,12 +151,17 @@ li.topic {
     list-style: disc;
 }
 
+
+/* filtering */
+
 .filtering .topic,
+.filtering .sub,
 .filtering .faq {
     display: none;
 }
 
 .filtering .topic.marked,
+.filtering .sub.marked,
 .filtering .faq.marked {
     display: block;
 }
@@ -147,9 +178,12 @@ summary.context {
     text-indent: -15px;
 }
 
-summary.context h3 {
+summary.context h4 {
     display: inline;
 }
+
+
+/* permalink */
 
 a.permalink {
     font-size: 1.4em;
@@ -157,12 +191,16 @@ a.permalink {
     color: #4f5369;
 }
 
-.faq .permalink {
+.sub>.title-link>.permalink {
+    color: hsla(198, 76%, 32%, 1);
+}
+
+.title-link .permalink {
     opacity: 0;
     transition: opacity .3s ease;
 }
 
-.faq:hover .permalink {
+.title-link:hover .permalink {
     opacity: 1;
 }
 
@@ -174,10 +212,16 @@ a.permalink {
     display: block;
 }
 
+
+/* utilities */
+
 .show-md,
 .show-lg {
     display: none;
 }
+
+
+/* media queries */
 
 @media screen and (min-width: 475px) {
     .show-md {

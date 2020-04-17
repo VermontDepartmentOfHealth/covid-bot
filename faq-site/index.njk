@@ -73,34 +73,52 @@
             </div>
 
             <ul class="topics">
-
                 {% for topic in collections.FaqsByTopic %}
-                    <li id="{{topic.name}}" class="topic">
+                    <li id="{{topic.name | slugify}}" class="topic">
 
-                        <h2>{{topic.name}}</h2>
+                        <div class="title-link">
+                            <h2>{{topic.name}}</h2>
+                            <a class="permalink" href="#{{topic.name | slugify}}">#</a>
+                        </div>
 
-                        <ul class="faqs">
-                            {% for faq in topic.faqs %}
-                                <li id="{{faq.id}}" class="faq">
-                                    <details >
-                                        <summary class="context">
-                                            <h3>{{faq.question}}</h3>
-                                            <a class="permalink" href="#{{faq.id}}">#</a>
-                                        </summary>
+                        <ul class="subs">
+                            {% for sub in topic.subs %}
+                                <li id="{{sub.name | slugify}}" class="sub">
 
-                                        <ul class="alt-phrasings">
-                                            {% for q in faq.questions %}
-                                                <li class="phrasing">{{q}}</li>
-                                            {% endfor %}
-                                        </ul>
-
-                                        <div class="answer">
-
-                                            {{faq.answerBody | md | safe}}
-
+                                    {% if sub.name %}
+                                        <div class="title-link">
+                                            <h3>{{sub.name}}</h3>
+                                            <a class="permalink" href="#{{sub.name | slugify}}">#</a>
                                         </div>
+                                    {% endif %}
 
-                                    </details>
+                                    <ul class="faqs">
+                                        {% for faq in sub.faqs %}
+                                            <li id="{{faq.id}}" class="faq">
+
+                                                <details >
+                                                    <summary class="context title-link">
+                                                        <h4>{{faq.question}}</h4>
+                                                        <a class="permalink" href="#{{faq.id}}">#</a>
+                                                    </summary>
+
+                                                    <ul class="alt-phrasings">
+                                                        {% for q in faq.questions %}
+                                                            <li class="phrasing">{{q}}</li>
+                                                        {% endfor %}
+                                                    </ul>
+
+                                                    <div class="answer">
+
+                                                        {{faq.answerBody | md | safe}}
+
+                                                    </div>
+
+                                                </details>
+
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
                                 </li>
                             {% endfor %}
                         </ul>
