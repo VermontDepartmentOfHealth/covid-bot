@@ -15,7 +15,10 @@ module.exports = function(eleventyConfig) {
         let allFaqs = col.items[0].data.faqs.qnaDocuments
 
         // get all sorted topics
-        let sortedTopics = col.items[0].data.topics
+        let topics = col.items[0].data.topics
+
+        // sort parent topics
+        let sortedTopics = topics.map(t => t.name)
 
         // transform faq object
         allFaqs = allFaqs.map(faq => {
@@ -68,14 +71,30 @@ module.exports = function(eleventyConfig) {
             // get all subcategories
             let subCats = catFaqs.map(faq => faq.metadata.subcategory || "").map(utilities.toTitleCase)
 
-            // distinct subcat
-            let uniqueSubCats = [...new Set(subCats)];
+            // check if we have manual subcategory sort
+            let subSort = topics.find(t => utilities.stringsAlphaEqual(t.name, cat))
+
+            let manualSubSort = subSort.subs || []
 
             // sort subcategories
-            let sortedSubCats = uniqueSubCats.sort((a, b) => a.localeCompare(b))
+            let sortedSubCats = subCats.sort((a, b) => a.localeCompare(b))
+
+            // combine manual + auto
+            let mergeSubcats = manualSubSort.concat(sortedSubCats)
+
+            // distinct subcat
+            let uniqueSubCats = [...new Set(mergeSubcats)];
+
+            // add general category if we've added a manual sort and any subcats blank
+            let blankSubs = catFaqs.filter(faq => !faq.metadata.subcategory)
+
+            if (subSort.subs && blankSubs.length) {
+                uniqueSubCats.push("General")
+                blankSubs.forEach(faq => faq.metadata.subcategory = "General")
+            }
 
             // bin faqs into subcategtories
-            let subCatCollection = sortedSubCats.map(subCat => {
+            let subCatCollection = uniqueSubCats.map(subCat => {
                 let subCatFaqs = catFaqs.filter(faq => utilities.stringsAlphaEqual(faq.metadata.subcategory, subCat))
 
                 // order by .metadata.sort then by .question
