@@ -7,7 +7,8 @@ module.exports = function(eleventyConfig) {
 
     // grab 3rd party dependencies
     eleventyConfig.addPassthroughCopy({
-        "node_modules/mark.js/dist/mark.min.js": "/assets/mark.js"
+        "node_modules/mark.js/dist/mark.min.js": "/assets/mark.js",
+        "node_modules/details-polyfill/index.js": "/assets/details-polyfill.js"
     });
 
     eleventyConfig.addCollection("FaqsByTopic", col => {

@@ -133,18 +133,22 @@
                                                         <h4>{{faq.question}}</h4>
                                                         <a class="permalink" href="#{{faq.id}}">#</a>
                                                     </summary>
+                                                    
+                                                    {# container for details polyfill #}
+                                                    <span>
+                                                        <ul class="alt-phrasings">
+                                                            {% for q in faq.questions %}
+                                                                <li class="phrasing">{{q}}</li>
+                                                            {% endfor %}
+                                                        </ul>
 
-                                                    <ul class="alt-phrasings">
-                                                        {% for q in faq.questions %}
-                                                            <li class="phrasing">{{q}}</li>
-                                                        {% endfor %}
-                                                    </ul>
+                                                        <div class="answer">
 
-                                                    <div class="answer">
+                                                            {{faq.answerBody | md | safe}}
 
-                                                        {{faq.answerBody | md | safe}}
-
-                                                    </div>
+                                                        </div>
+                                                    </span>
+                                                    
 
                                                 </details>
 
@@ -191,6 +195,7 @@
         </footer>
 
         <script src="assets/mark.js"></script>
+        <script src="assets/details-polyfill.js"></script>
         <script src="assets/polyfill.js"></script>
         <script src="assets/synonyms.js?v=2"></script>
         <script src="assets/script.js?v=5"></script>
