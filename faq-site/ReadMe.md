@@ -23,20 +23,27 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
+- [ ] add tooltip to abbrevations
+- [ ] title case subcategories
+- [ ] subcategories sort override (symptoms, sick, monitor)
+- [x] rename category abbrev (VT -> Vermont)
 - [ ] #26 update timestamp from KB modified time, not build time #26
-- [ ] #24 add linter
-- [ ] add subcategories
-- [ ] add back to top button / remove filter
+- [ ] #39 add back to top button / remove filter
+- [ ] #37 add toggle for TOC on mobile
+- [ ] #36 polyfill summary detail
+- [ ] #40 guarantee unique IDs for subcategories
 - [ ] fix [tel:211]
 - [ ] reset position when clearing filter
-- [ ] #25 add synonyms to mark.js
-- [ ] #18 add toc overview
 - [ ] #17 expand / collapse all
 - [ ] #20 low-perf debouncing
 - [ ] #18 show revision history
-- [ ] #22 add telemetry from search terms
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] #24 add linter
+- [x] add subcategories
+- [x] #25 add synonyms to mark.js
+- [x] #18 add toc overview
+- [x] #22 add telemetry from search terms
 - [x] add VDH logo / branding
 - [x] test for questions missing a category
 - [x] add timestamp

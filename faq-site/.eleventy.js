@@ -30,6 +30,10 @@ module.exports = function(eleventyConfig) {
             // flatten metadata
             qna.metadata = utilities.flattenArrayToObject(metadata)
 
+            // rename abbrev
+            qna.metadata.category = qna.metadata.category || ""
+            qna.metadata.category = qna.metadata.category.replace(/VT/i, "Vermont")
+
             return qna
         })
 
