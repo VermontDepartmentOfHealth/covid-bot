@@ -133,8 +133,16 @@ footer.footer {
     margin: 0;
 }
 
+
+/* search */
+
+.no-js .search-bar {
+    display: none;
+}
+
 .search-bar {
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .search {
@@ -179,6 +187,10 @@ li.topic {
 .title-link h3,
 .title-link h4 {
     display: inline;
+}
+
+.topics>li:first-child {
+    margin-top: 20px;
 }
 
 li.topic {
@@ -297,6 +309,10 @@ nav {
     top: 15px;
     overflow-y: auto;
     max-height: calc(100vh - 45px); */
+}
+
+.toc>h2 {
+    margin-top: 20px;
 }
 
 ul.nav-topics {

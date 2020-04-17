@@ -33,9 +33,9 @@
 
     </head>
 
-    <body >
+    <body class="no-js">
         {# content appended to body should not use display grid #}
-        
+
         <div class="page">
 
             <header id="header" class="header">
@@ -69,33 +69,33 @@
             </header>
 
             <aside>
-                <nav>
-                
-                <h2>Table of Contents</h2>
+                <nav class="toc">
+                    
+                    <h2>Table of Contents</h2>
 
-                <ul class="nav-topics">
-                    {% for topic in collections.FaqsByTopic %}
-                        <li class="nav-topic">
+                    <ul class="nav-topics">
+                        {% for topic in collections.FaqsByTopic %}
+                            <li class="nav-topic">
 
-                            <a class="navlink" href="#{{ topic.name | slugify }}">{{topic.name}}</a>
+                                <a class="navlink" href="#{{ topic.name | slugify }}">{{topic.name}}</a>
 
-                            {% if topic.subs.length %}
-                                
-                            <ul class="nav-subs">
-                                {% for sub in topic.subs %}
-                                    {% if sub.name %}
-                                        <li class="nav-sub">
-                                            <a class="navlink" href="#{{ sub.name | slugify }}">{{sub.name}}</a>
-                                        </li>
-                                    {% endif %}
-                                {% endfor %}
-                            </ul>
+                                {% if topic.subs.length %}
+                                    
+                                <ul class="nav-subs">
+                                    {% for sub in topic.subs %}
+                                        {% if sub.name %}
+                                            <li class="nav-sub">
+                                                <a class="navlink" href="#{{ sub.name | slugify }}">{{sub.name}}</a>
+                                            </li>
+                                        {% endif %}
+                                    {% endfor %}
+                                </ul>
 
-                            {% endif %}
+                                {% endif %}
 
-                        </li>
-                    {% endfor %}
-                </ul>
+                            </li>
+                        {% endfor %}
+                    </ul>
 
                 </nav>
             </aside>

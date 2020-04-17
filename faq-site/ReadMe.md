@@ -23,9 +23,9 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
+- [ ] handle no js
 - [ ] fix focus styles
-
-- [ ] subcategories sort override (symptoms, sick, monitor)
+- [x] subcategories sort override (symptoms, sick, monitor)
 - [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #39 add back to top button / remove filter
 - [ ] #37 add toggle for TOC on mobile

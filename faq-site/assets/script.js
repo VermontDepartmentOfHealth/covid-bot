@@ -1,3 +1,6 @@
+// remove no-js if we're able to execute
+document.body.classList.remove("no-js")
+
 var keywordInput = document.querySelector("#search");
 var searchArea = document.querySelector(".topics")
 var markInstance = new Mark(searchArea);
