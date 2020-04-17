@@ -112,8 +112,7 @@
                         <li id="{{topic.name | slugify}}" class="topic">
 
                             <div class="title-link">
-                                <h2>{{topic.name}}</h2>
-                                <a class="permalink" href="#{{topic.name | slugify}}">#</a>
+                                <h2>{{topic.name}}</h2>&nbsp;<a class="permalink" href="#{{topic.name | slugify}}">#</a>
                             </div>
 
                             <ul class="subs">
@@ -122,8 +121,7 @@
 
                                         {% if sub.name %}
                                             <div class="title-link">
-                                                <h3>{{sub.name}}</h3>
-                                                <a class="permalink" href="#{{sub.name | slugify}}">#</a>
+                                                <h3>{{sub.name}}</h3>&nbsp;<a class="permalink" href="#{{sub.name | slugify}}">#</a>
                                             </div>
                                         {% endif %}
 
@@ -133,8 +131,7 @@
 
                                                     <details >
                                                         <summary class="context title-link">
-                                                            <h4>{{faq.question}}</h4>
-                                                            <a class="permalink" href="#{{faq.id}}">#</a>
+                                                            <h4>{{faq.question}}</h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
                                                         </summary>
                                                         
                                                         {# container for details polyfill #}
