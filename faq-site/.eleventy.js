@@ -66,7 +66,7 @@ module.exports = function(eleventyConfig) {
 
 
             // get all subcategories
-            let subCats = catFaqs.map(faq => faq.metadata.subcategory || "").map(utilities.toProperCase)
+            let subCats = catFaqs.map(faq => faq.metadata.subcategory || "").map(utilities.toTitleCase)
 
             // distinct subcat
             let uniqueSubCats = [...new Set(subCats)];
