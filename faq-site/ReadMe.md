@@ -23,20 +23,21 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
-- [ ] handle no js
-- [ ] fix focus styles
-- [x] subcategories sort override (symptoms, sick, monitor)
-- [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #39 add back to top button / remove filter
+- [ ] fix focus styles
+- [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #37 add toggle for TOC on mobile
-- [ ] #40 guarantee unique IDs for subcategories
-- [ ] fix [tel:211]
-- [ ] reset position when clearing filter
+- [ ] add deep links to filter and each fragment URI
+- [ ] sort title vs body match & reset position when clearing filter
 - [ ] #17 expand / collapse all
 - [ ] #20 low-perf debouncing
 - [ ] #18 show revision history
+- [ ] fix [tel:211]
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] #40 guarantee unique IDs for subcategories
+- [x] handle no js
+- [x] subcategories sort override (symptoms, sick, monitor)
 - [x] add tooltip to abbreviations
 - [x] title case subcategories
 - [x] rename category abbrev (VT -> Vermont)

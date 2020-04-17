@@ -85,7 +85,7 @@
                                     {% for sub in topic.subs %}
                                         {% if sub.name %}
                                             <li class="nav-sub">
-                                                <a class="navlink" href="#{{ sub.name | slugify }}">{{sub.name}}</a>
+                                                <a class="navlink" href="#{{topic.name | slugify}}-{{ sub.name | slugify }}">{{sub.name}}</a>
                                             </li>
                                         {% endif %}
                                     {% endfor %}
@@ -117,11 +117,11 @@
 
                             <ul class="subs">
                                 {% for sub in topic.subs %}
-                                    <li id="{{sub.name | slugify}}" class="sub">
+                                    <li id="{{topic.name | slugify}}-{{sub.name | slugify}}" class="sub">
 
                                         {% if sub.name %}
                                             <div class="title-link">
-                                                <h3>{{sub.name}}</h3>&nbsp;<a class="permalink" href="#{{sub.name | slugify}}">#</a>
+                                                <h3>{{sub.name}}</h3>&nbsp;<a class="permalink" href="#{{topic.name | slugify}}-{{sub.name | slugify}}">#</a>
                                             </div>
                                         {% endif %}
 
