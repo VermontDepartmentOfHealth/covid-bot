@@ -65,6 +65,38 @@
 
         </header>
 
+        <aside>
+            <nav>
+            
+            <h2>Table of Contents</h2>
+
+            <ul class="nav-topics">
+                {% for topic in collections.FaqsByTopic %}
+                    <li class="nav-topic">
+
+                        <a class="navlink" href="#{{ topic.name | slugify }}">{{topic.name}}</a>
+
+                        {% if topic.subs.length %}
+                            
+                        <ul class="nav-subs">
+                            {% for sub in topic.subs %}
+                                {% if sub.name %}
+                                    <li class="nav-sub">
+                                        <a class="navlink" href="#{{ sub.name | slugify }}">{{sub.name}}</a>
+                                    </li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+
+                        {% endif %}
+
+                    </li>
+                {% endfor %}
+            </ul>
+
+            </nav>
+        </aside>
+
         <main class="content">
 
             <div class="search-bar">
