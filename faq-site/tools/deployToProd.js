@@ -1,8 +1,5 @@
 require('dotenv').config()
-const {promises: fs} = require("fs");
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
-const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running deployToProd.js - local changes will be wiped out\r\n"
-const jsoncParser = require("jsonc-parser");
 const chalk = require("chalk");
 const successStatus = 204;
 
@@ -60,6 +57,5 @@ async function deployAlterations(sourceClient,targetClient){
     //return status message 
     return replaceAlterationsResponse.status === successStatus ? 'Alterations Deployed Successfully' : 'Failed to Deploy alterations';
 }
-
 
 
