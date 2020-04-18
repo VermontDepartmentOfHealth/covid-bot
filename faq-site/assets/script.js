@@ -107,9 +107,24 @@ function markComplete() {
             el.classList.remove("marked")
         })
     document
-        .querySelectorAll(".match-title")
+        .querySelectorAll(".match-topic")
         .forEach(function(el) {
-            el.classList.remove("match-title")
+            el.classList.remove("match-topic")
+        })
+    document
+        .querySelectorAll(".match-sub")
+        .forEach(function(el) {
+            el.classList.remove("match-sub")
+        })
+    document
+        .querySelectorAll(".match-faq")
+        .forEach(function(el) {
+            el.classList.remove("match-faq")
+        })
+    document
+        .querySelectorAll(".match-alt")
+        .forEach(function(el) {
+            el.classList.remove("match-alt")
         })
     document
         .querySelectorAll(".match-body")
@@ -123,25 +138,37 @@ function markComplete() {
 
 
     matches.forEach(function(el) {
-        let matchTitle = el.closest("h2")
-        let matchType = matchTitle ? "match-title" : "match-body"
+        var matchTopic = el.closest("h2")
+        var matchSub = el.closest("h3")
+        var matchFaq = el.closest("h4")
+        var matchAlt = el.closest(".alt-phrasings")
+        var matchBody = el.closest(".answer")
 
-        var faqItem = el.closest(".faq")
-        if (faqItem) {
-            faqItem.classList.add("marked")
-            faqItem.classList.add(matchType)
+        var matchType = matchTopic ? "match-topic" :
+            matchSub ? "match-sub" :
+            matchFaq ? "match-faq" :
+            matchAlt ? "match-alt" :
+            matchBody ? "match-body" : ""
+
+
+        var faqContainer = el.closest(".faq")
+        var subContainer = el.closest(".sub")
+        var topicContainer = el.closest(".topic")
+
+
+        if (faqContainer) {
+            faqContainer.classList.add("marked")
+            faqContainer.classList.add(matchType)
         }
 
-        var subItem = el.closest(".sub")
-        if (subItem) {
-            subItem.classList.add("marked")
-            subItem.classList.add(matchType)
+        if (subContainer) {
+            subContainer.classList.add("marked")
+            subContainer.classList.add(matchType)
         }
 
-        var topicItem = el.closest(".topic")
-        if (topicItem) {
-            topicItem.classList.add("marked")
-            topicItem.classList.add(matchType)
+        if (topicContainer) {
+            topicContainer.classList.add("marked")
+            topicContainer.classList.add(matchType)
         }
 
     })

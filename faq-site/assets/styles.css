@@ -169,7 +169,7 @@ mark {
     background: rgba(255, 247, 94, 0.56);
 }
 
-.match-title .answer mark {
+.match-faq .answer mark {
     background: rgba(255, 247, 94, 0.26);
 }
 
@@ -241,6 +241,15 @@ li.faq {
 .filtering .topic.marked,
 .filtering .sub.marked,
 .filtering .faq.marked {
+    display: block;
+}
+
+.filtering .sub.match-sub .faq {
+    display: block;
+}
+
+.filtering .topic.match-topic .sub,
+.filtering .topic.match-topic .sub .faq {
     display: block;
 }
 
