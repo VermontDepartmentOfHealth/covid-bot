@@ -1,16 +1,23 @@
 [
-    "Symptoms and Sickness",
-    "How it Spreads",
-    "How to Protect Yourself",
-    "Stay Home, Stay Safe",
-    "Caring for Yourself and Others",
-    "Testing",
-    "People with COVID-19 in VT",
-    "Families with Children",
-    "Pets and Other Animals",
-    "Travel",
-    "Work and Employees",
-    "What VT is Doing",
-    "Businesses, Organizations, Schools",
-    "Additional Resources"
+    { 
+        "name": "Symptoms and Sickness",
+        "subs": [
+            "Symptoms",
+            "Sickness",
+            "Monitoring"
+        ]
+    },
+    { "name": "How it Spreads" },
+    { "name": "How to Protect Yourself" },
+    { "name": "Stay Home, Stay Safe" },
+    { "name": "Caring for Yourself and Others" },
+    { "name": "Testing" },
+    { "name": "People with COVID-19 in Vermont" },
+    { "name": "Families with Children" },
+    { "name": "Pets and Other Animals" },
+    { "name": "Travel" },
+    { "name": "Work and Employees" },
+    { "name": "What Vermont is Doing" },
+    { "name": "Businesses, Organizations, Schools" },
+    { "name": "Additional Resources" }
 ]
