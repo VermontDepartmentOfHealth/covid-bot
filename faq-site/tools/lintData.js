@@ -8,8 +8,9 @@ const utilities = require('./utilities')
 let faqs = readJsonc("_data/faqs.jsonc")
 let topics = readJsonc("_data/topics.jsonc")
 
-
+// run main code block
 validate()
+
 
 async function validate() {
 
