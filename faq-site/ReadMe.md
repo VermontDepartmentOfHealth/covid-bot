@@ -29,6 +29,7 @@ npm run update-and-build  # gets new KB data and builds site
 - [ ] add deep links to filter and each fragment URI
 - [ ] sort title vs body match & reset position when clearing filter
 - [ ] #17 expand / collapse all
+- [ ] contain page action buttons to main area when scrolled to bottom
 - [ ] #20 low-perf debouncing
 - [ ] #18 show revision history
 - [ ] fix [tel:211]
