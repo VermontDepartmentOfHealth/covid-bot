@@ -12,6 +12,33 @@
 - Run `npm run serve` to run a local dev environment
 - Access dev copy of the site at [localhost:8080](http://localhost:8080)
 
+### Environment Variables
+
+Get the config info from someone who's worked on the project or from Azure
+
+Create the environment files for any supported environment:
+
+* <code>.env.<i>&lt;environment&gt;</i></code>
+* `.env.test`
+* `.env.prod`
+
+Which contents like this, but replace with actual keys:
+
+```ini
+RuntimeEndpoint=https://***.azurewebsites.net
+kbId=***
+RuntimeApiKey=***
+Endpoint=https://***.cognitiveservices.azure.com
+OcpApimSubscriptionKey=***
+environment=prod
+```
+
+Choose which environment file to use by setting an environemtn variable named `AZURE_ENVIRONMENT` before running.  You can set the value in the following locations:
+
+* **Debug** - `.vscode/launch.json`
+* **Run** - `package.json` > `scripts`
+
+
 ## NPM Scripts
 
 ```bash
