@@ -94,60 +94,13 @@ let QnAMakerAPI = function(config) {
 
     }
 
-    /**
-     * update knowledge base
-     * @param {string} kbId knowledgebase ID
-     * @param {string} body request body defined here: https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/update
-     */    
-    let kbUpdate = async function(kbId, body) {
-
-        kbId = kbId || config.kbId
-
-        let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
-
-        let response = await sendRequest(url, METHOD.PATCH, body)
-
-        return response
-    }
-
-    /**
-     * Get details of a kb operation
-     * @param {string} operationId operation ID
-     * @description Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
-     */   
-    let getOperationDetails = async function(operationId) {
-
-        let url = `${config.endpoint}/qnamaker/${API_VERSION}/operations/${operationId}`
-
-        let operationDetails = await fetchJson(url, METHOD.GET)
-
-        return operationDetails
-
-    }
-   
-    /**
-     * Get details of a kb operation
-     * @param {string} operationId operation ID
-     * @description Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
-     */ 
-    let publishKb = async function(kbId) {
-
-        kbId = kbId || config.kbId
-
-        let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
-
-        let response = await sendRequest(url, METHOD.POST)
-
-        return response
-
-    }
 
     /**
      * Check kb operation once a second to see if operation state is updated to either a success of failure state
      * @param {string} operationId operation ID
      * @param {number} [secondsWaited] (optional) number of seconds waited already
      * @description Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
-     */ 
+     */
     let pollForOperationComplete = async function(operationId, secondsWaited) {
         let seconds = secondsWaited || 0
 
@@ -161,13 +114,13 @@ let QnAMakerAPI = function(config) {
         let operationState = details.operationState;
 
         //If operation is complete (failure or success), or if operation has timed out, return the current state
-        if (completeStates.includes(operationState) || seconds > NUMBER_SECONDS_FOR_TIMEOUT){
+        if (completeStates.includes(operationState) || seconds > NUMBER_SECONDS_FOR_TIMEOUT) {
 
             return operationState;
 
-        }else {
+        } else {
             //if operation is not complete, and it has not timed out, wait a second and then call this method again recursively 
-            await sleepForOneSecond()//TODO test this
+            await sleepForOneSecond() //TODO test this
 
             return await pollForOperationComplete(operationId, seconds + 1); //todo use incrementor
         }
@@ -179,152 +132,195 @@ let QnAMakerAPI = function(config) {
         return new Promise(resolve => setTimeout(resolve, 1000))
     }
 
-    let client = {
-        knowledgeBase: {
-            /**
-             * Download the knowledgebase.
-             * @param {string} kbId Knowledgebase id
-             * @param {('test'|'prod'))} environment Specifies whether environment is Test or Prod 
-             * @description test => kb in qna editor environment 
-             *              prod => publised kb
-             *              More details here: https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
-             */
-            download: async function(kbId, environment) {
-                kbId = kbId || config.kbId
-                environment = environment || "prod"
 
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}/${environment}/qna`
+    let knowledgeBase = {
+        /**
+         * Download the knowledgebase.
+         * @param {string} kbId Knowledgebase id
+         * @param {('test'|'prod'))} environment Specifies whether environment is Test or Prod 
+         * @description test => kb in qna editor environment 
+         *              prod => publised kb
+         *              More details here: https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
+         */
+        download: async function(kbId, environment) {
+            kbId = kbId || config.kbId
+            environment = environment || "prod"
 
-                let knowledgeBase = await fetchJson(url, METHOD.GET)
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}/${environment}/qna`
 
-                return knowledgeBase
+            let knowledgeBase = await fetchJson(url, METHOD.GET)
 
-            },
+            return knowledgeBase
 
-            /**
-             * Gets details of a specific knowledgebase.
-             * @param {string} kbId Knowledgebase id
-             */
-            getDetails: async function(kbId) {
-                kbId = kbId || config.kbId
-
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
-
-                let details = await fetchJson(url, METHOD.GET)
-
-                return details
-
-            },
-
-            /**
-             * Gets all knowledgebases for a user.
-             */
-            listAll: async function() {
-
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases`
-
-                let allKnowledgeBases = await fetchJson(url, METHOD.GET)
-
-                return allKnowledgeBases
-
-            },
-
-            /**
-             * Publishes all changes in test index of a knowledgebase to its prod index.
-             * @param {string} kbId Knowledgebase id
-             */
-            publish: async function(kbId) {
-
-                let publishResponse = publishKb(kbId);
-
-                return publishResponse; 
-            },
-
-            /**
-             * Replace knowledgebase contents.
-             * @param {string} kbId Knowledgebase id
-             * @param {object} body List of Q-A (QnADTO) to be added to the knowledgebase. Q-A Ids are assigned by the service and should be omitted.
-             */
-            replace: async function(kbId, body) {
-                kbId = kbId || config.kbId
-
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
-
-                let response = await sendRequest(url, METHOD.PUT, body)
-
-                return response
-
-            },
-
-            /**
-             * Asynchronous operation to modify a knowledgebase.
-             * @param {string} kbId Knowledgebase id
-             * @param {object} body List of Q-A (QnADTO) to be added to the knowledgebase. Q-A Ids are assigned by the service and should be omitted.
-             */
-            update: async function(kbId, body) {
-
-                let response = await kbUpdate(kbId, body)
-
-                return response
-
-            },
         },
-        alterations: {
-            /**
-             * Download alterations from runtime.
-             */
-            get: async function() {
 
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/alterations`
+        /**
+         * Gets details of a specific knowledgebase.
+         * @param {string} kbId Knowledgebase id
+         */
+        getDetails: async function(kbId) {
+            kbId = kbId || config.kbId
 
-                let alterations = await fetchJson(url, METHOD.GET)
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
 
-                return alterations
+            let details = await fetchJson(url, METHOD.GET)
 
-            },
+            return details
 
-            /**
-             * Replace alterations data.
-             * @param {object} body Collection of word alterations.
-             */
-            replace: async function(body) {
-
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/alterations`
-
-                let response = await sendRequest(url, METHOD.PUT, body)
-
-                return response
-
-            },
         },
-        marshaling: {
-            UpdateAndPublish: async function(kbId, body) {
 
-                let updateResponse = await kbUpdate(kbId,body)
-           
-                //Get operation state for update
-                let updateJson = await updateResponse.json();
-                let opId = updateJson.operationId;
+        /**
+         * Gets all knowledgebases for a user.
+         */
+        listAll: async function() {
 
-                let updateOperationState = await pollForOperationComplete(opId);
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases`
 
-                let updateWasSuccessful = updateOperationState === OPERATION_STATE.SUCCEEDED;
+            let allKnowledgeBases = await fetchJson(url, METHOD.GET)
 
-                let publishResponse = updateWasSuccessful ? await publishKb(kbId) : undefined;
+            return allKnowledgeBases
 
-                return publishResponse;
-                
-            }
         },
-        lookups: {
-            METHOD,
-            ENVIRONMENT
+
+        /**
+         * Publishes all changes in test index of a knowledgebase to its prod index.
+         * @param {string} kbId Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
+         */
+        publish: async function(kbId) {
+
+            kbId = kbId || config.kbId
+
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+            let response = await sendRequest(url, METHOD.POST)
+
+            return response
+        },
+
+        /**
+         * Replace knowledgebase contents.
+         * @param {string} kbId Knowledgebase id
+         * @param {object} body List of Q-A (QnADTO) to be added to the knowledgebase. Q-A Ids are assigned by the service and should be omitted.
+         */
+        replace: async function(kbId, body) {
+            kbId = kbId || config.kbId
+
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+            let response = await sendRequest(url, METHOD.PUT, body)
+
+            return response
+
+        },
+
+        /**
+         * Asynchronous operation to modify a knowledgebase.
+         * @param {string} kbId Knowledgebase id
+         * @param {object} body request body defined here: https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/update
+         */
+        update: async function(kbId, body) {
+
+            kbId = kbId || config.kbId
+
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+            let response = await sendRequest(url, METHOD.PATCH, body)
+
+            return response
+
         }
     }
 
+    let alterations = {
+        /**
+         * Download alterations from runtime.
+         */
+        get: async function() {
+
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/alterations`
+
+            let alterations = await fetchJson(url, METHOD.GET)
+
+            return alterations
+
+        },
+
+        /**
+         * Replace alterations data.
+         * @param {object} body Collection of word alterations.
+         */
+        replace: async function(body) {
+
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/alterations`
+
+            let response = await sendRequest(url, METHOD.PUT, body)
+
+            return response
+
+        },
+    }
+
+    let operations = {
+        /**
+         * Get details of a kb operation
+         * @param {string} operationId operation ID
+         * @description Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
+         */
+        getDetails: async function(operationId) {
+
+            let url = `${config.endpoint}/qnamaker/${API_VERSION}/operations/${operationId}`
+
+            let operationDetails = await fetchJson(url, METHOD.GET)
+
+            return operationDetails
+
+        }
+    }
+
+    let marshaling = {
+        updateAndPublish: async function(kbId, body) {
+
+            let updateResponse = await knowledgeBase.update(kbId, body)
+
+            //Get operation state for update
+            let updateJson = await updateResponse.json();
+            let opId = updateJson.operationId;
+
+            let updateOperationState = await pollForOperationComplete(opId);
+
+            let updateWasSuccessful = updateOperationState === OPERATION_STATE.SUCCEEDED;
+
+            // default response
+            let publishResponse = "";
+
+            if (updateWasSuccessful) {
+                publishResponse = await publishKb(kbId)
+            }
+
+            return publishResponse;
+
+        }
+    }
+
+    // compose client to return
+    let client = {
+        knowledgeBase,
+        alterations,
+        operations,
+        marshaling,
+        lookups: {
+            METHOD,
+            ENVIRONMENT,
+            OPERATION_STATE
+        },
+        config
+    }
+
+
     // add aliases
-    client.alt = client.alterations
     client.kb = client.knowledgeBase
+    client.alt = client.alterations
+    client.op = client.operations
 
     return client;
 
