@@ -196,45 +196,34 @@ btn.addEventListener('click', function() {
 
 
 
-function checkDetailsSupport() {
-    var el = document.createElement("details")
-    if (!('open' in el)) return false
 
-    el.innerHTML = '<summary>a</summary>b'
-    document.body.appendChild(el)
+if (document.documentElement.matches(".no-details")) {
 
-    var diff = el.offsetHeight
-    el.open = true
-    var result = (diff != el.offsetHeight)
-
-    document.body.removeChild(el)
-    return result
-}
-
-if (!checkDetailsSupport()) {
     document.body.addEventListener('click', function(e) {
-        toggleDetailsEvent(e)
+        var inSummaryH4 = e.target.matches('summary > h4, summary > h4 *')
+        if (inSummaryH4) {
+            toggleDetailsEvent(e)
+        }
     });
     document.body.addEventListener('keypress', function(e) {
-        var code = e.keyCode || e.which
-        if (code == 13) { //Enter keycode
+        var enterKey = (e.keyCode || e.which) == 13
+        var inSummary = e.target.matches('summary, summary *')
+        if (enterKey & inSummary) { //Enter keycode
             toggleDetailsEvent(e)
         }
     });
 
     function toggleDetailsEvent(e) {
-        if (e.target.matches('summary, summary *')) {
 
-            let details = e.target.closest("details")
+        let details = e.target.closest("details")
 
-            let isOpen = details.getAttribute('open')
+        let isOpen = details.getAttribute('open')
 
-            if (isOpen) {
-                details.removeAttribute('open')
-            } else {
-                details.setAttribute('open', 'open')
-            }
-
+        if (isOpen) {
+            details.removeAttribute('open')
+        } else {
+            details.setAttribute('open', 'open')
         }
+
     }
 }
