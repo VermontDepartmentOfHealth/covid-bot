@@ -1,12 +1,5 @@
 const difflib = require('difflib');
 
-// sample text - should convert to unit test cases
-let oldText = "**Can I Travel** Travel - *Stack-Overflow* is a question\n\n site for professional and *enthusiast* programmers"
-let newText = "**Can I Travel Throughout the Country** Travel - *Stack-Overflow* is a answer\n\n site for enthusiast programmers like you"
-
-// example
-let result = diffText(oldText, newText, true)
-
 module.exports = diffText
 
 function diffText(oldText, newText, convertToHtml) {
