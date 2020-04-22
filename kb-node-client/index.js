@@ -108,7 +108,7 @@ let QnAMakerAPI = function(config) {
         let completeStates = [OPERATION_STATE.FAILED, OPERATION_STATE.SUCCEEDED]
 
         //get operation details
-        let details = await getOperationDetails(operationId)
+        let details = await operations.getDetails(operationId)
 
         //get operation state
         let operationState = details.operationState;
@@ -294,7 +294,7 @@ let QnAMakerAPI = function(config) {
             let publishResponse = "";
 
             if (updateWasSuccessful) {
-                publishResponse = await publishKb(kbId)
+                publishResponse = await knowledgeBase.publish(kbId)
             }
 
             return publishResponse;

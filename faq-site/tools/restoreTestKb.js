@@ -80,7 +80,6 @@ function getUpdatedQnaPairs(localKb, currentlyOnTestKB) {
     //foreach local qna pair
     return localKb.qnaDocuments.map(localQnaPair => {
 
-        let hasBeenUpdated = false;
         //look for matching qna id on test
         let testQnaPair = currentlyOnTestKB.qnaDocuments.find(item => item.id === localQnaPair.id);
 
@@ -91,7 +90,7 @@ function getUpdatedQnaPairs(localKb, currentlyOnTestKB) {
 
         const qnaPairStr_local = JSON.stringify(localQnaPair);
         let qnaPairStr_test = JSON.stringify(testQnaPair);
-        hasBeenUpdated = qnaPairStr_local !== qnaPairStr_test;
+        let hasBeenUpdated = qnaPairStr_local !== qnaPairStr_test;
 
         // if not updated, return null
         if (!hasBeenUpdated) return null;
@@ -108,10 +107,9 @@ function getUpdatedQnaPairs(localKb, currentlyOnTestKB) {
 //Create collection of update objects for each qna pair that has been updated
 function getQnaPairUpdateObjects(updatedQnaPairs) {
 
-    let updateObjects = [];
 
     //for each QnA pair that has been updated, find updated elements and use them to build object to 
-    updatedQnaPairs.forEach(function(qnaPair) {
+    let updateObjects = updatedQnaPairs.map(function(qnaPair) {
         //TODO test context updates
 
         let qnaPairFromLocalKb = qnaPair.new
@@ -157,8 +155,7 @@ function getQnaPairUpdateObjects(updatedQnaPairs) {
             }
         }
 
-        //Create the update list element and add it to list 
-        updateObjects.push(updateObject);
+        return updateObject
     });
 
     return updateObjects;
