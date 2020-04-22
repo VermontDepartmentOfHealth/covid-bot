@@ -16,7 +16,10 @@
       "request": "launch",
       "name": "Update Data",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\updateData.js"
+      "program": "${workspaceFolder}\\tools\\updateData.js",
+      "env": {
+        "AZURE_ENVIRONMENT": "test"
+      }
     },
     {
       "type": "node",
@@ -24,6 +27,13 @@
       "name": "Lint Data",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\tools\\lintData.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Deploy to Prod",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\tools\\deployToProd.js"
     }
   ]
 }
