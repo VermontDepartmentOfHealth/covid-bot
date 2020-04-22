@@ -193,3 +193,48 @@ var btn = document.getElementById("BackToTop")
 btn.addEventListener('click', function() {
     window.scrollTo(0, 0)
 });
+
+
+
+function checkDetailsSupport() {
+    var el = document.createElement("details")
+    if (!('open' in el)) return false
+
+    el.innerHTML = '<summary>a</summary>b'
+    document.body.appendChild(el)
+
+    var diff = el.offsetHeight
+    el.open = true
+    var result = (diff != el.offsetHeight)
+
+    document.body.removeChild(el)
+    return result
+}
+
+if (!checkDetailsSupport()) {
+    document.body.addEventListener('click', function(e) {
+        toggleDetailsEvent(e)
+    });
+    document.body.addEventListener('keypress', function(e) {
+        var code = e.keyCode || e.which
+        if (code == 13) { //Enter keycode
+            toggleDetailsEvent(e)
+        }
+    });
+
+    function toggleDetailsEvent(e) {
+        if (e.target.matches('summary, summary *')) {
+
+            let details = e.target.closest("details")
+
+            let isOpen = details.getAttribute('open')
+
+            if (isOpen) {
+                details.removeAttribute('open')
+            } else {
+                details.setAttribute('open', 'open')
+            }
+
+        }
+    }
+}
