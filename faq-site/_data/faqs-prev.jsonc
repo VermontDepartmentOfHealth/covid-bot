@@ -3,7 +3,7 @@
     "qnaDocuments": [
         {
             "id": 3810,
-            "answer": "TEST Sorry we could not find a good match for your question. Please try rephrasing the question, checking out the [CDC website](https://www.cdc.gov/coronavirus), exploring our FAQ, emailing [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov), calling the VT Department of Health call center at [**(802) 863-7240**](tel:802-863-7240) to talk to a person or calling **2-1-1**",
+            "answer": "Sorry we could not find a good match for your question. Please try rephrasing the question, checking out the [CDC website](https://www.cdc.gov/coronavirus), exploring our FAQ, emailing [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov), calling the VT Department of Health call center at [**(802) 863-7240**](tel:802-863-7240) to talk to a person or calling **2-1-1**",
             "source": "Editorial",
             "questions": [
                 "This did NOT answer my question.\n"
@@ -275,7 +275,7 @@
         },
         {
             "id": 3817,
-            "answer": "**Should I wear a face mask when I go out in public**\n Vermonters should wear cloth face masks, or coverings, if they need to leave their homes for essential purposes, like going grocery shopping or to the pharmacy, or outdoors if other people are nearby. \n\nThe advice to wear cloth masks is based on new data about how COVID-19 can spread before a person has any symptoms. Because people may have COVID-19 but no symptoms, wearing a face mask may help keep people from spreading the virus. \n\n Face coverings are not a substitute for physical distancing (or “social distancing”) and other prevention measures. **The most effective way to slow the spread is to continue to follow the governor’s Stay Home, Stay Safe Order, and social distancing, as well as regularly washing hands and not touching your face.** \n\nMedical-grade mask supplies are needed for our health care workers and first responders. Please use cloth or other recommended face coverings for your yourself and loved ones.\n\n If you feel sick, stay home to rest and avoid going out into public places. If you are sick and plan to see a doctor, you should call the office before your visit. Your doctor can provide guidance on how to avoid spreading illness, such as what steps to take while traveling to their facility and upon arrival, and whether you should wear a mask.\n\nLearn more about [using cloth face coverings to help slow the spread of COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).",
+            "answer": "**Should I wear a face mask when I go out in public?**Vermonters should wear cloth face masks, or coverings, if they need to leave their homes for essential purposes, like going grocery shopping or to the pharmacy, or outdoors if other people are nearby. \n\nThe advice to wear cloth masks is based on new data about how COVID-19 can spread before a person has any symptoms. Because people may have COVID-19 but no symptoms, wearing a face mask may help keep people from spreading the virus. \n\n Face coverings are not a substitute for physical distancing (or “social distancing”) and other prevention measures. **The most effective way to slow the spread is to continue to follow the governor’s Stay Home, Stay Safe Order, and social distancing, as well as regularly washing hands and not touching your face.** \n\nMedical-grade mask supplies are needed for our health care workers and first responders. Please use cloth or other recommended face coverings for your yourself and loved ones.\n\n If you feel sick, stay home to rest and avoid going out into public places. If you are sick and plan to see a doctor, you should call the office before your visit. Your doctor can provide guidance on how to avoid spreading illness, such as what steps to take while traveling to their facility and upon arrival, and whether you should wear a mask.\n\nLearn more about [using cloth face coverings to help slow the spread of COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).",
             "source": "KB-COVID",
             "questions": [
                 "Should I wear a face mask when I go out in public?",
@@ -286,8 +286,7 @@
                 "Can face masks keep you from getting sick?",
                 "Has the guidance changed regarding masks?",
                 "Are masks required",
-                "face covering, is it mandatory?",
-                "Do I have to wear a mask at work?"
+                "face covering, is it mandatory?"
             ],
             "metadata": [
                 {
@@ -532,9 +531,7 @@
                 "Why does it take so long to get test results?",
                 "Where is my test result?",
                 "Will I be told if I am positive before",
-                "I was tested for Covid-19 how long will until I get results?",
-                "How can I get my test results?",
-                "How do I get my COVID-19 tests results back"
+                "I was tested for Covid-19 how long will until I get results?"
             ],
             "metadata": [
                 {
@@ -563,6 +560,8 @@
                 "Where is testing being done?",
                 "Testing locations",
                 "Where is testing?",
+                "How can I get tested?",
+                "Where can I get tested?",
                 "Testing in southern VT",
                 "Testing near me"
             ],
@@ -703,7 +702,7 @@
         },
         {
             "id": 3829,
-            "answer": "**What should business owners in Vermont do?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). Businesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. Read the [detailed list of essential services or functions in Vermont](https://governor.vermont.gov/content/addendum-6-executive-order-01-20)\n\nThe ACCD has published a [guide using NAICS codes](https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses) to help businesses interpret acceptable in-person business functions under this Order. Additionally, ACCD has [FAQs for businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) that should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the [Request for Continuation of Business Operations Form](https:\\\\bit.ly/covid-vt-business-operations).\n\nVisit the [ACCD’s COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19/business) for information on financial assistance, sector guidance, and unemployment information.\n\nThe Vermont Department of Labor’s has [guidance for employers and employee, industry updates and notifications](https://labor.vermont.gov/covid19).\n\nVisit the [Health Department’s website](http://www.healthvermont.gov/COVID19-business) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**What should business owners in Vermont do?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). Read more about [new work safe additions to the Stay Home, Stay Safe Order](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order).\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. For a detailed list of essential services or functions in Vermont, visit [https://governor.vermont.gov/content/addendum-6-executive-order-01-20](https://governor.vermont.gov/content/addendum-6-executive-order-01-20)\n\nThe Agency of Commerce and Community Development (ACCD) has published a guide using NAICS codes https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses to help businesses interpret acceptable in-person business functions under this Order. Additionally, the Agency has published FAQs [https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) which should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the Request for Continuation of Business Operations Form at bit.ly/covid-vt-business-operations.\n\nVisit the ACCD’s COVID-19 Recovery Resource website for information on financial assistance, sector guidance, and unemployment information: https://accd.vermont.gov/covid-19/business  \n\nVisit Vermont Department of Labor’s website: https://labor.vermont.gov/covid19 for guidance for employers and employee, industry updates and notifications.\n\nVisit the Health Department’s website: [www.healthvermont.gov/COVID19-business](https://www.healthvermont.gov/response/coronavirus-covid-19/businesses-and-employees)\n\n",
             "source": "KB-COVID",
             "questions": [
                 "What should business owners in Vermont do?",
@@ -909,9 +908,10 @@
         },
         {
             "id": 3836,
-            "answer": "**Are there any recommendations for people age 65 and older and people with chronic medical conditions?**\n\nSome people are at higher risk of getting very sick from this illness, including older adults (65 years and older) and people with chronic medical conditions like heart disease, diabetes lung disease, moderate to severe asthma, or who are immunocompromised including cancer treatment. According to the CDC, starting at age 65, there is an increasing risk of disease and the risk increases with age. The highest risk of serious illness is in people older than 80 years. \n\nOlder adults and people with chronic medical conditions should take extra precautions including:\n\n* Having needed supplies on hand \n\t * Contact your medical provider to ask about obtaining extra necessary medications in case you need to stay home for a prolonged period of time. \n\t * Have over-the-counter medicines and supplies for fever and other symptoms. \n\t * Have enough household items and groceries on hand so that you will be prepared to stay at home for a period of time\n\n* Avoiding crowds\n\n* Postponing cruise travel and non-essential air travel\n\n* Staying away from others who are sick\n\nRead the CDC’s full guidance on [People at Risk for Serious Illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).",
+            "answer": "**Are there any recommendations for older people and those with chronic medical conditions?**\n\nSome people are at higher risk of getting very sick from this illness, including older adults (65 years and older) and people with chronic medical conditions like heart disease, diabetes lung disease, moderate to severe asthma, or who are immunocompromised including cancer treatment. According to the CDC, starting at age 65, there is an increasing risk of disease and the risk increases with age. The highest risk of serious illness is in people older than 80 years. \n\nOlder adults and people with chronic medical conditions should take extra precautions including:\n\n* Having needed supplies on hand \n\t * Contact your medical provider to ask about obtaining extra necessary medications in case you need to stay home for a prolonged period of time. \n\t * Have over-the-counter medicines and supplies for fever and other symptoms. \n\t * Have enough household items and groceries on hand so that you will be prepared to stay at home for a period of time\n\n* Avoiding crowds\n\n* Postponing cruise travel and non-essential air travel\n\n* Staying away from others who are sick\n\nRead the CDC’s full guidance on [People at Risk for Serious Illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).",
             "source": "KB-COVID",
             "questions": [
+                "Are there any recommendations for older people and those with chronic medical conditions?",
                 "seniors",
                 "Do underlying conditions put me at higher risk for contracting the virus?",
                 "A person with chronic conditions more susceptible to virus complications?",
@@ -922,8 +922,7 @@
                 "I have a chronic condition.",
                 "is someone without a spleen at high risk",
                 "If I suffer from allergies, am I considered high risk?",
-                "Who is most at risk?",
-                "Are there any recommendations for people age 65 and older and people with chronic medical conditions?"
+                "Who is most at risk?"
             ],
             "metadata": [
                 {
@@ -970,17 +969,12 @@
                 "exposed",
                 "community exposure",
                 "may have been exposed to covid-19 came within a few feet of me and spoke a few words",
-                "What if you are exposed to someone presumed COVID-19 positive at work?",
-                "someone in building is sick, what should I do?"
+                "What if you are exposed to someone presumed COVID-19 positive at work?"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "close contact"
+                    "value": "testing"
                 }
             ],
             "alternateQuestions": "",
@@ -1221,8 +1215,7 @@
                 "What is essential travel",
                 "What kind of travel is ok?",
                 "Can I travel?",
-                "Out of state travel",
-                "Can I leave Vermont?"
+                "Out of state travel"
             ],
             "metadata": [
                 {
@@ -1305,9 +1298,7 @@
                 "If I feel seriously ill",
                 "I have coronavirus",
                 "If you have Covid-19 what to do",
-                "If I am feeling mild symptoms should I call the doctor",
-                "where can I go to self isolate?",
-                "Should I self isolate?"
+                "If I am feeling mild symptoms should I call the doctor"
             ],
             "metadata": [
                 {
@@ -1354,7 +1345,7 @@
         },
         {
             "id": 3847,
-            "answer": "**What types of disinfectants should I be using to clean?**\n\nRead the CDC's [Cleaning and Disinfection for Households](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html) guidance.\n\nFor disinfection, review the [list of products with EPA-approved emerging viral pathogens](https://www.americanchemistry.com/Novel-Coronavirus-Fighting-Products-List.pdf) and the [EPA list of anti-microbial products for use against novel coronavirus](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2).\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n* Follow the directions on the label\n\n* Don’t mix chemicals\n\n* Wear protective gear (such as gloves)\n\n* Use them in a well-ventilated area\n\n* Store them out of reach of children\n\nCall the [New England Poison Control Center](https://www.nnepc.org/) at 1-800-222-1222 if you feel sick after using disinfectants.",
+            "answer": "**What types of disinfectants should I be using to clean?**\n\nSee the CDC's [Cleaning and Disinfection for Households](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html) guidance.\n\nFor disinfection, review the [list of products with EPA-approved emerging viral pathogens](https://www.americanchemistry.com/Novel-Coronavirus-Fighting-Products-List.pdf) and the [EPA list of anti-microbial products for use against novel coronavirus](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2).\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n* Follow the directions on the label\n\n* Don’t mix chemicals\n\n* Wear protective gear (such as gloves)\n\n* Use them in a well-ventilated area\n\n* Store them out of reach of children",
             "source": "KB-COVID",
             "questions": [
                 "What types of disinfectants should I be using to clean?",
@@ -1454,10 +1445,10 @@
         },
         {
             "id": 3850,
-            "answer": "**What if I’ve had contact with someone who is under monitoring?**\n\nThere is no identifiable increased risk to someone who has been in a home or in close contact with a person who is under monitoring and is NOT sick (experiencing symptoms).\n\nPeople are thought to be most contagious when they are most symptomatic (the sickest). It might be possible to spread the virus before people show symptoms – there have been reports of this happening – but this is not thought to be the main way the virus spreads.",
+            "answer": "**What if I’ve had contact with someone who us under monitoring?**\n\nThere is no identifiable increased risk to someone who has been in a home or in close contact with a person who is under monitoring and is NOT sick (experiencing symptoms).\n\nPeople are thought to be most contagious when they are most symptomatic (the sickest). It might be possible to spread the virus before people show symptoms – there have been reports of this happening – but this is not thought to be the main way the virus spreads.",
             "source": "KB-COVID",
             "questions": [
-                "What if I’ve had contact with someone who is under monitoring?"
+                "What if I’ve had contact with someone who us under monitoring?"
             ],
             "metadata": [
                 {
@@ -1466,7 +1457,7 @@
                 },
                 {
                     "name": "subcategory",
-                    "value": "close contact"
+                    "value": "contact"
                 }
             ],
             "alternateQuestions": "",
@@ -1526,7 +1517,7 @@
                 },
                 {
                     "name": "subcategory",
-                    "value": "close contact"
+                    "value": "contact"
                 }
             ],
             "alternateQuestions": "",
@@ -1580,7 +1571,7 @@
         },
         {
             "id": 3854,
-            "answer": "**What does social distancing mean?**\n\nSocial distancing means maintaining distance (approximately 6 feet or 2 meters) from others you do not live with. This includes when you're outside for a walk or exercise and when your at a grocery store, pharmacy.\n\nThe COVID-19 virus spreads easily from person to person. It travels through the air when a sick person coughs, sneezes or talks. One way to contain the spread of COVID-19 is to stop people from sharing it. Without a vaccine or treatment, we can help contain the virus by:\n\n* If you are sick, please stay home to protect others.\n\n* Staying home as much as possible, leaving only for essential reasons, such as personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others.\n\n* Limiting trips outside of the home for essential purposes by making sure you have enough groceries and other supplies for 14 days.\n\n* Continuing to go outside, take walks, go to the grocery store and pharmacies while practicing “social distancing” and proper hygiene. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. See more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases). \n\n* Wearing a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when going to the grocery store, pharmacy, doctor’s office, hospital or other essential business or office, and when stopping to chat with people you encounter outside. \n\n* Limiting contact with family members and friends who are sick. This includes anyone who has symptoms of a cold, flu or contagious stomach illnesses. \n\n* Washing your hands (adults and children) any time you go inside, before you eat, and before you spend time with people who are more vulnerable to the effects of COVID-19.",
+            "answer": "**What does social distancing mean?**\n\nSocial distancing means maintaining distance (approximately 6 feet or 2 meters) from others you do not live with. This includes when outside for a walk or exercise. Limit your trips outside of the home to grocery and drug stores.\n\nCoronavirus spreads easily from person to person. It travels through the air when a sick person coughs, sneezes or talks. One way to contain the spread of COVID-19 is to stop people from sharing it. Without a vaccine or treatment, we can help contain the virus by:\n\n* If you are sick, please stay home to protect others.\n\n* Staying home as much as possible, leaving only for essential reasons, such as personal safety, groceries or medicine, curbside pick-up of goods, meals or beverages, medical care, exercise, or care of others.\n\n* Continuing to go outside, take walks, go to the grocery store and pharmacies while practicing “social distancing” and proper hygiene. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. See more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases). \n\n* Wearing a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when going to the grocery store, pharmacy, doctor’s office, hospital or other essential business or office, and when stopping to chat with people you encounter outside. \n\n* Limiting contact with family members and friends who are sick. This includes anyone who has symptoms of a cold, flu or contagious stomach illnesses. \n\n* Washing your hands (adults and children) any time you go inside, before you eat, and before you spend time with people who are more vulnerable to the effects of COVID-19.",
             "source": "KB-COVID",
             "questions": [
                 "What does social distancing mean?",
@@ -1594,10 +1585,7 @@
                 "Should I allow my cleaning lady in?",
                 "A group of us meet ",
                 "I meet with friends but we maintain 6ft of distance.",
-                "What are the current social distancing guidelines in place in Vermont?",
-                "maintain 6feet",
-                "6 feet away",
-                "Is there a maximum of 10 in a group for now?"
+                "What are the current social distancing guidelines in place in Vermont?"
             ],
             "metadata": [
                 {
@@ -1721,8 +1709,7 @@
                 "What should dentists do?",
                 "I'm a dentist, what should I do?",
                 "Can I go to a dentist appointment?",
-                "What should dentists know about COVID-19?",
-                "are dental offices open"
+                "What should dentists know about COVID-19?"
             ],
             "metadata": [
                 {
@@ -1778,7 +1765,7 @@
         },
         {
             "id": 3860,
-            "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, everyone should stay at home, leaving only for essential reasons critical to health and safety. If you must leave your home for an essential reason, practice social distancing (keeping at least 6 feet away from others).\n\nWhile people age 65 and older and people with underlying health conditions are at greatest risk, young people are not immune to getting sick. Even people who show only mild symptoms may pass the virus to others — particularly in the early course of the infection, before they even realize they are sick. Staying at home and social distancing protects everyone and helps slow the spread of this virus.",
+            "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, everyone should stay at home, leaving only for essential reasons critical to health and safety.  If you must leave your home for an essential reason, practice social distancing (keeping at least 6 feet away from others). While older people and those with underlying health conditions are at greatest risk, young people are not immune to getting sick. Even people who show only mild symptoms may pass the virus to others — particularly in the early course of the infection, before they even realize they are sick. Staying at home and social distancing protects everyone and helps slow the spread of this virus.",
             "source": "Editorial",
             "questions": [
                 "I’m young. Can I continue to socialize?",
@@ -1917,10 +1904,7 @@
                 "What will Vermont do?",
                 "Where can I find the governors executive orders?",
                 "Why don't we develop our own guidelines from out own state data?",
-                "Covid-19 operations plan ",
-                "What executive order is in place today?",
-                "plan for dealing with COVID?",
-                "What is the strategic plan for dealing with COVID-19?"
+                "Covid-19 operations plan "
             ],
             "metadata": [
                 {
@@ -2080,7 +2064,7 @@
         },
         {
             "id": 3869,
-            "answer": "**What information is available regarding bars and restaurants?**\n\nOn April 10, the governor extended his order (effective Tuesday, March 17 at 2 p.m.) closing all bars and restaurants statewide until May 15.\n\n Establishments can continue to offer food take out and delivery.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.",
+            "answer": "**What information is available regarding bars and restaurants?**\n\nOn April 10, the governor extended his order (effective Tuesday, March 17 at 2 p.m.) closing all bars and restaurants statewide until May 15.\n\n Establishments can continue to offer food take out and delivery.",
             "source": "Editorial",
             "questions": [
                 "What information is available regarding bars and restaurants?",
@@ -2165,9 +2149,7 @@
                 "How likely is it that my mail will have Covid-19 on it?",
                 "How long can COVID-19 remain viable on paper?",
                 "Should I clean packages?",
-                "Is there a risk to handle mail?",
-                "Can you get Covid-19 through the mail",
-                "How long does COVID-19 live on a piece of paper?"
+                "Is there a risk to handle mail?"
             ],
             "metadata": [
                 {
@@ -2298,13 +2280,8 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 3918,
-                        "displayText": "How can I make my own homemade face mask?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 3810,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -2636,7 +2613,7 @@
         },
         {
             "id": 3884,
-            "answer": "**Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of this executive order will be mainly be done through education and voluntary compliance. The executive order does not close roads and does not establish roadblocks or checkpoints. Motor vehicle and pedestrian traffic will continue as Vermonters do outdoor activities that are allowed and travel to and from businesses (including grocery stores and pharmacies) and other entities that are allowed to operate under the order. There will not be motor vehicle stops or people detained for questioning about their travel, but law enforcement officers may be reminding people of the order if they see groups gathering or businesses operating in violation of the order.\n\nFind out more about [what the Stay Home/Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
+            "answer": "**Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of this executive order will be handled primarily through education and voluntary compliance. The executive order does not close roads, nor does it establish roadblocks or checkpoints. Motor vehicle and pedestrian traffic will continue as Vermonters engage in permissible activities outdoors and travel to and from businesses (including grocery stores and pharmacies) and other entities that are continuing to operate as the order allows. The executive order does not establish cause to initiate a motor vehicle stop or detain people for questioning about their travel, but law enforcement officers may be reminding people of the order’s provisions if they see groups congregating or businesses operating in violation of the order.\n\nFor more on what the governor's stay home/stay safe order means to Vermonters, visit [https://vem.vermont.gov/StayHome](https://vem.vermont.gov/StayHome)",
             "source": "Editorial",
             "questions": [
                 "Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?",
@@ -2645,7 +2622,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -2823,15 +2800,14 @@
         },
         {
             "id": 3890,
-            "answer": "**Where can I go to get tested?**\n\nThe Vermont Department of Health announced expanded testing of Vermonters with COVID-19 symptoms. There are several testing sites and drive-through locations across the state and more may be added as the situations evolves. \n\n**Before you can be tested** you must have a referral from your health care provider. People who arrive at a testing site without a referral from their health care provider will not be tested.\n\nIf you are having symptoms of COVID-19 (cough, fever, shortness of breath), call your health care provider. If you are having a medical emergency, call 9-1-1 or go to the hospital. The [CDC Self Checker Tool](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/index.html) can help you review your symptoms. Read [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html).",
+            "answer": "**Where can I go to get tested?**\n\nThe Vermont Department of Health announced expanded testing of Vermonters with COVID-19 symptoms. There are several testing sites and drive-through locations across the state and more may be added as the situations evolves. \n\n**Before you can be tested** you must have a referral from your health care provider. People who arrive at a testing site without a referral from their health care provider will not be tested.\n\n**If you are sick** or concerned about your health, contact your health care provider by phone. Do not call the Health Department, and do not go to the hospital, except in a life-threatening situation.",
             "source": "Editorial",
             "questions": [
                 "Where can I go to get a sample collected for testing?",
                 "Where can I go to get tested?",
                 "How do you get tested for COVID-19?",
                 "Where can I go to be tested for the corona virus?",
-                "I need a test",
-                "Where is Covid-19 testing done?"
+                "I need a test"
             ],
             "metadata": [
                 {
@@ -2906,8 +2882,7 @@
                 "Should seasonal Vermonters come for the summer?",
                 "Can I fly into Vermont from another state?",
                 "be allowed to come back into state?",
-                "I I have to self quarantine for 14 days?",
-                "what do I have to do when arriving in Vermont?"
+                "I I have to self quarantine for 14 days?"
             ],
             "metadata": [
                 {
@@ -2949,7 +2924,7 @@
         },
         {
             "id": 3893,
-            "answer": "**Are hotels, motels and other lodging facilities closed?**\n\nYes. As of March 30, 2020, Governor Scott has ordered all lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – to be closed, unless they are helping with the State’s COVID-19 response.\n\nGovernor Scott announced on April 10 that lodging operators may accept new reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook. Reservations for arrivals before May 15 need to be cancelled. Existing reservations for arrivals between May 15 and June 15 are still valid, but may not be allowed if Stay Home, Stay Safe Order is extended or if other lodging restrictions will stay in place or be added.",
+            "answer": "**Are hotels, motels and other lodging facilities closed?**\n\nYes. As of March 30, 2020, Governor Scott has ordered all lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – to be closed, unless they are helping with the State’s COVID-19 response. Online lodging reservations are also suspended.",
             "source": "Editorial",
             "questions": [
                 "Are hotels, motels and other lodging facilities closed?",
@@ -3010,11 +2985,7 @@
                 "Which counties have Covid-19?",
                 "Diagnoses in Orleans county",
                 "How many people who have tested positive for COVID-19 are in my town or county?",
-                "Covid-19 cases by town?",
-                "new cases?",
-                " can you go to VT ",
-                "Location of current Covid-19 cases",
-                "statistics"
+                "Covid-19 cases by town?"
             ],
             "metadata": [
                 {
@@ -3052,8 +3023,7 @@
                 "directly exposed to the virus",
                 "should everyone quarantine?",
                 "Can I have contact with my family if I am on quarantine?",
-                "Quarantine for family members",
-                "How do I have to self quarantine the first 14 days in Vermont"
+                "Quarantine for family members"
             ],
             "metadata": [
                 {
@@ -3197,7 +3167,7 @@
         },
         {
             "id": 3899,
-            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging facilities to close, except for exemptions when supporting the state’s COVID-19 response. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response.\n\nThe Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nGovernor Scott announced on April 10 that lodging operators may accept new reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook. Reservations for arrivals before May 15 need to be cancelled. Existing reservations for arrivals between May 15 and June 15 are still valid, but may not be allowed if Stay Home, Stay Safe Order is extended or if other lodging restrictions will stay in place or be added.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others. Read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging facilities to close, except for exemptions when supporting the state’s COVID-19 response. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response. Online lodging reservations are also suspended. The Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the Vermont State Police Guidance on enforcement at [vsp.vermont.gov/covid19/stayhome_enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nGovernor Scott announced on Friday, April 10 that lodging operators may accept reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook.",
             "source": "Editorial",
             "questions": [
                 "What do owners of lodging facilities need to do?",
@@ -3233,16 +3203,16 @@
         },
         {
             "id": 3900,
-            "answer": "**There are renters in local short-term rentals. Is that allowed?**\n\nThe order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder this order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Read the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement)",
+            "answer": "**There are renters in local Airbnbs, is that allowed?**\n\nThe order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder this order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. See the Vermont State Police Guidance on enforcement [https://vsp.vermont.gov/covid19/stayhome_enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement)",
             "source": "Editorial",
             "questions": [
-                "Airbnbs not not being compliant with order",
-                "There are renters in local short-term rentals. Is that allowed?"
+                "There are renters in local Airbnbs, is that allowed?",
+                "Airbnbs not not being compliant with order"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -3266,8 +3236,7 @@
                 "Are out-of-state visitors allowed to be in Vermont?",
                 "Can I visit VT?",
                 "Do you have to stay 14 days in VT?",
-                "After entering VT when can you leave?",
-                "out of state"
+                "After entering VT when can you leave?"
             ],
             "metadata": [
                 {
@@ -3305,9 +3274,7 @@
                 "How many people who have tested positive for or have symptoms of COVID-19 are in the hospitals?",
                 "How many people have been hospitalized with Covid-19?",
                 "What percentage of people with Covid-19 are hospitalized?",
-                "How many people are inpatients with Covid-19?",
-                "hospitalized and under investigation",
-                "How many severe cases of Covid-19?"
+                "How many people are inpatients with Covid-19?"
             ],
             "metadata": [
                 {
@@ -3334,7 +3301,7 @@
         },
         {
             "id": 3903,
-            "answer": "**What details can you share about people who have died from COVID-19?**\n\nInformation on the deaths from COVID-19 in Vermont is available on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nInformation on the [number of deaths from COVID-19 in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) is available from the CDC.",
+            "answer": "**What details can you share about people who have died from COVID-19?**\n\nThe number of deaths from COVID-19 in Vermont can be found at [www.healthvermont.gov/COVID19-currentactivity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). We do not have details on the age and sex for the public at this time.\n\nFor the number of deaths from COVID-19 in the U.S., visit the CDC page: [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)",
             "source": "Editorial",
             "questions": [
                 "What details can you share about people who have died from COVID-19?",
@@ -3343,8 +3310,7 @@
                 "What is the death data vs time",
                 "How many Covid-19 deaths have there been in Vermont?",
                 "How many VT deaths have there been?",
-                "How many COVID-19 patients have died in the hospital, and nursing homes, and at home?",
-                "Death by age group "
+                "How many COVID-19 patients have died in the hospital, and nursing homes, and at home?"
             ],
             "metadata": [
                 {
@@ -3407,8 +3373,7 @@
                 "self-employed",
                 "need the extra 600 dollars",
                 "Can I collect unemployment due to Covid-19?",
-                "Can you return to work and still collect benefits?",
-                "unemployment if I left at doctor's advice"
+                "Can you return to work and still collect benefits?"
             ],
             "metadata": [
                 {
@@ -3431,7 +3396,7 @@
         },
         {
             "id": 3906,
-            "answer": "**What does the “Stay Home, Stay Safe” Order mean for Vermonters?**\n\nVermonters are being asked to stay at home and leave only for essential reasons, such as: personal safety, groceries or medicine, medical care, exercise, care of others, work, and curbside pick-up of goods, meals or beverages. \n\nYou can continue to go outside, take walks, go to the grocery store and pharmacies as long as you practice social distancing by keeping at least 6 feet away from others (except for those you live with) and washing your hands often. Wear a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when going to the grocery store, pharmacy, doctor’s office, hospital or other essential business or office, and when stopping to chat with people you encounter outside. If you are sick, please stay home to protect others. \n\nRemember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. See more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFnd out more on what the governor's [Stay Home, Stay Safe Order](https://vem.vermont.gov/StayHome) means to Vermonters.",
+            "answer": "**What does the “Stay Home, Stay Safe” Order mean for Vermonters?**\n\nVermonters are being asked to stay at home and leave only for essential reasons, such as: personal safety; groceries or medicine; curbside pick-up of goods, meals or beverages; medical care; exercise; care of others; and work. \n\nYou can continue to go outside, take walks, go to the grocery store and pharmacies as long as you practice social distancing by keeping at least 6 feet away from others (except for those you live with) and washing your hands often. Wear a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when going to the grocery store, pharmacy, doctor’s office, hospital or other essential business or office, and when stopping to chat with people you encounter outside. If you are sick, please stay home to protect others. \n\nRemember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. See more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFnd out more on what the governor's [Stay Home, Stay Safe Order](https://vem.vermont.gov/StayHome) means to Vermonters.",
             "source": "Editorial",
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for Vermonters?",
@@ -3440,11 +3405,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
-                },
-                {
-                    "name": "sort",
-                    "value": "1"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -3462,16 +3423,14 @@
         },
         {
             "id": 3907,
-            "answer": "**What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). Businesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nVisit the [Health Department’s website](http://www.healthvermont.gov/COVID19-business) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nMore sector-specific guidance is available at the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
+            "answer": "**What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). Read more about [new work safe additions to the Stay Home, Stay Safe Order](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order).\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nMore sector-specific guidance is available at the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
             "source": "Editorial",
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?",
                 "Stay at home restriction",
                 "Can I do work at a home if I work alone?",
                 "When will businesses reopen?",
-                "curfew",
-                "Lawn mowing",
-                "What is closed?"
+                "curfew"
             ],
             "metadata": [
                 {
@@ -3514,11 +3473,7 @@
                 "Vermont’s Airport is open or not?",
                 "What is open?",
                 "Are landscapers able to work?",
-                "Are office staff essential workers?",
-                "when will the DMV open? ",
-                "essential purpose definition",
-                "farm workers",
-                "Barber shops"
+                "Are office staff essential workers?"
             ],
             "metadata": [
                 {
@@ -3740,8 +3695,7 @@
                 "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?",
                 "Can I travel to NH for work?",
                 "I work in New Hampshire and live in Vermont",
-                "Can you leave vt?",
-                "Is there a travel restriction new Hampshire"
+                "Can you leave vt?"
             ],
             "metadata": [
                 {
@@ -3783,9 +3737,10 @@
         },
         {
             "id": 3915,
-            "answer": "**Can I still do outdoor activities with the Stay Home, Stay Safe Order?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise and taking in Vermont’s natural beauty is important for our mind and bodies. We can safely continue to enjoy the outdoors with these measures:\n\n* **Stay close to home.** Find areas close you can walk or bike to. If you must drive, please limit the distance from home to ten miles, and only drive with members of your household.\n\n* **Practice social distancing while outside.** You lower your risk when you stay at least 6 ft apart from others. This includes having your dog on a leash and close to you.\n\n* **Bring a cloth face mask with you.** Put a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) on if you encounter other people and stop to chat.\n\n* **Be cautious and choosing low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to find out if your trail is currently open before you visit.\n\n* Check for ticks and wear an EPA-registered tick repellent. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFind out more about [outdoor recreation and COVID-19](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) from the Vermont Department of Forests, Parks and Recreation.\n\nPlease note that marinas are not open for in-person operations at this time. Check the [Agency of Commerce and Community Development’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance) under “Outdoor Recreation” for up-to-date information.",
+            "answer": "**Can I still do outdoor activities with the Stay Home, Stay Safe order?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise and taking in Vermont’s natural beauty is important for our mind and bodies. We can safely continue to enjoy the outdoors with these measures:\n\n* **Stay close to home.** Find areas close you can walk or bike to. If you must drive, please limit the distance from home to ten miles, and only drive with members of your household.\n\n* **Practice social distancing while outside.** You lower your risk when you stay at least 6 ft apart from others. This includes having your dog on a leash and close to you.\n\n* **Bring a cloth face mask with you.** Put a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) on if you encounter other people and stop to chat.\n\n* **Be cautious and choosing low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to see if your trail is currently open before you visit.\n\n* Check for ticks and wear an EPA-registered tick repellent. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFor more information, visit the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19).\n\nPlease note that marinas are not open for in-person operations at this time. Check the [Agency of Commerce and Community Development’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance) under “Outdoor Recreation” for up-to-date information.",
             "source": "Editorial",
             "questions": [
+                "Can I still do outdoor activities with the Stay Home, Stay Safe order?",
                 "travel to another place in Vermont for recreation?",
                 "Ride in the car",
                 "Go for a ride in the car.",
@@ -3802,14 +3757,12 @@
                 "Can I go motorcycling?",
                 "Can I go outside?",
                 "Is it ok to go outside?",
-                "State parks",
-                "Are parks closed?",
-                "Can I still do outdoor activities with the Stay Home, Stay Safe Order?"
+                "State parks"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -3819,20 +3772,15 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 3854,
-                        "displayText": "What does social distancing mean?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 3810,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
         },
         {
             "id": 3916,
-            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nOriginally, data predicted that COVID-19 cases in Vermont would peak in mid- to late-April, or maybe in early May. Most recent data suggest the peak will happen in mid-April. Recently, the number of new cases has begun to level off. However, we would like to continue to wait and see if that continues before determining whether we have hit our peak in Vermont. To continue on this path, it is critical that Vermonters continue staying home and making their day-to-day sacrifices to help save lives.\n\nRead the latest [COVID-19 modeling projections](https://vem.vermont.gov/covid19).",
+            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nOriginally, data predicted that COVID-19 cases in Vermont would peak in mid- to late-April, or maybe in early May. Most recent data suggest the peak will happen in mid-April. Recently, the number of new cases has begun to level off. However, we would like to continue to wait and see if that continues before determining whether we have hit our peak in Vermont. To continue on this path, it is critical that Vermonters continue staying home and making their day-to-day sacrifices to help save lives.\n\nTo see the latest COVID-19 modeling projections, visit [vem.vermont.gov/covid19](https://vem.vermont.gov/covid19).",
             "source": "Editorial",
             "questions": [
                 "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?",
@@ -3853,16 +3801,12 @@
                 "How long does the current stay at home order go to?",
                 "When did covid-19 peak in VT?",
                 "How long will essential only purchasing last?",
-                "We are flattening the curve",
-                "Are we beating the curve?",
-                "How much longer till I can go outside with 2 people?",
-                "When is quarantine over?",
-                "Has Vermont plateaued?"
+                "We are flattening the curve"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -3980,8 +3924,7 @@
                 "Where can I get tested for COVID-19?",
                 "is there a testing site in my town?",
                 "where can I be tested?",
-                "Covid-19 testing locations",
-                "Where can I get tested?"
+                "Covid-19 testing locations"
             ],
             "metadata": [
                 {
@@ -4071,22 +4014,19 @@
         },
         {
             "id": 3923,
-            "answer": "**How can I report a person or business who is violating the Stay Home, Stay Safe Order?** \n\n The Department of Public Safety and the Vermont State Police recommended to Vermont municipal leaders and law-enforcement executives that enforcement of the Governor’s Stay Home, Stay Safe Order be handled mainly through education and voluntary compliance.\n\n Members of the public who have concerns about businesses, lodging establishments, short-term rental properties, nonprofits or other entities that are operating out of compliance with the Stay Home, Stay Safe Order, or regarding individuals who are not doing self-quarantine as required, should call their local law-enforcement agency. Find out more about [what the Stay Home/Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
+            "answer": "**How can I report a person or business who is violating the Stay Home, Stay Safe Order?** \n\n The Department of Public Safety and the Vermont State Police recommended to Vermont municipal leaders and law-enforcement executives that enforcement of the Governor’s Stay Home, Stay Safe executive order be handled primarily through education and voluntary compliance.\n\n Members of the public who have concerns about businesses, lodging establishments, short-term rental properties, nonprofits or other entities that are operating out of compliance with Gov. Scott’s “Stay Home, Stay Safe” executive order, or regarding individuals who are failing to self-quarantine as required, should call their local law-enforcement agency. For more on what the governor's Stay Home, Stay Safe Order means to Vermonters, visit [https://vem.vermont.gov/StayHome](https://vem.vermont.gov/StayHome)",
             "source": "Editorial",
             "questions": [
                 "How can I report a person or business who is violating the Stay Home, Stay Safe Order?",
                 "businesses not in compliance to the covid-19 order",
                 "If I see my neighbor not abiding by guidelines, am I supposed to inform someone?",
                 " business not following social distancing rules",
-                "where can i report a person who tested positive but I have seen out in the community",
-                "airbnb not following executive orders",
-                "Can we report people",
-                "Who do we report someone not social distancing?"
+                "where can i report a person who tested positive but I have seen out in the community"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -4163,8 +4103,7 @@
             "answer": "**What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?**\n\nThe Heath Department is contacting all long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities proactively to review strategies to prevent COVID-19 infection and develop plans to respond immediately if an infection is identified. We complete an in-depth assessment by phone and provide guidance about personal protective equipment and other infection prevention and control recommendations. We continue to stay in touch for any technical assistance needs and additional questions.\n\nIf a case of COVID-19 is associated with a long term care facility, an epidemiology team is quickly activated. They contact the facility to provide recommendations and infection control support. The team begins contact tracing ¬to determine the source of the infection and how it may be spreading. They ask questions and collect information to help identify anyone the patient had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) The team communicates with close contacts to ensure isolation and quarantine guidelines are being followed, which will differ depending on the type of setting.",
             "source": "Editorial",
             "questions": [
-                "What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?",
-                "Cathedral square senior housing"
+                "What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?"
             ],
             "metadata": [
                 {
@@ -4177,11 +4116,6 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 3930,
-                        "displayText": "Testing at group living facilities."
-                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 3810,
@@ -4222,7 +4156,11 @@
             "source": "Editorial",
             "questions": [
                 "Is there any assistance available for food?",
-                "hungerfree"
+                "food resources",
+                "food",
+                "hungerfree",
+                "hunger",
+                "where can I get food?"
             ],
             "metadata": [
                 {
@@ -4237,13 +4175,8 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 3950,
-                        "displayText": "Is there food available if I need it?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 3810,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did not answer my question.\n"
                     }
                 ]
             }
@@ -4282,8 +4215,7 @@
                 "enforce that a nursing home test a resident for Covid-19?",
                 "What triggers testing for all staff and residents at a senior living or nursing home?",
                 "Is there universal (widespread) testing being done at group living facilities?",
-                "Is there universal testing being done at group living facilities?",
-                "How long before residents at group living facility will there be tested?"
+                "Is there universal testing being done at group living facilities?"
             ],
             "metadata": [
                 {
@@ -4344,9 +4276,7 @@
             "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you haven’t had any symptoms and you tested positive for COVID-19, you may stop home isolation when:\n* at least seven days have passed since the date of your first positive COVID-19 test and\n* you still have not had any symptoms.\n\nAfter stopping home isolation, continue to stay six feet away from others and wear a face covering in any setting where other people are present.",
             "source": "Editorial",
             "questions": [
-                "I tested positive for COVID-19, but I never had symptoms. When can I stop home isolation?",
-                "Can I still infect others?",
-                "Can someone who has the Covid-19 antibodies still infect others?"
+                "I tested positive for COVID-19, but I never had symptoms. When can I stop home isolation?"
             ],
             "metadata": [
                 {
@@ -4383,9 +4313,7 @@
             "questions": [
                 "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?",
                 "Outdoor seating for restaurants",
-                "Food truck outdoor seating",
-                "Must restaurant workers offering to go food wear masks?",
-                "Are food providers supposed to wear masks"
+                "Food truck outdoor seating"
             ],
             "metadata": [
                 {
@@ -4487,7 +4415,7 @@
         },
         {
             "id": 3937,
-            "answer": "**Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?**\n\nGovernor Phil Scott has amended the Stay Home, Stay Safe Executive Order. There is now new guidance for the reopening of certain businesses in strict accordance with mandatory health and safety requirements, including outdoor businesses. Businesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nThe governor’s Stay Home, Stay Safe Order says that “other building and property services for the safety, sanitation and operations of residences or other businesses” are considered critical. This means that property management and landscaping businesses may do limited in-person operations under the governor’s Stay Home, Stay Safe Order. According to the ACCD, these include building services such as janitorial services, security services, pest control and maintenance and repair operations that are essential to protecting property.\n\nVisit the [Health Department’s website](http://www.healthvermont.gov/COVID19-business) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nMore sector-specific guidance is available at the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
+            "answer": "**Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?**\n\nGovernor Phil Scott has amended the Stay Home, Stay Safe Executive Order. There is now new guidance for the reopening of certain businesses in strict accordance with mandatory health and safety requirements, including outdoor businesses. Read more about [new work safe additions to the Stay Home, Stay Safe Order](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order).\n\nThe governor’s Stay Home, Stay Safe Order says that “other building and property services for the safety, sanitation and operations of residences or other businesses” are considered critical. This means that property management and landscaping businesses may do limited in-person operations under the governor’s Stay Home, Stay Safe Order. According to the Agency of Commerce and Community Development (ACCD), these include building services such as janitorial services, security services, pest control and maintenance and repair operations that are essential to protecting property.\n\nMore sector-specific guidance is available at the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
             "source": "Editorial",
             "questions": [
                 "Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?"
@@ -4542,14 +4470,37 @@
             }
         },
         {
+            "id": 3939,
+            "answer": "**I’m a veterinarian. Do I need to be testing animals for COVID-19?**\n\nPlease see the CDC’s guidance on [Evaluation for SARS-CoV-2 Testing in Animals](https://www.cdc.gov/coronavirus/2019-ncov/php/animal-testing.html).",
+            "source": "Editorial",
+            "questions": [
+                "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "pets and other animals"
+                }
+            ],
+            "alternateQuestions": "",
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3810,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
             "id": 3940,
             "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Executive Order does not prevent people from going to their seasonal home or RV. If you are traveling to Vermont from out-of-state, you must do a 14-day quarantine as soon as you arrive in Vermont and comply with all of the [Stay Home, Stay Safe Order](https://governor.vermont.gov/content/addendum-7-executive-order-01-20).",
             "source": "Editorial",
             "questions": [
-                "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
-                "What is the policy about opening summer camps or coming to them on weekends?",
-                "seasonal property owner",
-                "When returning to a summer home, do we have to quarantine?"
+                "I have a second home or a seasonal home in Vermont. Can I come to Vermont?"
             ],
             "metadata": [
                 {
@@ -4568,11 +4519,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 3901,
-                        "displayText": "Out-of-state visitors allowed to be in Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 3810,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4581,7 +4527,7 @@
         },
         {
             "id": 3941,
-            "answer": "**Are campgrounds, RV parks, and seasonal resorts open?**\n\nCampgrounds, RV parks, and seasonal resorts are only open for limited in-person operations, which includes housing of essential COVID-19 workers or other essential workers under the governor’s Stay Home, Stay Safe Order. They may accept seasonal campers whose reservations were made before March 25 and whose stays last the entire season.\n\nNew reservations for short-term or long-term stays can only be made for stays and events occurring on June 15 or later.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others. Read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nMore details are available on the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
+            "answer": "**Are campgrounds, RV parks, and seasonal resorts open?**\n\nCampgrounds, RV parks, and seasonal resorts are only open for limited in-person operations, which includes housing of essential COVID-19 workers or other essential workers under the governor’s Stay Home, Stay Safe Order. They may accept seasonal campers whose reservations were made before March 25 and whose stays last the entire season.\n\nNew reservations for short-term or long-term stays can only be made for stays and events occurring on June 15 or later.\n\nMore details are available on the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
             "source": "Editorial",
             "questions": [
                 "Are campgrounds, RV parks, and seasonal resorts open?",
@@ -4644,8 +4590,7 @@
             "source": "Editorial",
             "questions": [
                 "Where can I buy cloth face coverings?",
-                "location of face masks",
-                "Where to get masks"
+                "location of face masks"
             ],
             "metadata": [
                 {
@@ -4664,13 +4609,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 3918,
-                        "displayText": "How can I make my own homemade face mask?"
+                        "qnaId": 3810,
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 3810,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 3918,
+                        "displayText": "How can I make my own homemade face mask?"
                     }
                 ]
             }
@@ -4685,7 +4630,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -4733,7 +4678,7 @@
         },
         {
             "id": 3946,
-            "answer": "**How can I keep from getting sick if I live with or care for someone who is sick with COVID-19?**\n\nThe CDC has advice to protect yourself or others if you are caring for someone with COVID-19. You can learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms. Read [Caring for Someone Sick at Home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html).",
+            "answer": "**How can I keep from getting sick if I live with or care for someone who is sick with COVID-19?**\n\nThe CDC has advice to protect yourself or others if you are caring for someone with COVID-19. You can learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms. See [Caring for Someone Sick at Home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html).",
             "source": "Editorial",
             "questions": [
                 "How can I keep from getting sick if I live with or care for someone who is sick with COVID-19?"
@@ -4781,7 +4726,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "stay home, stay safe order"
+                    "value": "stay home, stay safe"
                 }
             ],
             "alternateQuestions": "",
@@ -4854,12 +4799,7 @@
             "answer": "**Is there food available if I need it?**\n\nThe Vermont Foodbank and Vermont National Guard will give out free food to those in need at five different areas of Vermont beginning on April 22. People in need of food can go to these locations on the days and times listed below and receive a free, seven-day supply of ready-to-eat meals for each member of their household.\n\nPeople who are sick, have been asked to quarantine, or don’t have transportation can send a friend or relative to pick up meals for them. Those picking up food can come to the location nearest to them, open their trunk, and the food will be loaded by members of the Vermont National Guard.\n\nDates and locations (9:00 a.m. - 6:00 p.m. each day):\n\n* Wednesday, April 22 - Franklin County Airport (Highgate/Swanton)\n\n* Friday, April 24 - Rutland Southern VT Regional Airport (Clarendon)\n\n* Monday, April 27 - Hartness State Airport (Weathersfield/Springfield)\n\n* Tuesday, April 28 - William H Morse State Airport (Bennington)\n\n* Wednesday, April 29 - Northeast Kingdom International Airport (Coventry/Newport)\n\nThe need for these additional food resources is being considered on a week-by-week basis. Vermont food shelves are also able to meet the demand of clients and Vermont grocery stores are not experiencing shortages of most food items.\n\nVisit [Vermont Emergency Management](http://vem.vermont.gov/) for the latest news on food sites and more.\n\nVisit the [Vermont Foodbank](http://www.vtfoodbank.org/2020/03/covid-19-update.html) for more details on food resources during COVID-19 or to donate.",
             "source": "Editorial",
             "questions": [
-                "Is there food available if I need it?",
-                "Where can I get food?",
-                "food",
-                "food resources",
-                "hunger",
-                "hungerfree"
+                "Is there food available if I need it?"
             ],
             "metadata": [
                 {
@@ -4869,67 +4809,6 @@
                 {
                     "name": "subcategory",
                     "value": "assistance"
-                }
-            ],
-            "alternateQuestions": "",
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 3928,
-                        "displayText": "Is there any assistance available for food?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 3810,
-                        "displayText": "This did NOT answer my question. "
-                    }
-                ]
-            }
-        },
-        {
-            "id": 3951,
-            "answer": "**I’m a veterinarian. Do I need to be testing animals for COVID-19?**\n\nPlease see the CDC’s guidance on [Evaluation for SARS-CoV-2 Testing in Animals](https://www.cdc.gov/coronavirus/2019-ncov/php/animal-testing.html).",
-            "source": "Editorial",
-            "questions": [
-                "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "pets and other animals"
-                }
-            ],
-            "alternateQuestions": "",
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 3810,
-                        "displayText": "This did NOT answer my question. "
-                    }
-                ]
-            }
-        },
-        {
-            "id": 3952,
-            "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
-            "source": "Editorial",
-            "questions": [
-                "What do I do if I'm a close contact of someone who is waiting for their test results?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "close contact"
                 }
             ],
             "alternateQuestions": "",
