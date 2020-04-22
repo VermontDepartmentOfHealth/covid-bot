@@ -1,9 +1,19 @@
+// remove no-js if we're able to execute
+document.body.classList.remove("no-js")
+
 var keywordInput = document.querySelector("#search");
 var searchArea = document.querySelector(".topics")
 var markInstance = new Mark(searchArea);
 
 
-var sendAnalyticsDebounced = debounceGenerator(sendAnalytics, 2500)
+var sendAnalytics = function() {
+    // https://stackoverflow.com/a/61241460/1366033
+    gtag('config', 'UA-52251621-2', {
+        'page_title': 'FAQ Search',
+        'page_path': '/COVID/faq/?searchText=' + encodeURI(keywordInput.value)
+    });
+}
+var sendAnalyticsDebounced = debounce(sendAnalytics, 2500)
 
 
 keywordInput.addEventListener("input", performMark);
@@ -13,36 +23,45 @@ keywordInput.addEventListener("input", sendAnalyticsDebounced);
 
 /**
  * Debounce Function Generator
- * @param {func} func the function you would utlimately like invoked
+ * @param {func} func the function you would ultimately like invoked
  * @param {number} delay the wait time before executing
- * @returns {func} debouncedFunction that you can invoke
- * @description https://www.geeksforgeeks.org/debouncing-in-javascript/
+ * @returns {func} debouncedFunction that you can call
+ * @description https://stackoverflow.com/a/61241621/1366033
  */
-function debounceGenerator(func, delay) {
-    var debounceTimer
+function debounce(func, delay) {
+    var timeoutId
 
     return function() {
 
         var context = this
         var args = arguments
 
-        clearTimeout(debounceTimer)
+        clearTimeout(timeoutId)
 
-        debounceTimer = setTimeout(function() {
+        timeoutId = setTimeout(function() {
             return func.apply(context, args)
         }, delay)
     }
 }
 
-function sendAnalytics() {
 
-    // debounce 
-    // Read the keyword
-    var keyword = keywordInput.value;
 
-    ga('send', 'pageview', 'COVID/faq/?searchText=' + keyword);
+function debounce(func, wait) {
+    var timeoutId;
 
-}
+    return function() {
+        var context = this,
+            args = arguments;
+
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(function() {
+            func.apply(context, args);
+        }, wait);
+    };
+};
+
+
+
 
 
 function performMark() {
@@ -88,9 +107,24 @@ function markComplete() {
             el.classList.remove("marked")
         })
     document
-        .querySelectorAll(".match-title")
+        .querySelectorAll(".match-topic")
         .forEach(function(el) {
-            el.classList.remove("match-title")
+            el.classList.remove("match-topic")
+        })
+    document
+        .querySelectorAll(".match-sub")
+        .forEach(function(el) {
+            el.classList.remove("match-sub")
+        })
+    document
+        .querySelectorAll(".match-faq")
+        .forEach(function(el) {
+            el.classList.remove("match-faq")
+        })
+    document
+        .querySelectorAll(".match-alt")
+        .forEach(function(el) {
+            el.classList.remove("match-alt")
         })
     document
         .querySelectorAll(".match-body")
@@ -104,28 +138,37 @@ function markComplete() {
 
 
     matches.forEach(function(el) {
-        var faqItem = el.closest(".faq")
+        var matchTopic = el.closest("h2")
+        var matchSub = el.closest("h3")
+        var matchFaq = el.closest("h4")
+        var matchAlt = el.closest(".alt-phrasings")
+        var matchBody = el.closest(".answer")
 
-        if (faqItem) {
-            faqItem.classList.add("marked")
+        var matchType = matchTopic ? "match-topic" :
+            matchSub ? "match-sub" :
+            matchFaq ? "match-faq" :
+            matchAlt ? "match-alt" :
+            matchBody ? "match-body" : ""
 
-            if (el.closest("h2")) {
-                faqItem.classList.add("match-title")
-            } else {
-                faqItem.classList.add("match-body")
-            }
+
+        var faqContainer = el.closest(".faq")
+        var subContainer = el.closest(".sub")
+        var topicContainer = el.closest(".topic")
+
+
+        if (faqContainer) {
+            faqContainer.classList.add("marked")
+            faqContainer.classList.add(matchType)
         }
 
-        var topicItem = el.closest(".topic")
+        if (subContainer) {
+            subContainer.classList.add("marked")
+            subContainer.classList.add(matchType)
+        }
 
-        if (topicItem) {
-            topicItem.classList.add("marked")
-
-            if (el.closest("h2")) {
-                topicItem.classList.add("match-title")
-            } else {
-                topicItem.classList.add("match-body")
-            }
+        if (topicContainer) {
+            topicContainer.classList.add("marked")
+            topicContainer.classList.add(matchType)
         }
 
     })
@@ -137,10 +180,16 @@ function markComplete() {
 
 
 
-    document
-        .querySelectorAll(".match-title")
-        .forEach(function(el) {
-            searchArea.prepend(el)
-        })
+    // document
+    //     .querySelectorAll(".match-title")
+    //     .forEach(function(el) {
+    //         searchArea.prepend(el)
+    //     })
 
 }
+
+
+var btn = document.getElementById("BackToTop")
+btn.addEventListener('click', function() {
+    window.scrollTo(0, 0)
+});

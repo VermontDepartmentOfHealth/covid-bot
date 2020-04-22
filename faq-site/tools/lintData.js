@@ -9,6 +9,8 @@ let faqs = readJsonc("_data/faqs.jsonc")
 let topics = readJsonc("_data/topics.jsonc")
 
 // run main code block
+let topicNames = topics.map(t => t.name)
+
 validate()
 
 
@@ -111,15 +113,18 @@ async function validateHasCategory(allFaqs) {
 async function validateInvalidCategory(allFaqs) {
 
     // add chitchat to topics
-    topics.push("chitchat")
+    topicNames.push("chitchat")
 
     let invalidCategories = allFaqs.flatMap(faq => {
         // get category value
         let catMetadata = faq.metadata.find(m => m.name === "category")
         if (!catMetadata) return []
 
+        // auto update abbreviations
+        let fixedCatName = catMetadata.value.replace(/VT/i, "Vermont")
+
         // check for a match against topics
-        let match = topics.some(t => utilities.stringsAlphaEqual(t, catMetadata.value))
+        let match = topicNames.some(t => utilities.stringsAlphaEqual(t, fixedCatName))
         if (match) return []
 
         return [{ category: catMetadata.value, question: faq.questions[0] }]
