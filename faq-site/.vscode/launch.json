@@ -34,6 +34,16 @@
       "name": "Deploy to Prod",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\tools\\deployToProd.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Restore Test",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\tools\\restoreTestKb.js",
+      "env": {
+        "AZURE_ENVIRONMENT": "test"
+      }
     }
   ]
 }
