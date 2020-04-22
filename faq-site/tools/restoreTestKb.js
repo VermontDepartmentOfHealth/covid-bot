@@ -185,39 +185,3 @@ function getListOfItemsToDelete(sourceList, targetList) {
     return itemsToDelete;
 
 }
-
-
-
-
-// async function getCurrentLocalKb(){
-//     let partialPath = "_data/faqs.jsonc";
-//     let projectRoot = __dirname.replace(/tools$/, "");
-//     let fullPath = `${projectRoot}/${partialPath}`;
-//     let contents = await fs.readFile(fullPath, "utf8");
-//     let currentKB = jsoncParser.parse(contents);
-//     return currentKB;
-// }
-
-// //TODO remove when development complete, Method saves generated update object locally for inspection
-// async function saveUpdateJson(updateobject){
-
-//     let contents = JSON.stringify(updateobject, null, 4);
-
-//     //await utilities.writeFile("_data/updateObject.jsonc", {test: "yup"});
-//     await writeFile("_data/updateObject.jsonc", contents);
-// }
-
-// async function writeFile(path, contents) {
-
-//     let projectRoot = __dirname.replace(/tools$/, "");
-//     let fullPath = `${projectRoot}/${path}`;
-
-//     try {
-//         await fs.writeFile(fullPath, GENERATED_FILE_WARNING + contents)
-
-//         console.log(`Data has been written to ${path}`);
-
-//     } catch (error) {
-//         console.error(error)
-//     }
-// }
