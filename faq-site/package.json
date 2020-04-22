@@ -9,6 +9,7 @@
         "serve": "npx @11ty/eleventy --serve",
         "update-data": "npx cross-env AZURE_ENVIRONMENT=test node tools/updateData.js",
         "lint": "node tools/lintData.js",
+        "restore-local": "npx cross-env AZURE_ENVIRONMENT=test node tools/restoreTestKb.js",
         "deploy-to-prod": "node tools/deployToProd.js"
     },
     "keywords": [],

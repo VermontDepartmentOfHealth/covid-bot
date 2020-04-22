@@ -16,6 +16,13 @@ const ENVIRONMENT = {
 
 }
 
+const OPERATION_STATE = {
+    FAILED: "Failed",
+    NOT_STARTED: "NotStarted",
+    RUNNING: "Running",
+    SUCCEEDED: "Succeeded"
+}
+
 /**
  * QnA Maker API Client Builder
  * @param {object} config 
@@ -82,6 +89,75 @@ let QnAMakerAPI = function(config) {
         return resp
 
     }
+
+    
+    let kbUpdate = async function(kbId, body, endpoint) {
+
+        //I don't think we have a config any more out here, but we did from 
+        //where this is called
+        //kbId = kbId || config.kbId
+
+        let url = `${endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+        //let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+        let response = await sendRequest(url, METHOD.PATCH, body)
+
+        return response
+
+    }
+
+    let getOperationDetails = async function(operationId, endpoint) {
+
+        let url = `${config.endpoint}/qnamaker/${API_VERSION}/operations/${operationId}`
+
+        let operationDetails = await fetchJson(url, METHOD.GET)
+
+        return operationDetails
+
+    }
+
+    let publishKb = async function(kbId) {
+
+        kbId = kbId || config.kbId
+
+        let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+        let response = await sendRequest(url, METHOD.POST)
+
+        return response
+
+    }
+
+    let pollForOperationComplete = async function(operationId, secondsWaited) {
+        let seconds = secondsWaited || 0
+
+        let completeStates = [OPERATION_STATE.FAILED, OPERATION_STATE.SUCCEEDED]
+
+        let details = await getOperationDetails(operationId, config.endpoint)
+
+        let operationState = details.operationState;
+
+        //failure is also done, 
+        //or number of seconds is more than 45 TODO don't hardcode time out
+        if (completeStates.includes(operationState) || seconds > 45){
+            //then publish
+            return operationState;
+        }else {
+            sleep(1000)
+            return await pollForOperationComplete(operationId, seconds + 1);
+        }
+
+        let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+        let response = await sendRequest(url, METHOD.POST)
+
+        return response
+
+    }
+
+    let sleep = (milliseconds) => {
+        return new Promise(resolve => setTimeout(resolve, milliseconds))
+      }
 
     let client = {
         knowledgeBase: {
@@ -169,9 +245,11 @@ let QnAMakerAPI = function(config) {
             update: async function(kbId, body) {
                 kbId = kbId || config.kbId
 
-                let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+                let response = await kbUpdate(kbId, body, config.endpoint)
 
-                let response = await sendRequest(url, METHOD.PATCH, body)
+                // let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}`
+
+                // let response = await sendRequest(url, METHOD.PATCH, body)
 
                 return response
 
@@ -204,6 +282,26 @@ let QnAMakerAPI = function(config) {
                 return response
 
             },
+        },
+        marshaling: {
+            UpdateAndPublish: async function(kbId, body) {
+
+                kbId = kbId || config.kbId
+                let updateResponse = await kbUpdate(kbId,body,config.endpoint)
+
+            
+                let updateJson = await updateResponse.json();
+                let opId = updateJson.operationId;
+                let state = updateJson.operationState
+                let updateOperationStatus = await pollForOperationComplete(opId);
+                let operationDetails = await getOperationDetails(opId)
+                state = operationDetails.operationState;
+                if (state === "Succeeded"){
+                    //then publish
+                    return publishResponse = await publishKb(kbId)
+                }
+                return false;
+            }
         },
         lookups: {
             METHOD,
