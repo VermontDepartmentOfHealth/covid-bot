@@ -13,12 +13,21 @@ async function updateData() {
         kbId: process.env.kbId
     })
 
-
+    await archiveFaqs()
     await updateKnowledgeBase(client)
     await updateAlterations(client)
 
 }
 
+async function archiveFaqs() {
+    const { readJsonc } = require('./utilities')
+
+    let faqs = await readJsonc("_data/faqs.jsonc")
+
+    let contents = JSON.stringify(faqs, null, 4);
+
+    await writeFile("_data/faqs-prev.jsonc", contents)
+}
 
 async function updateKnowledgeBase(client) {
     let knowledgeBase = await client.knowledgeBase.download()
