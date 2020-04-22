@@ -6,8 +6,9 @@ const chalk = require("chalk")
 const utilities = require('./utilities')
 
 
-
+// run main code block
 validate()
+
 
 async function validate() {
 

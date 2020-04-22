@@ -1,7 +1,10 @@
-require('dotenv').config()
 const { promises: fs } = require("fs");
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
+
+let filePath = process.env.AZURE_ENVIRONMENT ? `.env.${process.env.AZURE_ENVIRONMENT}` : ".env"
+require('dotenv').config({ path: filePath })
+
 
 module.exports = updateData();
 
