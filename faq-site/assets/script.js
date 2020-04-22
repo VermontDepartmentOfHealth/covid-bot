@@ -193,3 +193,37 @@ var btn = document.getElementById("BackToTop")
 btn.addEventListener('click', function() {
     window.scrollTo(0, 0)
 });
+
+
+
+
+if (document.documentElement.matches(".no-details")) {
+
+    document.body.addEventListener('click', function(e) {
+        var inSummaryH4 = e.target.matches('summary > h4, summary > h4 *')
+        if (inSummaryH4) {
+            toggleDetailsEvent(e)
+        }
+    });
+    document.body.addEventListener('keypress', function(e) {
+        var enterKey = (e.keyCode || e.which) == 13
+        var inSummary = e.target.matches('summary, summary *')
+        if (enterKey & inSummary) { //Enter keycode
+            toggleDetailsEvent(e)
+        }
+    });
+
+    function toggleDetailsEvent(e) {
+
+        let details = e.target.closest("details")
+
+        let isOpen = details.getAttribute('open')
+
+        if (isOpen) {
+            details.removeAttribute('open')
+        } else {
+            details.setAttribute('open', 'open')
+        }
+
+    }
+}

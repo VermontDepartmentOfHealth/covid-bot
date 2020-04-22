@@ -287,8 +287,24 @@ a.permalink {
     transition: opacity .3s ease;
 }
 
-.title-link:hover .permalink {
+.title-link:hover .permalink,
+.title-link:focus .permalink,
+.title-link .permalink:focus {
     opacity: 1;
+}
+
+summary {
+    cursor: pointer;
+}
+
+
+/* summary:focus,
+.permalink:focus {
+    outline: #A6C7FF solid 1px;
+} */
+
+html.no-details.no-details details>summary::before {
+    width: auto;
 }
 
 .no-results-message {

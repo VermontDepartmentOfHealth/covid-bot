@@ -5,23 +5,23 @@ const chalk = require("chalk")
 
 const utilities = require('./utilities')
 
-let faqs = readJsonc("_data/faqs.jsonc")
-let topics = readJsonc("_data/topics.jsonc")
 
 // run main code block
-let topicNames = topics.map(t => t.name)
-
 validate()
 
 
 async function validate() {
+
+    let faqs = await utilities.readJsonc("_data/faqs.jsonc")
+    let topics = await utilities.readJsonc("_data/topics.jsonc")
+    let topicNames = topics.map(t => t.name)
 
     let allFaqs = faqs.qnaDocuments
 
     validateMarkdownUrls(allFaqs)
     await validateUrlsValid(allFaqs)
     validateHasCategory(allFaqs)
-    validateInvalidCategory(allFaqs)
+    validateInvalidCategory(allFaqs, topicNames)
     validateParseQuestion(allFaqs)
 
 }
@@ -110,7 +110,7 @@ async function validateHasCategory(allFaqs) {
 }
 
 
-async function validateInvalidCategory(allFaqs) {
+async function validateInvalidCategory(allFaqs, topicNames) {
 
     // add chitchat to topics
     topicNames.push("chitchat")
@@ -160,14 +160,4 @@ async function validateParseQuestion(allFaqs) {
             console.log(chalk.bold("Question: ") + q)
         })
     }
-}
-
-
-
-function readJsonc(path) {
-    let projectRoot = __dirname.replace(/tools$/, "");
-    let fullPath = `${projectRoot}${path}`;
-    let contents = fs.readFileSync(fullPath, "utf8")
-    let output = jsoncParser.parse(contents)
-    return output
 }
