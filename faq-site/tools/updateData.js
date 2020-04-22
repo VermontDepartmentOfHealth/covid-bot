@@ -1,5 +1,5 @@
 require('dotenv').config()
-const {promises: fs} = require("fs");
+const { promises: fs } = require("fs");
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
 
@@ -13,17 +13,19 @@ async function updateData() {
         kbId: process.env.kbId
     })
 
-    updateKnowledgeBase(client)
-    updateAlterations(client)
+
+    await updateKnowledgeBase(client)
+    await updateAlterations(client)
 
 }
+
 
 async function updateKnowledgeBase(client) {
     let knowledgeBase = await client.knowledgeBase.download()
 
     let contents = JSON.stringify(knowledgeBase, null, 4);
 
-    writeFile("_data/faqs.jsonc", contents)
+    await writeFile("_data/faqs.jsonc", contents)
 }
 
 async function updateAlterations(client) {
@@ -48,7 +50,7 @@ async function updateAlterations(client) {
 
     let contents = "var synonyms = " + JSON.stringify(synonyms, null, 4);
 
-    writeFile("assets/synonyms.js", contents)
+    await writeFile("assets/synonyms.js", contents)
 }
 
 async function writeFile(path, contents) {
