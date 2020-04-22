@@ -1,16 +1,30 @@
 {
-  "name": "md-diff",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "difflib": "^0.2.4",
-    "markdown-it": "^10.0.0"
-  }
+    "name": "@ads-vdh/md-diff",
+    "version": "1.0.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "description": "A diffing implementation for comparing & returning markdown text deltas",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VermontDepartmentOfHealth/covid-bot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/VermontDepartmentOfHealth/covid-bot/issues"
+    },
+    "homepage": "https://github.com/VermontDepartmentOfHealth/covid-bot#readme",
+    "keywords": ["diff", "markdown"],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "difflib": "^0.2.4",
+        "markdown-it": "^10.0.0"
+    },
+    "devDependencies": {
+        "mocha": "^7.1.0"
+    }
 }

@@ -16,9 +16,20 @@ async function updateData() {
         kbId: process.env.kbId
     })
 
-    updateKnowledgeBase(client)
-    updateAlterations(client)
+    await archiveFaqs()
+    await updateKnowledgeBase(client)
+    await updateAlterations(client)
 
+}
+
+async function archiveFaqs() {
+    const { readJsonc } = require('./utilities')
+
+    let faqs = await readJsonc("_data/faqs.jsonc")
+
+    let contents = JSON.stringify(faqs, null, 4);
+
+    await writeFile("_data/faqs-prev.jsonc", contents)
 }
 
 async function updateKnowledgeBase(client) {
@@ -26,7 +37,7 @@ async function updateKnowledgeBase(client) {
 
     let contents = JSON.stringify(knowledgeBase, null, 4);
 
-    writeFile("_data/faqs.jsonc", contents)
+    await writeFile("_data/faqs.jsonc", contents)
 }
 
 async function updateAlterations(client) {
@@ -51,7 +62,7 @@ async function updateAlterations(client) {
 
     let contents = "var synonyms = " + JSON.stringify(synonyms, null, 4);
 
-    writeFile("assets/synonyms.js", contents)
+    await writeFile("assets/synonyms.js", contents)
 }
 
 async function writeFile(path, contents) {

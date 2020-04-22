@@ -50,17 +50,18 @@ npm run update-and-build  # gets new KB data and builds site
 
 ## // TODO
 
-- [ ] fix focus styles
 - [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #37 add toggle for TOC on mobile
 - [ ] add deep links to filter and each fragment URI
 - [ ] sort title vs body match & reset position when clearing filter
 - [ ] #17 expand / collapse all
+- [ ] contain page action buttons to main area when scrolled to bottom
 - [ ] #20 low-perf debouncing
 - [ ] #18 show revision history
 - [ ] fix [tel:211]
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] fix focus styles
 - [x] #39 add back to top button
 - [x] #40 guarantee unique IDs for subcategories
 - [x] handle no js

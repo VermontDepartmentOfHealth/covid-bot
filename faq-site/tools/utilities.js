@@ -4,7 +4,11 @@ module.exports = {
     stringsAlphaEqual,
     toTitleCase,
     toProperCase,
-    flattenArrayToObject
+    flattenArrayToObject,
+    readJsonc,
+    slugify,
+    getCurrentTimestamp,
+    deduplicate
 }
 
 
@@ -64,4 +68,43 @@ function flattenArrayToObject(arr) {
     let entries = arr.map(el => [el.name, el.value])
     let obj = Object.fromEntries(entries)
     return obj;
+}
+
+async function readJsonc(path) {
+    const { promises: fs } = require("fs");
+    const jsoncParser = require("jsonc-parser")
+
+    let projectRoot = __dirname.replace(/tools$/, "");
+    let fullPath = `${projectRoot}${path}`;
+    let contents = await fs.readFile(fullPath, "utf8")
+    let output = jsoncParser.parse(contents)
+    return output
+}
+
+function slugify(title) {
+    // remove parens & strip special chars
+    let slug = title.toLowerCase().replace(/\(.*?\)/g, "").replace(/[^a-z ]/gi, '').trim();
+    // take first 8 words and separate with "-""
+    slug = slug.split(" ").slice(0, 8).join("-");
+    return slug;
+}
+
+function getCurrentTimestamp() {
+    var time = new Date();
+    var options = {
+        weekday: 'short',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: "numeric",
+        hour12: true
+    };
+    var formatted = time.toLocaleString('en-US', options)
+    return formatted
+}
+
+function deduplicate(array) {
+    let uniqueArray = [...new Set(array)];
+    return uniqueArray
 }
