@@ -8,7 +8,8 @@ module.exports = {
     readJsonc,
     slugify,
     getCurrentTimestamp,
-    deduplicate
+    deduplicate,
+    writeFile
 }
 
 
@@ -107,4 +108,21 @@ function getCurrentTimestamp() {
 function deduplicate(array) {
     let uniqueArray = [...new Set(array)];
     return uniqueArray
+}
+
+async function writeFile(path, contents) {
+    const { promises: fs } = require("fs");
+    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
+
+    let projectRoot = __dirname.replace(/tools$/, "");
+    let fullPath = `${projectRoot}/${path}`;
+
+    try {
+        await fs.writeFile(fullPath, GENERATED_FILE_WARNING + contents)
+
+        console.log(`Data has been written to ${path}`);
+
+    } catch (error) {
+        console.error(error)
+    }
 }
