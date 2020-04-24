@@ -70,4 +70,17 @@ describe('diffText', function() {
         // asset
         assert.equal(actual, expected);
     });
+
+    it('should handle commas after word', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "particularly older adults, working"
+        let newText = "particularly older adults (65 years and older), working"
+        let expected = "particularly older adults <ins>(65 years and older)</ins>, working"
+            // act
+        let actual = diffText(oldText, newText, false)
+
+        // asset
+        assert.equal(actual, expected);
+    });
 });

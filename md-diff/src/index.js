@@ -7,12 +7,6 @@ function diffText(oldText, newText, convertToHtml) {
     // support all markdown chars as separate tokens - initially add space and then remove when we've processed
     // ** * [ ] ( ) \n \n\n *
 
-    let tokenizeChars = text => {
-        text = text.replace(/\*/g, " * ")
-        text = text.replace(/\n/g, " \n ")
-        return text;
-    }
-
     oldText = tokenizeChars(oldText)
     newText = tokenizeChars(newText)
 
@@ -49,12 +43,6 @@ function diffText(oldText, newText, convertToHtml) {
         return returnValue
     }).join(" ")
 
-    // replace tokens
-    let detokenizeChars = text => {
-        text = text.replace(/ \* /g, "*")
-        text = text.replace(/ \n /g, "\n")
-        return text;
-    }
 
 
     result = detokenizeChars(result)
@@ -72,4 +60,19 @@ function diffText(oldText, newText, convertToHtml) {
 
     return result
 
+}
+
+function tokenizeChars(text) {
+    text = text.replace(/\*/g, " * ")
+    text = text.replace(/\n/g, " \n ")
+    text = text.replace(/,/g, " , ")
+    return text;
+}
+
+// replace tokens
+function detokenizeChars(text) {
+    text = text.replace(/ \* /g, "*")
+    text = text.replace(/ \n /g, "\n")
+    text = text.replace(/ , /g, ",")
+    return text;
 }
