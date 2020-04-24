@@ -3,7 +3,7 @@
     "qnaDocuments": [
         {
             "id": 3954,
-            "answer": "TEST Sorry we could not find a good match for your question. Please try rephrasing the question, checking out the [CDC website](https://www.cdc.gov/coronavirus), exploring our FAQ, emailing [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov), calling the VT Department of Health call center at [**(802) 863-7240**](tel:802-863-7240) to talk to a person or calling **2-1-1**",
+            "answer": "Sorry we could not find a good match for your question. Please try rephrasing the question, checking out the [CDC website](https://www.cdc.gov/coronavirus), exploring our FAQ, emailing [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov), calling the VT Department of Health call center at [**(802) 863-7240**](tel:802-863-7240) to talk to a person or calling **2-1-1**",
             "source": "Editorial",
             "questions": [
                 "This did NOT answer my question.\n"
@@ -192,13 +192,13 @@
         },
         {
             "id": 3959,
-            "answer": "**Are children more susceptible to the virus that causes COVID-19 compared with the general population?**\n\nNo, there is no evidence that children are more susceptible. In fact, most confirmed cases of COVID-19 reported from China have occurred in adults. Infections in children have been reported, including in very young children. From limited information published from past Severe Acute Respiratory Syndrome coronavirus (SARS) and Middle East respiratory syndrome coronavirus (MERS) outbreaks, infection among children was relatively uncommon. Children should engage in usual preventive actions to avoid infection, including cleaning hands often using soap and water or alcohol-based hand sanitizer with at least 60% alcohol, avoiding people who are sick, and staying up to date on vaccinations, including the flu vaccine. Everyone, including children, should practice social distancing with one another. More information can be found on our website at [www.healthvermont.gov/response/coronavirus-covid-19/communities-families-and-individuals](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-families-and-individuals)",
+            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n* **Do activities at home** \n\n* **Clean hands often** using soap and water or alcohol-based hand sanitizer\n\n* **Avoid people who are sick** (coughing and sneezing)\n\n* **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks)\n\n* **Wash items**, including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nFind more [information and resources for families with children](https://www.healthvermont.gov/COVID19-communities).",
             "source": "KB-COVID",
             "questions": [
-                "Are children more susceptible to the virus that causes COVID-19 compared with the general population?",
                 "Can kids get Covid-19?",
                 "Can kids get it?",
-                "are children at risk"
+                "are children at risk",
+                "Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?"
             ],
             "metadata": [
                 {
@@ -311,7 +311,7 @@
         },
         {
             "id": 3962,
-            "answer": "**Can pets get sick from COVID-19?**\n\nTo date, CDC has not received any reports of pets becoming sick with COVID-19 in the U.S. On April 5, the USDA confirmed the first case of a tiger being infected with COVID-19. The tiger is at a zoo in New York. Learn more at [https://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19](https://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19).",
+            "answer": "**Can pets get sick from COVID-19?**\n\nOn April 5, the USDA confirmed the [first case of a tiger being infected with COVID-19](http://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19). The tiger is at a zoo in New York.\n\nOn April 22, the CDC announced the first confirmed cases of COVID-19 infection in two pet cats. These are the first pets in the U.S. to test positive. The cats live in two separate areas of New York State. Find out more from the CDC’s press release [Confirmation of COVID-19 in Two Pet Cats in New York](https://www.cdc.gov/media/releases/2020/s0422-covid-19-cats-NYC.html).\n\nThe CDC recommends the following:\n\n* Do not let pets interact with people or other animals outside the household.\n\n* Keep cats indoors when possible to prevent them from interacting with other animals or people.\n\n* Walk dogs on a leash, keeping at least 6 feet from other people and animals.\n\n* Avoid dog parks or public places where large numbers of people and dogs may gather.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nRead [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
                 "Can pets get sick from COVID-19?",
@@ -331,13 +331,18 @@
                         "displayOrder": 0,
                         "qnaId": 3954,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3963,
+                        "displayText": "Should I stay away from animals if I'm sick?\n"
                     }
                 ]
             }
         },
         {
             "id": 3963,
-            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nThe CDC is advising the following: \n\n* Restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. \n\n* When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19.\n\n* Avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. \n\n* If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask. \n\nFor more information on preparing for your pet, please visit [https://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html](https://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html).\n\n",
+            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nIf you are sick with COVID-19 (either suspected or confirmed by a test), avoid contact with your pets and other animals, just like you would around other people.\n\n* When possible, have another member of your household care for your pets while you are sick.\n\n* Avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food or bedding.\n\n* If you must care for your pet or be around animals while you are sick, wear a cloth face covering and wash your hands before and after you interact with them.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nFind more information on [preparing for your pet](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) from the CDC.\n\nRead [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
                 "Should I avoid contact with pets or other animals if I am sick with COVID-19?",
@@ -358,6 +363,11 @@
                         "displayOrder": 0,
                         "qnaId": 3954,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3962,
+                        "displayText": "Can pets get sick from COVID-19?"
                     }
                 ]
             }
@@ -752,10 +762,10 @@
         },
         {
             "id": 3975,
-            "answer": "**What should pregnant or breastfeeding women and children do?**\n\nThere is not currently information from published scientific reports about susceptibility of pregnant women to COVID-19. Pregnant women experience immunologic and physiologic changes which might make them more susceptible to viral respiratory infections, including COVID-19.\n\nThere is no evidence that children are more susceptible to COVID-19. In fact, most confirmed cases of COVID-19 reported from China have occurred in adults. Infections in children have been reported, including in very young children. There is an ongoing investigation to determine more about this outbreak. This is a rapidly evolving situation and information will be updated as it becomes available.\n\nInformation about children and pregnant women and COVID-19 is available at [www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnant-women.html](http://www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnant-women.html) .",
+            "answer": "**What should pregnant or breastfeeding people do?**\n\nWe do not currently know if pregnant people have a greater chance of getting sick from COVID-19 than the general public nor whether they are more likely to have serious illness as a result. Based on available information, pregnant people seem to have the same risk as adults who are not pregnant.\n\nLearn more from CDC about [COVID-19 and pregnancy and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [information and resources for families with children](https://www.healthvermont.gov/COVID19-communities).",
             "source": "KB-COVID",
             "questions": [
-                "What should pregnant or breastfeeding women and children do?"
+                "What should pregnant or breastfeeding people do?"
             ],
             "metadata": [
                 {
@@ -883,7 +893,7 @@
         },
         {
             "id": 3980,
-            "answer": "**Are there any recommendations for people age 65 and older and people with chronic medical conditions?**\n\nSome people are at higher risk of getting very sick from this illness, including older adults (65 years and older) and people with chronic medical conditions like heart disease, diabetes lung disease, moderate to severe asthma, or who are immunocompromised including cancer treatment. According to the CDC, starting at age 65, there is an increasing risk of disease and the risk increases with age. The highest risk of serious illness is in people older than 80 years. \n\nOlder adults and people with chronic medical conditions should take extra precautions including:\n\n* Having needed supplies on hand \n\t * Contact your medical provider to ask about obtaining extra necessary medications in case you need to stay home for a prolonged period of time. \n\t * Have over-the-counter medicines and supplies for fever and other symptoms. \n\t * Have enough household items and groceries on hand so that you will be prepared to stay at home for a period of time\n\n* Avoiding crowds\n\n* Postponing cruise travel and non-essential air travel\n\n* Staying away from others who are sick\n\nRead the CDC’s full guidance on [People at Risk for Serious Illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).",
+            "answer": "**Are there any recommendations for older adults (65 years and older) and people of any age with underlying medical conditions?**\n\nAccording to the CDC, some people might be at higher risk of getting very sick from COVID-19, including older adults (65 years and older) and people of any age who have serious underlying medical conditions like heart disease, diabetes, lung disease or moderate to severe asthma, severe obesity, chronic kidney disease undergoing dialysis, liver disease, or people who are immunocompromised including cancer treatment. People who live in a nursing home or long-term care facility are also at high risk of getting very sick from COVID-19.\n\nOlder adults and people with underlying medical conditions should take extra precautions including:\n\n* Continue your medications and do not change your treatment plan without talking to your health care provider.\n\n* Have at least a 2-week supply of prescription and non-prescription medications.\n\n* Talk to your healthcare provider about whether your vaccinations are up to date.\n\n* Do not delay getting emergency care for your underlying medical condition because of COVID-19.\n\n* Call your health care provider if you have any concerns about your underlying medical conditions or if you get sick and think that you may have COVID-19.\n\nRead the CDC’s full guidance on [people who are at higher risk for serious illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).",
             "source": "KB-COVID",
             "questions": [
                 "seniors",
@@ -897,7 +907,7 @@
                 "is someone without a spleen at high risk",
                 "If I suffer from allergies, am I considered high risk?",
                 "Who is most at risk?",
-                "Are there any recommendations for people age 65 and older and people with chronic medical conditions?"
+                "Are there any recommendations for older adults (65 years and older) and people of any age with underlying medical conditions?"
             ],
             "metadata": [
                 {
@@ -1177,7 +1187,7 @@
         },
         {
             "id": 3988,
-            "answer": "**Is it okay to travel within the United States? Do I need to be quarantined when I return?**\n\nVermonters are being asked to stay home, except for essential activities. There are currently no travel restrictions for travel within the U.S. or specific health-related recommendations upon return. However, cases of coronavirus disease (COVID-19) have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers with coronavirus infection. There are several things you should consider when deciding whether it is safe for you to travel.\n\nOn March 28, 2020, the CDC is issued a Domestic Travel Advisory for residents of New York, New Jersey, and Connecticut, which advises them to not travel within the U.S. for 14 days, unless it is essential. \n\nHere are considerations:\n\n* Is COVID-19 spreading where you’re going?\n\n* Will you or your travel companion(s) be in close contact with others during your trip?\n\n* Are you or your travel companion(s) at higher risk of severe illness if you do get COVID-19?\n\n* Do you have a plan for taking time off from work or school, in case you get exposed to, or are sick with, COVID-19?\n\n* Do you live with someone who is older or has a severe chronic health condition?\n\n* Is COVID-19 spreading where you live?\n\nCDC has information about travel in the United States here: [https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) Because guidance keeps evolving, you can watch that page for the latest information.",
+            "answer": "**Is it okay to travel within the United States? Do I need to be quarantined when I return?**\n\nVermonters are being asked to stay home, except for essential activities. There are currently no travel restrictions for travel within the U.S. or specific health-related recommendations upon return. However, cases of coronavirus disease (COVID-19) have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers with coronavirus infection. There are several things you should consider when deciding whether it is safe for you to travel.\n\nOn March 28, 2020, the CDC is issued a Domestic Travel Advisory for residents of New York, New Jersey, and Connecticut, which advises them to not travel within the U.S. for 14 days, unless it is essential. \n\nHere are considerations:\n\n* Is COVID-19 spreading where you’re going?\n\n* Will you or your travel companion(s) be in close contact with others during your trip?\n\n* Are you or your travel companion(s) at higher risk of severe illness if you do get COVID-19?\n\n* Do you have a plan for taking time off from work or school, in case you get exposed to, or are sick with, COVID-19?\n\n* Do you live with someone who is 65 years or older or who has a serious underlying medical condition?\n\n* Is COVID-19 spreading where you live?\n\nCDC has information about travel in the United States here: [https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) Because guidance keeps evolving, you can watch that page for the latest information.",
             "source": "KB-COVID",
             "questions": [
                 "Should I fly to Texas?",
@@ -1728,7 +1738,7 @@
         },
         {
             "id": 4004,
-            "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, everyone should stay at home, leaving only for essential reasons critical to health and safety. If you must leave your home for an essential reason, practice social distancing (keeping at least 6 feet away from others).\n\nWhile people age 65 and older and people with underlying health conditions are at greatest risk, young people are not immune to getting sick. Even people who show only mild symptoms may pass the virus to others — particularly in the early course of the infection, before they even realize they are sick. Staying at home and social distancing protects everyone and helps slow the spread of this virus.",
+            "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, everyone should stay at home, leaving only for essential reasons critical to health and safety. If you must leave your home for an essential reason, practice social distancing (keeping at least 6 feet away from others).\n\nWhile older adults (65 years and older) and people of any age with underlying medical conditions are at greatest risk, young people are not immune to getting sick. Even people who show only mild symptoms may pass the virus to others — particularly in the early course of the infection, before they even realize they are sick. Staying at home and social distancing protects everyone and helps slow the spread of this virus.",
             "source": "Editorial",
             "questions": [
                 "I’m young. Can I continue to socialize?",
@@ -1759,7 +1769,7 @@
         },
         {
             "id": 4005,
-            "answer": "**How should we practice social distancing with children?**\n\nWhile Vermont schools are closed, it’s important for our whole community to re-think how we maintain social connections while also slowing the spread of disease. \n\nMost people who get sick from COVID-19 – including children – will experience mild symptoms and recover, but staying at home, and practicing social distancing when you must go out, will help us limit the virus’ spread to our vulnerable populations. \n\nSocial distancing means keeping about 6 feet away from others and avoiding places where you may be close to other people. \n\nDuring the school closure, the Vermont Department of Health recommends: \n\n* If your child is sick, keep your child home \n\n* Avoid group playdates or parties indoors \n\n* Avoid crowded activities \n\n* Bring hand sanitizer with you to the playground and clean shared sports equipment regularly \n\nSpend time outdoors as a family or consider individual outdoor activities like biking or hiking, as it’s easier to keep a good distance from each other. Take advantage of technology to play games or keep in touch with friends. Some of these changes will be difficult, but we can all do our part to slow down this pandemic.\n\nWhen you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. For more information, visit [https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).",
+            "answer": "**How should we practice social distancing with children?**\n\nWhile Vermont schools are closed, it’s important for our whole community to re-think how we maintain social connections while also slowing the spread of disease. \n\nMost people who get sick from COVID-19 – including children – will experience mild symptoms and recover, but staying at home, and practicing social distancing when you must go out, will help us limit the virus’ spread to our vulnerable populations. \n\nSocial distancing means keeping about 6 feet away from others and avoiding places where you may be close to other people. \n\nDuring the school closure, the Vermont Department of Health recommends: \n\n* If your child is sick, keep your child home \n\n* Avoid group playdates or parties indoors \n\n* Avoid crowded activities \n\n* Bring hand sanitizer with you to the playground and clean shared sports equipment regularly \n\nSpend time outdoors as a family or consider individual outdoor activities like biking or hiking, as it’s easier to keep a good distance from each other. Take advantage of technology to play games or keep in touch with friends. Some of these changes will be difficult, but we can all do our part to slow down this pandemic.\n\nWhen you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. Find more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFind more [information and resources for families with children](https://www.healthvermont.gov/COVID19-communities).",
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
@@ -1822,7 +1832,7 @@
         },
         {
             "id": 4007,
-            "answer": "**How can I prepare at home?**\n\n* **Plan ways to care for those in your home who might be at greater risk for serious complications,** like older adults and persons who have underlying chronic (long-lasting) medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need. \n\n* **Choose a room in your home that can be used to separate sick household members from those who are healthy.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n\n* **Make sure you have enough groceries and other supplies for 14 days in case you get sick and need to quarantine.** Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n\n* **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially those with who are older, have chronic (long-lasting) medical conditions or who live alone.\n\n* **Take care of the emotional health of your household members.** Outbreaks can be stressful for adults and children. Talk with your children about the outbreak, try to stay calm, and reassure them that they are safe.",
+            "answer": "**How can I prepare at home?**\n\n* **Plan ways to care for those in your home who might be at greater risk for serious complications,** like older adults (65 years and older) and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need. \n\n* **Choose a room in your home that can be used to separate sick household members from those who are healthy.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n\n* **Make sure you have enough groceries and other supplies for 14 days in case you get sick and need to quarantine.** Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n\n* **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, \n\nespecially those who are 65 years and older, who have underlying medical conditions, or who live alone.\n\n* **Take care of the emotional health of your household members.** Outbreaks can be stressful for adults and children. Talk with your children about the outbreak, try to stay calm, and reassure them that they are safe.",
             "source": "Editorial",
             "questions": [
                 "How can I prepare at home?",
@@ -2246,7 +2256,7 @@
         },
         {
             "id": 4019,
-            "answer": "**Do I need to get my pet tested for COVID-19?**\n\nNo. At this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.",
+            "answer": "**Do I need to get my pet tested for COVID-19?**\n\nNo. At this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.\n\nRead [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Do I need to get my pet tested for COVID-19?"
@@ -2270,13 +2280,18 @@
                         "displayOrder": 0,
                         "qnaId": 3954,
                         "displayText": "This did NOT answer my question.\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3962,
+                        "displayText": "Can pets get sick from COVID-19?"
                     }
                 ]
             }
         },
         {
             "id": 4020,
-            "answer": "**Can animals carry the virus that causes COVID-19 on their skin or fur?**\n\nAt this time, there is no evidence that the virus that causes COVID-19 can spread to people from the skin or fur of pets.",
+            "answer": "**Can animals carry the virus that causes COVID-19 on their skin or fur?**\n\nAt this time, there is no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets.\n\nRead [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Can animals carry the virus that causes COVID-19 on their skin or fur?",
@@ -2306,13 +2321,18 @@
                         "displayOrder": 0,
                         "qnaId": 3954,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3962,
+                        "displayText": "Can pets get sick from COVID-19?"
                     }
                 ]
             }
         },
         {
             "id": 4021,
-            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, in the United States might be a source of COVID-19.",
+            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, play a significant role in spreading the COVID-19 virus.",
             "source": "Editorial",
             "questions": [
                 "Are pets from a shelter safe to adopt?"
@@ -2464,7 +2484,7 @@
         },
         {
             "id": 4025,
-            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during an infectious disease outbreak. Taking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger. \n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nThe Health Department website has information for coping with COVID-19 stress, including resources for local help, self-care, suicide prevention, and domestic violence. See [www.healthvermont.gov/COVID19-stress](https://www.healthvermont.gov/response/coronavirus-covid-19/coping-stress) Visit the CDC website for more tips for coping with stress, including how to help children cope with stress [https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) \n\nNeed support right now?\n\n* Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n\n* For multilingual support call 800-985-5990 or text TalkWithUs to 66746",
+            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during an infectious disease outbreak. Taking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger. \n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/response/coronavirus-covid-19/coping-stress), including resources for local help, self-care, suicide prevention, and domestic violence.\n\nFind more [tips for coping with stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) from the CDC, including how to help children cope with stress.\n\nNeed support right now?\n\n* Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n\n* For multilingual support call 800-985-5990 or text TalkWithUs to 66746",
             "source": "Editorial",
             "questions": [
                 "How can I take care of myself, my family, or friends with the stress from COVID-19?",
@@ -2562,7 +2582,7 @@
         },
         {
             "id": 4028,
-            "answer": "**Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of this executive order will be mainly be done through education and voluntary compliance. The executive order does not close roads and does not establish roadblocks or checkpoints. Motor vehicle and pedestrian traffic will continue as Vermonters do outdoor activities that are allowed and travel to and from businesses (including grocery stores and pharmacies) and other entities that are allowed to operate under the order. There will not be motor vehicle stops or people detained for questioning about their travel, but law enforcement officers may be reminding people of the order if they see groups gathering or businesses operating in violation of the order.\n\nFind out more about [what the Stay Home/Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
+            "answer": "**Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of this executive order will be mainly be done through education and voluntary compliance.\n\n* The order does not close roads and does not establish roadblocks or checkpoints.\n\n* Motor vehicle and pedestrian traffic will continue as Vermonters do outdoor activities that are allowed and travel to and from businesses (including grocery stores and pharmacies) and other entities that are allowed to operate under the order.\n\n* There will not be motor vehicle stops or people detained for questioning about their travel, but law enforcement officers may be reminding people of the order if they see groups gathering or businesses operating in violation of the order.\n\nFind out more about [what the Stay Home/Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
             "source": "Editorial",
             "questions": [
                 "Does the Stay at Home, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?",
@@ -2807,7 +2827,7 @@
         },
         {
             "id": 4036,
-            "answer": "**Are there any travel restrictions into Vermont?**\n\nAs of March 30, 2020, the governor has directed Vermont residents and non-residents alike coming from outside the State for non-essential purposes to self-monitor and stay home for a period of 14 days. This includes the recommendation of the federal government that those who have passed through or left New York City should self-monitor and stay home for a period of 14 days. \n\nThis does not include people who have crossed into Vermont for “essential purposes.” This includes travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security. For more details, see the [Governor’s Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) to the Stay Home, Stay Safe Order.\n\nFor those who have crossed into Vermont for non-essential purposes and are being asked to stay home: While in quarantine, residents and non-residents may need to rely on neighbors, friends or family living outside of the household to deliver groceries to their home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required. Learn more about quarantine on the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nVisitors are instructed not to travel to Vermont if they are displaying symptoms or if they are traveling from cities and regions identified as COVID-19 “hot spots,” including, among others, the states of Florida and Louisiana and the cities of Detroit, Chicago and New York City. \n\nIn addition, residents of New York, New Jersey and Connecticut should stay in their home states in strict compliance with CDC travel guidance issued Saturday, March 28, 2020. This is essential if you will be in close contact with people who are older adults or have a severe chronic health condition. \n\nFor more information, see the [Governor’s Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) to the Stay Home, Stay Safe Order.",
+            "answer": "**Are there any travel restrictions into Vermont?**\n\nAs of March 30, 2020, the governor has directed Vermont residents and non-residents alike coming from outside the State for non-essential purposes to self-monitor and stay home for a period of 14 days. This includes the recommendation of the federal government that those who have passed through or left New York City should self-monitor and stay home for a period of 14 days. \n\nThis does not include people who have crossed into Vermont for “essential purposes.” This includes travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security. For more details, see the [Governor’s Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) to the Stay Home, Stay Safe Order.\n\nFor those who have crossed into Vermont for non-essential purposes and are being asked to stay home: While in quarantine, residents and non-residents may need to rely on neighbors, friends or family living outside of the household to deliver groceries to their home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required. Learn more about quarantine on the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nVisitors are instructed not to travel to Vermont if they are displaying symptoms or if they are traveling from cities and regions identified as COVID-19 “hot spots,” including, among others, the states of Florida and Louisiana and the cities of Detroit, Chicago and New York City. \n\nIn addition, residents of New York, New Jersey and Connecticut should stay in their home states in strict compliance with CDC travel guidance issued Saturday, March 28, 2020. This is essential if you will be in close contact with  older adults (65 years and older) and people of any age who have serious underlying medical conditions. \n\nFor more information, see the [Governor’s Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) to the Stay Home, Stay Safe Order.",
             "source": "Editorial",
             "questions": [
                 "Are there any travel restrictions into Vermont?",
@@ -2999,7 +3019,7 @@
         },
         {
             "id": 4040,
-            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the Vermont Medical Reserve Corp at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, physician assistants and podiatrists can learn more on the [Board of Medical Practice website](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other medical professionals, including nurses and osteopathic physicians, can learn more on the [Office of Professional Regulation's website](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\n**Give blood**: Visit the American Red Cross to learn how to safely donate blood: [www.redcross.org/local/new-hampshire-vermont.html](https://www.redcross.org/local/new-hampshire-vermont.html). \n\nSupport your local Food Bank. Donate online at [vtfoodbank.org](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. If you're in need of help, please visit [www.vtfoodbank.org/gethelp](https://www.vtfoodbank.org/gethelp)\n\nYou can also help your neighbors – older adults and at-risk people should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the guidelines on being a good neighbor at: [https://vem.vermont.gov/neighborly](https://vem.vermont.gov/neighborly).",
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corp units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills. \n\nSign up with the [Vermont Medical Reserve Corps](https://www.vermont.gov/volunteer) if you:\n\n* Are a licensed and certified health care professional\n\n* Have health, mental health, or other types of clinical or professional experience \n\n* Have health care administrative experience, such as with medical data entry or language translators\n\n* Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, physician assistants and podiatrists can learn more on the [Board of Medical Practice website](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other medical professionals, including nurses and osteopathic physicians, can learn more on the [Office of Professional Regulation's website](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies. \n\n**Give blood**: Learn how to safely [donate blood with the American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html). \n\nSupport your [local Foodbank by donating online](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. The [Vermont Foodbank can help](https://www.vtfoodbank.org/gethelp) if you need it.\n\nYou can also help your neighbors – older adults (65 years and older) and people of any age who have underlying medical conditions should stay home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
             "source": "Editorial",
             "questions": [
                 "Can I volunteer to help with the State’s response to COVID-19?",
@@ -3143,7 +3163,7 @@
         },
         {
             "id": 4044,
-            "answer": "**There are renters in local short-term rentals. Is that allowed?**\n\nThe order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, e.g. VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder this order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Read the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement)",
+            "answer": "**There are renters in local short-term rentals. Is that allowed?**\n\nThe order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder the Stay Home, Stay Safe Order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Read the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
             "source": "Editorial",
             "questions": [
                 "Airbnbs not not being compliant with order",
@@ -3335,7 +3355,7 @@
         },
         {
             "id": 4050,
-            "answer": "**What does the “Stay Home, Stay Safe” Order mean for Vermonters?**\n\nVermonters are being asked to stay at home and leave only for essential reasons, such as: personal safety, groceries or medicine, medical care, exercise, care of others, work, and curbside pick-up of goods, meals or beverages. \n\nYou can continue to go outside, take walks, go to the grocery store and pharmacies as long as you practice social distancing by keeping at least 6 feet away from others (except for those you live with) and washing your hands often. Wear a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when going to the grocery store, pharmacy, doctor’s office, hospital or other essential business or office, and when stopping to chat with people you encounter outside. If you are sick, please stay home to protect others. \n\nRemember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. See more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFnd out more on what the governor's [Stay Home, Stay Safe Order](https://vem.vermont.gov/StayHome) means to Vermonters.",
+            "answer": "**What does the “Stay Home, Stay Safe” Order mean for Vermonters?**\n\nVermonters are being asked to stay at home and leave only for essential reasons, such as: personal safety, groceries or medicine, medical care, exercise, care of others, work, and curbside pick-up of goods, meals or beverages. \n\nYou can continue to go outside, take walks, go to the grocery store and pharmacies as long as you practice social distancing by keeping at least 6 feet away from others (except for those you live with) and washing your hands often. Wear a [cloth face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when going to the grocery store, pharmacy, doctor’s office, hospital or other essential business or office, and when stopping to chat with people you encounter outside. If you are sick, please stay home to protect others. \n\nRemember that ticks are active this time of year. Stay safe by checking regularly for ticks and wearing EPA-registered tick repellents. See more information on how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFnd out more on what the governor's [Stay Home, Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
             "source": "Editorial",
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for Vermonters?",
@@ -3552,7 +3572,7 @@
         },
         {
             "id": 4056,
-            "answer": "**I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?**\n\nWe encourage parents to follow State and CDC guidelines for travel and social distancing. Be sure to consider the health of each household, including current symptoms and chronic disease in anyone in the homes before moving a child between them.\n\nIf one of the parents has concerns and does not want to move children between households, we encourage parents to consult with their child’s pediatrician to discuss any possible health risks to the child.",
+            "answer": "**I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?**\n\nThe Health Department encourages parents to follow State and CDC guidelines for travel and social distancing. Be sure to consider the health of each household, including if anyone in the homes has current symptoms of COVID-19 or has an underlying medical condition before moving a child between them.\n\nIf one of the parents has concerns and does not want to move children between households, we encourage parents to consult with their child’s pediatrician to discuss any possible health risks to the child.",
             "source": "Editorial",
             "questions": [
                 "I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?",
@@ -3838,7 +3858,7 @@
         },
         {
             "id": 4063,
-            "answer": "**Can I get COVID-19 from my pets or other animals?**\nThere is no reason at this time to think that any animals, including pets, in the U.S. source of infection with this new coronavirus that causes COVID-19. \n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. For more information on staying safe and healthy around animals including pets, visit CDC’s [www.cdc.gov/healthypets/index.html](https://www.cdc.gov/healthypets/index.html).\n\n",
+            "answer": "**Can I get COVID-19 from my pets or other animals?**\nAccording to the CDC, at this time, there is no evidence that animals play a large role in spreading the virus that causes COVID-19. Based on the limited information available at this time, the risk of animals spreading COVID-19 to people is considered to be low. A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. Find more information on [staying safe and healthy around animals including pets](https://www.cdc.gov/healthypets/index.html) from the CDC.\n\nRead [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Can I get COVID-19 from my pets or other animals?",
@@ -3858,6 +3878,11 @@
                         "displayOrder": 0,
                         "qnaId": 3954,
                         "displayText": "This did NOT answer my question. "
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3962,
+                        "displayText": "Can pets get sick from COVID-19?"
                     }
                 ]
             }
@@ -4100,7 +4125,7 @@
         },
         {
             "id": 4072,
-            "answer": "**Is there any assistance available for food?**\n\nHunger Free Vermont is working to make sure we’re all prepared to mitigate the impacts of COVID-19 on the food security of Vermonters, particularly older adults, working Vermonters who may lose hours and paychecks, those without access to paid leave, and families and students who will be disproportionately impacted by school closings. Visit their website for details [www.hungerfreevt.org/coronavirus](https://www.hungerfreevt.org/coronavirus).",
+            "answer": "**Is there any assistance available for food?**\n\nHunger Free Vermont is working to make sure we’re all prepared to mitigate the impacts of COVID-19 on the food security of Vermonters, particularly older adults (65 years and older), working Vermonters who may lose hours and paychecks, those without access to paid leave, and families and students who will be disproportionately impacted by school closings. Visit their website for details [www.hungerfreevt.org/coronavirus](https://www.hungerfreevt.org/coronavirus).",
             "source": "Editorial",
             "questions": [
                 "Is there any assistance available for food?",
@@ -4131,7 +4156,7 @@
         },
         {
             "id": 4073,
-            "answer": "**I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?**\n\nPeople who have fully recovered from COVID-19 have antibodies in their blood plasma. This is the body’s immune response to the virus. Currently, plasma donations are only being done experimentally. It has not yet been confirmed by the scientific community. However, it could prove to be important in the future to treating serious cases of illness from COVID-19.\n\nThe Red Cross is looking for people who are fully recovered from COVID-19 and may be able to donate plasma. If you are fully recovered from a COVID-19 diagnosis that was confirmed by a lab test and would like to donate your plasma, fill out the form on the Red Cross website: [https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html)",
+            "answer": "**I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?**\n\nPeople who have fully recovered from COVID-19 have antibodies in their blood plasma. This is the body’s immune response to the virus. Currently, plasma donations are only being done experimentally. It has not yet been confirmed by the scientific community. However, it could prove to be important in the future to treating serious cases of illness from COVID-19.\n\nThe Red Cross is looking for people who are fully recovered from COVID-19 and may be able to donate plasma. If you are fully recovered from a COVID-19 diagnosis that was confirmed by a lab test and would like to donate your plasma, [fill out the form on the Red Cross website](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html).",
             "source": "Editorial",
             "questions": [
                 "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
@@ -4637,7 +4662,7 @@
         },
         {
             "id": 4090,
-            "answer": "**Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?**\n\nLong-term rental leases are allowed. Moving and moving services are also allowed, so long as social distancing guidelines are followed.\n\nReal estate services, including by real estate firms, brokerages, attorneys or individuals, must conduct as much work as possible remotely to minimize in-person contact. The Governor’s April 17 guidance on [Work Smart &amp; Stay Safe - Restart VT: Phase 1](http://governor.vermont.gov/content/addendum-10-executive-order-01-20) allows real estate and related services (such as title searches, appraisals, and home inspections), to begin limited operations again. Real estate services must be limited to interactions of no more than two people (the professional and a client). Real estate open houses should not occur, but scheduled property showings, where no more than two people are present, may occur. Title searches should be conducted by appointment. Appraisers should use drive-by appraisals as an alternative to entering a home if possible. More housing information is available at the [ACCD’s COVID-19 Resource Recovery Center](http://accd.vermont.gov/covid-19/individuals#individual-housing).",
+            "answer": "**Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?**\n\nLong-term rental leases are allowed. Moving and moving services are also allowed, so long as social distancing guidelines are followed.\n\nReal estate services, including by real estate firms, brokerages, attorneys or individuals, must conduct as much work as possible remotely to minimize in-person contact. The Governor’s April 17 guidance on [Work Smart &amp; Stay Safe - Restart VT: Phase 1](http://governor.vermont.gov/content/addendum-10-executive-order-01-20) allows real estate and related services (such as title searches, appraisals, and home inspections), to begin limited operations again.\n\n* Real estate services must be limited to interactions of no more than two people (the professional and a client).\n\n* Real estate open houses should not occur, but scheduled property showings, where no more than two people are present, may occur.\n\n* Title searches should be conducted by appointment.\n\n* Appraisers should use drive-by appraisals as an alternative to entering a home if possible.\n\nMore housing information is available at the [ACCD’s COVID-19 Resource Recovery Center](http://accd.vermont.gov/covid-19/individuals#individual-housing).",
             "source": "Editorial",
             "questions": [
                 "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?"
@@ -4662,7 +4687,7 @@
         },
         {
             "id": 4091,
-            "answer": "**How can I help care for someone sick at home?**\n\nThe CDC has advice to protect yourself or others if you are caring for someone with COVID-19. You can learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms. See [Caring for Someone Sick at Home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html).",
+            "answer": "**How can I help care for someone sick at home?**\n\nThe CDC has advice to protect yourself or others if you are caring for someone with COVID-19. You can learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms. Read [Caring for Someone Sick at Home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html).",
             "source": "Editorial",
             "questions": [
                 "How can I help care for someone sick at home?"
@@ -4789,6 +4814,93 @@
                 {
                     "name": "subcategory",
                     "value": "close contact"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3954,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4096,
+            "answer": "**I don't have a house or a home, how can I stay safe?**\n\nIf you are experiencing homelessness and have or might have COVID-19, call 2-1-1 for housing information and to find out how to get vouchers for housing.",
+            "source": "Editorial",
+            "questions": [
+                "I don't have a house or a home, how can I stay safe?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "additional resources"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "assistance"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3954,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4097,
+            "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes, services have been changed to limit in-person contact. Some services may not be available like walk-in HIV/Hepatitis C testing.\n\n[Find a program near you](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs).\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
+            "source": "Editorial",
+            "questions": [
+                "Are syringe service programs (needle exchanges) still open?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "additional resources"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "substance use"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 3954,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4098,
+            "answer": "**How do I practice safer drug use?**\n\nThe Harm Reduction Coalition has [tips for safer drug use during the COVID-19 pandemic](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs).\n\n[Find a program near you](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs).\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK.",
+            "source": "Editorial",
+            "questions": [
+                "How do I practice safer drug use?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "additional resources"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "substance use"
                 }
             ],
             "alternateQuestionClusters": [],
