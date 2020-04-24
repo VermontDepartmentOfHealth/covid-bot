@@ -274,32 +274,44 @@ let QnAMakerAPI = function(config) {
 
             return operationDetails
 
-        }
-    }
+        },
+      /**
+       * Check kb operation once a second to see if operation state is updated to either a success of failure state
+       * @param {string} operationId operation ID
+       * @param {number} [secondsWaited] (optional) number of seconds waited already
+       * @description Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
+       */
+        pollForOperationComplete: async function(operationId, secondsWaited) {
 
-    let marshaling = {
-        updateAndPublish: async function(kbId, body) {
+            let seconds = secondsWaited || 0
 
-            let updateResponse = await knowledgeBase.update(kbId, body)
-
-            //Get operation state for update
-            let updateJson = await updateResponse.json();
-            let opId = updateJson.operationId;
-
-            let updateOperationState = await pollForOperationComplete(opId);
-
-            let updateWasSuccessful = updateOperationState === OPERATION_STATE.SUCCEEDED;
-
-            // default response
-            let publishResponse = "";
-
-            if (updateWasSuccessful) {
-                publishResponse = await knowledgeBase.publish(kbId)
+            //success and failure are both completed states
+            let completeStates = [OPERATION_STATE.FAILED, OPERATION_STATE.SUCCEEDED]
+    
+            //get operation details
+            let detailsResponse = await operations.getDetails(operationId)
+            let operationDetailsRetrieved = JSON.stringify(detailsResponse) !== '{}' && !detailsResponse.hasOwnProperty("error")
+    
+            if(!operationDetailsRetrieved){
+                throw "Unable to get operation details";
+            }
+            //get operation state
+            let operationState = detailsResponse.operationState;
+    
+            //If operation is complete (failure or success), or if operation has timed out, return the current state
+            if (completeStates.includes(operationState) || seconds > NUMBER_SECONDS_FOR_TIMEOUT) {
+    
+                return operationState;
+    
+            } else {
+                //if operation is not complete, and it has not timed out, wait a second and then call this method again recursively 
+                await sleepForOneSecond() //TODO test this
+    
+                return await pollForOperationComplete(operationId, seconds + 1); //todo use incrementor
             }
 
-            return publishResponse;
-
         }
+
     }
 
     // compose client to return
@@ -307,7 +319,6 @@ let QnAMakerAPI = function(config) {
         knowledgeBase,
         alterations,
         operations,
-        marshaling,
         lookups: {
             METHOD,
             ENVIRONMENT,

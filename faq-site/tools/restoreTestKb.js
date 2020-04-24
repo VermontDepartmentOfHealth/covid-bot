@@ -5,6 +5,8 @@ const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const jsoncParser = require("jsonc-parser")
 const utilities = require('./utilities')
 
+const STATUS_ACCEPTED = 202;
+
 // set input file
 const LOCAL_KB_PARTIAL_FILE_PATH = "_data/faqs.jsonc"
 
@@ -18,20 +20,112 @@ async function restoreTestKb() {
         kbId: process.env.kbId
     })
 
+    try{
+
+        let currentlyOnTestKB = await getTestKb(clientFromTest);
+
+        let localKb = await getLocalKb();
+
+        //get kb details for test, we need the current kbName
+        let knowledgeBaseDetails = await clientFromTest.knowledgeBase.getDetails();
+
+        //create update object by comparing test kb to local kb
+        let updateObject = getKbUpdateObject(localKb, currentlyOnTestKB, knowledgeBaseDetails);
+
+        let updatedPairs = updateObject.update.qnaList.context
+        let updateResponse = await initiateUpdate(clientFromTest, process.env.kbId, updateObject);
+
+        //get operation id from update response
+        let updateJson = await updateResponse.json();   
+        let opId = updateJson.operationId;
+
+        await pollForUpdateComplete(clientFromTest, opId)
+
+        publishKb(clientFromTest)
+
+    } catch (error) {
+        console.error(error)
+        return;
+    }
+}
+
+async function getTestKb(clientFromTest){
     //get kb base as it currently is on test
+    console.log("\n" + 'Downloading test knowledge base...')
     let currentlyOnTestKB = await clientFromTest.knowledgeBase.download();
 
-    //get local kb
-    let localKb = await utilities.readJsonc(LOCAL_KB_PARTIAL_FILE_PATH)
+    let downLoadSuccessful = JSON.stringify(currentlyOnTestKB) !== '{}'
 
-    //get kb details for test, we need the current kbName
-    let knowledgeBaseDetails = await clientFromTest.knowledgeBase.getDetails();
+    let errorInfo = "";
+    if (currentlyOnTestKB.hasOwnProperty("error")) {
+        downLoadSuccessful = false;
+        errorInfo = currentlyOnTestKB.error.code;
+    }
 
-    //create update object by comparing test kb to local kb
-    let updateObject = getKbUpdateObject(localKb, currentlyOnTestKB, knowledgeBaseDetails);
+    if(downLoadSuccessful){
+        console.log('Download of test Knowledge base was successful')
+    }else{
+        let errorMsg = 'Failed to download knowledge base'
+        //If we got error info, append it
+        errorMsg = errorInfo === "" ? errorMsg : errorMsg + ': ' + errorInfo
 
-    let updateAndPublishResponse = await clientFromTest.marshaling.updateAndPublish(process.env.kbId, updateObject);
+        throw errorMsg;
+    }
+    return currentlyOnTestKB;
+}
 
+async function getLocalKb(){
+    try {
+        console.log("\n" + 'Retrieving local knowledge base...')
+        localKb = await utilities.readJsonc(LOCAL_KB_PARTIAL_FILE_PATH)
+        console.log('Local knowledge base retrieved')
+        return localKb
+
+    } catch (error) {
+        throw 'Failed to retrieve local Knowledge base\n' + error
+    }
+
+}
+
+async function initiateUpdate(clientFromTest, kbId, updateObject){
+
+    console.log("\n" + 'Initiating update of test knowledge base...')
+
+    let updateResponse = await clientFromTest.knowledgeBase.update(kbId, updateObject)
+    if(updateResponse && updateResponse.status === STATUS_ACCEPTED){
+        console.log('Update initiated')
+        return updateResponse;
+    }else{
+        throw "Failed to initiate update";
+    }
+}
+
+async function pollForUpdateComplete(clientFromTest, opId){
+    console.log("\n" + 'Polling for completion of update operation...')
+    //poll to see when operation is complete
+
+    updateOperationState = await clientFromTest.operations.pollForOperationComplete(opId);
+    let updateWasSuccessful = updateOperationState === clientFromTest.lookups.OPERATION_STATE.SUCCEEDED
+    if(updateWasSuccessful){
+       console.log('Update was successful')
+       return;
+    }else{
+        throw "Update was called but knowledge base was unable to complete operation";
+    }
+    
+
+}
+
+async function publishKb(clientFromTest){
+    console.log("\n" + 'Publishing test knowledge base...')
+    let publishResponse = await clientFromTest.knowledgeBase.publish(process.env.kbId)
+    let publishWasSuccessful = JSON.stringify(publishResponse) !== '{}' && !publishResponse.hasOwnProperty("error")
+    if(publishWasSuccessful){
+        console.log('Publish successful')
+        return;
+    }else{
+        throw "Failed to publish"
+    }
 }
 
 /**
@@ -55,7 +149,7 @@ function getKbUpdateObject(localKb, currentlyOnTestKB, kbDetails) {
     //build update object that can be sent to api
     let updateKbObject = {
         add: { qnaList: addedQnaPairs },
-        delete: { ids: deletedQnaPairs.map(a => a.id) },
+        delete: { ids: deletedQnaPairs.map(a => a.id) }, 
         update: { name: kbDetails.name, qnaList: updateObjectsList }
 
     }
@@ -151,7 +245,7 @@ function getQnaPairUpdateObjects(updatedQnaPairs) {
             context: {
                 isContextOnly: qnaPairFromLocalKb.context.isContextOnly,
                 promptsToAdd: promptsToAdd, // todo potentially map array to include "qna": null on each item
-                promptsToDelete: promptsToDelete.map(prompt => prompt.id)
+                promptsToDelete: promptsToDelete.map(prompt => prompt.id) //I think everything here is right except the way I'm getting the ID to delete
             }
         }
 
