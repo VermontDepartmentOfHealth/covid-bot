@@ -378,19 +378,32 @@ ul.nav-subs {
 
 /* page actions */
 
-#BackToTop {
+.page-actions {
     position: fixed;
     bottom: 15px;
     right: 15px;
+    background: white;
+    box-shadow: white 0px 0px 6px 14px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    margin: 5px;
     padding: 4px 9px;
     border-radius: 4px;
     border: 1px solid #0171a1;
     background: #0098d9;
     color: white;
-    box-shadow: white 0px 0px 6px 14px;
     font-size: 1em;
     font-family: "Noto Sans", sans-serif;
     cursor: pointer;
+}
+
+.btn.btn ins {
+    background: #047cb0;
+    border-radius: 2px;
+    padding: 1px 4px;
 }
 
 
@@ -424,4 +437,63 @@ ul.nav-subs {
     aside {
         display: none;
     }
+}
+
+
+/* updates */
+
+.faq-updated,
+.faq-new {
+    position: relative;
+}
+
+.faq-updated::before,
+.faq-new::before {
+    position: absolute;
+    top: 2px;
+    left: -36px;
+    font-size: 2.5em;
+}
+
+.faq-updated::before {
+    color: orange;
+}
+
+.faq-new::before {
+    color: green;
+}
+
+del {
+    display: none;
+}
+
+ins {
+    background: inherit;
+    text-decoration: none;
+}
+
+.faq-updated::before,
+.faq-new::before {
+    content: "";
+}
+
+.show-diff .faq-updated::before,
+.show-diff .faq-new::before {
+    content: "•";
+}
+
+.show-diff .faq-new {
+    background: #edffed;
+}
+
+.show-diff del {
+    background: #ffc9c9;
+    border-radius: 2px;
+    text-decoration: line-through;
+}
+
+.show-diff ins {
+    background: #c9fff0;
+    border-radius: 2px;
+    text-decoration: underline;
 }

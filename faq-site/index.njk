@@ -127,11 +127,11 @@
 
                                         <ul class="faqs">
                                             {% for faq in sub.faqs %}
-                                                <li id="{{faq.id}}" class="faq">
+                                                <li id="{{faq.id}}" class="faq {% if faq.isNew %} faq-new {% endif %}  {% if faq.isUpdated %} faq-updated {% endif %}">
 
                                                     <details >
                                                         <summary class="context title-link" tabindex="0">
-                                                            <h4>{{faq.question}}</h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
+                                                            <h4>{{faq.question | safe}}</h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
                                                         </summary>
                                                         
                                                         {# container for details polyfill #}
@@ -177,7 +177,8 @@
                 </div>
 
                 <div class="page-actions">
-                    <button id="BackToTop">Back to Top</button>
+                    <button id="BackToTop" class="btn">Back to Top</button>
+                    <button id="ToggleDiff" class="btn">Show <ins>+Diff</ins></button>
                     <!-- Back to Top -->
                     <!-- Reset Filter -->
                 </div>

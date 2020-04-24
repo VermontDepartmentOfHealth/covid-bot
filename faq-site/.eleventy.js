@@ -32,7 +32,10 @@ module.exports = function(eleventyConfig) {
 
 function customizeMarkdown() {
 
-    let md = require("markdown-it")();
+    let md = require("markdown-it")({
+        html: true,
+        linkify: true
+    });
 
     // Remember old renderer, if overridden, or proxy to default renderer
     let defaultAnchorRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
