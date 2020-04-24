@@ -17,30 +17,42 @@ function diffText(oldText, newText, convertToHtml) {
 
     let diffs = difflib.ndiff(oldTokens, newTokens)
 
+    // translate diffs
+    diffs = diffs.map(d => {
+        let delta = d.slice(0, 1)
+        let text = d.slice(2)
+
+        return {
+            text: text,
+            added: delta === "+",
+            deleted: delta === "-",
+            both: delta === " ",
+            unknown: delta === "?"
+        }
+    })
+
     // remove missing chars
-    diffs = diffs.filter(d => d[0] != "?")
+    diffs = diffs.filter(d => !d.unknown)
+
 
     // insert del / ins elements
     let result = diffs.map((diff, i) => {
-
-        let prevDiff = diffs[i - 1] ? diffs[i - 1][0] : ""
-        let curDiff = diffs[i][0]
-        let nextDiff = diffs[i + 1] ? diffs[i + 1][0] : ""
-
-        let curText = diff.slice(2)
+        let prev = diffs[i - 1] || {}
+        let cur = diffs[i]
+        let next = diffs[i + 1] || {}
 
         let returnValue = ""
 
         // opening tag
-        if (curDiff === "+" && prevDiff !== "+") returnValue += "<ins>"
-        if (curDiff === "-" && prevDiff !== "-") returnValue += "<del>"
+        if (cur.added && !prev.added) returnValue += "<ins>"
+        if (cur.deleted && !prev.deleted) returnValue += "<del>"
 
         // always add text
-        returnValue += curText
+        returnValue += cur.text
 
         // closing tag
-        if (curDiff === "+" && nextDiff !== "+") returnValue += "</ins>"
-        if (curDiff === "-" && nextDiff !== "-") returnValue += "</del>"
+        if (cur.added && !next.added) returnValue += "</ins>"
+        if (cur.deleted && !next.deleted) returnValue += "</del>"
 
         return returnValue
     }).join(" ")
