@@ -18,6 +18,7 @@ async function validate() {
     let allFaqs = faqs.qnaDocuments
 
     validateMarkdownUrls(allFaqs)
+    validateParagraphsInList(allFaqs)
     await validateUrlsValid(allFaqs)
     validateHasCategory(allFaqs)
     validateInvalidCategory(allFaqs, topicNames)
@@ -45,6 +46,28 @@ function validateMarkdownUrls(allFaqs) {
         relativeUrls.forEach(x => {
             console.log(chalk.bold("Question: ") + x.question)
             console.log(chalk.bold("URL: ") + x.url + "\n")
+        })
+    }
+}
+
+function validateParagraphsInList(allFaqs) {
+
+    let paragraphsInList = allFaqs.flatMap(faq => {
+
+        // markdown urls must start with http, mailto, or tel
+        // https://regexr.com/538ng
+        let rgx = /(?<=\n\n\* .*)\n\n(?!\*)(.*)(?=\n\n\* )/g
+        let paragraphs = [...faq.answer.matchAll(rgx)].map(ans => ans[1])
+        return paragraphs.map(text => ({ text, question: faq.questions[0] }))
+
+    })
+
+    // print errors if we got em'
+    if (paragraphsInList.length) {
+        console.log("\n\n" + chalk.blue.bold("Possible Paragraph in list"))
+        paragraphsInList.forEach(x => {
+            console.log(chalk.bold("Question: ") + x.question)
+            console.log(chalk.bold("URL: ") + x.text.split(" ").slice(0, 8).join(" ") + "\n")
         })
     }
 }
