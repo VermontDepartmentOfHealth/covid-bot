@@ -99,5 +99,18 @@ describe('diffText', function() {
         assert.equal(actual, expected);
     });
 
+    it('should not display diff for capitalization only changes', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "Some people are at higher risk"
+        let newText = "According to the CDC, some people are at higher risk"
+        let expected = "<ins>According to the CDC,</ins> some people are at higher risk"
+
+        // act
+        let actual = diffText(oldText, newText, false)
+
+        // asset
+        assert.equal(actual, expected);
+    });
 
 });
