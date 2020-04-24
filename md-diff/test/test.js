@@ -77,10 +77,27 @@ describe('diffText', function() {
         let oldText = "particularly older adults, working"
         let newText = "particularly older adults (65 years and older), working"
         let expected = "particularly older adults <ins>(65 years and older)</ins>, working"
-            // act
+
+        // act
         let actual = diffText(oldText, newText, false)
 
         // asset
         assert.equal(actual, expected);
     });
+
+    it('should remove linejunk and charjunk from ?', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "emergency case for"
+        let newText = "emergency care for"
+        let expected = "emergency <del>case</del> <ins>care</ins> for"
+
+        // act
+        let actual = diffText(oldText, newText, false)
+
+        // asset
+        assert.equal(actual, expected);
+    });
+
+
 });

@@ -17,6 +17,8 @@ function diffText(oldText, newText, convertToHtml) {
 
     let diffs = difflib.ndiff(oldTokens, newTokens)
 
+    // remove missing chars
+    diffs = diffs.filter(d => d[0] != "?")
 
     // insert del / ins elements
     let result = diffs.map((diff, i) => {
