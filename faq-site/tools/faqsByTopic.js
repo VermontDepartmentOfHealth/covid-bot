@@ -159,8 +159,8 @@ function findDifferences(allFaqsCur, allFaqsPrev) {
             // check if modified 
             if (prevFaq.question != curFaq.question || prevFaq.answerBody != curFaq.answerBody) {
 
-                curFaq.question = diffText(prevFaq.question, curFaq.question, false)
-                curFaq.answerBody = diffText(prevFaq.answerBody, curFaq.answerBody, false)
+                curFaq.questionDiff = diffText(prevFaq.question, curFaq.question, false)
+                curFaq.answerBodyDiff = diffText(prevFaq.answerBody, curFaq.answerBody, false)
                 curFaq.isUpdated = true
 
             }

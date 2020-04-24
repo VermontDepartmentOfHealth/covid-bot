@@ -1,3 +1,14 @@
+---
+pagination:
+  data: types
+  size: 1
+  alias: type
+types:
+ - index
+ - diff
+permalink: "/{{type}}.html"
+---
+
 <!doctype html>
 <html lang="en">
 
@@ -33,7 +44,8 @@
 
     </head>
 
-    <body class="no-js">
+    <body class="no-js {% if type == 'diff' %} show-diff {% endif %}" >
+
         {# content appended to body should not use display grid #}
 
         <div class="page">
@@ -131,7 +143,15 @@
 
                                                     <details >
                                                         <summary class="context title-link" tabindex="0">
-                                                            <h4>{{faq.question | safe}}</h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
+                                                            <h4>
+                                                            
+                                                            {% if type == 'diff' %} 
+                                                                {{(faq.questionDiff or faq.question) | safe}}
+                                                            {% else %}
+                                                                {{faq.question | safe}}
+                                                            {% endif %}
+
+                                                            </h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
                                                         </summary>
                                                         
                                                         {# container for details polyfill #}
@@ -144,7 +164,11 @@
 
                                                             <div class="answer">
 
-                                                                {{faq.answerBody | md | safe}}
+                                                                {% if type == 'diff' %} 
+                                                                    {{(faq.answerBodyDiff or faq.answerBody) | md | safe}}
+                                                                {% else %}
+                                                                    {{faq.answerBody | md | safe}}
+                                                                {% endif %}
 
                                                             </div>
                                                         </span>
@@ -178,7 +202,6 @@
 
                 <div class="page-actions">
                     <button id="BackToTop" class="btn">Back to Top</button>
-                    <button id="ToggleDiff" class="btn">Show <ins>+Diff</ins></button>
                     <!-- Back to Top -->
                     <!-- Reset Filter -->
                 </div>

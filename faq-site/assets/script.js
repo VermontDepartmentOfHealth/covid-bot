@@ -194,19 +194,6 @@ btn.addEventListener('click', function() {
     window.scrollTo(0, 0)
 });
 
-var btn = document.getElementById("ToggleDiff")
-btn.addEventListener('click', function() {
-    var showingDiff = document.body.matches(".show-diff")
-
-    if (showingDiff) {
-        document.body.classList.remove("show-diff")
-        btn.innerHTML = "Show <ins>+Diff</ins>"
-    } else {
-        document.body.classList.add("show-diff")
-        btn.innerHTML = "Hide <ins>+Diff</ins>"
-    }
-});
-
 
 
 if (document.documentElement.matches(".no-details")) {
