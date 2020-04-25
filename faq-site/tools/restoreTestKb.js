@@ -22,26 +22,31 @@ async function restoreTestKb() {
 
     try{
 
-        let currentlyOnTestKB = await getTestKb(clientFromTest);
-
-        let localKb = await getLocalKb();
-
-        //get kb details for test, we need the current kbName
-        let knowledgeBaseDetails = await clientFromTest.knowledgeBase.getDetails();
-
         //create update object by comparing test kb to local kb
-        let updateObject = getKbUpdateObject(localKb, currentlyOnTestKB, knowledgeBaseDetails);
+        let updateObjectCreationResult = await compareLocalToTestAndCreateUpdateResult(clientFromTest);
 
-        let updatedPairs = updateObject.update.qnaList.context
+        let updateObject = updateObjectCreationResult.updateKbObject
+
+        //updates to follow up prompts require a two part update process
+        if(updateObjectCreationResult.promptHasBeenUpdated){
+
+            await updateOneOfTwo(clientFromTest, process.env.kbId, updateObject);
+
+            //This update object is created by comparing the kb on test that has already been updated by step one to the local kb.
+            //Only updated prompts that were deleted as part one will be included in this updated object, as prompt additions
+            updateResultForStepTwo = await compareLocalToTestAndCreateUpdateResult(clientFromTest)
+            updateObject = updateResultForStepTwo.updateKbObject;
+        }
+
         let updateResponse = await initiateUpdate(clientFromTest, process.env.kbId, updateObject);
 
         //get operation id from update response
-        let updateJson = await updateResponse.json();   
+        let updateJson = await updateResponse.json();
         let opId = updateJson.operationId;
 
         await pollForUpdateComplete(clientFromTest, opId)
 
-        publishKb(clientFromTest)
+        await publishKb(clientFromTest)
 
     } catch (error) {
         console.error(error)
@@ -49,10 +54,50 @@ async function restoreTestKb() {
     }
 }
 
+//updateResult returned by this function will include the update object and
+//a flag that indicates if a multi part update is requried
+async function compareLocalToTestAndCreateUpdateResult(clientFromTest){
+    let currentlyOnTestKB = await getTestKb(clientFromTest);
+
+    let localKb = await getLocalKb();
+
+    //get kb details for test, we need the current kbName
+    let knowledgeBaseDetails = await clientFromTest.knowledgeBase.getDetails();
+
+    // //create update object by comparing test kb to local kb
+    let updateResponse = getKbUpdateResult(localKb, currentlyOnTestKB, knowledgeBaseDetails);
+
+    return updateResponse;
+}
+
+//prompt updates require a multi part update process
+//prompts are updated as an add and delete, this cannot be done in a single update, the update object
+//will not include the prompt additions for updated prompts in the first update.
+//The second phase of the update will only include prompt additions for updated prompts.
+async function updateOneOfTwo(clientFromTest, kbId, updateObject){
+
+    console.log("\n" + 'Update includes changes to existing follow up prompts.')
+    console.log('These types of updates must be handled in a two step process, starting the first update now...')
+
+    let updateResponse = await initiateUpdate(clientFromTest, kbId, updateObject);
+    let updateJson = await updateResponse.json();
+    let opId = updateJson.operationId;
+
+    await pollForUpdateComplete(clientFromTest, opId)
+    //publish is not needed as part of first update
+
+    //updateResponse = await compareLocalToTestAndCreateUpdateResult(clientFromTest)
+    console.log('Step one update complete')
+    return updateResponse;
+
+}
+
 async function getTestKb(clientFromTest){
-    //get kb base as it currently is on test
+
     console.log("\n" + 'Downloading test knowledge base...')
-    let currentlyOnTestKB = await clientFromTest.knowledgeBase.download();
+    //get kb base as it currently is on test
+    //passing the 'TEST' lookup  means that the kb returned will reflect what is currently in editor rather than what is published.
+    let currentlyOnTestKB = await clientFromTest.knowledgeBase.download(undefined, clientFromTest.lookups.ENVIRONMENT.TEST);
 
     let downLoadSuccessful = JSON.stringify(currentlyOnTestKB) !== '{}'
 
@@ -74,6 +119,7 @@ async function getTestKb(clientFromTest){
     return currentlyOnTestKB;
 }
 
+//Get kb from local json file, path defined at top of this file
 async function getLocalKb(){
     try {
         console.log("\n" + 'Retrieving local knowledge base...')
@@ -87,6 +133,8 @@ async function getLocalKb(){
 
 }
 
+//Call update api, this will only kick off the update process, it will take a
+//significant amount of time for the kb to complete the update
 async function initiateUpdate(clientFromTest, kbId, updateObject){
 
     console.log("\n" + 'Initiating update of test knowledge base...')
@@ -100,6 +148,7 @@ async function initiateUpdate(clientFromTest, kbId, updateObject){
     }
 }
 
+//Check update operation for completion once a second until it's done or timed out
 async function pollForUpdateComplete(clientFromTest, opId){
     console.log("\n" + 'Polling for completion of update operation...')
     //poll to see when operation is complete
@@ -112,7 +161,7 @@ async function pollForUpdateComplete(clientFromTest, opId){
     }else{
         throw "Update was called but knowledge base was unable to complete operation";
     }
-    
+
 
 }
 
@@ -131,11 +180,12 @@ async function publishKb(clientFromTest){
 /**
  * Get update Knowledgebase object that can be passed to kn update api
  * @param {knowledgeBase} localKb object as downloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/download
- * @param {knowledgeBase} decurrentlyOnTestKB object as downloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/download
- * @returns {KnowledgebaseDTO} kbDetails as dowloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/getdetails
- * @description Returns update object built to pass to https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/update
+ * @param {knowledgeBase} currentlyOnTestKB object as downloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/download
+ * @param {KnowledgebaseDTO} kbDetails as dowloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/getdetails
+ * @description Returns result that includes update object built to pass to https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/update
+ * if promptHasBeenUpdated then a two step operation will be required, and this update object will not include all updates
  */
-function getKbUpdateObject(localKb, currentlyOnTestKB, kbDetails) {
+function getKbUpdateResult(localKb, currentlyOnTestKB, kbDetails) {
 
     let deletedQnaPairs = getDeletedQnaPairs(localKb, currentlyOnTestKB);
 
@@ -144,17 +194,23 @@ function getKbUpdateObject(localKb, currentlyOnTestKB, kbDetails) {
     let updatedQnaPairs = getUpdatedQnaPairs(localKb, currentlyOnTestKB);
 
     //Build the update objects for within the updateKbObject
-    let updateObjectsList = getQnaPairUpdateObjects(updatedQnaPairs, currentlyOnTestKB);
+    let updateObjectListResult = getQnaPairUpdateObjectsResult(updatedQnaPairs, currentlyOnTestKB);
+    let updateObjectsList = updateObjectListResult.updateObjList;
+
 
     //build update object that can be sent to api
     let updateKbObject = {
         add: { qnaList: addedQnaPairs },
-        delete: { ids: deletedQnaPairs.map(a => a.id) }, 
-        update: { name: kbDetails.name, qnaList: updateObjectsList }
-
+        delete: { ids: deletedQnaPairs.map(a => a.id) },
+        update: { name: kbDetails.name, qnaList: updateObjectsList },
     }
 
-    return updateKbObject;
+    let updateEvalObjectResult = {
+        updateKbObject: updateKbObject,
+        promptHasBeenUpdated : updateObjectListResult.promptsHaveBeenUpdated
+    }
+
+    return updateEvalObjectResult;
 }
 
 //returns qna pairs that ARE on test, but ARE NOT on the local kb
@@ -199,10 +255,10 @@ function getUpdatedQnaPairs(localKb, currentlyOnTestKB) {
 }
 
 //Create collection of update objects for each qna pair that has been updated
-function getQnaPairUpdateObjects(updatedQnaPairs) {
+function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
 
-
-    //for each QnA pair that has been updated, find updated elements and use them to build object to 
+    let promptHasBeenUpdated = false;
+    //for each QnA pair that has been updated, find updated elements and use them to build object to
     let updateObjects = updatedQnaPairs.map(function(qnaPair) {
         //TODO test context updates
 
@@ -211,24 +267,29 @@ function getQnaPairUpdateObjects(updatedQnaPairs) {
 
         //For the next three updated item types, updates will be processed as replacements  (delete and add)
 
-        //Build list of questions for this QnA pair that have been added, and deleted 
+        //Build list of questions for this QnA pair that have been added, and deleted
         let questionsFromLocalKb = qnaPairFromLocalKb.questions;
         let questionsFromTest = qnaPairFromTest.questions;
         let questionsToAdd = getListOfItemsToAdd(questionsFromLocalKb, questionsFromTest);
         let questionsToDelete = getListOfItemsToDelete(questionsFromLocalKb, questionsFromTest);
 
-        //Build list of meta data items for this QnA pair that have been added, and deleted 
+        //Build list of meta data items for this QnA pair that have been added, and deleted
         let metaFromTest = qnaPairFromTest.metadata;
         let metaFromLocalKb = qnaPairFromLocalKb.metadata;
         let metaToAdd = getListOfItemsToAdd(metaFromLocalKb, metaFromTest);
         let metaToDelete = getListOfItemsToDelete(metaFromLocalKb, metaFromTest);
 
-        //Build list of conext prompts for this QnA pair that have been added, and deleted 
-        //At the time of writing this we rarely if ever take advantage of this field.    
-        let promptsFromTest = qnaPairFromTest.context.prompts; // TODO: check promptsdata
-        let promptsFromLocalKb = qnaPairFromLocalKb.context.prompts; // TODO: check promptsdata
+        //Build list of conext prompts for this QnA pair that have been added, and deleted
+        let promptsFromTest = qnaPairFromTest.context.prompts;
+        let promptsFromLocalKb = qnaPairFromLocalKb.context.prompts;
         let promptsToAdd = getListOfItemsToAdd(promptsFromLocalKb, promptsFromTest);
         let promptsToDelete = getListOfItemsToDelete(promptsFromLocalKb, promptsFromTest)
+        //updated prompts must be processed as a delete and an add but the kb is not able to do this in a single update
+        //when an prompt is updated it will be deleted, then a second comparison will be made between the local kb and the test
+        //kb and the updated prompt will be processed as an add.
+        let promptsNotUpdated = promptsToAdd.filter((elem) => !promptsToDelete.find(({ id }) => elem.id === id))
+        promptHasBeenUpdated = !(promptsNotUpdated.length === promptsToAdd.length)
+        promptsToAdd = promptsNotUpdated;
 
         let updateObject = {
             id: qnaPair.id,
@@ -244,15 +305,21 @@ function getQnaPairUpdateObjects(updatedQnaPairs) {
             },
             context: {
                 isContextOnly: qnaPairFromLocalKb.context.isContextOnly,
-                promptsToAdd: promptsToAdd, // todo potentially map array to include "qna": null on each item
-                promptsToDelete: promptsToDelete.map(prompt => prompt.id) //I think everything here is right except the way I'm getting the ID to delete
+                promptsToAdd: promptsToAdd,
+                promptsToDelete: promptsToDelete.map(prompt => prompt.qnaId)
             }
         }
 
         return updateObject
     });
 
-    return updateObjects;
+    let UpdateObjectWithPromptUpdateFlag = {
+        updateObjList: updateObjects,
+        promptsHaveBeenUpdated: promptHasBeenUpdated  //Flag that indicates if a two part update is required
+    }
+
+    //return updateObjects;
+    return UpdateObjectWithPromptUpdateFlag;
 }
 
 
