@@ -13,7 +13,7 @@ npm install @ads-vdh/qnamaker-api --save
 
 ## Usage
 
-**Initialize the Client**:
+### Initialize the Client:
 
 ```js
 let qnaMakerApi = require("@ads-vdh/qnamaker-api");
@@ -25,23 +25,38 @@ let client = qnaMakerApi({
 });
 ```
 
-**Knowledge Base Methods**:
+### Knowledge Base Methods:
 
 ```js
-let knowledgeBases = await client.knowledgeBase.listAll();
 let knowledgeBase = await client.knowledgeBase.download(kbId);
 let kbDetails = await client.knowledgeBase.getDetails(kbId);
+let knowledgeBases = await client.knowledgeBase.listAll();
+
+
 
 await client.knowledgeBase.publish(kbId);
 await client.knowledgeBase.replace(kbId, qnaList);
-await client.knowledgeBase.replace(kbId, qnaUpdates);
 ```
 
-**Alterations Methods**:
+#### qnaUpdates parameter is a modified qna list:
+```js
+await client.knowledgeBase.update(kbId, qnaUpdates);
+```
+
+### Alterations Methods:
 
 ```js
 let alterations = await client.alterations.get();
 await client.alterations.replace(alterations);
+```
+
+### Operations Methods:
+
+```js
+await client.operations.getDetails(operationId);
+```
+```js
+await client.operations.pollForOperationComplete(operationId);
 ```
 
 ## Recommendations

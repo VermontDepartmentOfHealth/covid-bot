@@ -144,7 +144,7 @@ let QnAMakerAPI = function(config) {
          */
         download: async function(kbId, environment) {
             kbId = kbId || config.kbId
-            environment = environment || "prod"
+            environment = environment || ENVIRONMENT.PROD
 
             let url = `${config.endpoint}/qnamaker/${API_VERSION}/knowledgebases/${kbId}/${environment}/qna`
 
