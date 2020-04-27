@@ -30,7 +30,11 @@ async function restoreTestKb() {
         //updates to follow up prompts require a two part update process
         if(updateObjectCreationResult.promptHasBeenUpdated){
 
-            await updateOneOfTwo(clientFromTest, process.env.kbId, updateObject);
+            let stepOneWasSuccessful = await updateOneOfTwo(clientFromTest, process.env.kbId, updateObject);
+
+            if(!stepOneWasSuccessful){
+                throw "Step one of update was unsuccessful.";
+            }
 
             //This update object is created by comparing the kb on test that has already been updated by step one to the local kb.
             //Only updated prompts that were deleted as part one will be included in this updated object, as prompt additions
@@ -65,9 +69,9 @@ async function compareLocalToTestAndCreateUpdateResult(clientFromTest){
     let knowledgeBaseDetails = await clientFromTest.knowledgeBase.getDetails();
 
     // //create update object by comparing test kb to local kb
-    let updateResponse = getKbUpdateResult(localKb, currentlyOnTestKB, knowledgeBaseDetails);
+    let kbUpdateResult = getKbUpdateResult(localKb, currentlyOnTestKB, knowledgeBaseDetails);
 
-    return updateResponse;
+    return kbUpdateResult;
 }
 
 //prompt updates require a multi part update process
@@ -83,12 +87,12 @@ async function updateOneOfTwo(clientFromTest, kbId, updateObject){
     let updateJson = await updateResponse.json();
     let opId = updateJson.operationId;
 
-    await pollForUpdateComplete(clientFromTest, opId)
+    let updateWasSuccessful = await pollForUpdateComplete(clientFromTest, opId)
     //publish is not needed as part of first update
 
-    //updateResponse = await compareLocalToTestAndCreateUpdateResult(clientFromTest)
     console.log('Step one update complete')
-    return updateResponse;
+
+    return updateWasSuccessful;
 
 }
 
@@ -157,11 +161,10 @@ async function pollForUpdateComplete(clientFromTest, opId){
     let updateWasSuccessful = updateOperationState === clientFromTest.lookups.OPERATION_STATE.SUCCEEDED
     if(updateWasSuccessful){
        console.log('Update was successful')
-       return;
     }else{
         throw "Update was called but knowledge base was unable to complete operation";
     }
-
+    return updateWasSuccessful;
 
 }
 
@@ -288,7 +291,7 @@ function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
         //when an prompt is updated it will be deleted, then a second comparison will be made between the local kb and the test
         //kb and the updated prompt will be processed as an add.
         let promptsNotUpdated = promptsToAdd.filter((elem) => !promptsToDelete.find(({ id }) => elem.id === id))
-        promptHasBeenUpdated = !(promptsNotUpdated.length === promptsToAdd.length)
+        promptHasBeenUpdated = promptHasBeenUpdated || !(promptsNotUpdated.length === promptsToAdd.length)
         promptsToAdd = promptsNotUpdated;
 
         let updateObject = {
