@@ -45,16 +45,18 @@ function diffText(oldText, newText, convertToHtml) {
 
         let returnValue = ""
 
+        let spaceRgx = /^\s+$/
+
         // opening tag
-        if (cur.added && !prev.added) returnValue += "<ins>"
-        if (cur.deleted && !prev.deleted) returnValue += "<del>"
+        if (cur.added && (!prev.added || spaceRgx.test(prev.text))) returnValue += "<ins>"
+        if (cur.deleted && (!prev.deleted || spaceRgx.test(prev.text))) returnValue += "<del>"
 
         // always add text
         returnValue += cur.text
 
         // closing tag
-        if (cur.added && !next.added) returnValue += "</ins>"
-        if (cur.deleted && !next.deleted) returnValue += "</del>"
+        if (cur.added && (!next.added || spaceRgx.test(next.text))) returnValue += "</ins>"
+        if (cur.deleted && (!next.deleted || spaceRgx.test(next.text))) returnValue += "</del>"
 
         return returnValue
     }).join(" ")
@@ -81,6 +83,7 @@ function diffText(oldText, newText, convertToHtml) {
 function tokenizeChars(text) {
     text = text.replace(/\*/g, " * ")
     text = text.replace(/\n/g, " \n ")
+    text = text.replace(/ \n  \n /g, " \n\n ")
     text = text.replace(/,/g, " , ")
     return text;
 }
@@ -88,6 +91,7 @@ function tokenizeChars(text) {
 // replace tokens
 function detokenizeChars(text) {
     text = text.replace(/ \* /g, "*")
+    text = text.replace(/ \n\n /g, " \n  \n ")
     text = text.replace(/ \n /g, "\n")
     text = text.replace(/ , /g, ",")
     return text;

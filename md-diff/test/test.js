@@ -113,4 +113,18 @@ describe('diffText', function() {
         assert.equal(actual, expected);
     });
 
+    it('should not span insert or delete tags across line breaks', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "First Line"
+        let newText = "First Line\n\nSecond Line"
+        let expected = "<p>First Line</p><ins>\n\n</ins><ins>SecondLine</ins>"
+
+        // act
+        let actual = diffText(oldText, newText, true)
+
+        // asset
+        assert.equal(actual, expected);
+    });
+
 });
