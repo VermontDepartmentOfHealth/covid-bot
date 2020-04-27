@@ -118,7 +118,7 @@ describe('diffText', function() {
         let diffText = require("../src/index")
         let oldText = "First Line"
         let newText = "First Line\n\nSecond Line"
-        let expected = "<p>First Line</p><ins>\n\n</ins><ins>SecondLine</ins>"
+        let expected = "<p>First Line <ins></ins></p>\n<p><ins> Second Line</ins></p>\n"
 
         // act
         let actual = diffText(oldText, newText, true)
@@ -126,5 +126,22 @@ describe('diffText', function() {
         // asset
         assert.equal(actual, expected);
     });
+
+
+
+    it('should not include quote as new word', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "the Stay Home, Stay Safe Executive"
+        let newText = "the “Stay Home, Stay Safe” Executive Order"
+        let expected = "the <ins>“</ins>Stay Home, Stay Safe<ins>”</ins> Executive <ins>Order</ins>"
+
+        // act
+        let actual = diffText(oldText, newText, false)
+
+        // asset
+        assert.equal(actual, expected);
+    });
+
 
 });

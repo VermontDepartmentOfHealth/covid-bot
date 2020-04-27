@@ -5,7 +5,7 @@ module.exports = diffText
 function diffText(oldText, newText, convertToHtml) {
 
     // support all markdown chars as separate tokens - initially add space and then remove when we've processed
-    // ** * [ ] ( ) \n \n\n *
+    // ** * [ ] ( ) \n \n\n
 
     oldText = tokenizeChars(oldText)
     newText = tokenizeChars(newText)
@@ -44,19 +44,16 @@ function diffText(oldText, newText, convertToHtml) {
         let next = diffs[i + 1] || {}
 
         let returnValue = ""
-
-        let spaceRgx = /^\s+$/
-
-        // opening tag
-        if (cur.added && (!prev.added || spaceRgx.test(prev.text))) returnValue += "<ins>"
-        if (cur.deleted && (!prev.deleted || spaceRgx.test(prev.text))) returnValue += "<del>"
+            // opening tag
+        if (cur.added && !prev.added) returnValue += "<ins>"
+        if (cur.deleted && !prev.deleted) returnValue += "<del>"
 
         // always add text
         returnValue += cur.text
 
         // closing tag
-        if (cur.added && (!next.added || spaceRgx.test(next.text))) returnValue += "</ins>"
-        if (cur.deleted && (!next.deleted || spaceRgx.test(next.text))) returnValue += "</del>"
+        if (cur.added && !next.added) returnValue += "</ins>"
+        if (cur.deleted && !next.deleted) returnValue += "</del>"
 
         return returnValue
     }).join(" ")
@@ -65,6 +62,12 @@ function diffText(oldText, newText, convertToHtml) {
 
     result = detokenizeChars(result)
 
+    // https://regexr.com/53eih
+    let newlineInInsRgx = /(?<=<ins>(?!<\/ins>)*?)(\n\n)(?=.*?<\/ins>)/g
+    let newlineInDelRgx = /(?<=<del>(?!<\/del>)*?)(\n\n)(?=.*?<\/del>)/g
+
+    result = result.replace(newlineInInsRgx, "</ins>$&<ins>")
+    result = result.replace(newlineInDelRgx, "</del>$&<del>")
 
     if (convertToHtml) {
         let md = require('markdown-it')({
@@ -81,19 +84,18 @@ function diffText(oldText, newText, convertToHtml) {
 }
 
 function tokenizeChars(text) {
-    text = text.replace(/\*/g, " * ")
-    text = text.replace(/\n/g, " \n ")
+    // https://regexr.com/53epc
+    text = text.replace(/[\*,\."“”\[\]\(\)\n]/g, " $& ")
     text = text.replace(/ \n  \n /g, " \n\n ")
-    text = text.replace(/,/g, " , ")
     return text;
 }
 
 // replace tokens
 function detokenizeChars(text) {
-    text = text.replace(/ \* /g, "*")
+    // https://regexr.com/53epr
     text = text.replace(/ \n\n /g, " \n  \n ")
-    text = text.replace(/ \n /g, "\n")
-    text = text.replace(/ , /g, ",")
+    text = text.replace(/ (<\/?(?:ins|del)>)?([\*,\."“”\[\]\(\)\n])(<\/?(?:ins|del)>)? /g, "$1$2$3")
+
     return text;
 }
 
