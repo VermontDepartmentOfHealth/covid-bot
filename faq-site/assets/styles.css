@@ -225,8 +225,12 @@ li.faq {
     list-style: none;
 }
 
-.faqs ul li {
+.faqs .answer ul li {
     list-style: disc;
+}
+
+.faqs .answer ol li {
+    list-style: decimal;
 }
 
 

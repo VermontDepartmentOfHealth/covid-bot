@@ -155,9 +155,11 @@ function findDifferences(allFaqsCur, allFaqsPrev) {
         if (prevFaq) {
 
             // markup deltas on changed questions (ids match)
+            let diffQuestion = removeWhitespace(prevFaq.question) != removeWhitespace(curFaq.question)
+            let diffAnswer = removeWhitespace(prevFaq.answerBody) != removeWhitespace(curFaq.answerBody)
 
             // check if modified 
-            if (prevFaq.question != curFaq.question || prevFaq.answerBody != curFaq.answerBody) {
+            if (diffQuestion || diffAnswer) {
 
                 curFaq.questionDiff = diffText(prevFaq.question, curFaq.question, false)
                 curFaq.answerBodyDiff = diffText(prevFaq.answerBody, curFaq.answerBody, false)
@@ -175,4 +177,8 @@ function findDifferences(allFaqsCur, allFaqsPrev) {
 
     return allFaqsCur;
 
+}
+
+function removeWhitespace(str) {
+    return str.replace(/\s/g, "")
 }
