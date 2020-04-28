@@ -77,3 +77,21 @@ it('should return del / ins on single word change', function() {
     assert.equal(actual, expected);
 });
 ```
+
+## HTML Testing
+
+Test output against [this fiddle](https://jsfiddle.net/KyleMit/7twbm1zv/) which applies the following styles:
+
+```css
+del {
+    background: #ffc9c9;
+    border-radius: 2px;
+    text-decoration: line-through;
+}
+
+ins {
+    background: #c9fff0;
+    border-radius: 2px;
+    text-decoration: underline;
+}
+```
