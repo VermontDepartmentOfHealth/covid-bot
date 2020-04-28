@@ -449,7 +449,7 @@
         },
         {
             "id": 4545,
-            "answer": "**Who is getting tested?**\n\nIf you are ill, call your health care provider to find out if you can be seen for an evaluation. Testing is not treatment and not everyone needs to be tested. If you are sick, many people can manage their symptoms at home with rest, drinking fluids and taking fever-reducing medicine, when needed.\n\nAs of March 20, 2020, health care providers can submit samples to the University of Vermont Medical Center Laboratory (UVMMC) for prioritization. However, testing resources in Vermont and in the U.S. are currently limited. For the immediate term, the Health Department lab will prioritize testing samples from the following groups with symptoms of COVID-19: health care workers, patients who are hospitalized, long-term care facility residents, people who are incarcerated, people who are immunocompromised, and other high-priority groups with symptoms. All other samples submitted to the lab will be tested as quickly as resources allow. \n\nAs of March 27, the Health Department announced new guidance to expand testing to include more people with mild to moderate symptoms. The process is still the same – if you are having symptoms of COVID-19, you should call your health care provider to arrange for being tested.\n\nHealth care providers are encouraged to order a test for any adult or child who is showing symptoms of COVID-19. \n\nAnyone who meets the medical requirements for testing for COVID-19 can be tested at no cost. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).",
+            "answer": "**Who is getting tested?**\n\nIf you are ill, call your health care provider to find out if you can be seen for an evaluation. Testing is not treatment and not everyone needs to be tested. If you are sick, many people can manage their symptoms at home with rest, drinking fluids and taking fever-reducing medicine, when needed.\n\nIf you are having symptoms of COVID-19, call your health care provider to arrange for being tested. Health care providers are encouraged to order a test for any adult or child who is showing symptoms of COVID-19. \n\nAnyone who meets the medical requirements for testing for COVID-19 can be tested at no cost. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).",
             "source": "KB-COVID",
             "questions": [
                 "Who is getting tested?",
@@ -527,7 +527,7 @@
         },
         {
             "id": 4547,
-            "answer": "**How long is the turnaround for testing?**\n\nTest results will be available within 1 – 3 days. Results will be reported to the patient by their health care provider. However, in the event of a positive result, the Health Department will also be reaching out to the patient to convey public health recommendations and collect information on contacts. It’s possible that Health Department notification may occur prior to the provider’s conversation with their patient. Patients awaiting lab results should contact their provider with questions.\n\nFor guidance on what to do while you're waiting for test results, visit [www.healthvermont.gov/COVID19-resources](https://www.healthvermont.gov/response/coronavirus-covid-19/resources) under “Information Sheets.”\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website [www.healthvermont.gov/COVID19-currentactivity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).",
+            "answer": "**How long is the turnaround for testing?**\n\nTest results will be available typically within 1 – 3 days. Results will be reported to the patient by their health care provider. However, in the event of a positive result, the Health Department will also be reaching out to the patient to convey public health recommendations and collect information on contacts. It’s possible that Health Department notification may occur prior to the provider’s conversation with their patient. Patients awaiting lab results should contact their provider with questions.\n\nFor guidance on what to do while you're waiting for test results, visit [www.healthvermont.gov/COVID19-resources](https://www.healthvermont.gov/response/coronavirus-covid-19/resources) under “Information Sheets.”\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on our website [www.healthvermont.gov/COVID19-currentactivity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).",
             "source": "KB-COVID",
             "questions": [
                 "How long is the turnaround for testing?",
@@ -635,7 +635,7 @@
         },
         {
             "id": 4550,
-            "answer": "**Does the Health Department have enough resources for testing?**\n\nTesting capacity in Vermont and in the U.S has improved since mid-March, but we continue to monitor testing supply volumes closely. Testing is done seven days a week with 24- to 48- hour turnaround times. In addition to the Health Department’s lab, the University of Vermont Medical Center’s lab and commercial labs are doing COVID-19 testing.",
+            "answer": "**Does the Health Department have enough resources for testing?**\n\nTesting capacity in Vermont and in the U.S has improved since mid-March, but we continue to monitor testing supply volumes closely. Testing is done seven days a week with typically 1- to 3-day turnaround times. In addition to the Health Department’s lab, the University of Vermont Medical Center’s lab and commercial labs are doing COVID-19 testing.",
             "source": "KB-COVID",
             "questions": [
                 "Does the Health Department have enough resources for testing?",
@@ -698,13 +698,18 @@
                         "displayOrder": 0,
                         "qnaId": 4580,
                         "displayText": "More info about Covid-19 Cases"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4682,
+                        "displayText": "What is contact tracing?"
                     }
                 ]
             }
         },
         {
             "id": 4552,
-            "answer": "**What should business owners in Vermont do?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, additional guidance was shared to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. Read the [detailed list of essential services or functions in Vermont](https://governor.vermont.gov/content/addendum-6-executive-order-01-20)\n\nThe ACCD has published a [guide using NAICS codes](https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses) to help businesses interpret acceptable in-person business functions under this Order. Additionally, ACCD has [FAQs for businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) that should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the [Request for Continuation of Business Operations Form](https:\\\\bit.ly/covid-vt-business-operations).\n\nVisit the [ACCD’s COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19/business) for information on financial assistance, sector guidance, and unemployment information.\n\nThe Vermont Department of Labor’s has [guidance for employers and employee, industry updates and notifications](https://labor.vermont.gov/covid19).\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**What should business owners in Vermont do?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20) to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. Read the [detailed list of essential services or functions in Vermont](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).\n\nAll businesses and non-profit and government entities in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nThe ACCD has published a [guide using NAICS codes](https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses) to help businesses interpret acceptable in-person business functions under this Order. Additionally, ACCD has [FAQs for businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) that should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the [Request for Continuation of Business Operations Form](https:\\\\bit.ly/covid-vt-business-operations).\n\nVisit the [ACCD’s COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19/business) for information on financial assistance, sector guidance, and unemployment information.\n\nThe Vermont Department of Labor’s has [guidance for employers and employee, industry updates and notifications](https://labor.vermont.gov/covid19).\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
             "source": "KB-COVID",
             "questions": [
                 "What should business owners in Vermont do?",
@@ -742,13 +747,18 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question.\n"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4681,
+                        "displayText": "What employers need to do to reopen businesses\n"
                     }
                 ]
             }
         },
         {
             "id": 4553,
-            "answer": "**What should child cares and schools in Vermont do?**\n\nOn March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented on or before Monday, April 13, 2020.\n\nAll child care programs are closed during this same period, except for those that will remain open to provide services to Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\n More information can be found on our website at [www.healthvermont.gov/COVID19-schools](https://www.healthvermont.gov/response/coronavirus-covid-19/schools-and-child-care-programs)",
+            "answer": "**What should child cares and schools in Vermont do?**\n\nOn March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented.\n\nAll child care programs are closed during this same period, except for those that will remain open to provide services to Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\n More information can be found on our website at [www.healthvermont.gov/COVID19-schools](https://www.healthvermont.gov/response/coronavirus-covid-19/schools-and-child-care-programs)",
             "source": "KB-COVID",
             "questions": [
                 "What should child cares and schools in Vermont do?",
@@ -883,7 +893,7 @@
         },
         {
             "id": 4558,
-            "answer": "**What should people in long-term care facilities or group homes do?**\n\nA 3/13/20 executive order from the Governor requires nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care.\n\nThese resources are all available on our website at [www.healthvermont.gov/COVID19-longtermcare](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings) \n\n* Vermont Health Advisory: Coronavirus Disease (COVID-19) in Long-Term Care Facilities: [https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf)  \n\n* CDC: Strategies to Prevent the Spread of COVID-19 in Long-Term Care Facilities: [https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html](https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html) \n\n* CDC: Guidance for Retirement Communities and Independent Living:  [https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/index.html?deliveryName=USCDC_2067-DM23558](https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/index.html?deliveryName=USCDC_2067-DM23558)\n\n* The Department of Disabilities, Aging and Independent Living also has additional info on its website: [https://dail.vermont.gov/novel-coronavirus-information](https://dail.vermont.gov/novel-coronavirus-information)\n\nSenior Centers and Adult Day programs have closed their programs in compliance with the Governor’s State of Emergency in Response to COVID-19. As of April 10, that executive order has been extended until May 15th. At which time the Governor, in consultation with the Vermont Department of Health and the Department of Public Safety/Division of Emergency Management shall assess the emergency and determine whether to amend or extend the State of Emergency.\n\n[https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf](https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf)\n\nHere are other useful resources:\n\n* PPE Availability Memo: [https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf](https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf) \n\n* LTC Screening Protocol: [https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf](https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf)",
+            "answer": "**What should people in long-term care facilities or group homes do?**\n\nOn April 24, the Health Department recommended that all health care personnel in long-term care facilities, correctional facilities, and other congregate settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nOn March 13, the Governor issued an executive order requiring nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care.\n\nThese resources are all available on our website at [www.healthvermont.gov/COVID19-longtermcare](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings) \n\n* Vermont Health Advisory: Coronavirus Disease (COVID-19) in Long-Term Care Facilities: [https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf)  \n\n* CDC: Strategies to Prevent the Spread of COVID-19 in Long-Term Care Facilities: [https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html](https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html) \n\n* CDC: Guidance for Retirement Communities and Independent Living:  [https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/index.html?deliveryName=USCDC_2067-DM23558](https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/index.html?deliveryName=USCDC_2067-DM23558)\n\n* The Department of Disabilities, Aging and Independent Living also has additional info on its website: [https://dail.vermont.gov/novel-coronavirus-information](https://dail.vermont.gov/novel-coronavirus-information)\n\nSenior Centers and Adult Day programs have closed their programs in compliance with the Governor’s State of Emergency in Response to COVID-19. As of April 10, that executive order has been extended until May 15th. At which time the Governor, in consultation with the Vermont Department of Health and the Department of Public Safety/Division of Emergency Management shall assess the emergency and determine whether to amend or extend the State of Emergency.\n\n[https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf](https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf)\n\nHere are other useful resources:\n\n* PPE Availability Memo: [https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf](https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf) \n\n* LTC Screening Protocol: [https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf](https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf)",
             "source": "KB-COVID",
             "questions": [
                 "What should people in long-term care facilities or group homes do?",
@@ -2057,7 +2067,7 @@
         },
         {
             "id": 4592,
-            "answer": "**What information is available regarding bars and restaurants?**\n\nOn April 10, the governor extended his order (effective Tuesday, March 17 at 2 p.m.) closing all bars and restaurants statewide until May 15.\n\n Establishments can continue to offer food take out and delivery.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**What information is available regarding bars and restaurants?**\n\nOn April 10, the governor extended his order (effective Tuesday, March 17 at 2 p.m.) closing all bars and restaurants statewide until May 15.\n\n Establishments can continue to offer food take out and delivery.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
             "source": "Editorial",
             "questions": [
                 "What information is available regarding bars and restaurants?",
@@ -2522,7 +2532,7 @@
         },
         {
             "id": 4604,
-            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during an infectious disease outbreak. Taking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger. \n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/response/coronavirus-covid-19/coping-stress), including resources for local help, self-care, suicide prevention, and domestic violence.\n\nFind more [tips for coping with stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) from the CDC, including how to help children cope with stress.\n\nNeed support right now?\n\n* Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n\n* For multilingual support call 800-985-5990 or text TalkWithUs to 66746",
+            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during an infectious disease outbreak. Taking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger. \n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/response/coronavirus-covid-19/coping-stress), including resources for local help, self-care, suicide prevention, and domestic violence.\n\nFind more [tips for coping with stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) from the CDC, including how to help children cope with stress.\n\nNeed support right now?\n\n* Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n\n* For multilingual support, call 800-985-5990 or text TalkWithUs to 66746",
             "source": "Editorial",
             "questions": [
                 "How can I take care of myself, my family, or friends with the stress from COVID-19?",
@@ -2979,7 +2989,7 @@
         },
         {
             "id": 4617,
-            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nYou can find the number of people who have tested positive for COVID-19 by county at [www.healthvermont.gov/COVID19-currentactivity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) This map is updated daily.\n\nThe Health Department does not share information for cases in each \ntown to protect the privacy of Vermonters who have COVID-19. If some \ninformation is made public (for example, gender, age, race, health \ncondition, travel history), then a person may be able to be identified, \nespecially if the population of a town is small.\n\nThe COVID-19 virus \nis spreading throughout Vermont, and many people may have it and can \nspread it for up to two days before they show symptoms. It is safe to \nassume that the virus is in your town or community and you should take \nsteps to protect yourself and others.",
+            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nYou can find the number of people who have tested positive for COVID-19 by county on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) This map is updated daily.\n\nThere is also a map showing the number of Vermonters who have tested positive for COVID-19 by the town where they live. Residents of a long-term care facilities and inmates at correctional facilities are included in the town of their facility when they were tested. This map is updated weekly.\n\nThe Health Department does not share information for towns with fewer than six residents who tested positive with COVID-19. This is to protect their privacy. If some information is made public (for example, gender, age, race, health condition, travel history), then a person could be identified, especially if the population of a town is small. This follows both federal and Vermont laws.\n\nThe COVID-19 virus is spreading throughout Vermont, and many people may have it and can spread it for up to two days before they show symptoms. It is safe to assume that the virus is in your town or community and you should take steps to protect yourself and others.",
             "source": "Editorial",
             "questions": [
                 "How many active cases are there in Vermont?",
@@ -3190,7 +3200,7 @@
         },
         {
             "id": 4622,
-            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging facilities to close, except for exemptions when supporting the state’s COVID-19 response. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response.\n\nThe Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nGovernor Scott announced on April 10 that lodging operators may accept new reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook. Reservations for arrivals before May 15 need to be cancelled. Existing reservations for arrivals between May 15 and June 15 are still valid, but may not be allowed if Stay Home, Stay Safe Order is extended or if other lodging restrictions will stay in place or be added.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces).",
+            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of March 30, 2020, Governor Scott ordered all lodging facilities to close, except for exemptions when supporting the state’s COVID-19 response. Lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are closed, unless they are helping with the State’s COVID-19 response.\n\nThe Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn more on the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nGovernor Scott announced on April 10 that lodging operators may accept new reservations for stays and events occurring on June 15 or later. However, if the Stay Home, Stay Safe Order is extended, they will need to rebook. Reservations for arrivals before May 15 need to be cancelled. Existing reservations for arrivals between May 15 and June 15 are still valid, but may not be allowed if Stay Home, Stay Safe Order is extended or if other lodging restrictions will stay in place or be added.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces).",
             "source": "Editorial",
             "questions": [
                 "What do owners of lodging facilities need to do?",
@@ -3225,7 +3235,7 @@
         },
         {
             "id": 4623,
-            "answer": "**There are renters in local short-term rentals. Is that allowed?**\n\nThe order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder the Stay Home, Stay Safe Order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Read the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
+            "answer": "**There are renters in local short-term rentals. Is that allowed?**\n\nThe Stay Home, Stay Safe Order makes clear that lodging facilities – which includes hotels, motels, bed and breakfasts, inns, short term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities and RV parks – are to be closed except for stated exemptions when supporting the state’s COVID-19 response. Additionally, the Governor has suspended online lodging reservations.\n\nUnder the Stay Home, Stay Safe Order, the Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on [additional compliance measures](http://ago.vermont.gov/wp-content/uploads/2020/04/AGO-EO-Enforcement-Directive-4.3.20.pdf), if needed.\n\nIf members of the public have concerns about lodging facilities that are violating the “Stay Home, Stay Safe” Executive Order, the Department of Public Safety has created an online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u) to gather more information.\n\nRead the [Vermont State Police Guidance on enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
             "source": "Editorial",
             "questions": [
                 "Airbnbs not not being compliant with order",
@@ -3451,7 +3461,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, additional guidance was shared to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20)  to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
             "source": "Editorial",
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?",
@@ -3488,6 +3498,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question. "
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4681,
+                        "displayText": "What employers need to do to reopen businesses"
                     }
                 ]
             }
@@ -3499,21 +3514,13 @@
             "questions": [
                 "What is considered an essential service or function?",
                 "is pet grooming business considered essential",
-                "Are Fire alarm technicians considered essential workers",
                 "are liquor stores closing in the state",
                 "who are essential workers?",
-                "Can I have someone do landscaping work in my yard now?",
                 "Are golf courses open?",
                 "is working allowed in VT?",
                 "How to get documentation if you are an essential worker?",
                 "Vermont’s Airport is open or not?",
-                "What is open?",
-                "Are landscapers able to work?",
-                "Are office staff essential workers?",
-                "when will the DMV open?",
-                "essential purpose definition",
-                "farm workers",
-                "Barber shops"
+                "essential purpose definition"
             ],
             "metadata": [
                 {
@@ -3531,8 +3538,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4636,
+                        "displayText": "Is my job or business considered essential?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3691,7 +3703,15 @@
                 "Are factories considered essential?",
                 "Can I keep working?",
                 "What recreational businesses are allowed to operate?",
-                "List of essential Businesses"
+                "List of essential Businesses",
+                "Barber shops",
+                "\n\nfarm workers",
+                "\n\nwhen will the DMV open?",
+                "Are office staff essential workers?",
+                "\n\nAre landscapers able to work?",
+                "\n\nWhat is open?",
+                "Fire alarm technicians ",
+                "Can I have someone do landscaping work in my yard now?"
             ],
             "metadata": [
                 {
@@ -3819,7 +3839,7 @@
         },
         {
             "id": 4639,
-            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nMost recent modeling data suggests Vermont has likely reached its peak in the number of new cases of COVID-19 and hospital capacity. We are also close to reaching the peak of the number people who are currently infected with COVID-19 in Vermont. However, it’s important to remember there are still many who currently infected and therefore, are contagious and could spread it to others.\n\nThis is hopeful news. To continue on this path, it is critical that Vermonters continue making their day-to-day sacrifices to help save lives.\n\nRead the latest [Vermont COVID-19 modeling projections](http://dfr.vermont.gov/about-us/covid-19/modeling).",
+            "answer": "**When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?** \n\nMost recent modeling data suggests Vermont has likely reached its peak in the number of new cases of COVID-19 and hospital capacity. We are also close to reaching the peak of the number people who are currently infected with COVID-19 in Vermont. However, it’s important to remember there are still many who currently infected and therefore, are contagious and could spread it to others.\n\nVermont is looking at four key measures to inform steps to reopen:\n\n1. Ongoing reduction in cases for at least 14 days\n\n2. Health care system that is safely able to treat all patients without exceeding its capacity or using crisis standards of care\n\n3. Ability to test all people with symptoms\n\n4. Widespread active monitoring of people who have tested positive for COVID-19 and tracing their close contacts\n\nAt this time, Vermont has seen a reduction in cases for at least 14 days. This is hopeful news. To continue on this path, it is critical that Vermonters continue making their day-to-day sacrifices to help save lives. Social distancing (staying at least 6 feet from each other) and wearing face masks are here to stay for a while, even as we being to reopen, until we have effective antiviral medicines or a vaccine.\n\nRead the latest [Vermont COVID-19 modeling projections](http://dfr.vermont.gov/about-us/covid-19/modeling).",
             "source": "Editorial",
             "questions": [
                 "When will COVID-19 infections peak? When will the “Stay Home, Stay Safe” Order end?",
@@ -4068,7 +4088,7 @@
         },
         {
             "id": 4646,
-            "answer": "**How can I report a person or business who is violating the Stay Home, Stay Safe Order?** \n\n The Department of Public Safety and the Vermont State Police recommended to Vermont municipal leaders and law-enforcement executives that enforcement of the Governor’s Stay Home, Stay Safe Order be handled mainly through education and voluntary compliance.\n\n Members of the public who have concerns about businesses, lodging establishments, short-term rental properties, nonprofits or other entities that are operating out of compliance with the Stay Home, Stay Safe Order, or regarding individuals who are not doing self-quarantine as required, should call their local law-enforcement agency. Find out more about [what the Stay Home/Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
+            "answer": "**How can I report a person or business who is violating the Stay Home, Stay Safe Order?** \n\n The Department of Public Safety and the Vermont State Police recommended to Vermont municipal leaders and law-enforcement executives that enforcement of the Governor’s Stay Home, Stay Safe Order be handled mainly through education and voluntary compliance.\n\nIf members of the public have concerns about businesses, lodging properties or restaurants that are violating the “Stay Home, Stay Safe” Executive Order, the Department of Public Safety has created an online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u) to gather more information. For complaints regarding individuals who are failing to self-quarantine, as required, please call your local law-enforcement agency.\n\nRead the [Attorney General’s Enforcement Directive](http://ago.vermont.gov/wp-content/uploads/2020/04/AGO-EO-Enforcement-Directive-4.3.20.pdf). \n\nFind out more about [what the Stay Home/Stay Safe Order means to Vermonters](https://vem.vermont.gov/StayHome).",
             "source": "Editorial",
             "questions": [
                 "How can I report a person or business who is violating the Stay Home, Stay Safe Order?",
@@ -4186,7 +4206,7 @@
         },
         {
             "id": 4650,
-            "answer": "**What should retailers do to keep their employees safe?**\n\nGrocery stores, hardware stores, pharmacies and other businesses that provide necessary goods and services are considered essential and must operate in a way that keeps employees and customers safe. Because every business is unique, the Health Department cannot give guidance that covers every situation. Businesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nRead the [COVID-19 Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf) and find more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces).",
+            "answer": "**What should retailers do to keep their employees safe?**\n\nGrocery stores, hardware stores, pharmacies and other businesses that provide necessary goods and services are considered essential and must operate in a way that keeps employees and customers safe. Because every business is unique, the Health Department cannot give guidance that covers every situation. Businesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nRead the [COVID-19 Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf) and find more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces).",
             "source": "Editorial",
             "questions": [
                 "What should retailers do to keep their employees safe?"
@@ -4370,7 +4390,7 @@
         },
         {
             "id": 4656,
-            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nRead the Health Department’s [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf).\n\nRead the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19).\n\nFind more [information for food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces).",
+            "answer": "**What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?**\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nRead the Health Department’s [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf).\n\nRead the [FDA’s Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19).\n\nFind more [information for food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces).",
             "source": "Editorial",
             "questions": [
                 "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?",
@@ -4475,7 +4495,7 @@
         },
         {
             "id": 4660,
-            "answer": "**Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?**\n\nGovernor Phil Scott has amended the Stay Home, Stay Safe Executive Order. There is now new guidance for the reopening of certain businesses in strict accordance with mandatory health and safety requirements, including outdoor businesses. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nThe governor’s Stay Home, Stay Safe Order says that “other building and property services for the safety, sanitation and operations of residences or other businesses” are considered critical. This means that property management and landscaping businesses may do limited in-person operations under the governor’s Stay Home, Stay Safe Order. According to the ACCD, these include building services such as janitorial services, security services, pest control and maintenance and repair operations that are essential to protecting property.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?**\n\nGovernor Phil Scott has amended the Stay Home, Stay Safe Executive Order. There is now new guidance for the reopening of certain businesses in strict accordance with mandatory health and safety requirements, including outdoor businesses. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nThe governor’s Stay Home, Stay Safe Order says that “other building and property services for the safety, sanitation and operations of residences or other businesses” are considered critical. This means that property management and landscaping businesses may do limited in-person operations under the governor’s Stay Home, Stay Safe Order. According to the ACCD, these include building services such as janitorial services, security services, pest control and maintenance and repair operations that are essential to protecting property.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health &amp; Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
             "source": "Editorial",
             "questions": [
                 "Can property management and landscaping businesses still operate under the Stay Home, Stay Safe Order?"
@@ -4494,6 +4514,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4681,
+                        "displayText": "What employers need to do to reopen businesses\n"
                     }
                 ]
             }
@@ -4566,7 +4591,7 @@
         },
         {
             "id": 4663,
-            "answer": "**Are campgrounds, RV parks, and seasonal resorts open?**\n\nCampgrounds, RV parks, and seasonal resorts are only open for limited in-person operations, which includes housing of essential COVID-19 workers or other essential workers under the governor’s Stay Home, Stay Safe Order. They may accept seasonal campers whose reservations were made before March 25 and whose stays last the entire season.\n\nNew reservations for short-term or long-term stays can only be made for stays and events occurring on June 15 or later.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nMore details are available on the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
+            "answer": "**Are campgrounds, RV parks, and seasonal resorts open?**\n\nCampgrounds, RV parks, and seasonal resorts are only open for limited in-person operations, which includes housing of essential COVID-19 workers or other essential workers under the governor’s Stay Home, Stay Safe Order. They may accept seasonal campers whose reservations were made before March 25 and whose stays last the entire season.\n\nNew reservations for short-term or long-term stays can only be made for stays and events occurring on June 15 or later.\n\nBusinesses must follow [new guidelines from the Agency of Commerce and Community Development (ACCD)](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) that requires employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nMore details are available on the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
             "source": "Editorial",
             "questions": [
                 "Are campgrounds, RV parks, and seasonal resorts open?",
@@ -4928,7 +4953,7 @@
         },
         {
             "id": 4675,
-            "answer": "**I don't have a house or a home, how can I stay safe?**\n\nThere is temporary housing available for people experiencing homelessness with suspected COVID-19 cases and for positive COVID-19 cases that don’t require hospitalization. Call the Vermont Economic Services Division at 802-479-6151 Monday through Friday between 8:00 a.m. and 4:30 p.m. After hours, you can call 2-1-1.",
+            "answer": "**I don't have a house or a home, how can I stay safe?**\n\nThere is temporary housing available for people experiencing homelessness who are suspected to have or tested positive for COVID-19 and don’t require hospitalization. Call the Vermont Economic Services Division at 802-479-6151 Monday through Friday between 8:00 a.m. and 4:30 p.m. After hours, you can call 2-1-1.",
             "source": "Editorial",
             "questions": [
                 "I don't have a house or a home, how can I stay safe?",
@@ -5067,6 +5092,90 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4680,
+            "answer": "**Is the state reopened?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back.\n\nOn April 17, the Governor issued guidance on [Work Smart/Stay Safe: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20).\n\nOn April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20) to expand businesses allowed to operate.\n\nSee up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance) for details on which businesses are open.",
+            "source": "Editorial",
+            "questions": [
+                "Is the state reopened?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "stay home, stay safe order"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "When will the Stay Home, Stay Safe Order end?\n"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4681,
+            "answer": "**What do employers need to do to reopen their business?**\n\nSee up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).\n\nAll businesses and non-profit and government entities in operation must complete and document mandatory health and safety training developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020. \n\nEmployers may choose to adopt an additional training program that meets or exceeds the VOSHA-provided standard, or additional policies and procedures that are applicable to the employment environment and employees’ duties, which shall not be less restrictive than those developed by VOSHA.\n\nOnce training is completed, a certificate of completion will be made available to keep for the individual’s records. To document compliance, employers will be asked to keep record of all employee certificates.\n\nView or download and print the [Protecting the Health and Safety of Workers Training: Coronavirus Disease (COVID-19)](https://labor.vermont.gov/VOSHA).",
+            "source": "Editorial",
+            "questions": [
+                "What do employers need to do to reopen their business?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "businesses, organizations, schools"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4682,
+            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it’s spreading. Finding people who are close contacts to a case and at higher risk of becoming infected can help prevent further transmission of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They’ll ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers.\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.",
+            "source": "Editorial",
+            "questions": [
+                "What is contact tracing?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "what vermont is doing"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "state's response"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "his did NOT answer my question."
                     }
                 ]
             }
