@@ -305,7 +305,7 @@ let QnAMakerAPI = function(config) {
     
             } else {
                 //if operation is not complete, and it has not timed out, wait a second and then call this method again recursively 
-                await sleepForOneSecond() //TODO test this
+                await sleepForOneSecond()
     
                 return await pollForOperationComplete(operationId, seconds + 1); //todo use incrementor
             }
