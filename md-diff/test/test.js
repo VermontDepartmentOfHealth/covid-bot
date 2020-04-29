@@ -71,6 +71,20 @@ describe('diffText', function() {
         assert.equal(actual, expected);
     });
 
+    it('should return diff inside parenthetical', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "if symptoms (fever or cough) develop"
+        let newText = "if symptoms (fever, cough, or shortness of breath) develop"
+        let expected = "if symptoms (fever<ins>, cough,</ins> or <del>cough</del> <ins>shortness of breath</ins>) develop" // "your <del>question</del> <ins>answer</ins>\n\n site"
+
+        // act
+        let actual = diffText(oldText, newText, false)
+
+        // asset
+        assert.equal(actual, expected);
+    });
+
     it('should handle commas after word', function() {
         // arrange
         let diffText = require("../src/index")
@@ -142,6 +156,27 @@ describe('diffText', function() {
         // asset
         assert.equal(actual, expected);
     });
+
+
+
+    it('should preserve hyperlink when text modified', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "go to [link info](https://example.com) and"
+        let newText = "go to [link new text here](https://example.com) and"
+        let expectedMD = "go to [link <del>info</del> <ins>new text here</ins>](https://example.com) and"
+        let expectedHTML = '<p>go to <a href="https://example.com">link <del>info</del> <ins>new text here</ins></a> and</p>\n'
+
+        // act
+        let actualMD = diffText(oldText, newText, false)
+        let actualHTML = diffText(oldText, newText, true)
+
+        // asset
+        assert.equal(actualMD, expectedMD);
+        assert.equal(actualHTML, expectedHTML);
+    });
+
+
 
 
 });
