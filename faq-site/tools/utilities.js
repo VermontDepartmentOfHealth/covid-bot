@@ -7,6 +7,7 @@ module.exports = {
     flattenArrayToObject,
     readJsonc,
     slugify,
+    isEmptyObj,
     getCurrentTimestamp,
     deduplicate
 }
