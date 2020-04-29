@@ -103,7 +103,7 @@ async function getTestKb(clientFromTest){
     //passing the 'TEST' lookup  means that the kb returned will reflect what is currently in editor rather than what is published.
     let currentlyOnTestKB = await clientFromTest.knowledgeBase.download(undefined, clientFromTest.lookups.ENVIRONMENT.TEST);
 
-    let downLoadSuccessful = JSON.stringify(currentlyOnTestKB) !== '{}'
+    let downLoadSuccessful = !utilities.isEmptyObj(currentlyOnTestKB)
 
     let errorInfo = "";
     if (currentlyOnTestKB.hasOwnProperty("error")) {
@@ -171,7 +171,8 @@ async function pollForUpdateComplete(clientFromTest, opId){
 async function publishKb(clientFromTest){
     console.log("\n" + 'Publishing test knowledge base...')
     let publishResponse = await clientFromTest.knowledgeBase.publish(process.env.kbId)
-    let publishWasSuccessful = JSON.stringify(publishResponse) !== '{}' && !publishResponse.hasOwnProperty("error")
+    let publishWasSuccessful = !utilities.isEmptyObj(publishResponse) && !publishResponse.hasOwnProperty("error")
+
     if(publishWasSuccessful){
         console.log('Publish successful')
         return;

@@ -89,6 +89,15 @@ function slugify(title) {
     return slug;
 }
 
+/**
+ * Test whether item is is empty object `{}`
+ * @param {object} obj 
+ * @description See also: https://stackoverflow.com/q/679915/1366033
+ */
+function isEmptyObj(obj) {
+    return JSON.stringify(obj) === JSON.stringify({});
+}
+
 function getCurrentTimestamp() {
     var time = new Date();
     var options = {

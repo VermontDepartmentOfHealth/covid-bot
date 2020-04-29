@@ -94,44 +94,19 @@ let QnAMakerAPI = function(config) {
 
     }
 
-
-    /**
-     * Check kb operation once a second to see if operation state is updated to either a success of failure state
-     * @param {string} operationId operation ID
-     * @param {number} [secondsWaited] (optional) number of seconds waited already
-     * @description Returns details of kb operation https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/operations/getdetails
-     */
-    let pollForOperationComplete = async function(operationId, secondsWaited) {
-        let seconds = secondsWaited || 0
-
-        //success and failure are both completed states
-        let completeStates = [OPERATION_STATE.FAILED, OPERATION_STATE.SUCCEEDED]
-
-        //get operation details
-        let details = await operations.getDetails(operationId)
-
-        //get operation state
-        let operationState = details.operationState;
-
-        //If operation is complete (failure or success), or if operation has timed out, return the current state
-        if (completeStates.includes(operationState) || seconds > NUMBER_SECONDS_FOR_TIMEOUT) {
-
-            return operationState;
-
-        } else {
-            //if operation is not complete, and it has not timed out, wait a second and then call this method again recursively 
-            await sleepForOneSecond() //TODO test this
-
-            return await pollForOperationComplete(operationId, seconds + 1); //todo use incrementor
-        }
-
-    }
-
     //function to delay execution for one second
     let sleepForOneSecond = () => {
         return new Promise(resolve => setTimeout(resolve, 1000))
     }
 
+    /**
+     * Check whether item is is empty object `{}`
+     * @param {object} obj 
+     * @description See also: https://stackoverflow.com/q/679915/1366033
+     */
+    let isEmptyObj = (obj) => {
+        return JSON.stringify(obj) === JSON.stringify({});
+    }
 
     let knowledgeBase = {
         /**
@@ -290,8 +265,9 @@ let QnAMakerAPI = function(config) {
     
             //get operation details
             let detailsResponse = await operations.getDetails(operationId)
-            let operationDetailsRetrieved = JSON.stringify(detailsResponse) !== '{}' && !detailsResponse.hasOwnProperty("error")
-    
+            //let operationDetailsRetrieved = JSON.stringify(detailsResponse) !== '{}' && !detailsResponse.hasOwnProperty("error")
+            let operationDetailsRetrieved = !isEmptyObj(detailsResponse) && !detailsResponse.hasOwnProperty("error")
+
             if(!operationDetailsRetrieved){
                 throw "Unable to get operation details";
             }
@@ -307,7 +283,7 @@ let QnAMakerAPI = function(config) {
                 //if operation is not complete, and it has not timed out, wait a second and then call this method again recursively 
                 await sleepForOneSecond()
     
-                return await pollForOperationComplete(operationId, seconds + 1); //todo use incrementor
+                return await pollForOperationComplete(operationId, ++seconds);
             }
 
         }
