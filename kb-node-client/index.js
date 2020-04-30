@@ -283,7 +283,7 @@ let QnAMakerAPI = function(config) {
                 //if operation is not complete, and it has not timed out, wait a second and then call this method again recursively 
                 await sleepForOneSecond()
     
-                return await pollForOperationComplete(operationId, ++seconds);
+                return await this.pollForOperationComplete(operationId, ++seconds);
             }
 
         }
