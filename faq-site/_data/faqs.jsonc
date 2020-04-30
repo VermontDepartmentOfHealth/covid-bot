@@ -463,7 +463,10 @@
                 "testing with no referrals",
                 "coronavirus screening",
                 "screening",
-                "Can I be tested for COVID-19?"
+                "Can I be tested for COVID-19?",
+                "Testing",
+                "Should I get tested?",
+                "\n\nWhen should you get tested for the virus?"
             ],
             "metadata": [
                 {
@@ -563,11 +566,7 @@
             "answer": "**Where is testing being done?**\n\nAs of March 20, 2020, health care providers submit samples to the University of Vermont Medical Center Laboratory (UVMMC) for prioritization. Samples from higher risk populations will be tested at the Vermont Department of Health Laboratory. Lower priority tests are done at commercial labs.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity). ",
             "source": "KB-COVID",
             "questions": [
-                "Where is testing being done?",
-                "Testing locations",
-                "Where is testing?",
-                "Testing in southern VT",
-                "Testing near me"
+                "Where is testing being done?"
             ],
             "metadata": [
                 {
@@ -672,7 +671,7 @@
         },
         {
             "id": 4551,
-            "answer": "**What is the Health Department doing?**\n\nThe Vermont Department of Health is working closely with long-term care facilities and other congregate living facilities to prepare for COVID-19 cases and prevent outbreaks, by reviewing CDC guidance for infection control and supporting development of strategies and plans. If cases occur in these settings, the Vermont Department of Health helps the facility implement control measures and prevent additional cases.\n\nThe Department does contact tracing to investigate possible travel or exposure history and to identify anyone who had close contact with the person who has tested positive for COVID-19. Those individuals will be assessed for their exposure risk and provided with guidance for their health. Where appropriate, they will receive recommendations for self-isolation or other restrictions.\n\nThe Health Department is also prioritizing outreach to close contacts of someone who has tested positive for COVID-19 who are hospitalized, residents of long-term care facilities, people who are incarcerated, and those who are immunocompromised. This means the Health Department will work to identify people who are at high risk because they were in close contact with the individual, their household and other close contacts, health care workers and first responders who may have been exposed. They will be assessed for their exposure risk and provided with guidance for their health and recommendations for self-isolation or other measures.\n\nFind up-to-date information on [our website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "answer": "**What is the Health Department doing?**\n\nThe Vermont Department of Health is working closely with long-term care facilities and other congregate living facilities to prepare for COVID-19 cases and prevent outbreaks, by reviewing CDC guidance for infection control and supporting development of strategies and plans. If cases occur in these settings, the Vermont Department of Health helps the facility implement control measures and prevent additional cases.\n\nThe Department does contact tracing to investigate possible travel or exposure history and to identify anyone who had close contact with the person who has tested positive for COVID-19. Those individuals will be assessed for their exposure risk and provided with guidance for their health. Where appropriate, they will receive recommendations for self-isolation or other restrictions. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe Health Department is also prioritizing outreach to close contacts of someone who has tested positive for COVID-19 who are hospitalized, residents of long-term care facilities, people who are incarcerated, and those who are immunocompromised. This means the Health Department will work to identify people who are at high risk because they were in close contact with the individual, their household and other close contacts, health care workers and first responders who may have been exposed. They will be assessed for their exposure risk and provided with guidance for their health and recommendations for self-isolation or other measures.\n\nFind up-to-date information on the [Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
             "source": "KB-COVID",
             "questions": [
                 "What is the Health Department doing?",
@@ -712,7 +711,7 @@
         },
         {
             "id": 4552,
-            "answer": "**What should business owners in Vermont do?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20) to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. Read the [detailed list of essential services or functions in Vermont](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).\n\nAll businesses and non-profit and government entities in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nThe ACCD has published a [guide using NAICS codes](https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses) to help businesses interpret acceptable in-person business functions under this Order. Additionally, ACCD has [FAQs for businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) that should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the [Request for Continuation of Business Operations Form](https:\\\\bit.ly/covid-vt-business-operations).\n\nVisit the [ACCD’s COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19/business) for information on financial assistance, sector guidance, and unemployment information.\n\nThe Vermont Department of Labor’s has [guidance for employers and employee, industry updates and notifications](https://labor.vermont.gov/covid19).\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What should business owners in Vermont do?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20) to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nEssential services and functions remain in operation. Businesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain in operation and are not subject to suspend in-person operation restrictions, but are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. Find the [list of essential services or functions](https://governor.vermont.gov/content/addendum-6-executive-order-01-20) in Section 6 of the Stay Home, Stay Safe Order.\n\nAll businesses and non-profit and government entities in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nThe ACCD has published a [guide using NAICS codes](https://accd.vermont.gov/content/naics-code-guidance-vermont-businesses) to help businesses interpret acceptable in-person business functions under this Order. Additionally, the ACCD has [FAQs for businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) that should be reviewed to clarify the intent of the Executive Order. If businesses still need clarification or would like to make a request for their in-person business functions, they can submit their request using the [Request for Continuation of Business Operations Form](https:\\\\bit.ly/covid-vt-business-operations).\n\nVisit the [ACCD’s COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19/business) for information on financial assistance, sector guidance, and unemployment information.\n\nThe Vermont Department of Labor has [guidance for employers and employee, industry updates and notifications](https://labor.vermont.gov/covid19).\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "KB-COVID",
             "questions": [
                 "What should business owners in Vermont do?",
@@ -729,7 +728,8 @@
                 "Construction",
                 "Are stores allowed to open?",
                 "realtor",
-                "How many people can be in a business?"
+                "How many people can be in a business?",
+                "Independent contractor restrictions"
             ],
             "metadata": [
                 {
@@ -761,7 +761,7 @@
         },
         {
             "id": 4553,
-            "answer": "**What should child cares and schools in Vermont do?**\n\nOn March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented.\n\nAll child care programs are closed during this same period, except for those that will remain open to provide services to Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\n More information can be found on our website at [www.healthvermont.gov/COVID19-schools](https://www.healthvermont.gov/response/coronavirus-covid-19/schools-and-child-care-programs)",
+            "answer": "**What should child cares and schools in Vermont do?**\n\nOn March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented.\n\nAll child care programs are closed during this same period, except for those that will remain open to provide services to Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\n Find more information for [schools and child care programs](https://www.healthvermont.gov/COVID19-schools).",
             "source": "KB-COVID",
             "questions": [
                 "What should child cares and schools in Vermont do?",
@@ -815,7 +815,7 @@
         },
         {
             "id": 4555,
-            "answer": "**What should colleges and universities in Vermont do?**\n\nPlease see “Interim Guidance for Administrators of US Institutions of Higher Education to Plan, Prepare, and Respond to Coronavirus Disease 2019” (CDC) at [www.cdc.gov/coronavirus/2019-ncov/community/guidance-ihe-response.html](http://www.cdc.gov/coronavirus/2019-ncov/community/guidance-ihe-response.html) .",
+            "answer": "**What should colleges and universities in Vermont do?**\n\nRead the [Interim Guidance for Administrators of U.S. Institutions of Higher Education to Plan, Prepare, and Respond to COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-ihe-response.html) from the CDC.",
             "source": "KB-COVID",
             "questions": [
                 "What should colleges and universities in Vermont do?",
@@ -871,10 +871,12 @@
         },
         {
             "id": 4557,
-            "answer": "**What should Vermont community-based and faith-based organizations do?**\n\nPlease see “Interim Guidance: Get Your Community- and Faith-Based Organizations Ready for Coronavirus Disease 2019” (CDC) at [www.cdc.gov/coronavirus/2019-ncov/community/guidance-community-faith-organizations.html](http://www.cdc.gov/coronavirus/2019-ncov/community/guidance-community-faith-organizations.html)",
+            "answer": "**What should Vermont community-based and faith-based organizations do?**\n\nRead the [Interim Guidance for Administrators and Leaders of Community- and Faith-Based Organizations to Plan, Prepare, and Respond to COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-community-faith-organizations.html) from the CDC.",
             "source": "KB-COVID",
             "questions": [
-                "What should Vermont community-based and faith-based organizations do?"
+                "What should Vermont community-based and faith-based organizations do?",
+                "when is the church open",
+                "is the church open"
             ],
             "metadata": [
                 {
@@ -896,7 +898,7 @@
         },
         {
             "id": 4558,
-            "answer": "**What should people in long-term care facilities or group homes do?**\n\nOn April 24, the Health Department recommended that all health care personnel in long-term care facilities, correctional facilities, and other congregate settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nOn March 13, the Governor issued an executive order requiring nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care.\n\nThese resources are all available on our website at [www.healthvermont.gov/COVID19-longtermcare](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings) \n\n* Vermont Health Advisory: Coronavirus Disease (COVID-19) in Long-Term Care Facilities: [https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-LTCF-3-4-2020.pdf)  \n\n* CDC: Strategies to Prevent the Spread of COVID-19 in Long-Term Care Facilities: [https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html](https://www.cdc.gov/coronavirus/2019-ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html) \n\n* CDC: Guidance for Retirement Communities and Independent Living:  [https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/index.html?deliveryName=USCDC_2067-DM23558](https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/index.html?deliveryName=USCDC_2067-DM23558)\n\n* The Department of Disabilities, Aging and Independent Living also has additional info on its website: [https://dail.vermont.gov/novel-coronavirus-information](https://dail.vermont.gov/novel-coronavirus-information)\n\nSenior Centers and Adult Day programs have closed their programs in compliance with the Governor’s State of Emergency in Response to COVID-19. As of April 10, that executive order has been extended until May 15th. At which time the Governor, in consultation with the Vermont Department of Health and the Department of Public Safety/Division of Emergency Management shall assess the emergency and determine whether to amend or extend the State of Emergency.\n\n[https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf](https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf)\n\nHere are other useful resources:\n\n* PPE Availability Memo: [https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf](https://dail.vermont.gov/sites/dail/files//documents/supply_memo_to_DAIL_Providers_Local_EMD_Contacts_3-20-20.pdf) \n\n* LTC Screening Protocol: [https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf](https://dail.vermont.gov/sites/dail/files//documents/3%2015%2020%20Updated%20Screening%20Questions%20Guidance.pdf)",
+            "answer": "**What should people in long-term care facilities or group homes do?**\n\nOn April 24, the Health Department recommended that all health care personnel in long-term care facilities, correctional facilities, and other congregate settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nOn March 13, the Governor issued an executive order requiring nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end-of-life care.\n\n[Senior Centers and Adult Day Programs](https://dail.vermont.gov/sites/dail/files//documents/Adult_Day_and_Senior_Centers.pdf) have closed their programs in \ncompliance with the Governor’s State of Emergency in Response to \nCOVID-19. As of April 10, that executive order has been extended until \nMay 15. At which time the Governor, in consultation with the Vermont \nDepartment of Health and the Department of Public Safety/Division of \nEmergency Management shall assess the emergency and determine whether to\n amend or extend the State of \nEmergency.\n\nFind guidance for [long-term care and group living \nsettings](https://www.healthvermont.gov/COVID19-longtermcare).",
             "source": "KB-COVID",
             "questions": [
                 "What should people in long-term care facilities or group homes do?",
@@ -1019,10 +1021,7 @@
             "answer": "**Should I be tested for COVID-19?**\n\nIf you are ill, call your health care provider to find out if you can be seen for an evaluation. Not everyone needs to be tested.\n\n**A person’s health care provider arranges for testing. DO NOT call the Health Department for testing.**",
             "source": "KB-COVID",
             "questions": [
-                "Should I be tested for COVID-19?",
-                "should I be tested",
-                "Should I get tested?",
-                "When should you get tested for the virus?"
+                "Should I be tested for COVID-19?"
             ],
             "metadata": [
                 {
@@ -1040,16 +1039,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Who is getting tested?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4579,
                         "displayText": "Which urgent care centers can collect samples?"
                     },
@@ -1057,6 +1046,11 @@
                         "displayOrder": 0,
                         "qnaId": 4534,
                         "displayText": "What are the symptoms of COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for Covid-19?"
                     }
                 ]
             }
@@ -1219,7 +1213,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to be quarantined when I return?**\n\nVermonters are being asked to stay home, except for essential activities. There are currently no travel restrictions for travel within the U.S. or specific health-related recommendations upon return.\n\n\\On March 28, 2020, the CDC is issued a Domestic Travel Advisory for \nresidents of New York, New Jersey, and Connecticut, which advises them \nto not travel within the U.S. for 14 days, unless it is essential.\n\nHowever, cases of COVID-19 have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers who are infected. There are several things you should consider when deciding whether it is safe for you to travel:\n\n* Is COVID-19 spreading where you’re going?\n\n* Will you or your travel companion(s) be in close contact with others during your trip?\n\n* Are you or your travel companion(s) at higher risk of severe illness if you do get COVID-19?\n\n* Do you have a plan for taking time off from work or school, in case you get exposed to, or are sick with, COVID-19?\n\n* Do you live with someone who is 65 years or older or who has a serious underlying medical condition?\n\n* Is COVID-19 spreading where you live?\n\nSince guidance keeps evolving, continue to check for up-to-date [information about travel in the United States](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) from the CDC.",
+            "answer": "**Is it okay to travel within the United States? Do I need to be quarantined when I return?**\n\nVermonters are being asked to stay home, except for essential activities. There are currently no travel restrictions for travel within the U.S. or specific health-related recommendations upon return.\n\nOn March 28, 2020, the CDC is issued a Domestic Travel Advisory for \nresidents of New York, New Jersey, and Connecticut, which advises them \nto not travel within the U.S. for 14 days, unless it is essential.\n\nHowever, cases of COVID-19 have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers who are infected. There are several things you should consider when deciding whether it is safe for you to travel:\n\n* Is COVID-19 spreading where you’re going?\n\n* Will you or your travel companion(s) be in close contact with others during your trip?\n\n* Are you or your travel companion(s) at higher risk of severe illness if you do get COVID-19?\n\n* Do you have a plan for taking time off from work or school, in case you get exposed to, or are sick with, COVID-19?\n\n* Do you live with someone who is 65 years or older or who has a serious underlying medical condition?\n\n* Is COVID-19 spreading where you live?\n\nSince guidance keeps evolving, continue to check for up-to-date [information about travel in the United States](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) from the CDC.",
             "source": "KB-COVID",
             "questions": [
                 "Should I fly to Texas?",
@@ -1295,7 +1289,7 @@
         },
         {
             "id": 4569,
-            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\n\n**Isolate at home:**\n\n* Don’t leave home, except to get medical care. Call ahead before visiting a health care provider or emergency department.\n\n* Most people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\n* As much as possible, stay in a specific room in your home and use a separate bathroom. Stay at least six feet away from others in your home at all times. Don’t share household items.\n\n* Have someone else care for your pets. Although no pets have been reported to get sick with COVID-19, people with the virus should limit contact with animals until more information is known. If you do care for your pet, wash your hands before and after.\n\n**Daily cleaning and washing:**\n\n* Clean and disinfect surfaces in your separate room and bathroom. Have someone else clean the other areas of your home.\n\n* Thoroughly wash household items, like utensils, after using.\n\n* Wash your hands often with soap and water for at least 20 seconds. Use alcohol-based hand sanitizer with at least 60% alcohol if soap and water aren’t available.\n\nFind out [what to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf).\n\nFor more information, see CDC's guidance on [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html).",
+            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\n\n**Isolate at home:**\n\n* **Don’t leave home, except to get medical care.** Call ahead before visiting a health care provider or emergency department. Wear a cloth face covering if you need to leave home for medical care\n\n* **Most people with mild illness can recover at home.** While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\n* **Stay in a specific room in your home and use a separate bathroom**, as much as possible. Stay at least six feet away from others in your home at all times and wear a cloth face covering if you are in the same room with them. Don’t share household items.\n\n* **Have someone else care for your pets.** There have been a small number of pets, including cats and dogs, reported to be infected with the COVID-19 virus, mostly after close contact with people with COVID-19. If you must care for your pet, wear a cloth face covering, and wash your hands before and after.\n\n**Daily cleaning and washing:**\n\n* **Clean and disinfect surfaces** in your separate room and bathroom. Have someone else clean the other areas of your home.\n\n* **Thoroughly wash household items**, like utensils, after using.\n\n* **Wash your hands often** with soap and water for at least 20 seconds. Use alcohol-based hand sanitizer with at least 60% alcohol if soap and water aren’t available.\n\nFind out [what to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf).\n\nFor more information, see CDC's guidance on [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html).",
             "source": "KB-COVID",
             "questions": [
                 "I think I have Covid-19",
@@ -1353,6 +1347,11 @@
                         "displayOrder": 0,
                         "qnaId": 4648,
                         "displayText": "Can I take ibuprofen for COVID-19 symptoms?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4542,
+                        "displayText": "Should I stay away from pets if I'm sick?\n"
                     }
                 ]
             }
@@ -1393,15 +1392,15 @@
         },
         {
             "id": 4571,
-            "answer": "**How can someone get help finding a health care provider?**\n\n2-1-1 lists community clinics and hospital-connected clinics around the state, and as a standard on calls where the person is seeking a referral to a provider, staff ask about a source of health insurance and advise the client that they can also contact their insurer for a referral to private providers. [2-1-1](tel:211) does not list individual primary care physicians in their database.",
+            "answer": "**How can I get help finding a health care provider?**\n\n[2-1-1](tel:211) lists [community clinics and hospital-connected clinics](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) around the state. 2-1-1 does not list individual primary care providers in their database. If you need a health care provider referral, contact your health care insurer. ",
             "source": "KB-COVID",
             "questions": [
-                "How can someone get help finding a health care provider?",
                 "don't have a primary care physician",
                 "no primary care physician",
                 "Who would a person call who has no PCP",
                 "What if I don’t have a health care provider?",
-                "no health care provider and need covid test"
+                "no health care provider and need covid test",
+                "How can I get help finding a health care provider?"
             ],
             "metadata": [
                 {
@@ -1716,7 +1715,7 @@
         },
         {
             "id": 4581,
-            "answer": "**What should dentists know about COVID-19?**On April 10, Governor Phil Scott extended his order of dental health care professionals practicing in Vermont to suspend all elective dental care until May 15, 2020. This order applies to both children and adult patients. \n\nHealth care professionals must continue to be available to their patients as needed for emergencies and urgent care. \n\nFor more, read the Addendum 3 to Executive Order 01-20 at [governor.vermont.gov/content/addendum-3-executive-order-01-20](https://governor.vermont.gov/content/addendum-3-executive-order-01-20).\n\nTo read the Health Department’s Health Alert, visit [healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf).",
+            "answer": "**What should dentists know about COVID-19?**On April 27, a dental health care referral network for emergency dental procedures was set up. [Read the April 27 Health Alert](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-COVID-19-DentalEmergencyNetwork.04.27.2020.final_.pdf).\n\nOn April 10, Governor Phil Scott extended his order of dental health care professionals practicing in Vermont to suspend all elective dental care until May 15, 2020. This order applies to both children and adult patients. Read [Addendum 9 to the Executive Order](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%209%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) for more information.\n\nHealth care professionals must continue to be available to their patients as needed for emergencies and urgent care. \n\nRead the [Health Department’s March 23 Health Alert](https://www.healthvermont.gov/sites/default/files/documents/pdf/HAN-Dental-Care-Update-03-23-20.pdf) as it pertains to emergency and elective dental care in light of COVID-19, the rationale for this action, including definitions of what constitutes a dental emergency and conditions requiring urgent care.\n\nFind more information for [health care professionals](https://www.healthvermont.gov/response/infectious-disease/novel-coronavirus-covid-19-health-care-professionals).",
             "source": "Editorial",
             "questions": [
                 "What should dentists do?",
@@ -2009,7 +2008,7 @@
         },
         {
             "id": 4590,
-            "answer": "**Why is Vermont reporting people who have tested for COVID-19 in the way that it is?**\n\nWith the quickly changing situation, we continue to adjust reporting, looking for the best ways to communicate with the public. Information is updated daily on the on [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity)\n\nWe need to assume that we are all at risk, whatever our location. Staying at home and social distancing can continue to make an enormous difference. Please continue to look to the [Health Department’s COVID-19 website](https://www.healthvermont.gov/covid19) for current information.",
+            "answer": "**Why is Vermont reporting people who have tested for COVID-19 in the way that it is?**\n\nWith the quickly changing situation, we continue to adjust reporting, looking for the best ways to communicate with the public. Information is updated daily on the on [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).\n\nWe need to assume that we are all at risk, whatever our location. Staying at home and social distancing can continue to make an enormous difference. Please continue to look to the [Health Department’s COVID-19 website](https://www.healthvermont.gov/covid19) for current information.",
             "source": "Editorial",
             "questions": [
                 "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?"
@@ -2043,7 +2042,7 @@
         },
         {
             "id": 4591,
-            "answer": "**What information is available regarding mass gatherings?**\n\nAs of March 24, Governor Scott directed Vermonters to stay at home, leaving only for essential reasons, critical to health and safety, such as: personal safety, groceries or medicine, medical care, exercise, care of others, work, and curbside pick-up of goods, meals or beverages.\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining six feet from others (except for those with whom they share a home), wearing a cloth face covering, and thoroughly and regularly washing hands.\nFind up-to-date information on the Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "answer": "**What information is available regarding mass gatherings?**\n\nAs of March 24, Governor Scott directed Vermonters to stay at home, leaving only for essential reasons, critical to health and safety, such as: personal safety, groceries or medicine, medical care, exercise, care of others, work, and curbside pick-up of goods, meals or beverages.\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining six feet from others (except for those with whom they share a home), wearing a cloth face covering, and thoroughly and regularly washing hands.\n\nFind up-to-date information on the [Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
             "source": "Editorial",
             "questions": [
                 "What information is available regarding mass gatherings?",
@@ -2347,7 +2346,7 @@
         },
         {
             "id": 4599,
-            "answer": "**Can animals carry the virus that causes COVID-19 on their skin or fur?**\n\nAt this time, there is no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets.\n\nRead [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Can animals carry the virus that causes COVID-19 on their skin or fur?**\n\nAt this time, there is no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Can animals carry the virus that causes COVID-19 on their skin or fur?",
@@ -2481,7 +2480,8 @@
                 "Can I get it again?",
                 "second positive",
                 "reinfection",
-                "re-infection"
+                "re-infection",
+                "Are there re-infections of Covid-19"
             ],
             "metadata": [
                 {
@@ -2734,7 +2734,7 @@
         },
         {
             "id": 4610,
-            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nThe Vermont Department of Health has launched VTHelplink, a new, single source clearinghouse for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients. \n\nAt the [https://vthelplink.org/](https://vthelplink.org/) website, in addition to information resources, an online screening tool is available that Vermonters can use to learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (e.g., residential treatment) and population (e.g., people who are pregnant). \n\n**Here’s how you can reach VTHelplink:** \n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year. \n\nVisit [https://vthelplink.org/](https://vthelplink.org/)",
+            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nThe Vermont Department of Health has launched VTHelplink, a new, single source clearinghouse for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients. \n\nThe [VTHelplink website](https://vthelplink.org/) has information resources and an [online screening tool](https://vthelplink.org/app/account/findhelp) to help Vermonters learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (for example, residential treatment) and population (for example, people who are pregnant). \n\n**Here’s how you can reach VTHelplink:** \n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year. \n\nVisit [vthelplink.org](https://vthelplink.org/).",
             "source": "Editorial",
             "questions": [
                 "Where do people living with a substance use disorder go for information on treatment and recovery services?"
@@ -2804,7 +2804,7 @@
         },
         {
             "id": 4612,
-            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is information about COVID-19 available in several languages on this website [https://www.newamericansinvermont.com](https://www.newamericansinvermont.com).\n\nFind more videos and links to other translated information on the Health Department’s website, [www.healthvermont.gov/response/coronavirus-covid-19/resources](https://www.healthvermont.gov/response/coronavirus-covid-19/resources).",
+            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is [information about COVID-19 available in several languages](https://www.newamericansinvermont.com).\n\nFind more videos and links to other translated information on the [Health Department’s website](https://www.healthvermont.gov/response/coronavirus-covid-19/resources).",
             "source": "Editorial",
             "questions": [
                 "Are there any translated materials about COVID-19?",
@@ -2966,7 +2966,7 @@
         },
         {
             "id": 4617,
-            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nYou can find the number of people who have tested positive for COVID-19 by county on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) This map is updated daily.\n\nThere is also a map showing the number of Vermonters who have tested positive for COVID-19 by the town where they live. Residents of a long-term care facilities and inmates at correctional facilities are included in the town of their facility when they were tested. This map is updated weekly.\n\nThe Health Department does not share information for towns with fewer than six residents who tested positive with COVID-19. This is to protect their privacy. If some information is made public (for example, gender, age, race, health condition, travel history), then a person could be identified, especially if the population of a town is small. This follows both federal and Vermont laws.\n\nThe COVID-19 virus is spreading throughout Vermont, and many people may have it and can spread it for up to two days before they show symptoms. It is safe to assume that the virus is in your town or community and you should take steps to protect yourself and others.",
+            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nYou can find the number of people who have tested positive for COVID-19 by county on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). This map is updated daily.\n\nThere is also a map showing the number of Vermonters who have tested positive for COVID-19 by the town where they live. Residents of a long-term care facilities and inmates at correctional facilities are included in the town of their facility when they were tested. This map is updated weekly.\n\nThe Health Department does not share information for towns with fewer than six residents who tested positive with COVID-19. This is to protect their privacy. If some information is made public (for example, gender, age, race, health condition, travel history), then a person could be identified, especially if the population of a town is small. This follows both federal and Vermont laws.\n\nThe COVID-19 virus is spreading throughout Vermont, and many people may have it and can spread it for up to two days before they show symptoms. It is safe to assume that the virus is in your town or community and you should take steps to protect yourself and others.",
             "source": "Editorial",
             "questions": [
                 "How many active cases are there in Vermont?",
@@ -3031,7 +3031,8 @@
                 "Quarantine for family members",
                 "How do I have to self quarantine the first 14 days in Vermont",
                 "Quarantine",
-                "quaranting"
+                "quaranting",
+                "14 day quarantine"
             ],
             "metadata": [
                 {
@@ -3442,7 +3443,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20)  to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
+            "answer": "**What does the Stay Home, Stay Safe Order mean for businesses and non-profits?**\n\nVermont is starting a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. On April 17, the Governor issued guidance on [Work Smart & Stay Safe - Restart VT: Phase 1](https://governor.vermont.gov/content/addendum-10-executive-order-01-20). On April 24, the Governor issued additional guidance on [Work Smart/Stay Safe: Phase 2](https://governor.vermont.gov/content/addendum-11-executive-order-01-20)  to expand businesses allowed to operate. See up-to-date [sector-specific guidance from the Agency of Commerce and Community Development (ACCD)](http://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). Guidance includes requiring employees to wear non-medical cloth face coverings (bandanna, scarf, or non-medical mask, etc.) over their nose and mouth when in the presence of others.\n\nBusinesses, nonprofit and government organizations that do not meet the criteria outlined in this first phase must suspend in-person operations and ensure all workers work remotely whenever possible.\n\nOperations that can be conducted online or by phone, or sales that can be facilitated with curbside pickup or delivery only, can continue, including restaurants that were providing takeout service under the previous closure order. Otherwise, non-exempt businesses must close.\n\nAll businesses in operation must complete and document [mandatory health and safety training](https://labor.vermont.gov/VOSHA) developed by the Vermont Occupational Safety and Health Administration (VOSHA) by May 4, 2020.\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf).",
             "source": "Editorial",
             "questions": [
                 "What does the “Stay Home, Stay Safe” Order mean for businesses and non-profits?",
@@ -3453,7 +3454,9 @@
                 "Lawn mowing",
                 "What is closed?",
                 "When are clothing stores able to open?",
-                "timeline for in store clothe shopping?"
+                "timeline for in store clothe shopping?",
+                "How many workers per jobsite",
+                "Crew size"
             ],
             "metadata": [
                 {
@@ -3490,7 +3493,7 @@
         },
         {
             "id": 4631,
-            "answer": "**What is considered an essential service or function?**\n\nBusinesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain open and do not need to suspend in-person operation restrictions. However, they are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. For a detailed list of essential and functions in Vermont: [https://governor.vermont.gov/content/addendum-6-executive-order-01-20](https://governor.vermont.gov/content/addendum-6-executive-order-01-20).",
+            "answer": "**What is considered an essential service or function?**\n\nBusinesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain open and do not need to suspend in-person operation restrictions. However, they are expected to adhere to social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open. Find the [list of essential services or functions](https://governor.vermont.gov/content/addendum-6-executive-order-01-20) in Section 6 of the Stay Home, Stay Safe Order.\n\nFor more information, read the Agency of Commerce and Community Development’s (ACCD’s) [Stay Home, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) and visit the ACCD’s [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business).",
             "source": "Editorial",
             "questions": [
                 "What is considered an essential service or function?",
@@ -3532,7 +3535,7 @@
         },
         {
             "id": 4632,
-            "answer": "**I have questions about financial assistance and housing.**\n\nThe Agency of Commerce and Community Development has answers to questions regarding financial assistance (for example mortgage, utility bills, internet, and taxes) and housing (for example, paying rent, short-term housing and emergency housing) on its COVID-19 Resource Recovery Center website: [https://accd.vermont.gov/covid-19/individuals](https://accd.vermont.gov/covid-19/individuals)",
+            "answer": "**I have questions about financial assistance and housing.**\n\nThe Agency of Commerce and Community Development has answers to questions regarding financial assistance (for example mortgage, utility bills, internet, and taxes) and housing (for example, paying rent, short-term housing and emergency housing) on its [COVID-19 Resource Recovery Center](https://accd.vermont.gov/covid-19/individuals).",
             "source": "Editorial",
             "questions": [
                 "I have questions about financial assistance and housing.",
@@ -3794,7 +3797,8 @@
                 "Is it ok to go outside?",
                 "State parks",
                 "Are parks closed?",
-                "Can I still do outdoor activities with the Stay Home, Stay Safe Order?"
+                "Can I still do outdoor activities with the Stay Home, Stay Safe Order?",
+                "Can I go canoeing"
             ],
             "metadata": [
                 {
@@ -3851,7 +3855,11 @@
                 "How much longer are the stay at home orders for?",
                 "When can I go to work?",
                 "Have we reached full peak?",
-                "how long is the shelter in place order?"
+                "how long is the shelter in place order?",
+                "When does stay at home order expire",
+                "When does the stay at home order end?",
+                "until when is the stay home stay safe order in effect?",
+                "stay home stay safe what is the updated date?"
             ],
             "metadata": [
                 {
@@ -3990,7 +3998,10 @@
                 "Where can I go to get tested?",
                 "How do you get tested for COVID-19?",
                 "Where can I go to be tested for the corona virus?",
-                "Where is COVID-19 testing done?"
+                "Where is COVID-19 testing done?",
+                "Testing near me",
+                "\n\nTesting in southern VT",
+                "Where is testing?"
             ],
             "metadata": [
                 {
@@ -4008,13 +4019,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Who is getting tested?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
                     }
                 ]
             }
@@ -4172,7 +4183,7 @@
         },
         {
             "id": 4649,
-            "answer": "**What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?**\n\nThe Heath Department is contacting all long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities proactively to review strategies to prevent COVID-19 infection and develop plans to respond immediately if an infection is identified. We complete an in-depth assessment by phone and provide guidance about personal protective equipment and other infection prevention and control recommendations. We continue to stay in touch for any technical assistance needs and additional questions.\n\nIf a case of COVID-19 is associated with a long term care facility, an epidemiology team is quickly activated. They contact the facility to provide recommendations and infection control support. The team begins contact tracing ¬to determine the source of the infection and how it may be spreading. They ask questions and collect information to help identify anyone the patient had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) The team communicates with close contacts to ensure isolation and quarantine guidelines are being followed, which will differ depending on the type of setting.",
+            "answer": "**What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?**\n\nThe Heath Department is contacting all long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities proactively to review strategies to prevent COVID-19 infection and develop plans to respond immediately if an infection is identified. We complete an in-depth assessment by phone and provide guidance about personal protective equipment and other infection prevention and control recommendations. We continue to stay in touch for any technical assistance needs and additional questions. We provide COVID-19 testing at intake, discharge, and for certain residents who require regular care outside of the facility.\n\nIf a case of COVID-19 is associated with a long term care facility, an epidemiology team is quickly activated. They contact the facility to provide recommendations and infection control support. The team begins contact tracing ¬to determine the source of the infection and how it may be spreading. They ask questions and collect information to help identify anyone the patient had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) The team communicates with close contacts to ensure isolation and quarantine guidelines are being followed, which will differ depending on the type of setting.",
             "source": "Editorial",
             "questions": [
                 "What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?",
@@ -4286,7 +4297,7 @@
         },
         {
             "id": 4653,
-            "answer": "**Is there universal (widespread) testing being done at group living facilities?**\n\nIn Vermont, additional measures are being taken to slow the spread of COVID-19 in certain types of group living facilities. This includes nursing homes, corrections facilities, residential homes for those with disabilities, residential treatment centers, assisted living facilities, state psychiatric care facilities, and homeless shelters. When a person tests positive at these facilities, testing will be offered to all staff and residents, who may choose to decline testing. Additionally, facilities may choose to decline universal testing.",
+            "answer": "**Is there universal (widespread) testing being done at group living facilities?**\n\nIn Vermont, additional measures are being taken to slow the spread of COVID-19 in certain types of group living facilities. This includes nursing homes, corrections facilities, residential homes for those with disabilities, residential treatment centers, assisted living facilities, state psychiatric care facilities, and homeless shelters. When a person tests positive at these facilities, testing will be offered to all staff and residents, who are re-tested at 3 days, 7 days, 10 days and 14 days after the initial test. Staff and residents may decline testing, and facilities may decline universal testing. Staff and residents may decline testing, and facilities may decline universal testing.",
             "source": "Editorial",
             "questions": [
                 "enforce that a nursing home test a resident for Covid-19?",
@@ -4360,7 +4371,7 @@
         },
         {
             "id": 4655,
-            "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you haven’t had any symptoms and you tested positive for COVID-19, you may stop home isolation when:\n* at least seven days have passed since the date of your first positive COVID-19 test and\n* you still have not had any symptoms.\n\nAfter stopping home isolation, continue to stay six feet away from others and wear a face covering in any setting where other people are present.",
+            "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you haven’t had any symptoms and you tested positive for COVID-19, you may stop home isolation when:\n* at least 10 days have passed since the date of your first positive COVID-19 test and\n* you still have not had any symptoms.\n\nAfter stopping home isolation, continue to stay six feet away from others and wear a face covering in any setting where other people are present.",
             "source": "Editorial",
             "questions": [
                 "I tested positive for COVID-19, but I never had symptoms. When can I stop home isolation?",
@@ -4568,7 +4579,8 @@
                 "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
                 "What is the policy about opening summer camps or coming to them on weekends?",
                 "seasonal property owner",
-                "When returning to a summer home, do we have to quarantine?"
+                "When returning to a summer home, do we have to quarantine?",
+                "If you have a home in Vermont are you allowed to go there from another state?"
             ],
             "metadata": [
                 {
@@ -4796,7 +4808,8 @@
             "questions": [
                 "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?",
                 "Long term rentals allowed?",
-                "rental"
+                "rental",
+                "Can a landlord move someone into my house during COVID-19?"
             ],
             "metadata": [
                 {
@@ -4936,7 +4949,8 @@
             "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
             "source": "Editorial",
             "questions": [
-                "What do I do if I'm a close contact of someone who is waiting for their test results?"
+                "What do I do if I'm a close contact of someone who is waiting for their test results?",
+                "Person in house tested for Covid-19 "
             ],
             "metadata": [
                 {
@@ -4992,7 +5006,7 @@
         },
         {
             "id": 4676,
-            "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes, services have been changed to limit in-person contact. Some services may not be available like walk-in HIV/Hepatitis C testing.\n\n[Find a program near you](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs).\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
+            "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes, services have been changed to limit in-person contact. Some services may not be available like walk-in HIV/Hepatitis C testing. Find a [syringe service program] (https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
             "questions": [
                 "Are syringe service programs (needle exchanges) still open?"
@@ -5021,7 +5035,7 @@
         },
         {
             "id": 4677,
-            "answer": "**How do I practice safer drug use?**\n\nThe Harm Reduction Coalition has [tips for safer drug use during the COVID-19 pandemic](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs).\n\n[Find a program near you](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs).\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK.",
+            "answer": "**How do I practice safer drug use?**\n\nThe Harm Reduction Coalition has [tips for safer drug use during the COVID-19 pandemic](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs).Find a [syringe service program] (https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
             "questions": [
                 "How do I practice safer drug use?",
@@ -5128,13 +5142,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "When will the Stay Home, Stay Safe Order end?\n"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4639,
+                        "displayText": "When will the Stay Home, Stay Safe Order end?\n"
                     }
                 ]
             }
@@ -5166,7 +5180,7 @@
         },
         {
             "id": 4682,
-            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers.\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts. We will be using an app called SARA Alert, a secure monitoring and reporting system for public health that is being used in other states. This system will allow us to offer people who have tested positive for COVID-19, and their close contacts, to enroll in a text-based system to help us keep in touch and monitor their symptoms. ",
+            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts. We will be using an app called SARA Alert, a secure monitoring and reporting system for public health that is being used in other states. This system will allow us to offer people who have tested positive for COVID-19, and their close contacts, to enroll in a text-based system to help us keep in touch and monitor their symptoms. ",
             "source": "Editorial",
             "questions": [
                 "What is contact tracing?"
@@ -5188,14 +5202,14 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "his did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
         },
         {
             "id": 4683,
-            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nCurrently, health care providers can arrange testing for any child or adult who is showing symptoms of COVID-19, including those with mild symptoms. All residents and staff in group living settings, where there has been a single positive test, can also be tested. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n\nWe are now working to ramp up our testing capabilities to conduct 1,000 tests a day – or 7,000 tests a week. That is about three times the average number of tests conducted over the last several weeks. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.\n\nAs of April 29, we will now be able to expand testing for:\n\n* **Long-term care facilities and other group living settings**: If there is a person who has tested positive with COVID-19, they can be retested 3, 7, 10 and 14 days later. This is to help prevent community-wide outbreaks. For all sites, regardless of whether a person has tested positive, we will provide testing at intake, discharge, and for certain residents who require regular care outside of the facility.\n\n* **Health care personnel**: Testing will now be available for those who may have been exposed to patients who have tested positive for COVID-19, but who do not have symptoms themselves. Testing will also be offered to health care personnel who may be needed to aid their Restart Vermont efforts.\n\n* **Correctional facilities**: Now all corrections staff and inmates can be tested in the correctional facility, regardless if there has been a person who has tested positive for COVID-19.\n\nDuring the next phase, we will focus on expanded testing for health care and home health workers who have had direct contact with someone who tested positive for COVID-19. We will also consider testing those who are in 14-day quarantine due to possible exposure to COVID-19. We will increase opportunities for child care workers to be tested, too. Expanded testing will not happen all at once but will be phased in over the next few weeks.",
+            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nCurrently, health care providers can arrange testing for any child or adult who is showing symptoms of COVID-19, including those with mild symptoms. All residents and staff in group living settings, where there has been a single positive test, can also be tested. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n\nWe are now working to ramp up our testing capabilities to conduct 1,000 tests a day – or 7,000 tests a week. That is about three times the average number of tests conducted over the last several weeks. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.\n\nAs of April 29, we will now be able to expand testing for:\n\n* **Long-term care facilities and other group living settings**: If there is a person who has tested positive with COVID-19, they can be retested 3, 7, 10 and 14 days later. This is to help prevent community-wide outbreaks. For all sites, regardless of whether a person has tested positive, we will provide testing at intake, discharge, and for certain residents who require regular care outside of the facility.\n\n* **Health care personnel**: Testing will now be available for those who may have been exposed to patients who have tested positive for COVID-19, but who do not have symptoms themselves. Testing will also be offered to health care personnel who may be needed to aid their Restart Vermont efforts.\n\n* **Correctional facilities**: Now all corrections staff can be tested in the correctional facility, regardless if there has been a person who has tested positive for COVID-19.\n\nDuring the next phase, we will focus on expanded testing for health care and home health workers who have had direct contact with someone who tested positive for COVID-19. We will also consider testing those who are in 14-day quarantine due to possible exposure to COVID-19. We will increase opportunities for child care workers to be tested, too. Expanded testing will not happen all at once but will be phased in over the next few weeks.",
             "source": "Editorial",
             "questions": [
                 "Who is getting tested for COVID-19 in Vermont?",
