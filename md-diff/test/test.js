@@ -190,5 +190,21 @@ describe('diffText', function() {
 
 
 
+    it('should not break md link if url changes', function() {
+        // arrange
+        let diffText = require("../src/index")
+        let oldText = "text [my link](https://example.com)"
+        let newText = "text [my link](https://example.org)"
+        let expected = "text [my link](https://example.org) (<del>https://example.com</del>)"
+
+        // act
+        let actual = diffText(oldText, newText, false)
+
+        // asset
+        assert.equal(actual, expected);
+    });
+
+
+
 
 });

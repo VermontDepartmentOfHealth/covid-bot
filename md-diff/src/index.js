@@ -61,9 +61,14 @@ function diffText(oldText, newText, convertToHtml) {
     // replace tokens
     result = detokenizeChars(result)
 
+    // fix md link deltas
+    // https://regexr.com/53nsr
+    let mdLinkDeltaRgx = /\]\(<del>(.*)<\/del> <ins>(.*)<\/ins>\)/g
+    result = result.replace(mdLinkDeltaRgx, "]($2) (<del>$1</del>)")
+
+    // fix newline in edit tag
     // https://regexr.com/53nqm
     let newlineInEditTag = /(?<=<(ins|del)>(?!<\/\1>)*?)(\n\n)(?=.*?<\/\1>)/g
-
     result = result.replace(newlineInEditTag, "</$1>$&<$1>")
 
     if (convertToHtml) {
