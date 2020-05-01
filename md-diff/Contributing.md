@@ -172,3 +172,9 @@ ins {
 ```js
 /<(?<tag>ins|del)>.*<\/\k<tag>/g
 ```
+
+[Fix md link deltas](https://regexr.com/53nsr)
+
+```js
+/\]\(<del>(.*)<\/del> <ins>(.*)<\/ins>\)/g
+```
