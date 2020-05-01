@@ -4,9 +4,8 @@ module.exports = diffText
 
 function diffText(oldText, newText, convertToHtml) {
 
-    // support all markdown chars as separate tokens - initially add space and then remove when we've processed
-    // ** * [ ] ( ) \n \n\n
 
+    // each individual word, separated by a space will become a new token
     oldText = tokenizeChars(oldText)
     newText = tokenizeChars(newText)
 
@@ -59,7 +58,7 @@ function diffText(oldText, newText, convertToHtml) {
     }).join(" ")
 
 
-
+    // replace tokens
     result = detokenizeChars(result)
 
     // https://regexr.com/53nqm
@@ -82,17 +81,28 @@ function diffText(oldText, newText, convertToHtml) {
 }
 
 function tokenizeChars(text) {
-    // https://regexr.com/53epc
-    text = text.replace(/[\*,\."“”\[\]\(\)\n]/g, " $& ")
+    // never tokenize urls - always keep together
+    // ALT: swap out special chars in urls for temp replacements ,.*"“”[]()\n
+
+    // identify all hyperlinks - demarcate to help keep together
+    // https://regexr.com/52gn4
+    text = text.replace(/https?:\/\/.*?(?=\)|\s)/g, "~~$&~~")
+
+
+    // support all markdown chars as separate tokens - initially add space and then remove when we've processed
+    // https://regexr.com/53npf
+    text = text.replace(/[\*,\."“”\[\]\(\)\n](?=(?:[^~]*~~[^~]*~~)*[^~]*$)/g, " $& ")
     text = text.replace(/ \n  \n /g, " \n\n ")
+
     return text;
 }
 
-// replace tokens
+
 function detokenizeChars(text) {
-    // https://regexr.com/53epr
+    // https://regexr.com/53npo
     text = text.replace(/ \n\n /g, " \n  \n ")
     text = text.replace(/ (<\/?(?:ins|del)>)?([\*,\."“”\[\]\(\)\n])(<\/?(?:ins|del)>)? /g, "$1$2$3")
+    text = text.replace(/~~/g, "") // remove hyperlink wrapper
 
     return text;
 }
