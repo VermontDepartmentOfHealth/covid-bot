@@ -62,12 +62,10 @@ function diffText(oldText, newText, convertToHtml) {
 
     result = detokenizeChars(result)
 
-    // https://regexr.com/53eih
-    let newlineInInsRgx = /(?<=<ins>(?!<\/ins>)*?)(\n\n)(?=.*?<\/ins>)/g
-    let newlineInDelRgx = /(?<=<del>(?!<\/del>)*?)(\n\n)(?=.*?<\/del>)/g
+    // https://regexr.com/53nqm
+    let newlineInEditTag = /(?<=<(ins|del)>(?!<\/\1>)*?)(\n\n)(?=.*?<\/\1>)/g
 
-    result = result.replace(newlineInInsRgx, "</ins>$&<ins>")
-    result = result.replace(newlineInDelRgx, "</del>$&<del>")
+    result = result.replace(newlineInEditTag, "</$1>$&<$1>")
 
     if (convertToHtml) {
         let md = require('markdown-it')({

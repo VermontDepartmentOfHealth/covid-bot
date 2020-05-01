@@ -19,10 +19,10 @@ async function validate() {
 
     validateMarkdownUrls(allFaqs)
     validateParagraphsInList(allFaqs)
-    await validateUrlsValid(allFaqs)
     validateHasCategory(allFaqs)
     validateInvalidCategory(allFaqs, topicNames)
     validateParseQuestion(allFaqs)
+    await validateUrlsValid(allFaqs)
 
 }
 
@@ -54,13 +54,14 @@ function validateParagraphsInList(allFaqs) {
 
     let paragraphsInList = allFaqs.flatMap(faq => {
 
-        // markdown urls must start with http, mailto, or tel
-        // https://regexr.com/538ng
-        let rgx = /(?<=\n\n\* .*)\n\n(?!\*)(.*)(?=\n\n\* )/g
-        let paragraphs = [...faq.answer.matchAll(rgx)].map(ans => ans[1])
-        return paragraphs.map(text => ({ text, question: faq.questions[0] }))
+            // find paragraphs in list
+            // https://regexr.com/538ng
+            let rgx = /(?<=\n\n\* .*)\n\n(?!\*)(.*)(?=\n\n\* )/g
+            let paragraphs = [...faq.answer.matchAll(rgx)].map(ans => ans[1])
+            return paragraphs.map(text => ({ text, question: faq.questions[0] }))
 
-    })
+        })
+        // todo: avoid false positives
 
     // print errors if we got em'
     if (paragraphsInList.length) {
@@ -77,7 +78,7 @@ async function validateUrlsValid(allFaqs) {
 
     let allUrls = allFaqs.flatMap(faq => {
 
-        // get bare-urls
+        // find all urls inside md or bare
         // https://regexr.com/52gn4
         let rgx = /(?<!\[)http.*?(?=\)|\s)/g
         let absoluteUrls = [...faq.answer.matchAll(rgx)].map(ans => ans[0])
