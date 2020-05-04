@@ -1,9 +1,10 @@
-let filePath = process.env.AZURE_ENVIRONMENT ? `.env.${process.env.AZURE_ENVIRONMENT}` : ".env"
-require('dotenv').config({ path: filePath })
-const { promises: fs } = require("fs");
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
-const jsoncParser = require("jsonc-parser")
 const utilities = require('./utilities')
+
+let filePath = process.env.AZURE_ENVIRONMENT ?
+    `.env.${process.env.AZURE_ENVIRONMENT}` :
+    ".env"
+require('dotenv').config({ path: filePath })
 
 const STATUS_ACCEPTED = 202;
 
@@ -20,7 +21,7 @@ async function restoreTestKb() {
         kbId: process.env.kbId
     })
 
-    try{
+    try {
 
         //create update object by comparing test kb to local kb
         let updateObjectCreationResult = await compareLocalToTestAndCreateUpdateResult(clientFromTest);
@@ -28,11 +29,11 @@ async function restoreTestKb() {
         let updateObject = updateObjectCreationResult.updateKbObject
 
         //updates to follow up prompts require a two part update process
-        if(updateObjectCreationResult.promptHasBeenUpdated){
+        if (updateObjectCreationResult.promptHasBeenUpdated) {
 
             let stepOneWasSuccessful = await updateOneOfTwo(clientFromTest, process.env.kbId, updateObject);
 
-            if(!stepOneWasSuccessful){
+            if (!stepOneWasSuccessful) {
                 throw "Step one of update was unsuccessful.";
             }
 
@@ -59,8 +60,8 @@ async function restoreTestKb() {
 }
 
 //updateResult returned by this function will include the update object and
-//a flag that indicates if a multi part update is requried
-async function compareLocalToTestAndCreateUpdateResult(clientFromTest){
+//a flag that indicates if a multi part update is required
+async function compareLocalToTestAndCreateUpdateResult(clientFromTest) {
     let currentlyOnTestKB = await getTestKb(clientFromTest);
 
     let localKb = await getLocalKb();
@@ -78,7 +79,7 @@ async function compareLocalToTestAndCreateUpdateResult(clientFromTest){
 //prompts are updated as an add and delete, this cannot be done in a single update, the update object
 //will not include the prompt additions for updated prompts in the first update.
 //The second phase of the update will only include prompt additions for updated prompts.
-async function updateOneOfTwo(clientFromTest, kbId, updateObject){
+async function updateOneOfTwo(clientFromTest, kbId, updateObject) {
 
     console.log("\n" + 'Update includes changes to existing follow up prompts.')
     console.log('These types of updates must be handled in a two step process, starting the first update now...')
@@ -88,7 +89,7 @@ async function updateOneOfTwo(clientFromTest, kbId, updateObject){
     let opId = updateJson.operationId;
 
     let updateWasSuccessful = await pollForUpdateComplete(clientFromTest, opId)
-    //publish is not needed as part of first update
+        //publish is not needed as part of first update
 
     console.log('Step one update complete')
 
@@ -96,11 +97,11 @@ async function updateOneOfTwo(clientFromTest, kbId, updateObject){
 
 }
 
-async function getTestKb(clientFromTest){
+async function getTestKb(clientFromTest) {
 
     console.log("\n" + 'Downloading test knowledge base...')
-    //get kb base as it currently is on test
-    //passing the 'TEST' lookup  means that the kb returned will reflect what is currently in editor rather than what is published.
+        //get kb base as it currently is on test
+        //passing the 'TEST' lookup  means that the kb returned will reflect what is currently in editor rather than what is published.
     let currentlyOnTestKB = await clientFromTest.knowledgeBase.download(undefined, clientFromTest.lookups.ENVIRONMENT.TEST);
 
     let downLoadSuccessful = !utilities.isEmptyObj(currentlyOnTestKB)
@@ -111,11 +112,11 @@ async function getTestKb(clientFromTest){
         errorInfo = currentlyOnTestKB.error.code;
     }
 
-    if(downLoadSuccessful){
+    if (downLoadSuccessful) {
         console.log('Download of test Knowledge base was successful')
-    }else{
+    } else {
         let errorMsg = 'Failed to download knowledge base'
-        //If we got error info, append it
+            //If we got error info, append it
         errorMsg = errorInfo === "" ? errorMsg : errorMsg + ': ' + errorInfo
 
         throw errorMsg;
@@ -124,7 +125,7 @@ async function getTestKb(clientFromTest){
 }
 
 //Get kb from local json file, path defined at top of this file
-async function getLocalKb(){
+async function getLocalKb() {
     try {
         console.log("\n" + 'Retrieving local knowledge base...')
         localKb = await utilities.readJsonc(LOCAL_KB_PARTIAL_FILE_PATH)
@@ -139,44 +140,44 @@ async function getLocalKb(){
 
 //Call update api, this will only kick off the update process, it will take a
 //significant amount of time for the kb to complete the update
-async function initiateUpdate(clientFromTest, kbId, updateObject){
+async function initiateUpdate(clientFromTest, kbId, updateObject) {
 
     console.log("\n" + 'Initiating update of test knowledge base...')
 
     let updateResponse = await clientFromTest.knowledgeBase.update(kbId, updateObject)
-    if(updateResponse && updateResponse.status === STATUS_ACCEPTED){
+    if (updateResponse && updateResponse.status === STATUS_ACCEPTED) {
         console.log('Update initiated')
         return updateResponse;
-    }else{
+    } else {
         throw "Failed to initiate update";
     }
 }
 
 //Check update operation for completion once a second until it's done or timed out
-async function pollForUpdateComplete(clientFromTest, opId){
+async function pollForUpdateComplete(clientFromTest, opId) {
     console.log("\n" + 'Polling for completion of update operation...')
-    //poll to see when operation is complete
+        //poll to see when operation is complete
 
     updateOperationState = await clientFromTest.operations.pollForOperationComplete(opId);
     let updateWasSuccessful = updateOperationState === clientFromTest.lookups.OPERATION_STATE.SUCCEEDED
-    if(updateWasSuccessful){
-       console.log('Update was successful')
-    }else{
+    if (updateWasSuccessful) {
+        console.log('Update was successful')
+    } else {
         throw "Update was called but knowledge base was unable to complete operation";
     }
     return updateWasSuccessful;
 
 }
 
-async function publishKb(clientFromTest){
+async function publishKb(clientFromTest) {
     console.log("\n" + 'Publishing test knowledge base...')
     let publishResponse = await clientFromTest.knowledgeBase.publish(process.env.kbId)
     let publishWasSuccessful = !utilities.isEmptyObj(publishResponse) && !publishResponse.hasOwnProperty("error")
 
-    if(publishWasSuccessful){
+    if (publishWasSuccessful) {
         console.log('Publish successful')
         return;
-    }else{
+    } else {
         throw "Failed to publish"
     }
 }
@@ -185,7 +186,7 @@ async function publishKb(clientFromTest){
  * Get update Knowledgebase object that can be passed to kn update api
  * @param {knowledgeBase} localKb object as downloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/download
  * @param {knowledgeBase} currentlyOnTestKB object as downloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/download
- * @param {KnowledgebaseDTO} kbDetails as dowloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/getdetails
+ * @param {KnowledgebaseDTO} kbDetails as downloaded https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/getdetails
  * @description Returns result that includes update object built to pass to https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase/update
  * if promptHasBeenUpdated then a two step operation will be required, and this update object will not include all updates
  */
@@ -211,7 +212,7 @@ function getKbUpdateResult(localKb, currentlyOnTestKB, kbDetails) {
 
     let updateEvalObjectResult = {
         updateKbObject: updateKbObject,
-        promptHasBeenUpdated : updateObjectListResult.promptsHaveBeenUpdated
+        promptHasBeenUpdated: updateObjectListResult.promptsHaveBeenUpdated
     }
 
     return updateEvalObjectResult;
@@ -283,14 +284,14 @@ function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
         let metaToAdd = getListOfItemsToAdd(metaFromLocalKb, metaFromTest);
         let metaToDelete = getListOfItemsToDelete(metaFromLocalKb, metaFromTest);
 
-        //Build list of conext prompts for this QnA pair that have been added, and deleted
+        //Build list of context prompts for this QnA pair that have been added, and deleted
         let promptsFromTest = qnaPairFromTest.context.prompts;
         let promptsFromLocalKb = qnaPairFromLocalKb.context.prompts;
         let promptsToAdd = getListOfItemsToAdd(promptsFromLocalKb, promptsFromTest);
         let promptsToDelete = getListOfItemsToDelete(promptsFromLocalKb, promptsFromTest)
-        //updated prompts must be processed as a delete and an add but the kb is not able to do this in a single update
-        //when an prompt is updated it will be deleted, then a second comparison will be made between the local kb and the test
-        //kb and the updated prompt will be processed as an add.
+            //updated prompts must be processed as a delete and an add but the kb is not able to do this in a single update
+            //when an prompt is updated it will be deleted, then a second comparison will be made between the local kb and the test
+            //kb and the updated prompt will be processed as an add.
         let promptsNotUpdated = promptsToAdd.filter((elem) => !promptsToDelete.find(({ id }) => elem.id === id))
         promptHasBeenUpdated = promptHasBeenUpdated || !(promptsNotUpdated.length === promptsToAdd.length)
         promptsToAdd = promptsNotUpdated;
@@ -319,7 +320,7 @@ function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
 
     let UpdateObjectWithPromptUpdateFlag = {
         updateObjList: updateObjects,
-        promptsHaveBeenUpdated: promptHasBeenUpdated  //Flag that indicates if a two part update is required
+        promptsHaveBeenUpdated: promptHasBeenUpdated //Flag that indicates if a two part update is required
     }
 
     //return updateObjects;

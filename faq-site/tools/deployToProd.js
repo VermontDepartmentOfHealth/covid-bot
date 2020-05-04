@@ -65,7 +65,7 @@ async function replaceKnowledgeBase(sourceClient, targetClient) {
     let sourceKnowledgeBase = await sourceClient.knowledgeBase.download();
     let testKbid = targetClient.knowledgeBase.kbId;
     //call replace 
-    let knowledgeBaseReplaceResonse = await targetClient.knowledgeBase.replace(0, { qnaList: sourceKnowledgeBase.qnaDocuments });
-    //return bool to indicate if relace was successful
-    return knowledgeBaseReplaceResonse.status === STATUS_SUCCESS;
+    let knowledgeBaseReplaceResponse = await targetClient.knowledgeBase.replace(0, { qnaList: sourceKnowledgeBase.qnaDocuments });
+    //return bool to indicate if replace was successful
+    return knowledgeBaseReplaceResponse.status === STATUS_SUCCESS;
 }

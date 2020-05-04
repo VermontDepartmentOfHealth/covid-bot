@@ -44,7 +44,7 @@ async function buildFAQsByTopic() {
         let uniqueSubCats = getSubCategories(catFaqs, topics, cat)
 
 
-        // bin faqs into subcategtories
+        // bin faqs into subcategories
         let subCatCollection = uniqueSubCats.map(subCat => {
             let subCatFaqs = catFaqs.filter(faq => utilities.stringsAlphaEqual(faq.metadata.subcategory, subCat))
 
