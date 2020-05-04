@@ -189,11 +189,19 @@ function markComplete() {
 }
 
 
-var btn = document.getElementById("BackToTop")
-btn.addEventListener('click', function() {
+var topBtn = document.getElementById("BackToTop")
+topBtn.addEventListener('click', function() {
     window.scrollTo(0, 0)
 });
 
+
+
+
+var filterBtn = document.getElementById("RemoveFilter")
+filterBtn.addEventListener('click', function() {
+    keywordInput.value = "";
+    performMark();
+});
 
 
 
@@ -227,3 +235,23 @@ if (document.documentElement.matches(".no-details")) {
 
     }
 }
+
+
+// Listen for scroll events
+window.addEventListener('scroll', function(event) {
+
+    // var offset = document.scrollTop + window.innerHeight;
+    // var height = document.offsetHeight;
+    // var atBottom = offset >= height
+
+    // var offset = window.innerHeight + window.scrollY
+    // var height = document.body.offsetHeight
+    // var atBottom = offset >= height
+
+    var offset = window.innerHeight + window.pageYOffset + 120 // plus footer height
+    var height = document.body.offsetHeight;
+    var atBottom = offset >= height
+
+    document.body.classList.toggle("page-bottom", atBottom)
+
+});

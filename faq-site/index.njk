@@ -1,3 +1,14 @@
+---
+pagination:
+  data: types
+  size: 1
+  alias: type
+types:
+ - index
+ - diff
+permalink: "/{{type}}.html"
+---
+
 <!doctype html>
 <html lang="en">
 
@@ -29,11 +40,12 @@
         {# Google Fonts #}
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
 
-        <link href="assets/styles.css?v=4" rel="stylesheet">
+        <link href="assets/styles.css?v=7" rel="stylesheet">
 
     </head>
 
-    <body class="no-js">
+    <body class="no-js {% if type == 'diff' %} show-diff {% endif %}" >
+
         {# content appended to body should not use display grid #}
 
         <div class="page">
@@ -127,11 +139,19 @@
 
                                         <ul class="faqs">
                                             {% for faq in sub.faqs %}
-                                                <li id="{{faq.id}}" class="faq">
+                                                <li id="{{faq.id}}" class="faq {% if faq.isNew %} faq-new {% endif %}  {% if faq.isUpdated %} faq-updated {% endif %}">
 
                                                     <details >
                                                         <summary class="context title-link" tabindex="0">
-                                                            <h4>{{faq.question}}</h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
+                                                            <h4>
+                                                            
+                                                            {% if type == 'diff' %} 
+                                                                {{(faq.questionDiff or faq.question) | safe}}
+                                                            {% else %}
+                                                                {{faq.question | safe}}
+                                                            {% endif %}
+
+                                                            </h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
                                                         </summary>
                                                         
                                                         {# container for details polyfill #}
@@ -144,7 +164,11 @@
 
                                                             <div class="answer">
 
-                                                                {{faq.answerBody | md | safe}}
+                                                                {% if type == 'diff' %} 
+                                                                    {{(faq.answerBodyDiff or faq.answerBody) | md | safe}}
+                                                                {% else %}
+                                                                    {{faq.answerBody | md | safe}}
+                                                                {% endif %}
 
                                                             </div>
                                                         </span>
@@ -175,11 +199,11 @@
                             to talk to a person</li>
                     </ul>
                 </div>
-
                 <div class="page-actions">
-                    <button id="BackToTop">Back to Top</button>
-                    <!-- Back to Top -->
-                    <!-- Reset Filter -->
+                    <div class="page-actions-buttons">
+                        <button id="RemoveFilter" class="btn">Remove Filter</button>
+                        <button id="BackToTop" class="btn">Back to Top</button>
+                    </div>
                 </div>
             </main>
 
@@ -200,8 +224,8 @@
         <script src="assets/mark.js"></script>
         <script src="assets/details-polyfill.js"></script>
         <script src="assets/polyfill.js"></script>
-        <script src="assets/synonyms.js?v=2"></script>
-        <script src="assets/script.js?v=7"></script>
+        <script src="assets/synonyms.js?v=3"></script>
+        <script src="assets/script.js?v=9"></script>
 
     </body>
 

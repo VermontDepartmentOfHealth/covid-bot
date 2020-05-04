@@ -17,11 +17,14 @@ async function validate() {
 
     let allFaqs = faqs.qnaDocuments
 
+
     validateMarkdownUrls(allFaqs)
-    await validateUrlsValid(allFaqs)
+    validateParagraphsInList(allFaqs)
+    validateAddedFollowUpPrompt(allFaqs)
     validateHasCategory(allFaqs)
     validateInvalidCategory(allFaqs, topicNames)
     validateParseQuestion(allFaqs)
+    await validateUrlsValid(allFaqs)
 
 }
 
@@ -49,12 +52,44 @@ function validateMarkdownUrls(allFaqs) {
     }
 }
 
+function validateParagraphsInList(allFaqs) {
+
+    let paragraphsInList = allFaqs.flatMap(faq => {
+
+        // find paragraphs in list
+        // https://regexr.com/538ng
+        let rgx = /(?<=\n\n\* .*)\n\n(?!\*)(.*)(?=\n\n\* )/g
+        let paragraphs = [...faq.answer.matchAll(rgx)].map(ans => ans[1])
+        return paragraphs.map(text => ({ text, question: faq.questions[0] }))
+
+    })
+
+
+    // remove false positives
+    let exemptions = [
+        "Some people should never wear a mask, including",
+        " **If you will be tested to determine"
+    ]
+
+    paragraphsInList = paragraphsInList.filter(x => !x.text.startsWithAny(exemptions))
+
+    // print errors if we got em'
+    if (paragraphsInList.length) {
+        console.log("\n\n" + chalk.blue.bold("Possible Paragraph in list"))
+        paragraphsInList.forEach(x => {
+            console.log(chalk.bold("Question: ") + x.question)
+            console.log(chalk.bold("Text: ") + x.text.split(" ").slice(0, 8).join(" ") + "\n")
+        })
+    }
+
+}
+
 
 async function validateUrlsValid(allFaqs) {
 
     let allUrls = allFaqs.flatMap(faq => {
 
-        // get bare-urls
+        // find all urls inside md or bare
         // https://regexr.com/52gn4
         let rgx = /(?<!\[)http.*?(?=\)|\s)/g
         let absoluteUrls = [...faq.answer.matchAll(rgx)].map(ans => ans[0])
@@ -91,6 +126,47 @@ async function validateUrlsValid(allFaqs) {
 
 }
 
+
+async function validateAddedFollowUpPrompt(allFaqs) {
+
+    // find "this did not answer my question"
+    let noAnswerFAQ = allFaqs.find(faq => faq.answer.startsWith("Sorry we could not find a good match")) // 4533
+
+    let displayText = "This did NOT answer my question."
+
+    // remove false positives
+    let exemptions = ["This did NOT answer my question"]
+    allFaqs = allFaqs.filter(x => !x.questions[0].startsWithAny(exemptions))
+
+
+    // make sure it exists and has correct copy
+    let promptProblems = allFaqs.reduce((acc, faq) => {
+        let noAnswerPrompt = faq.context.prompts.find(p => p.qnaId === noAnswerFAQ.id)
+
+        if (!noAnswerPrompt) {
+            acc.missing.push(faq.questions[0])
+        } else if (noAnswerPrompt.displayText.trim() !== displayText.trim()) {
+            acc.wrong.push({ prompt: noAnswerPrompt.displayText, q: faq.questions[0] })
+        }
+
+        return acc;
+    }, { missing: [], wrong: [] })
+
+    // print errors if we got em'
+    if (promptProblems.missing.length) {
+        console.log("\n\n" + chalk.blue.bold("Question Missing Follow Up Prompt"))
+        promptProblems.missing.forEach(q => {
+            console.log(chalk.bold("Question: ") + q)
+        })
+    }
+    if (promptProblems.wrong.length) {
+        console.log("\n\n" + chalk.blue.bold("Follow Up Prompt has wrong Text"))
+        promptProblems.wrong.forEach(x => {
+            console.log(chalk.bold("Question: ") + x.q)
+            console.log(chalk.bold("Prompt: ") + x.prompt + "\n")
+        })
+    }
+}
 
 async function validateHasCategory(allFaqs) {
 
@@ -159,4 +235,13 @@ async function validateParseQuestion(allFaqs) {
             console.log(chalk.bold("Question: ") + q)
         })
     }
+}
+
+
+if (!String.prototype.startsWithAny) {
+    Object.defineProperty(String.prototype, 'startsWithAny', {
+        value: function(searchStrings) {
+            return searchStrings.some(search => this.startsWith(search))
+        }
+    });
 }

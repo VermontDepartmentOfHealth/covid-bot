@@ -7,8 +7,9 @@
         "clean": "npx rimraf _site",
         "build": "npx @11ty/eleventy",
         "serve": "npx @11ty/eleventy --serve",
-        "update-data": "npx cross-env AZURE_ENVIRONMENT=test node tools/updateData.js",
-        "lint": "node tools/lintData.js",
+        "archive-data": "node tools/archiveData.js",
+        "fetch-data": "npx cross-env AZURE_ENVIRONMENT=test node tools/updateData.js",
+        "lint-data": "node tools/lintData.js",
         "restore-local": "npx cross-env AZURE_ENVIRONMENT=test node tools/restoreTestKb.js",
         "deploy-to-prod": "node tools/deployToProd.js"
     },
@@ -17,6 +18,7 @@
     "license": "ISC",
     "dependencies": {
         "@11ty/eleventy": "^0.10.0",
+        "@ads-vdh/md-diff": "^1.0.3",
         "@ads-vdh/qnamaker-api": "^1.0.1",
         "chalk": "^3.0.0",
         "details-polyfill": "^1.1.0",

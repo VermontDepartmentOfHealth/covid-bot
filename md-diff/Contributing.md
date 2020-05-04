@@ -77,3 +77,104 @@ it('should return del / ins on single word change', function() {
     assert.equal(actual, expected);
 });
 ```
+
+## HTML Testing
+
+Test output against [this fiddle](https://jsfiddle.net/KyleMit/7twbm1zv/) which applies the following styles:
+
+```css
+del {
+    background: #ffc9c9;
+    border-radius: 2px;
+    text-decoration: line-through;
+}
+
+ins {
+    background: #c9fff0;
+    border-radius: 2px;
+    text-decoration: underline;
+}
+```
+
+
+### RegEx
+
+[Tokenize Chars](https://regexr.com/53epc)
+
+```js
+/[\*,\."“”\[\]\(\)\n]/g
+```
+
+[Tokenize Chars Not in Delimetr](https://regexr.com/53npf)
+
+```js
+/[\*,\."“”\[\]\(\)\n](?=(?:[^~]*~~[^~]*~~)*[^~]*$)/g
+```
+
+[Detokenize Chars](https://regexr.com/53npo)
+
+```js
+/ (<\/?(?:ins|del)>)?([\*,\."“”\[\]\(\)\n])(<\/?(?:ins|del)>)? /g
+```
+
+[Extract URLs](https://regexr.com/52gn4)
+
+```js
+/https?:\/\/.*?(?=[\)\]\s])/g
+```
+
+
+[Match Text **NOT** in Delimiter](https://regexr.com/53nn7)
+
+```js
+/[^~]*(?=(?:[^~]*~[^~]*~)*[^~]*$)/g
+```
+
+[Match Text **NOT** in 2 Char delimiter](https://regexr.com/53npc)
+
+```js
+/[^~]*(?=(?:[^~]*~~[^~]*~~)*[^~]*$)/g
+```
+
+[Match Text Between Brackets](https://regexr.com/53lme)
+
+```js
+/(?<=<<).*?(?=>>)/g
+```
+
+[Match Text **NOT** Between Brackets](https://regexr.com/53nna)
+
+```js
+/[^<>]*(?=(?:[^>]*<[^<]*>)*[^<>]*$)/g
+```
+
+[Find NewLine in `<ins>`](https://regexr.com/53eih)
+
+
+```js
+/(?<=<ins>(?!<\/ins>)*?)(\\n\\n)(?=.*?<\/ins>)/g
+```
+
+[Find NewLine in `<ins>` or `<del>`](https://regexr.com/53nqm)
+
+```js
+/(?<=<(ins|del)>(?!<\/\1>)*?)(\\n\\n)(?=.*?<\/\1>)/g
+```
+
+[Match Multiple Tag Groups w/ Back Reference](https://regexr.com/53nre)
+
+```js
+/<(ins|del)>.*<\/\1>/g
+```
+
+[Match Multiple Tag Groups w/ **Named** Back Reference](https://regexr.com/53nrh)
+
+```js
+/<(?<tag>ins|del)>.*<\/\k<tag>/g
+```
+
+[Fix md link deltas](https://regexr.com/53nsr)
+
+```js
+/\]\(<del>(.*)<\/del> <ins>(.*)<\/ins>\)/g
+```

@@ -4,13 +4,18 @@ module.exports = buildFAQsByTopic
 
 async function buildFAQsByTopic() {
 
-    let faqs = await utilities.readJsonc("_data/faqs.jsonc")
+    let faqsPrev = await utilities.readJsonc("_data/faqs-prev.jsonc")
+    let faqsCur = await utilities.readJsonc("_data/faqs.jsonc")
     let topics = await utilities.readJsonc("_data/topics.jsonc")
 
     let sortedTopics = topics.map(t => t.name)
 
     // transform faq object
-    let allFaqs = faqs.qnaDocuments.map(transformFaq)
+    let allFaqsPrev = faqsPrev.qnaDocuments.map(transformFaq)
+    let allFaqsCur = faqsCur.qnaDocuments.map(transformFaq)
+
+    // diff faqs
+    let allFaqs = findDifferences(allFaqsCur, allFaqsPrev)
 
     // get all new topics
     let allTopics = allFaqs.map(faq => faq.metadata.category).filter(cat => cat)
@@ -137,4 +142,43 @@ function getSubCategories(catFaqs, topics, catName) {
     }
 
     return uniqueSubCats
+}
+
+function findDifferences(allFaqsCur, allFaqsPrev) {
+
+    let diffText = require("@ads-vdh/md-diff")
+
+    allFaqsCur.forEach(curFaq => {
+
+        let prevFaq = allFaqsPrev.find(prev => prev.id === curFaq.id)
+
+        if (prevFaq) {
+
+            // markup deltas on changed questions (ids match)
+            let diffQuestion = removeWhitespace(prevFaq.question) != removeWhitespace(curFaq.question)
+            let diffAnswer = removeWhitespace(prevFaq.answerBody) != removeWhitespace(curFaq.answerBody)
+
+            // check if modified 
+            if (diffQuestion || diffAnswer) {
+
+                curFaq.questionDiff = diffText(prevFaq.question, curFaq.question, false)
+                curFaq.answerBodyDiff = diffText(prevFaq.answerBody, curFaq.answerBody, false)
+                curFaq.isUpdated = true
+
+            }
+
+        } else {
+            // new questions (new id not in old)
+            curFaq.isNew = true
+        }
+
+    })
+
+
+    return allFaqsCur;
+
+}
+
+function removeWhitespace(str) {
+    return str.replace(/\s/g, "")
 }
