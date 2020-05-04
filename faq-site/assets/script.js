@@ -189,9 +189,18 @@ function markComplete() {
 }
 
 
-var btn = document.getElementById("BackToTop")
-btn.addEventListener('click', function() {
+var topBtn = document.getElementById("BackToTop")
+topBtn.addEventListener('click', function() {
     window.scrollTo(0, 0)
+});
+
+
+
+
+var filterBtn = document.getElementById("RemoveFilter")
+filterBtn.addEventListener('click', function() {
+    keywordInput.value = "";
+    performMark();
 });
 
 

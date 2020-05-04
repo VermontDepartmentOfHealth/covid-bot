@@ -236,6 +236,14 @@ li.faq {
 
 /* filtering */
 
+#RemoveFilter {
+    display: none;
+}
+
+.filtering #RemoveFilter {
+    display: block;
+}
+
 .filtering .topic,
 .filtering .sub,
 .filtering .faq {
