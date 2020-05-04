@@ -7,6 +7,7 @@ module.exports = {
     flattenArrayToObject,
     readJsonc,
     slugify,
+    isEmptyObj,
     getCurrentTimestamp,
     deduplicate,
     writeFile
@@ -88,6 +89,15 @@ function slugify(title) {
     // take first 8 words and separate with "-""
     slug = slug.split(" ").slice(0, 8).join("-");
     return slug;
+}
+
+/**
+ * Test whether item is is empty object `{}`
+ * @param {object} obj 
+ * @description See also: https://stackoverflow.com/q/679915/1366033
+ */
+function isEmptyObj(obj) {
+    return JSON.stringify(obj) === JSON.stringify({});
 }
 
 function getCurrentTimestamp() {
