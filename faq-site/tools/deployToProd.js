@@ -7,8 +7,8 @@ module.exports = deployToProd();
 
 async function deployToProd() {
 
-    let sourceEnv = require('dotenv').config({ path: ".env.prod" })
-    let targetEnv = require('dotenv').config({ path: ".env.test" })
+    let sourceEnv = require('dotenv').config({ path: ".env.test" })
+    let targetEnv = require('dotenv').config({ path: ".env.prod" })
 
     if (sourceEnv.error) {
         console.error("Source Environment file not found: ", sourceEnv.error.path)
