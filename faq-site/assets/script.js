@@ -235,3 +235,23 @@ if (document.documentElement.matches(".no-details")) {
 
     }
 }
+
+
+// Listen for scroll events
+window.addEventListener('scroll', function(event) {
+
+    // var offset = document.scrollTop + window.innerHeight;
+    // var height = document.offsetHeight;
+    // var atBottom = offset >= height
+
+    // var offset = window.innerHeight + window.scrollY
+    // var height = document.body.offsetHeight
+    // var atBottom = offset >= height
+
+    var offset = window.innerHeight + window.pageYOffset + 120 // plus footer height
+    var height = document.body.offsetHeight;
+    var atBottom = offset >= height
+
+    document.body.classList.toggle("page-bottom", atBottom)
+
+});

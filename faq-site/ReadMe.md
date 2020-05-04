@@ -57,10 +57,10 @@ npm run update-and-build  # gets new KB data and builds site
 - [ ] #20 low-perf debouncing
 - [ ] add deep links to filter and each fragment URI
 - [ ] sort title vs body match & reset position when clearing filter
-- [ ] contain page action buttons to main area when scrolled to bottom
 - [ ] fix [tel:211]
 - [ ] social meta tags
 - [ ] determine multiple env for config (workaround comment out)
+- [x] contain page action buttons to main area when scrolled to bottom
 - [x] #49 add remove filter button
 - [x] fix focus styles
 - [x] #39 add back to top button

@@ -137,7 +137,7 @@ footer.footer {
 /* no-js */
 
 .no-js .search-bar,
-.no-js .page-actions {
+.no-js .page-actions-buttons {
     display: none;
 }
 
@@ -391,6 +391,15 @@ ul.nav-subs {
 /* page actions */
 
 .page-actions {
+    /* allocate extra spacing to prevent scroll jump */
+    margin-bottom: 42px;
+}
+
+.page-bottom .page-actions {
+    margin-bottom: 0;
+}
+
+.page-actions-buttons {
     position: fixed;
     bottom: 15px;
     right: 15px;
@@ -398,6 +407,11 @@ ul.nav-subs {
     box-shadow: white 0px 0px 6px 14px;
     display: flex;
     flex-direction: column;
+}
+
+.page-bottom .page-actions-buttons {
+    position: static;
+    flex-direction: row;
 }
 
 .btn {
