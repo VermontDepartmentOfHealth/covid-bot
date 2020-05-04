@@ -61,16 +61,25 @@ function validateParagraphsInList(allFaqs) {
             return paragraphs.map(text => ({ text, question: faq.questions[0] }))
 
         })
-        // todo: avoid false positives
+
+
+    // remove false positives
+    let exemptions = [
+        "Some people should never wear a mask, including",
+        " **If you will be tested to determine"
+    ]
+
+    paragraphsInList = paragraphsInList.filter(x => !x.text.startsWithAny(exemptions))
 
     // print errors if we got em'
     if (paragraphsInList.length) {
         console.log("\n\n" + chalk.blue.bold("Possible Paragraph in list"))
         paragraphsInList.forEach(x => {
             console.log(chalk.bold("Question: ") + x.question)
-            console.log(chalk.bold("URL: ") + x.text.split(" ").slice(0, 8).join(" ") + "\n")
+            console.log(chalk.bold("Text: ") + x.text.split(" ").slice(0, 8).join(" ") + "\n")
         })
     }
+
 }
 
 
@@ -183,4 +192,13 @@ async function validateParseQuestion(allFaqs) {
             console.log(chalk.bold("Question: ") + q)
         })
     }
+}
+
+
+if (!String.prototype.startsWithAny) {
+    Object.defineProperty(String.prototype, 'startsWithAny', {
+        value: function(searchStrings) {
+            return searchStrings.some(search => this.startsWith(search))
+        }
+    });
 }
