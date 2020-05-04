@@ -17,8 +17,10 @@ async function validate() {
 
     let allFaqs = faqs.qnaDocuments
 
+
     validateMarkdownUrls(allFaqs)
     validateParagraphsInList(allFaqs)
+    validateAddedFollowUpPrompt(allFaqs)
     validateHasCategory(allFaqs)
     validateInvalidCategory(allFaqs, topicNames)
     validateParseQuestion(allFaqs)
@@ -54,13 +56,13 @@ function validateParagraphsInList(allFaqs) {
 
     let paragraphsInList = allFaqs.flatMap(faq => {
 
-            // find paragraphs in list
-            // https://regexr.com/538ng
-            let rgx = /(?<=\n\n\* .*)\n\n(?!\*)(.*)(?=\n\n\* )/g
-            let paragraphs = [...faq.answer.matchAll(rgx)].map(ans => ans[1])
-            return paragraphs.map(text => ({ text, question: faq.questions[0] }))
+        // find paragraphs in list
+        // https://regexr.com/538ng
+        let rgx = /(?<=\n\n\* .*)\n\n(?!\*)(.*)(?=\n\n\* )/g
+        let paragraphs = [...faq.answer.matchAll(rgx)].map(ans => ans[1])
+        return paragraphs.map(text => ({ text, question: faq.questions[0] }))
 
-        })
+    })
 
 
     // remove false positives
@@ -124,6 +126,47 @@ async function validateUrlsValid(allFaqs) {
 
 }
 
+
+async function validateAddedFollowUpPrompt(allFaqs) {
+
+    // find "this did not answer my question"
+    let noAnswerFAQ = allFaqs.find(faq => faq.answer.startsWith("Sorry we could not find a good match")) // 4533
+
+    let displayText = "This did NOT answer my question."
+
+    // remove false positives
+    let exemptions = ["This did NOT answer my question"]
+    allFaqs = allFaqs.filter(x => !x.questions[0].startsWithAny(exemptions))
+
+
+    // make sure it exists and has correct copy
+    let promptProblems = allFaqs.reduce((acc, faq) => {
+        let noAnswerPrompt = faq.context.prompts.find(p => p.qnaId === noAnswerFAQ.id)
+
+        if (!noAnswerPrompt) {
+            acc.missing.push(faq.questions[0])
+        } else if (noAnswerPrompt.displayText.trim() !== displayText.trim()) {
+            acc.wrong.push({ prompt: noAnswerPrompt.displayText, q: faq.questions[0] })
+        }
+
+        return acc;
+    }, { missing: [], wrong: [] })
+
+    // print errors if we got em'
+    if (promptProblems.missing.length) {
+        console.log("\n\n" + chalk.blue.bold("Question Missing Follow Up Prompt"))
+        promptProblems.missing.forEach(q => {
+            console.log(chalk.bold("Question: ") + q)
+        })
+    }
+    if (promptProblems.wrong.length) {
+        console.log("\n\n" + chalk.blue.bold("Follow Up Prompt has wrong Text"))
+        promptProblems.wrong.forEach(x => {
+            console.log(chalk.bold("Question: ") + x.q)
+            console.log(chalk.bold("Prompt: ") + x.prompt + "\n")
+        })
+    }
+}
 
 async function validateHasCategory(allFaqs) {
 
