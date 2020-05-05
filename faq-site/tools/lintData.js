@@ -68,7 +68,8 @@ function validateParagraphsInList(allFaqs) {
     // remove false positives
     let exemptions = [
         "Some people should never wear a mask, including",
-        " **If you will be tested to determine"
+        " **If you will be tested to determine",
+        "Some people should never wear a cloth face"
     ]
 
     paragraphsInList = paragraphsInList.filter(x => !x.text.startsWithAny(exemptions))

@@ -1,6 +1,6 @@
 // GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out
 var synonyms = {
-    "doctorTEST": "healthcare professional",
+    "doctor": "healthcare professional",
     "healthcare professional": "health care provider",
     "health care provider": "primary care provider",
     "primary care provider": "primary care physician",
@@ -8,7 +8,7 @@ var synonyms = {
     "physician": "PCP",
     "PCP": "Dr",
     "Dr": "MD",
-    "MD": "doctorTEST",
+    "MD": "doctor",
     "COVID": "Coved",
     "Coved": "Coved-19",
     "Coved-19": "COVID-19",
@@ -191,5 +191,8 @@ var synonyms = {
     "NY": "NH",
     "NH": "MA",
     "MA": "Hartford",
-    "Albany": "a different state"
+    "Albany": "a different state",
+    "apartment": "condo",
+    "condo": "condominium",
+    "condominium": "apartment"
 }

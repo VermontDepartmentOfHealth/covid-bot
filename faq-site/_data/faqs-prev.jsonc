@@ -39,7 +39,8 @@
                 "How common are body aches and pains with COVID-19?",
                 "symptoms",
                 "What are the symptoms of COVID19?",
-                "first symptoms"
+                "first symptoms",
+                "what are the symptoms of Covid-19?"
             ],
             "metadata": [
                 {
@@ -163,7 +164,7 @@
         },
         {
             "id": 4537,
-            "answer": "**How does COVID-19 spread?**\n\nThe virus is thought to spread mainly from person-to-person.\n\n* Between people who are in close contact with one another (within about 6 feet).\n\n* Through respiratory droplets produced when an infected person coughs, sneezes or talks.\n\n* These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.\n\n* Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.\n\n* Maintaining good social distance (about 6 feet) is very important in preventing the spread of COVID-19.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nTo help prevent spread of the virus, the CDC recommends people practice frequent “hand hygiene,” which is either washing hands with soap or water or using an alcohol-based hand sanitizer with at least 60% alcohol. The CDC also recommends routine cleaning of frequently touched surfaces.",
+            "answer": "**How does COVID-19 spread?**\n\nThe virus is thought to spread mainly from person-to-person.\n\n* Between people who are in close contact with one another (within about 6 feet).\n\n* Through respiratory droplets produced when an infected person coughs, sneezes or talks.\n\n* These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.\n\n* Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nLearn from the CDC how to help prevent spread of the virus and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
             "source": "KB-COVID",
             "questions": [
                 "How does COVID-19 spread?",
@@ -178,6 +179,10 @@
                 {
                     "name": "category",
                     "value": "how it spreads"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -232,7 +237,7 @@
         },
         {
             "id": 4539,
-            "answer": "**How can you help prevent getting the virus?**\n\n* Stay at least 6 feet away from others. Stay at home as much as possible.\n\n* Wear a [cloth face covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) whenever you leave home.\n\n* Avoid close contact with people who are sick.\n\n* Avoid touching your eyes, nose, and mouth.\n\n* Stay home when you are sick.\n\n* Cover your coughs and sneezes with your sleeve or a tissue, then throw the tissue in the trash.\n\n* Clean and disinfect frequently touched objects and surfaces using a regular household cleaning spray or wipe.\n\n* Wash your hands often with soap and water for at least 20 seconds, especially after going to the bathroom; before eating; and after blowing your nose, coughing, or sneezing.\n\n* If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water if hands are visibly dirty.\n\nLearn more [about COVID-19 prevention](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19).",
+            "answer": "**How can you help protect yourself from getting the virus?**\n\nThe best way to prevent yourself and others from getting sick with COVID-19 is to avoid being exposed to the virus. The virus is thought to spread mainly from person-to-person. Everyone should:\n\n* Wash your hands often with soap and water for at least 20 seconds, especially after being in a public place, before eating, and after blowing your nose, coughing, or sneezing.\n\n* If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.\n\n* Avoid touching your eyes, nose, and mouth.\n\n* Stay at least 6 feet away from people you don’t live with. Stay home as much as possible.\n\n* Avoid close contact with people who are sick.\n\n* Wear a [cloth face covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) whenever you leave home.\n\n* Stay home when you are sick.\n\n* Cover your coughs and sneezes with a tissue or the inside of your elbow. Throw used tissues in the trash. Then immediately wash your hands with soap and water or use an alcohol-based sanitizer with at least 60% alcohol.\n\n* [Clean and disinfect](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) frequently touched surfaces daily.\n\nLearn more [about COVID-19 prevention](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) and [how to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
             "source": "KB-COVID",
             "questions": [
                 "How can you help prevent getting the virus?",
@@ -244,7 +249,8 @@
                 "How do you prevent coronavirus?",
                 "how to stay safe?",
                 "family member of essential worker, how to stay safe?",
-                "How can I protect myself from Covid-19?"
+                "How can I protect myself from Covid-19?",
+                "How can you help protect yourself from getting the virus?"
             ],
             "metadata": [
                 {
@@ -270,7 +276,7 @@
         },
         {
             "id": 4540,
-            "answer": "**Should I wear a face mask when I go out in public**\n\nAs the state begins taking measured steps toward re-opening, it is more important than ever to make wearing cloth face coverings a habit whenever we leave home – and to be sure to wear them the right way.\n\nAs part of Governor Scott’s [Work Smart & Stay Safe - Restart VT: Phase 3](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2012%20TO%20EXECUTIVE%20ORDER%2001-20%20.pdf), people are required to wear face coverings over their nose and mouth when using public transportation—including buses, trains and ride services, and in mass transportation stations or terminals, including airports. Additionally, businesses and non-profit and government organizations may require customers or clients to wear masks. \n\nThe advice to wear cloth masks is based on data about how COVID-19 can spread before a person has any symptoms. Because people may have COVID-19 but no symptoms, wearing a face mask may help keep people from spreading the virus. \n\nWe all still need to stay at least 6 feet away from people, even when wearing a mask, practice good hand hygiene and follow the state’s Stay Home, Stay Safe guidance.\n\nThe face covering must be worn properly to be effective and avoid the spread of germs:\n\n* Wash your hands before putting it on.\n\n* Be sure your mouth and nose are covered.\n\n* Hook loops around your ears or tie it snugly.\n\n* Do not touch the mask or pull it down while in public.\n\n* Keep it on until you get home.\n\n* Remove the mask without touching your eyes, nose or mouth, then wash your hands immediately.\n\n* Wash the mask and make sure it’s completely dry before using again. Have a few on hand so you can rotate for washing.\n\nSome people should never wear a mask, including:\n\n* Children under the age of 2\n\n* Anyone who has trouble breathing, or is unconscious\n\n* Anyone who is unable to remove the mask without assistance\n\nMedical-grade mask supplies are needed for our health care workers and first responders. Please use cloth or other recommended face coverings for your yourself and loved ones.\n\n If you feel sick, stay home to rest and avoid going out into public places. If you are sick and plan to see a doctor, you should call the office before your visit. Your doctor can provide guidance on how to avoid spreading illness, such as what steps to take while traveling to their facility and upon arrival.\n\nLearn more about [using cloth face coverings to help slow the spread of COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).",
+            "answer": "**Should I wear a face mask when I go out in public?**\n\nAs the state begins taking measured steps toward re-opening, it is more important than ever to make wearing cloth face coverings a habit whenever we leave home – and to be sure to wear them the right way.\n\nAs part of Governor Scott’s [Work Smart & Stay Safe - Restart VT: Phase 3](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2012%20TO%20EXECUTIVE%20ORDER%2001-20%20.pdf), people are required to wear face coverings over their nose and mouth when using public transportation—including buses, trains and ride services, and in mass transportation stations or terminals, including airports. Additionally, businesses and non-profit and government organizations may require customers or clients to wear masks. \n\nThe advice to wear cloth masks is based on data about how COVID-19 can spread before a person has any symptoms. Because people may have COVID-19 but no symptoms, wearing a face mask may help keep people from spreading the virus. \n\nWe all still need to stay at least 6 feet away from people, even when wearing a mask, practice good hand hygiene and follow the state’s Stay Home, Stay Safe guidance.\n\nThe face covering must be worn properly to be effective and avoid the spread of germs:\n\n* Wash your hands before putting it on.\n\n* Be sure your mouth and nose are covered.\n\n* Hook loops around your ears or tie it snugly.\n\n* Do not touch the mask or pull it down while in public.\n\n* Keep it on until you get home.\n\n* Remove the mask without touching your eyes, nose or mouth, then wash your hands immediately.\n\n* Wash the mask and make sure it’s completely dry before using again. Have a few on hand so you can rotate for washing.\n\nSome people should never wear a mask, including:\n\n* Children under the age of 2\n\n* Anyone who has trouble breathing, or is unconscious\n\n* Anyone who is unable to remove the mask without assistance\n\nMedical-grade mask supplies are needed for our health care workers and first responders. Please use cloth or other recommended face coverings for your yourself and loved ones.\n\n If you feel sick, stay home to rest and avoid going out into public places. If you are sick and plan to see a doctor, you should call the office before your visit. Your doctor can provide guidance on how to avoid spreading illness, such as what steps to take while traveling to their facility and upon arrival.\n\nLearn more about [using cloth face coverings to help slow the spread of COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).",
             "source": "KB-COVID",
             "questions": [
                 "Should I wear a face mask when I go out in public?",
@@ -282,7 +288,8 @@
                 "Has the guidance changed regarding masks?",
                 "Are masks required",
                 "face covering, is it mandatory?",
-                "Do I have to wear a mask at work?"
+                "Do I have to wear a mask at work?",
+                "facemask"
             ],
             "metadata": [
                 {
@@ -434,6 +441,10 @@
                 {
                     "name": "subcategory",
                     "value": "monitoring"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -467,7 +478,8 @@
                 "Can I be tested for COVID-19?",
                 "Testing",
                 "Should I get tested?",
-                "\n\nWhen should you get tested for the virus?"
+                "\n\nWhen should you get tested for the virus?",
+                "We want testing. "
             ],
             "metadata": [
                 {
@@ -591,12 +603,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4545,
-                        "displayText": "Who is getting tested?"
+                        "displayText": "Can I be tested for COVID-19?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -616,7 +628,10 @@
                 "Will there be a bill for testing?",
                 "cost for testing?",
                 "Why do I have to give billing information for testing?",
-                "Why was I charged for a Covid-19 test?"
+                "Why was I charged for a Covid-19 test?",
+                "coronavirus test cost",
+                "Is corona virus testing free?",
+                "How much will coronavirus test cost me?"
             ],
             "metadata": [
                 {
@@ -659,20 +674,20 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Who is getting tested?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
                     }
                 ]
             }
         },
         {
             "id": 4551,
-            "answer": "**What is the Health Department doing?**\n\nThe Vermont Department of Health is working closely with long-term care facilities and other group living facilities to prepare for COVID-19 cases and prevent outbreaks, by reviewing CDC guidance for infection control and supporting development of strategies and plans. If cases occur in these settings, the Vermont Department of Health helps the facility implement control measures and prevent additional cases.\n\nThe Department does contact tracing to investigate possible travel or exposure history and to identify anyone who had close contact with the person who has tested positive for COVID-19. Those individuals will be assessed for their exposure risk and provided with guidance for their health. Where appropriate, they will receive recommendations for self-isolation or other restrictions. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe Health Department is also prioritizing outreach to close contacts of someone who has tested positive for COVID-19 who are hospitalized, residents of long-term care facilities, people who are incarcerated, and those who are immunocompromised. This means the Health Department will work to identify people who are at high risk because they were in close contact with the individual, their household and other close contacts, health care workers and first responders who may have been exposed. They will be assessed for their exposure risk and provided with guidance for their health and recommendations for self-isolation or other measures.\n\nFind up-to-date information on the [Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "answer": "**What is the Health Department doing?**\n\nThe Vermont Department of Health is working closely with long-term care facilities and other group living facilities to prepare for COVID-19 cases and prevent outbreaks, by reviewing CDC guidance for infection control and supporting development of strategies and plans. If cases occur in these settings, the Vermont Department of Health helps the facility implement control measures and prevent additional cases.\n\nThe Department does contact tracing to investigate possible travel or exposure history and to identify anyone who had close contact with the person who has tested positive for COVID-19. Those individuals will be assessed for their exposure risk and provided with guidance for their health. Where appropriate, they will receive recommendations for self-isolation or other restrictions. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nFind up-to-date information on the [Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
             "source": "KB-COVID",
             "questions": [
                 "What is the Health Department doing?",
@@ -1198,7 +1213,7 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4687,
+                        "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
@@ -1258,7 +1273,8 @@
                 "If you have Covid-19 what to do",
                 "If I am feeling mild symptoms should I call the doctor",
                 "where can I go to self isolate?",
-                "Should I self isolate?"
+                "Should I self isolate?",
+                "I  was very ill what if that was covid"
             ],
             "metadata": [
                 {
@@ -1377,7 +1393,7 @@
         },
         {
             "id": 4572,
-            "answer": "**How long can the virus live on surfaces?**\n\nThe CDC says that current evidence suggests that the COVID-19 virus may live for hours to days on surfaces made from a variety of materials. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads. Cleaning of visibly dirty surfaces followed by disinfection is a best practice measure for prevention of COVID-19 and other viral respiratory illnesses in households and community settings.\n\nRead the [CDC's cleaning and disinfection for households](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html) guidance for more information.",
+            "answer": "**How long can the virus live on surfaces?**\n\nCurrent evidence suggests that the COVID-19 virus may live for hours to days on surfaces made from a variety of materials, according to the CDC. It may be possible that a person can get COVID-19 by touching a surface or an object that has the virus on it and then touching their own mouth, nose, or possibly their eyes. However, this is not thought to be the main way the virus spreads. The virus is thought to spread mainly from person-to-person. \n\nCleaning and disinfecting frequently touched surfaces daily is the best way to help stop the spread of the COVID-19 virus in households and community settings.\n\nRead the [CDC's cleaning and disinfection for households](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html) guidance for more information.",
             "source": "KB-COVID",
             "questions": [
                 "How long is the virus viable on surfaces?",
@@ -1435,7 +1451,7 @@
         },
         {
             "id": 4575,
-            "answer": "**What does close contact mean?**\n\nClose contact means being within six feet of someone who has tested positive for COVID-19 for a long time. This happens when caring for, being intimate partners with, living with, visiting, or sharing a health care waiting area. If you have been in close contact with someone who has tested positive for COVID-19: stay home, limit contact with others, and monitor yourself for symptoms. You do not need to call the Health Department. \n\nFor those who have tested positive for COVID-19, the Health Department is looking into possible travel or exposure history and identifying anyone with whom they have had close contact during the contagious period. The contagious period is defined as two days (48 hours) before any symptoms began through recovery.\n\nThe Health Department is now preparing to expand this effort to also include recent contacts before the contagious period. This will help to identify where a person may have been exposed to COVID-19. People who have had close contact with a person who tested positive for COVID-19 will be assessed for their exposure risk and given health guidance. Where appropriate, they will receive recommendations for self-isolation or other restrictions.\n\nClose contact does not mean being more than 6 feet away in the same indoor environment for a long period of time, walking by, or briefly being in the same room with someone who has tested positive for COVID-19. In these situations, you should observe yourself for symptoms. You do not need to call the Health Department\n\n**Examples of close contacts:**    \n\n* You live in the same home.    \n\n* You are intimate partners.     \n\n* You rode in the same car while the person was infectious.     \n\n* You had dinner together while the person was infectious.\n\n**Examples of** ***not*** **close contacts:**\n\n* You were their cashier at the grocery store.\n\n* You are a pharmacist who gave the person medication.\n\n* You were in front of the person in line at the store. \n\n* You are a coworker who briefly walked by to ask a question.\n\nAnyone who develops symptoms should stay home and call their health care provider.\n\nFind out more about [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).",
+            "answer": "**What does close contact mean?**\n\nClose contact means being within 6 feet, for a long time, of someone who has tested positive for COVID-19 during their infectious period, which starts two days (48 hours) before any symptoms began and continues until they are recovered. Close contact does not mean being more than 6 feet away in the same indoor environment for a long period of time, walking by, or briefly being in the same room with someone.\n\n**Examples of close contacts:**    \n\n* You live in the same home.    \n\n* You are intimate partners.     \n\n* You rode in the same car while the person was infectious.     \n\n* You had dinner together while the person was infectious.\n\n**Examples of** ***not*** **close contacts:**\n\n* You were their cashier at the grocery store.\n\n* You are a pharmacist who gave the person medication.\n\n* You were in front of the person in line at the store. \n\n* You are a coworker who briefly walked by to ask a question.\n\nA team at the Health Department works with people with COVID-19 to identify their close contacts. This is called contact tracing. The team assesses each close contact for their exposure risk and gives them health guidance and recommendations for self-isolation or other restrictions.\n\nThe chart describing [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) has details about what you should do and not do, depending on your exposure risk.\n\nFind out more about [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). ",
             "source": "KB-COVID",
             "questions": [
                 "What does close contact mean?"
@@ -1477,7 +1493,8 @@
             "answer": "**Can the COVID-19 virus spread through pools and hot tubs?**\n\nThere is no evidence that COVID-19 can be spread to humans through the use of pools and hot tubs. Proper operation, maintenance, and disinfection (for example, with chlorine and bromine) of pools and hot tubs should remove or inactivate the virus that causes COVID-19.\n\nFind more information from the [CDC's Water and COVID-19 FAQs](https://www.cdc.gov/coronavirus/2019-ncov/php/water.html).",
             "source": "KB-COVID",
             "questions": [
-                "Can the COVID-19 virus spread through pools and hot tubs?"
+                "Can the COVID-19 virus spread through pools and hot tubs?",
+                "community swimming pools"
             ],
             "metadata": [
                 {
@@ -1519,7 +1536,11 @@
                 "Is there a maximum of 10 in a group for now?",
                 "When can I leave my house?",
                 "boyfriend",
-                "Social distancing"
+                "Social distancing",
+                "Softball",
+                "baseball",
+                "what about sports",
+                "social distancing"
             ],
             "metadata": [
                 {
@@ -1537,13 +1558,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4591,
+                        "displayText": "Information regarding mass gatherings?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4591,
-                        "displayText": "Information regarding mass gatherings?"
+                        "qnaId": 4638,
+                        "displayText": "Can I still do outdoor activities?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1802,7 +1828,8 @@
                 "How can I prepare at home?",
                 "How should I prepare?",
                 "What should I be doing to prepare?",
-                "what can I do to protect myself and my family?"
+                "what can I do to protect myself and my family?",
+                "Everyday preventive measures "
             ],
             "metadata": [
                 {
@@ -1844,7 +1871,8 @@
                 "What changes on May 15th?",
                 "Tracking and tracing of COVID-19",
                 "When is Governor Scott going to give his next Stay home stay safe update?",
-                "Has the stay at home order been extended?"
+                "Has the stay at home order been extended?",
+                "When can retail businesses open?"
             ],
             "metadata": [
                 {
@@ -2033,7 +2061,7 @@
         },
         {
             "id": 4593,
-            "answer": "**Can I get the virus from food?**\n\nCOVID-19 is thought to spread mainly through close contact from person-to-person in respiratory droplets from someone who is infected. People who are infected often have symptoms of illness. Some people without symptoms may be able to spread virus.\n\nCurrently there is **no evidence to show that COVID-19 is spread through food or food packaging.** There is likely very low risk of getting sick from food products or packaging that are shipped over a period of days or weeks at room temperature, refrigerated or frozen.\n\nUnlike foodborne gastrointestinal (GI) viruses that often make people sick through contaminated food, COVID-19 is a virus that causes respiratory illness. Foodborne exposure to this virus is not known to be a way to get COVID-19. \n\nIt is important to always follow general food safety guidelines:\n\n* Wash your hands with soap and water for 20 seconds before preparing or eating food. \n\n* Throughout the day, wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nTo help prevent spread of the virus, the CDC recommends people practice frequent “hand hygiene,” which is either washing hands with soap or water or using an alcohol-based hand sanitizer with at least 60% alcohol. The CDC also recommends routine cleaning of frequently touched surfaces.\n\nYou should always handle and prepare food safely, including keeping raw meat separate from other foods, refrigerating fresh and perishable foods, and cooking meat to the right temperature to kill harmful germs. \n\nFind more [information on food safety](https://www.cdc.gov/foodsafety/) from the CDC.",
+            "answer": "**Can I get the virus from food?**\n\nUnlike foodborne gastrointestinal (GI) viruses that often make people sick from contaminated food, COVID-19 is a virus that causes respiratory illness. The COVID-19 virus is thought to spread mainly from person-to-person. Currently, there is **no evidence to show that COVID-19 is spread through food or food packaging**.  \n\nIt is important to always follow general food safety guidelines:\n\n* Wash your hands with soap and water for 20 seconds before preparing or eating food. \n\n* Throughout the day, wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object, like a package or container, that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nFind [shopping for food during the COVID-19 pandemic](https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers) guidance from the FDA and tips on how to [handle and prepare food safely](https://www.cdc.gov/foodsafety/) from the CDC. \n\nLearn from the CDC how to help prevent spread of the virus and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
             "source": "Editorial",
             "questions": [
                 "Can I get the virus from food?",
@@ -2077,7 +2105,7 @@
         },
         {
             "id": 4594,
-            "answer": "**Can I get the virus from touching my mail or paper products?**\n\nAccording to the U.S. Postal Service, CDC, World Health Organization, and the U.S. Surgeon General, there is currently no evidence that COVID-19 is being spread through the mail or paper products. \n\nCOVID-19 is thought to spread mainly through close contact from person-to-person in respiratory droplets from someone who is infected. People who are infected often have symptoms of illness. Some people without symptoms may be able to spread virus.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nTo help prevent spread of the virus, the CDC recommends people practice frequent “hand hygiene,” which is either washing hands with soap or water or using an alcohol-based hand sanitizer with at least 60% alcohol. The CDC also recommends routine cleaning of frequently touched surfaces.",
+            "answer": "**Can I get the virus from touching my mail or paper products?**\n\nAccording to the U.S. Postal Service, CDC, World Health Organization, and the U.S. Surgeon General, there is currently **no evidence that COVID-19 is being spread through the mail or paper products**.\n\nThe COVID-19 virus is thought to spread mainly from person-to-person. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nLearn from the CDC how to help prevent spread of the virus and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
             "source": "Editorial",
             "questions": [
                 "Can I get the virus from touching my mail or paper products?",
@@ -2089,7 +2117,8 @@
                 "Can you get Covid-19 through the mail",
                 "How long does COVID-19 live on a piece of paper?",
                 "Covid-19 cardboard",
-                "cardboard"
+                "cardboard",
+                "Covid on paper"
             ],
             "metadata": [
                 {
@@ -2110,6 +2139,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4537,
+                        "displayText": "How does COVID-19 spread?"
                     }
                 ]
             }
@@ -2445,7 +2479,9 @@
                 "My employer doesn't comply with social distancing",
                 "I am required to go to work where it is not possible to stay 6 feet away",
                 "My employer is not providing ppe",
-                "What if my employer is making me come in contact with more people than I need to be?"
+                "What if my employer is making me come in contact with more people than I need to be?",
+                "my employer is not requiring us to wear masks",
+                "my employer is not requiring customers to wear masks"
             ],
             "metadata": [
                 {
@@ -2457,6 +2493,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4646,
+                        "displayText": "Violations of the Stay Home, Stay Safe Order. "
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -2502,7 +2543,8 @@
                 "What should assisted living workers do?",
                 "Should assisted living workers have PPE?",
                 "Should assisted living workers have masks?",
-                "Healthcare"
+                "Healthcare",
+                "screening health care providers"
             ],
             "metadata": [
                 {
@@ -2516,13 +2558,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4619,
+                        "displayText": "Can I volunteer to help with the response?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4619,
-                        "displayText": "Can I volunteer to help with the response?"
+                        "qnaId": 4683,
+                        "displayText": "Who is getting tested for COVID-19 in Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2632,7 +2679,9 @@
             "answer": "**Is there a medicine I can take to prevent or treat COVID-19?**\n\nAs reports appear in the news of certain drugs being potentially used for treatment or prevention of COVID-19, the Vermont Department of Health strongly urges caution.\n\nThough the anti-malarial drugs chloroquine and hydroxychloroquine, among others, have been widely discussed as potential treatments, the Centers for Disease Control and Prevention has said there are no data currently available from randomized clinical trials that would inform how these drugs could be used to treat COVID-19.\n\nIn fact, there are significant potential risks to taking such drugs, including death.\n\nHealth officials remind Vermonters that most people who get COVID-19 can manage their symptoms at home with rest, drinking fluids and taking fever-reducing medication. Talk to your health care provider before taking any substance alleged to prevent or treat COVID-19.\n\nProviders should only prescribe these drugs for individuals with diagnosed conditions, and not for prevention, to help maintain the supply for Vermonters who need them.",
             "source": "Editorial",
             "questions": [
-                "Is there a medicine I can take to prevent or treat COVID-19?"
+                "Is there a medicine I can take to prevent or treat COVID-19?",
+                "Is new treatment drug available in Vermont?",
+                "what is the treatment for covid-19?"
             ],
             "metadata": [
                 {
@@ -2953,7 +3002,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is isolation, quarantine and self-observation?**\n\nIsolation is for people who are sick with COVID-19.\n\nQuarantine is for people with no symptoms and who were in close contact with someone sick with COVID-19 or are returning to Vermont from out of state for anything other than an essential purpose.\n\nSelf-observation is for other Vermonters who don’t have symptoms of COVID-19.\n\nFor more information, see the [What is isolation, quarantine and self-observation? chart](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).",
+            "answer": "**What is isolation, quarantine and self-observation?**\n\n* **Isolation** is for people who are sick with COVID-19.\n\n* **Quarantine** is for people with no symptoms and who were in close contact with someone sick with COVID-19 or are returning to Vermont from out of state for anything other than an essential purpose.\n\n* **Self-observation** is for other Vermonters who don’t have symptoms of COVID-19.\n\nFor more information, see the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.",
             "source": "Editorial",
             "questions": [
                 "What is isolation, quarantine and self-observation?",
@@ -3010,7 +3059,8 @@
                 "how can I to help with Covid-19?",
                 "platelets",
                 "Can I volunteer with the health department",
-                "Covid-19 jobs with health department"
+                "Covid-19 jobs with health department",
+                "How can I become a contact tracer?"
             ],
             "metadata": [
                 {
@@ -3332,7 +3382,8 @@
                 "need the extra 600 dollars",
                 "Can I collect unemployment due to Covid-19?",
                 "Can you return to work and still collect benefits?",
-                "unemployment if I left at doctor's advice"
+                "unemployment if I left at doctor's advice",
+                "What if I can't work due to my health?"
             ],
             "metadata": [
                 {
@@ -3421,7 +3472,8 @@
                 "independent contractor restrictions",
                 "when can driving schools resume?",
                 "how many people can work in the same building?",
-                "what are the rules of phase one concerning covid-19?"
+                "what are the rules of phase one concerning covid-19?",
+                " site visits  for commercial development"
             ],
             "metadata": [
                 {
@@ -3763,7 +3815,8 @@
                 "State parks",
                 "Are parks closed?",
                 "Can I still do outdoor activities with the Stay Home, Stay Safe Order?",
-                "Can I go canoeing"
+                "Can I go canoeing",
+                "biking guidlines"
             ],
             "metadata": [
                 {
@@ -3826,7 +3879,9 @@
                 "stay home stay safe what is the updated date?",
                 "When is the stay home order over?",
                 "when is the stay at home mandate changing",
-                "When will COVID-19 infections peak? When will the Stay Home, Stay Safe Order end?"
+                "When will COVID-19 infections peak? When will the Stay Home, Stay Safe Order end?",
+                "How long is Stay Home Stay Safe valid?",
+                "Is Vermont still under stay at home stay safe orders?"
             ],
             "metadata": [
                 {
@@ -3968,7 +4023,8 @@
                 "Where is COVID-19 testing done?",
                 "Testing near me",
                 "\n\nTesting in southern VT",
-                "Where is testing?"
+                "Where is testing?",
+                "Can I get a Covid test?"
             ],
             "metadata": [
                 {
@@ -3986,13 +4042,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Can I be tested for COVID-19?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -4032,7 +4088,8 @@
             "answer": "**What information is available concerning executive orders for nursing homes, assisted-living, and state therapeutic care residences?**\n\nA March 13 executive order from the Governor requires nursing homes, assisted-living facilities and state therapeutic care residences to prohibit visitor access to reduce facility-based transmission. This prohibition does not apply to medically necessary personnel or visitors for residents receiving end of life care.\n\nThere is guidance on preventing the spread of COVID-19 for [managers and owners of senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf). The guidance includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more information for [long-term care and group living situations](https://www.healthvermont.gov/response/coronavirus-covid-19/long-term-care-and-group-living-settings).",
             "source": "Editorial",
             "questions": [
-                "What information is available concerning executive orders for nursing homes, assisted-living, and state therapeutic care residences?"
+                "What information is available concerning executive orders for nursing homes, assisted-living, and state therapeutic care residences?",
+                "Westsview Meadows"
             ],
             "metadata": [
                 {
@@ -4070,7 +4127,9 @@
                 "airbnb not following executive orders",
                 "Can we report people",
                 "Who do we report someone not social distancing?",
-                "Who do we call for out of state quarantine breakers?"
+                "Who do we call for out of state quarantine breakers?",
+                "can i report someone who tests positive",
+                "can I report someone who tests positive for not quarantining?"
             ],
             "metadata": [
                 {
@@ -4338,7 +4397,7 @@
         },
         {
             "id": 4655,
-            "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you haven’t had any symptoms and you tested positive for COVID-19, you may stop home isolation when:\n* at least 10 days have passed since the date of your first positive COVID-19 test and\n* you still have not had any symptoms.\n\nAfter stopping home isolation, continue to stay six feet away from others and wear a face covering in any setting where other people are present.",
+            "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you didn’t have symptoms when you were tested, you may stop home isolation when:\n* at least 10 days have passed since the date of your first positive COVID-19 test **and**\n* you still have not had any symptoms.\n\nAfter stopping home isolation, continue to stay six feet away from others and wear a face covering in any setting where other people are present.",
             "source": "Editorial",
             "questions": [
                 "I tested positive for COVID-19, but I never had symptoms. When can I stop home isolation?",
@@ -4382,7 +4441,8 @@
                 "Outdoor seating for restaurants",
                 "Food truck outdoor seating",
                 "Must restaurant workers offering to go food wear masks?",
-                "Are food providers supposed to wear masks"
+                "Are food providers supposed to wear masks",
+                "Guidelines for employers"
             ],
             "metadata": [
                 {
@@ -4394,6 +4454,21 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4646,
+                        "displayText": "Violations of the Stay Home, Stay Safe Order"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4603,
+                        "displayText": "I don’t feel safe at work."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4681,
+                        "displayText": "Information about reopening a business."
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -4681,7 +4756,8 @@
             "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nHowever, there are some exceptions, and this guidance may change. Please check the [ACCD’s COVID-19 Resource Recovery Center](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance) under “Marriage” for up-to-date information.",
             "source": "Editorial",
             "questions": [
-                "Can we still have our wedding ceremony?"
+                "Can we still have our wedding ceremony?",
+                "Will weddings be allowed in September?"
             ],
             "metadata": [
                 {
@@ -4777,7 +4853,8 @@
                 "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?",
                 "Long term rentals allowed?",
                 "rental",
-                "Can a landlord move someone into my house during COVID-19?"
+                "Can a landlord move someone into my house during COVID-19?",
+                "look at real-estate"
             ],
             "metadata": [
                 {
@@ -5035,7 +5112,7 @@
         },
         {
             "id": 4678,
-            "answer": "**Is it safe to go to the hospital?**\n\nIf you are having symptoms of a more serious medical condition, such as heart attack or stroke, it is important to get medical care right away. Call 9-1-1, go to the emergency room, or call your doctor if your symptoms are not life threatening.\n\nVermont hospitals are safe to seek care. They have measures in place to protect patients in the hospital from contracting COVID-19. This includes separating patients with COVID-19 from other patients. There is a greater risk to staying at home if experiencing symptoms of a serious medical condition than going to the hospital.",
+            "answer": "**Is it safe to go to the hospital?**\n\nIf you are having symptoms of a more serious medical condition, such as heart attack or stroke, it is important to get medical care right away. Call 9-1-1, go to the emergency room, or call your doctor if your symptoms are not life threatening.\n\nVermont hospitals are safe to seek care. They have measures in place to protect patients in the hospital from contracting COVID-19. This includes separating patients with COVID-19 from other patients. There is a greater risk to staying at home if experiencing symptoms of a serious medical condition than going to the hospital.\n\nAs of May 4, health care providers may also begin to do some clinic visits, diagnostic imaging, and outpatient surgeries and procedures again – as long as they have a minimal impact on inpatient hospital bed capacity and personal protective equipment (PPE). This does not include elective surgeries that require staying at the hospital, which are not permitted at this time. ",
             "source": "Editorial",
             "questions": [
                 "Is it safe to go to the hospital?"
@@ -5096,7 +5173,12 @@
                 "When will we reopen",
                 "When is phase 3?",
                 "When will things start to open up in Vermont",
-                "When are Covid-19 restrictions lifted"
+                "When are Covid-19 restrictions lifted",
+                "who can return to work",
+                "Are stores open?",
+                "What is open?",
+                "What is open in Vermont?",
+                "When will the DMV be open?"
             ],
             "metadata": [
                 {
@@ -5208,22 +5290,33 @@
             }
         },
         {
-            "id": 4687,
-            "answer": "This did NOT answer my question.",
+            "id": 4688,
+            "answer": "**Can ticks or mosquitoes spread the COVID-19 virus?**\n\nAt this time, the CDC has no data to suggest that the COVID-19 virus or other similar coronaviruses are spread by mosquitoes or ticks. The virus is thought to spread mainly from person-to-person.\n\nLearn [how to prevent mosquito bites](https://www.healthvermont.gov/disease-control/mosquito-borne-diseases/prevent-mosquito-bites) and [how to prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).",
             "source": "Editorial",
             "questions": [
-                "This did NOT answer my question."
+                "Can ticks or mosquitoes spread the COVID-19 virus?"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "chitchat"
+                    "value": "how it spreads"
                 }
             ],
             "alternateQuestionClusters": [],
             "context": {
                 "isContextOnly": false,
-                "prompts": []
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4537,
+                        "displayText": "How does COVID-19 spread?\n"
+                    }
+                ]
             }
         }
     ]
