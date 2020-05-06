@@ -31,6 +31,13 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "List Changes",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\tools\\listChanges.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "Deploy to Prod",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\tools\\deployToProd.js"
