@@ -1,5 +1,3 @@
-const fs = require("fs");
-const jsoncParser = require("jsonc-parser")
 const fetch = require("node-fetch")
 const chalk = require("chalk")
 

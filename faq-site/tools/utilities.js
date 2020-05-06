@@ -10,7 +10,8 @@ module.exports = {
     isEmptyObj,
     getCurrentTimestamp,
     deduplicate,
-    writeFile
+    writeFile,
+    removeWhitespace
 }
 
 
@@ -135,4 +136,8 @@ async function writeFile(path, contents) {
     } catch (error) {
         console.error(error)
     }
+}
+
+function removeWhitespace(str) {
+    return str.replace(/\s/g, "")
 }
