@@ -112,7 +112,7 @@ async function validateUrlsValid(allFaqs) {
     let responses = await Promise.all(fetchUrls)
 
     // check if they don't return 200
-    let badResponses = responses.filter(x => x.status !== 200)
+    let badResponses = responses.filter(x => x.status !== 200) //304
 
     // print errors if we got em'
     if (badResponses.length) {

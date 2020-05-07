@@ -73,7 +73,7 @@ function listChanges(allFaqsCur, allFaqsPrev) {
         console.log("\n\n" + chalk.yellow.bold("Updated Question Titles"))
         updatedFaqs.forEach(x => {
             console.log(chalk.yellow.bold("• ") + x.prevQuestion)
-            console.log("🡒 " + x.curQuestion)
+            console.log("🡒 " + x.curQuestion + "\n")
         })
     }
 
