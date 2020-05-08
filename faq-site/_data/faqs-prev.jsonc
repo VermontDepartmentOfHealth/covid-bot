@@ -339,7 +339,7 @@
         },
         {
             "id": 4541,
-            "answer": "**Can pets get sick from COVID-19?**\n\nOn April 5, the USDA confirmed the [first case of a tiger being infected with COVID-19](http://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19). The tiger is at a zoo in New York.\n\nOn April 22, the CDC announced the first confirmed cases of COVID-19 infection in two pet cats. These are the first pets in the U.S. to test positive. The cats live in two separate areas of New York State. Find out more from the CDC’s press release [Confirmation of COVID-19 in Two Pet Cats in New York](https://www.cdc.gov/media/releases/2020/s0422-covid-19-cats-NYC.html).\n\nThe CDC recommends the following:\n\n* Do not let pets interact with people or other animals outside the household.\n\n* Keep cats indoors when possible to prevent them from interacting with other animals or people.\n\n* Walk dogs on a leash, keeping at least 6 feet from other people and animals.\n\n* Avoid dog parks or public places where large numbers of people and dogs may gather.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Can pets get sick from COVID-19?**\n\nOn April 5, the USDA confirmed the [first case of a tiger being infected with COVID-19](http://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19). The tiger is at a zoo in New York.\n\nOn April 22, the CDC announced the first confirmed cases of COVID-19 infection in two pet cats. These are the first pets in the U.S. to test positive. The cats live in two separate areas of New York State. Find out more from the CDC’s press release [Confirmation of COVID-19 in Two Pet Cats in New York](https://www.cdc.gov/media/releases/2020/s0422-covid-19-cats-NYC.html).\n\nThe CDC recommends the following:\n\n* Do not let pets interact with people or other animals outside the household.\n\n* Keep cats indoors when possible to prevent them from interacting with other animals or people.\n\n* Walk dogs on a leash, keeping at least 6 feet from other people and animals.\n\n* Avoid dog parks or public places where large numbers of people and dogs may gather.\n\nAt this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
                 "Can pets get sick from COVID-19?",
@@ -510,11 +510,6 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4598,
-                        "displayText": "Do I need to get my pet tested for COVID-19?\n"
-                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4561,
@@ -908,7 +903,7 @@
         },
         {
             "id": 4559,
-            "answer": "**Are there any recommendations for older adults (65 years and older) and people of any age with underlying medical conditions?**\n\nAccording to the CDC, some people might be at higher risk of getting very sick from COVID-19, including older adults (65 years and older) and people of any age who have serious underlying medical conditions like heart disease, diabetes, lung disease or moderate to severe asthma, severe obesity, chronic kidney disease undergoing dialysis, liver disease, or people who are immunocompromised including cancer treatment. People who live in a nursing home or long-term care facility are also at high risk of getting very sick from COVID-19.\n\nOlder adults and people with underlying medical conditions should take extra precautions including:\n\n* Continue your medications and do not change your treatment plan without talking to your health care provider.\n\n* Have at least a 2-week supply of prescription and non-prescription medications.\n\n* Talk to your healthcare provider about whether your vaccinations are up to date.\n\n* Do not delay getting emergency care for your underlying medical condition because of COVID-19.\n\n* Call your health care provider if you have any concerns about your underlying medical conditions or if you get sick and think that you may have COVID-19.\n\nRead the CDC’s full guidance on [people who are at higher risk for serious illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).",
+            "answer": "**Are there any recommendations for older adults (65 years and older) and people of any age with underlying medical conditions?**\n\nAccording to the CDC, some people might be at higher risk of getting very sick from COVID-19, including older adults (65 years and older) and people of any age who have serious underlying medical conditions like heart disease, diabetes, lung disease or moderate to severe asthma, severe obesity, chronic kidney disease undergoing dialysis, liver disease, or people who are immunocompromised including cancer treatment. People who live in a nursing home or long-term care facility are also at high risk of getting very sick from COVID-19.\n\nIn addition to the general [COVID-19 prevention](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) steps, older adults and people with underlying medical conditions should take extra precautions including:\n\n* Continue your medications and do not change your treatment plan without talking to your health care provider.\n\n* Stay home as much as possible, leaving only for essential \npurposes, like going to the grocery store and pharmacy. Consider having \ngroceries or medications delivered.\n\n* Have at least a 2-week supply of prescription and non-prescription medications.\n\n* Talk to your health care provider about whether your vaccinations are up to date.\n\n* Do not delay getting emergency care for your underlying medical condition because of COVID-19.\n\n* Call your health care provider if you have any concerns about your underlying medical conditions or if you get sick and think that you may have COVID-19.\n\nRead the CDC’s full guidance on [people who are at higher risk for serious illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).",
             "source": "KB-COVID",
             "questions": [
                 "seniors",
@@ -1169,18 +1164,19 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to be quarantined when I return?**\n\nVermonters are being asked to stay in Vermont to the fullest extent possible, except for essential activities. If you travel outside of the state or have entered Vermont from out of state, you must quarantine for 14 days. There are currently no travel restrictions for travel within the U.S. or specific health-related recommendations upon return.\n\nOn March 28, 2020, the CDC issued a Domestic Travel Advisory for residents of New York, New Jersey, and Connecticut, which advises them to not travel within the U.S. for 14 days, unless it is essential.\n\nHowever, cases of COVID-19 have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers who are infected. There are several things you should consider when deciding whether it is safe for you to travel:\n\n* Is COVID-19 spreading where you’re going?\n\n* Will you or your travel companion(s) be in close contact with others during your trip?\n\n* Are you or your travel companion(s) at higher risk of severe illness if you do get COVID-19?\n\n* Do you have a plan for taking time off from work or school, in case you get exposed to, or are sick with, COVID-19?\n\n* Do you live with someone who is 65 years or older or who has a serious underlying medical condition?\n\n* Is COVID-19 spreading where you live?\n\nSince guidance keeps evolving, continue to check for up-to-date [information about travel in the United States](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) from the CDC.",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCases of coronavirus disease (COVID-19) have been reported in all states, and some areas are experiencing community spread of the disease. Travel increases your chances of getting and spreading COVID-19.\n\nThe [CDC recommends](http://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) you stay home as much as possible, especially if your trip is not essential, and practice social distancing especially if you are at higher risk of severe illness. Don’t travel if you are sick or travel with someone who is sick.\n\nIn Vermont, people from other states and countries are still being asked not to visit. If they do, they are required to self-quarantine for at least 14 days after arriving in Vermont before engaging in any activities, such as grocery shopping or going for walks.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart. ",
             "source": "KB-COVID",
             "questions": [
                 "Should I fly to Texas?",
                 "Should I go to Texas?",
-                "Is it okay to travel within the United States? Do I need to be quarantined when I return?",
                 "Can I travel to Boston",
                 "What is essential travel",
                 "What kind of travel is ok?",
                 "Can I travel?",
                 "Can I leave Vermont?",
-                "Travel to Pa"
+                "Travel to Pa",
+                "travel to neighboring states",
+                "Is it okay to travel within the United States? Do I need to quarantine when I return?"
             ],
             "metadata": [
                 {
@@ -1200,6 +1196,11 @@
                         "displayOrder": 0,
                         "qnaId": 4615,
                         "displayText": "Are there any travel restrictions into Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4637,
+                        "displayText": "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?"
                     },
                     {
                         "displayOrder": 0,
@@ -1442,7 +1443,7 @@
         },
         {
             "id": 4575,
-            "answer": "**What does close contact mean?**\n\nClose contact means being within 6 feet, for a long time, of someone who has tested positive for COVID-19 during their infectious period, which starts two days (48 hours) before any symptoms began and continues until they are recovered. Close contact does not mean being more than 6 feet away in the same indoor environment for a long period of time, walking by, or briefly being in the same room with someone.\n\n**Examples of close contacts:**    \n\n* You live in the same home.    \n\n* You are intimate partners.     \n\n* You rode in the same car while the person was infectious.     \n\n* You had dinner together while the person was infectious.\n\n**Examples of** ***not*** **close contacts:**\n\n* You were their cashier at the grocery store.\n\n* You are a pharmacist who gave the person medication.\n\n* You were in front of the person in line at the store. \n\n* You are a coworker who briefly walked by to ask a question.\n\nA team at the Health Department works with people with COVID-19 to identify their close contacts. This is called contact tracing. The team assesses each close contact for their exposure risk and gives them health guidance and recommendations for self-isolation or other restrictions.\n\nThe chart describing [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) has details about what you should do and not do, depending on your exposure risk.\n\nFind out more about [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). ",
+            "answer": "**What does close contact mean?**\n\nClose contact means being within 6 feet, for a long time, of someone who has tested positive for COVID-19 during their infectious period, which starts two days (48 hours) before any symptoms began and continues until they are recovered. Close contact does not mean being more than 6 feet away in the same indoor environment for a long period of time, walking by, or briefly being in the same room with someone.\n\nAs the state reopens, Vermonters should consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\n**Examples of close contacts:**    \n\n* You live in the same home.    \n\n* You are intimate partners.     \n\n* You rode in the same car while the person was infectious.     \n\n* You had dinner together while the person was infectious.\n\n**Examples of** ***not*** **close contacts:**\n\n* You were their cashier at the grocery store.\n\n* You are a pharmacist who gave the person medication.\n\n* You were in front of the person in line at the store. \n\n* You are a coworker who briefly walked by to ask a question.\n\nA team at the Health Department works with people with COVID-19 to identify their close contacts. This is called contact tracing. The team assesses each close contact for their exposure risk and gives them health guidance and recommendations for self-isolation or other restrictions.\n\nThe chart describing [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) has details about what you should do and not do, depending on your exposure risk.\n\nFind out more about [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). ",
             "source": "KB-COVID",
             "questions": [
                 "What does close contact mean?"
@@ -1546,7 +1547,7 @@
                 },
                 {
                     "name": "subcategory",
-                    "value": "social or physical) distancing"
+                    "value": "social or physical distancing"
                 },
                 {
                     "name": "sort",
@@ -1741,7 +1742,7 @@
                 },
                 {
                     "name": "subcategory",
-                    "value": "social or physical) distancing"
+                    "value": "social or physical distancing"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -1824,7 +1825,7 @@
         },
         {
             "id": 4586,
-            "answer": "**How can I prepare at home?**\n\n* **Plan ways to care for those in your home who might be at greater risk for serious complications,** like older adults (65 years and older) and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need. \n\n* **Choose a room in your home that can be used to separate sick household members from those who are healthy.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n\n* **Make sure you have enough groceries and other supplies for 14 days in case you get sick and need to quarantine.** Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n\n* **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially those who are 65 years and older, who have underlying medical conditions, or who live alone.\n\n* **Take care of the emotional health of your household members.** Outbreaks can be stressful for adults and children. Talk with your children about the outbreak, try to stay calm, and reassure them that they are safe.",
+            "answer": "**How can I prepare at home?**\n\n* **Plan ways to care for those in your home who might be at greater risk for serious complications,** like older adults (65 years and older) and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need. \n\n* **Choose a room in your home that can be used to separate sick household members from those who are healthy.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n\n* **Make sure you have enough groceries and other supplies for 14 days in case you get sick and need to quarantine.** Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n\n* **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially those who are 65 years and older, who have underlying medical conditions, or who live alone.\n\n* **Take care of the emotional health of your household members.** Outbreaks can be stressful for adults and children. Talk with your children about the outbreak, try to stay calm, and reassure them that they are safe.\n\n* **Keep a daily list of other people you are in close contact with.** As the state reopens, Vermonters should consider keeping a contact journal. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.",
             "source": "Editorial",
             "questions": [
                 "How can I prepare at home?",
@@ -1964,7 +1965,8 @@
             "answer": "**Why is Vermont reporting people who have tested for COVID-19 in the way that it is?**\n\nWith the quickly changing situation, we continue to adjust reporting, looking for the best ways to communicate with the public. Information is updated daily on the on [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).\n\nWe need to assume that we are all at risk, whatever our location. Staying at home and social distancing can continue to make an enormous difference. Please continue to look to the [Health Department’s COVID-19 website](https://www.healthvermont.gov/covid19) for current information.",
             "source": "Editorial",
             "questions": [
-                "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?"
+                "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?",
+                "where do results get attributed?"
             ],
             "metadata": [
                 {
@@ -2269,41 +2271,6 @@
                         "displayOrder": 0,
                         "qnaId": 4665,
                         "displayText": "Where can I buy cloth face coverings?"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4598,
-            "answer": "**Do I need to get my pet tested for COVID-19?**\n\nNo. At this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
-            "source": "Editorial",
-            "questions": [
-                "Pet COVID-19"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "pets and other animals"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4537,
-                        "displayText": "How is COVID-19 spread?\n"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4541,
-                        "displayText": "Can pets get sick from COVID-19?"
                     }
                 ]
             }
@@ -2838,10 +2805,9 @@
         },
         {
             "id": 4615,
-            "answer": "**Are there any travel restrictions into Vermont?**\n\nAs of March 30, 2020, the governor has directed Vermont residents and non-residents alike coming from outside the State for non-essential purposes to self-monitor and stay home for a period of 14 days. This includes the recommendation of the federal government that those who have passed through or left New York City should self-monitor and stay home for a period of 14 days. \n\nThis does not include people who have crossed into Vermont for “essential purposes.” This includes travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security. For more details, see the [Governor’s Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) to the Stay Home, Stay Safe Order.\n\nFor those who have crossed into Vermont for non-essential purposes and are being asked to stay home: While in quarantine, residents and non-residents may need to rely on neighbors, friends or family living outside of the household to deliver groceries to their home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required. Learn more about quarantine on the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nVisitors are instructed not to travel to Vermont if they are displaying symptoms or if they are traveling from cities and regions identified as COVID-19 “hot spots,” including, among others, the states of Florida and Louisiana and the cities of Detroit, Chicago and New York City. \n\nIn addition, residents of New York, New Jersey and Connecticut should stay in their home states in strict compliance with CDC travel guidance issued Saturday, March 28, 2020. This is essential if you will be in close contact with  older adults (65 years and older) and people of any age who have serious underlying medical conditions. \n\nFor more information, see the [Governor’s Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) to the Stay Home, Stay Safe Order.",
+            "answer": "**Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?**\n\nVisitors from other states, and countries, are still being asked not to come to Vermont. If they do, they are required to quarantine at home for 14 days after arriving in Vermont and before engaging in any activities, like grocery shopping or going for walks.\n\nAnyone who leaves Vermont for more than one day for travel that is not “essential\" is required to quarantine at home for 14 days after arriving in Vermont and before engaging in any activities, like grocery shopping or going for walks.\n\nEssential travel is defined as travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security. Read [Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) for more details.\n\nFor those who are in a 14-day quarantine, you may need to rely on neighbors, friends or family living outside of the household to deliver groceries to your home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nRead [Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) and [Addendum 13](https://governor.vermont.gov/content/addendum-13-executive-order-01-20) for more information about travel into Vermont. ",
             "source": "Editorial",
             "questions": [
-                "Are there any travel restrictions into Vermont?",
                 "What if I work in a different state?",
                 "Travel",
                 "Coming From New York",
@@ -2865,7 +2831,16 @@
                 "returning to Vermont from another state?",
                 "Coming to Vermont",
                 "vacationers?",
-                " come to Vermont"
+                " come to Vermont",
+                "If I visit vermont",
+                "Can you travel to Vermont",
+                "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?",
+                "out of state",
+                "can I visit family if I'm from out of state",
+                "visiting",
+                "after entering VT when can you leave",
+                "can I visit VT?",
+                "Do you have to stay 14 days in VT?"
             ],
             "metadata": [
                 {
@@ -2885,11 +2860,6 @@
                         "displayOrder": 0,
                         "qnaId": 4637,
                         "displayText": "Information on travel to neighboring states."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4624,
-                        "displayText": "Out-of-state visitors allowed to be in Vermont?"
                     },
                     {
                         "displayOrder": 0,
@@ -3238,46 +3208,6 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4624,
-            "answer": "**Are out-of-state visitors allowed to be in Vermont?**\n\nThere is currently no ban on non-residents entering the state of Vermont. However, there are directives to limit and discourage travel, as lodging facilities – including vacation rentals, hotels, inns, Airbnbs, etc. – have been ordered closed except for those needed for COVID-19 response. The State has suspended Amtrak service and the Vermont Association of Snow Travelers (VAST) has closed its trail network for the season.\n\nAll visitors need to follow all of the Governor’s orders, which includes staying at home or in their place of residence and leaving only for essential reasons such as: personal safety, groceries or medicine, medical care, exercise, care of others, work, and curbside pick-up of goods, meals or beverages.",
-            "source": "Editorial",
-            "questions": [
-                "Are out-of-state visitors allowed to be in Vermont?",
-                "Can I visit VT?",
-                "Do you have to stay 14 days in VT?",
-                "After entering VT when can you leave?",
-                "out of state",
-                "Visiting",
-                "Can I visit family if I’m from out of state?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "travel"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "vermont"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -3795,25 +3725,25 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4577,
-                        "displayText": "What does social distancing mean?"
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? "
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4636,
-                        "displayText": "Is my job or business considered essential? "
+                        "qnaId": 4615,
+                        "displayText": "Are there any travel restrictions into Vermont?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
         },
         {
             "id": 4638,
-            "answer": "**Can I still do outdoor activities with the Stay Home, Stay Safe Order?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise and taking in Vermont’s natural beauty is important for our mind and bodies. We can safely continue to enjoy the outdoors with these measures:\n\n* **Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n\n* **Take health and safety precautions**: Keep the virus from spreading by staying at least 6 feet apart from other people outside of your household, washing or sanitizing your hands, and staying home when you are sick.\n\n* **Bring a cloth face mask with you.** Put a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) on if you encounter other people and stop to chat or if you are on a crowded trail or bike path.\n\n* **Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to find out if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n\n* **Choose no-contact sports**: For example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but signage should be posted prohibiting contact games. Do not share sports equipment with people outside of your household.\n\n* **Check for ticks and wear an EPA-registered tick repellent**. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFind out more about [outdoor recreation and COVID-19](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) from the Vermont Department of Forests, Parks and Recreation.\n\nPlease note that marinas are not open for in-person operations at this time.\n\nFind up-to-date [information on outdoor recreation](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#outdoor-recreation) from the Agency of Commerce and Community Development.\n\nLearn how to [safely connect with friends and \nfamily](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).",
+            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty is important for our mind and bodies.\n\nBusinesses, non-profit and government entities that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact can open on May 7. These include, but are not limited to, state and municipal parks, recreation associations, trail networks, golf courses, big game check stations and guided expeditions.\n\nCampgrounds, marinas and beaches are not permitted to open at this time. Find up-to-date [information on outdoor recreation](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#outdoor-recreation) and [campgrounds](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#campgrounds-rv-parks-seasonal-resorts) from the Agency of Commerce and Community Development.\n\nContact sports and games should not be played at this time.\n\nWe can safely continue to enjoy outdoor activities with these measures:\n\n* **Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n\n* **Take health and safety precautions.** Keep the virus from spreading by staying at least 6 feet apart from other people outside of your household, washing or sanitizing your hands, and staying home when you are sick.\n\n* **Bring a cloth face mask with you.** Put a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) on if you encounter other people and stop to chat or if you are on a crowded trail or bike path.\n\n* **Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to find out if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n\n* **Choose no-contact sports**: For example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but signage should be posted prohibiting contact games. Do not share sports equipment with people outside of your household.\n\n* **Check for ticks and wear an EPA-registered tick repellent**. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/outdoor-recreation-and-covid-19). \n\nLearn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).",
             "source": "Editorial",
             "questions": [
                 "travel to another place in Vermont for recreation?",
@@ -3836,7 +3766,8 @@
                 "Are parks closed?",
                 "Can I still do outdoor activities with the Stay Home, Stay Safe Order?",
                 "Can I go canoeing",
-                "biking guidlines"
+                "biking guidlines",
+                "Are sports and outdoor activities allowed?"
             ],
             "metadata": [
                 {
@@ -3907,7 +3838,8 @@
                 "When will COVID-19 infections peak? When will the Stay Home, Stay Safe Order end?",
                 "How long is Stay Home Stay Safe valid?",
                 "Is Vermont still under stay at home stay safe orders?",
-                "projected timeline"
+                "projected timeline",
+                "What will restrictions be in August"
             ],
             "metadata": [
                 {
@@ -3931,8 +3863,13 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4296,7 +4233,7 @@
         },
         {
             "id": 4651,
-            "answer": "**Is there any assistance available for food?**\n\nHunger Free Vermont is working to make sure we’re all prepared to mitigate the impacts of COVID-19 on the food security of Vermonters, particularly older adults (65 years and older), working Vermonters who may lose hours and paychecks, those without access to paid leave, and families and students who will be disproportionately impacted by school closings. Learn more about [Hunger Free Vermont](https://www.hungerfreevt.org/coronavirus).\n\nWIC provides access to healthy foods, nutrition education and counseling, breastfeeding support, and community referrals. WIC is available to people who are pregnant, caregivers, or parents with a child under five. Vermont WIC is open, and most services are being done by phone appointment to align with social distancing. [Find out more about WIC and apply online](https://www.healthvermont.gov/wic) or text ‘VTWIC’ to 855-11.",
+            "answer": "**Is there any assistance available for food?**\n\nHunger Free Vermont is working to make sure we’re all prepared to mitigate the impacts of COVID-19 on the food security of Vermonters, particularly older adults (65 years and older), working Vermonters who may lose hours and paychecks, those without access to paid leave, and families and students who will be disproportionately impacted by school closings. Learn more about [Hunger Free Vermont](https://www.hungerfreevt.org/coronavirus).\n\nWIC provides access to healthy foods, nutrition education and counseling, breastfeeding support, and community referrals. WIC is available to people who are pregnant, caregivers, or parents with a child under five. Vermont WIC is open, and most services are being done by phone appointment to align with social distancing. Find out more [about WIC and apply online](https://www.healthvermont.gov/wic) or text ‘VTWIC’ to 855-11.\n\n3SquaresVT can help you stretch your food budget so you can put three healthy meals on your table every day. Find out more [about 3SquaresVT and apply online](https://dcf.vermont.gov/benefits/3SquaresVT/).",
             "source": "Editorial",
             "questions": [
                 "Is there any assistance available for food?",
@@ -4661,7 +4598,7 @@
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Executive Order does not prevent people from going to their seasonal home or RV. If you are traveling to Vermont from out-of-state, you must do a 14-day quarantine as soon as you arrive in Vermont and comply with all of the [Stay Home, Stay Safe Order](https://governor.vermont.gov/content/addendum-7-executive-order-01-20).",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Stay Home, Stay Safe Order does not prevent people from going to their seasonal home or RV. \n\nAny individual returning to, or traveling to, Vermont from another state or country for non-essential reasons is required to quarantine at home for 14 days upon their return and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Stay Home, Stay Safe Order](https://governor.vermont.gov/covid19response).",
             "source": "Editorial",
             "questions": [
                 "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
@@ -4685,11 +4622,6 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4624,
-                        "displayText": "Out-of-state visitors allowed to be in Vermont?"
-                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -5250,7 +5182,7 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4639,
-                        "displayText": "When will the Stay Home, Stay Safe Order end?\n"
+                        "displayText": "When will COVID-19 infections peak? When will the Stay Home, Stay Safe Order end?"
                     }
                 ]
             }
@@ -5282,7 +5214,7 @@
         },
         {
             "id": 4682,
-            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts. We will be using an app called SARA Alert, a secure monitoring and reporting system for public health that is being used in other states. This system will allow us to offer people who have tested positive for COVID-19, and their close contacts, to enroll in a text-based system to help us keep in touch and monitor their symptoms. ",
+            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts. We will be using an app called SARA Alert, a secure monitoring and reporting system for public health that is being used in other states. This system will allow us to offer people who have tested positive for COVID-19, and their close contacts, to enroll in a text-based system to help us keep in touch and monitor their symptoms.\n\nAs the state reopens, Vermonters should consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19. ",
             "source": "Editorial",
             "questions": [
                 "What is contact tracing?"
