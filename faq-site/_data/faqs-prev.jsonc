@@ -206,7 +206,7 @@
         },
         {
             "id": 4538,
-            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n* **Do activities at home** as much as possible. \n\n* **Wash hands often** using soap and water or hand sanitizer with at least 60% alcohol.\n\n* **Avoid people who are sick** (coughing and sneezing).\n\n* **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks).\n\n* **Wash items**, including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nAs of May 6, Vermonters are now allowed to gather in small groups of 10 or fewer people as long as health and safety precautions are followed. Members of one household may now choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/resources).",
+            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n* **Socialize with household members or one other trusted household** that is also taking health and safety precautions. \n\n* **Wash hands often** using soap and water or hand sanitizer with at least 60% alcohol.\n\n* **Avoid people who are sick** (coughing and sneezing).\n\n* **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks).\n\n* **Wash items** including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nAs of May 6, Vermonters are now allowed to gather in small groups of 10 or fewer people as long as health and safety precautions are followed. Members of one household may now choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/resources) and information from the CDC on [caring for young children](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).",
             "source": "KB-COVID",
             "questions": [
                 "Can kids get Covid-19?",
@@ -402,7 +402,7 @@
         },
         {
             "id": 4543,
-            "answer": "**How many people are being monitored in Vermont?**\n\nThe number of people being monitored is updated every day on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity). The number changes rapidly as people return to Vermont from affected areas and as others complete the 14-day monitoring period.",
+            "answer": "**How many people are being monitored in Vermont?**\n\nThe number of people being monitored is updated every day on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).",
             "source": "KB-COVID",
             "questions": [
                 "How many people are being monitored in Vermont?",
@@ -607,11 +607,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4579,
-                        "displayText": "Urgent Care centers that can collect samples?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4545,
                         "displayText": "Can I be tested for COVID-19?"
                     },
@@ -707,10 +702,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vt is doing"
-                },
-                {
-                    "name": "subcategory",
                     "value": "state's response"
                 }
             ],
@@ -738,14 +729,14 @@
         },
         {
             "id": 4553,
-            "answer": "**What should child cares and schools in Vermont do?**\n\nOn March 26, the governor directed schools for preK-12 students to remain dismissed for in-person instruction for the remainder of the 2019-2020 school year, unless otherwise ordered by the Governor if the COVID-19 response should allow. Schools are required to have continuity of learning plans for remote learning implemented.\n\nAll child care programs are closed during this same period, except for those that will remain open to provide services to Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\nRead the [guidance for child care programs that remain open](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/guidance-for-childcare.html) from the CDC.\n\nFind more information for [schools and child care programs](https://www.healthvermont.gov/COVID19-schools).",
+            "answer": "**What should child care programs and schools in Vermont do?**\n\nSchools for PreK-12 students remain dismissed for in-person instruction for the rest of the 2019-2020 school year. Schools are required to have continuity of learning plans for remote learning implemented.\n\nStarting June 1, child care providers can decide to reopen if they follow health and safety precautions. Some may choose not to reopen or are unable to do so. Find [guidance on child care](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#education-childcare) from the Agency of Commerce and Community Development as it becomes available.\n\nChild care programs remain open for Essential Persons.\n\nEssential Persons are defined as including: \n\n* staff and providers of child care and education services (including custodial and kitchen staff and other support staff) for children of other Essential Persons\n\n* providers of healthcare \n\n* criminal justice personnel \n\n* public health employees\n\n* firefighters\n\n* Vermont National Guard personnel called to duty for this response \n\n* other first responders\n\n* state employees determined to be essential for response to this crisis under the State Emergency Operations Center.\n\nFind more information for [schools and child care programs](https://www.healthvermont.gov/COVID19-schools).",
             "source": "KB-COVID",
             "questions": [
-                "What should child cares and schools in Vermont do?",
                 "What should I do at my day care?",
                 "how long are daycares closed",
                 "Childcare closures",
-                "special education"
+                "special education",
+                "What should child care programs and schools in Vermont do?"
             ],
             "metadata": [
                 {
@@ -819,10 +810,11 @@
         },
         {
             "id": 4556,
-            "answer": "**What should colleges and universities who are planning student foreign travel do?**\n\nPlease read the [guidance for student foreign travel for institutions of higher education](https://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html) from the CDC.",
+            "answer": "**What should colleges and universities who are planning student foreign travel do?**\n\nPlease read the [guidance for institutions of higher education with students participating in foreign travel or study abroad programs](https://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html) from the CDC.",
             "source": "KB-COVID",
             "questions": [
-                "What should colleges and universities who are planning student foreign travel do?"
+                "What should colleges and universities who are planning student foreign travel do?",
+                "study abroad"
             ],
             "metadata": [
                 {
@@ -1014,11 +1006,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4579,
-                        "displayText": "Which urgent care centers can collect samples?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4534,
                         "displayText": "What are the symptoms of COVID-19?"
                     },
@@ -1037,7 +1024,7 @@
         },
         {
             "id": 4563,
-            "answer": "**I traveled through an international airport. Do I need to notify the Health Department?**\n\nAccording to CDC, layovers at international airports in are included in CDC’s recommendation to avoid nonessential travel. If a layover is unavoidable, CDC recommends that travelers not leave the airport.\n\nAs of March 10, travelers with international layovers returning to Vermont will follow the same monitoring guidelines as if they are a returning traveler from that country. Read the CDC’s guidance on [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).",
+            "answer": "**I traveled through an international airport. Do I need to notify the Health Department?**\n\nTravelers with international layovers returning to Vermont need to follow the same monitoring guidelines as if they are a returning traveler from that country. If you have a layover in **China** or **Iran**, you should:\n\n1. Call your health care provider and\n\n2. Call the Vermont Department of Health at 802-863-7240\n\nRead the CDC’s guidance on [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).",
             "source": "KB-COVID",
             "questions": [
                 "I traveled through an international airport. Do I need to notify the Health Department?",
@@ -1103,12 +1090,12 @@
         },
         {
             "id": 4565,
-            "answer": "**Where is it safe to travel internationally?**\n\nAs of March 27, the CDC recommends that travelers avoid all nonessential international travel. \n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html). \n\nYou can also check the [CDC's FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).",
+            "answer": "**Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?**\n\nThe Department of State has issued a [Global Level 4 Health Advisory](https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-level-4-health-advisory-issue.html), and the CDC recommends that travelers avoid all nonessential international travel.\n\nThe CDC also recommends that no one travel on cruise ships, including river cruises, worldwide. That’s because the risk of COVID-19 on cruise ships is high.\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html). \n\nYou can also check the [CDC's FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).",
             "source": "KB-COVID",
             "questions": [
-                "Where is it safe to travel internationally?",
                 "Canada",
-                "The Canadian Border"
+                "The Canadian Border",
+                "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?\n"
             ],
             "metadata": [
                 {
@@ -1134,7 +1121,7 @@
         },
         {
             "id": 4566,
-            "answer": "**What should I do if I have traveled internationally or traveled by cruise ship?**\n\nIf you develop [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), contact your health care provider right away. \n\nTravelers returning from the any international country, or by cruise ship, should **stay home**, monitor their health by checking their temperature every day and watching for [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), and practice social distancing (staying at least 6 feet away from others) **for 14 days**. This includes airport lay-overs and train travel. \n\nIf you have symptoms, call your health care provider. \n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
+            "answer": "**What should I do if I have traveled internationally or traveled by cruise ship?**\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, you should for quarantine for 14 days. Learn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nIf you develop [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), contact your health care provider right away. \n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
             "source": "KB-COVID",
             "questions": [
                 "What should I do if I have traveled internationally or traveled by cruise ship?",
@@ -1212,7 +1199,7 @@
         },
         {
             "id": 4568,
-            "answer": "**Do family members of people who traveled internationally or by cruise ship need to stay at home?** If your family member has traveled internationally to any country they should maintain physical distance (approximately 6 feet) from family members and others in the home.\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
+            "answer": "**Do family members of people who traveled internationally or by cruise ship need to stay at home?**\n\nIf your family member has traveled internationally to any country or traveled by cruise ship or river cruise voyage, they should quarantine for 14 days, and the other household members should do self-observation for 14 days. Learn more on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
             "source": "KB-COVID",
             "questions": [
                 "Do family members of people who traveled to an affected area need to stay at home?"
@@ -1604,35 +1591,6 @@
             }
         },
         {
-            "id": 4579,
-            "answer": "**Which urgent care centers can collect samples for testing?**\n\nYour health care provider will determine whether you need to be tested. If you have been referred by your health care provider to visit an urgent care center for testing, it is for **hospital-based** urgent care centers only. Your health care provider will give you more instructions.",
-            "source": "Editorial",
-            "questions": [
-                "Which Urgent Care centers can collect samples for testing?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "testing"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "testing locations"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
             "id": 4580,
             "answer": "**Can you tell me more information about a patient with COVID-19?**\n\nIn order to protect patient privacy, we can’t provide details about specific cases. We are focusing our efforts on tracing any close contact patients may have had with others. We will keep the public informed as we are able, including any known risk to the public.",
             "source": "Editorial",
@@ -1880,11 +1838,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vt is doing"
+                    "value": "state's response"
                 },
                 {
-                    "name": "subcategory",
-                    "value": "state's response"
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -1909,7 +1867,9 @@
                 "How to make hand sanitizer",
                 "are my light winter gloves ok?",
                 "gloves",
-                "How do I wash or sanitize my hands to keep from getting sick?"
+                "How do I wash or sanitize my hands to keep from getting sick?",
+                "handsanitizer",
+                "hand sanitizer"
             ],
             "metadata": [
                 {
@@ -1997,10 +1957,9 @@
         },
         {
             "id": 4591,
-            "answer": "**What information is available regarding mass gatherings?**\n\nAs of May 6, Vermonters are now allowed to gather in small groups of 10 or fewer people as long as health and safety precautions are followed. Members of one household may now choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nGatherings of more than 10 people are still prohibited.\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.\n\nFind up-to-date information on the [Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
+            "answer": "**Are mass gatherings allowed?**\n\nAs of May 6, Vermonters are now allowed to gather in small groups of 10 or fewer people as long as health and safety precautions are followed. Members of one household may now choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nGatherings of more than 10 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.\n\nFind up-to-date information on the [Health Department's COVID-19 website](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus).",
             "source": "Editorial",
             "questions": [
-                "What information is available regarding mass gatherings?",
                 "Are churches able to gather if they have 10 or less people attending",
                 "Should Churches still have services if they are small?",
                 "planning large event",
@@ -2011,12 +1970,13 @@
                 "what is the size of a gathering allowed?",
                 "Should Social Service Organizations, Fraternal Organizations be holding meetings",
                 "How many people are allowed",
-                "Event restrictions"
+                "Event restrictions",
+                "Are mass gatherings allowed?"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vt is doing"
+                    "value": "stay home, stay safe order"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -2271,47 +2231,6 @@
                         "displayOrder": 0,
                         "qnaId": 4665,
                         "displayText": "Where can I buy cloth face coverings?"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4599,
-            "answer": "**Can animals carry the virus that causes COVID-19 on their skin or fur?**\n\nAt this time, there is no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
-            "source": "Editorial",
-            "questions": [
-                "Can animals carry the virus that causes COVID-19 on their skin or fur?",
-                "Does the virus live on a pets fur? If so, for how long?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "pets and other animals"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4537,
-                        "displayText": "How does COVID-19 spread?\n"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4642,
-                        "displayText": "Can I get COVID-19 from my pets or other animals?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4541,
-                        "displayText": "Can pets get sick from COVID-19?"
                     }
                 ]
             }
@@ -2858,18 +2777,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4637,
-                        "displayText": "Information on travel to neighboring states."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4567,
                         "displayText": "Is it okay to travel within the United States?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4637,
+                        "displayText": "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2930,7 +2849,7 @@
         },
         {
             "id": 4617,
-            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nYou can find the number of people who have tested positive for COVID-19 by county on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). This map is updated daily.\n\nThere is also a map showing the number of Vermonters who have tested positive for COVID-19 by the town where they live. Residents of a long-term care facilities and inmates at correctional facilities are included in the town of their facility when they were tested. This map is updated weekly.\n\nThe Health Department shares information for towns as a number range. This is to protect the privacy of people who have tested positive for COVID-19. If some information is made public (for example, gender, age, race, health condition, travel history), then a person could be identified, especially if the population of a town is small. This follows both federal and Vermont laws.\n\nThe COVID-19 virus is spreading throughout Vermont, and many people may have it and can spread it for up to two days before they show symptoms. It is safe to assume that the virus is in your town or community and you should take steps to protect yourself and others.",
+            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nYou can find the number of people who have tested positive for COVID-19 by county on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). This map is updated daily.\n\nThere is also a map showing the number of Vermonters who have tested positive for COVID-19 by the town where they live. Residents of long-term care facilities and inmates at correctional facilities are included in the town of their facility when they were tested. This map is updated weekly.\n\nThe Health Department shares information for towns as a number range. This is to protect the privacy of people who have tested positive for COVID-19. If some information is made public (for example, gender, age, race, health condition, travel history), then a person could be identified, especially if the population of a town is small. This follows both federal and Vermont laws.\n\nThe COVID-19 virus is spreading throughout Vermont, and many people may have it and can spread it for up to two days before they show symptoms. It is safe to assume that the virus is in your town or community, and you should take steps to protect yourself and others.",
             "source": "Editorial",
             "questions": [
                 "How many active cases are there in Vermont?",
@@ -3286,13 +3205,13 @@
         },
         {
             "id": 4627,
-            "answer": "**What do I do if I work for a job that is considered essential, but my child care program is closed?**\n\nChild care is available for those who have been deemed essential to the COVID-19 response. Workers in critical businesses who are working out of the home and do not have other options are eligible for child care. Find more [information and fill out an online form for child care assistance](https://vem.vermont.gov/essentialpersons). There are options for child care for children up to grade 8. You can also call 2-1-1 ext. 6.",
+            "answer": "**What do I do if I have to work and need child care?**\n\nChild care has been available for those who have been deemed essential to the COVID-19 response. These are workers in critical businesses who are working out of the home and do not have other options are eligible for child care. Find more [information and fill out an online form for child care assistance](https://vem.vermont.gov/essentialpersons). There are options for child care for children up to grade 8. You can also call 2-1-1 ext. 6.\n\nStarting June 1, child care providers can decide to reopen if they follow health and safety precautions. Some may choose not to reopen or are unable to do so. Find more [information on child care](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#education-childcare) from the Agency of Commerce and Community Development.",
             "source": "Editorial",
             "questions": [
-                "What do I do if I work for a job that is considered essential, but my child care program is closed?",
                 "can I get daycare if I am considered an essential employee?",
                 "child care",
-                "day care"
+                "day care",
+                "What do I do if I have to work and need child care?"
             ],
             "metadata": [
                 {
@@ -3695,14 +3614,14 @@
         },
         {
             "id": 4637,
-            "answer": "**Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you are in an essential industry in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, just as you would if the contact occurred in Vermont.",
+            "answer": "**Does the Stay Home, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you are in an essential industry in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, just as you would if the contact occurred in Vermont. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). ",
             "source": "Editorial",
             "questions": [
-                "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?",
                 "Can I travel to NH for work?",
                 "I work in New Hampshire and live in Vermont",
                 "Can you leave vt?",
-                "Is there a travel restriction new Hampshire"
+                "Is there a travel restriction new Hampshire",
+                "Does the Stay Home, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
             ],
             "metadata": [
                 {
@@ -3938,12 +3857,12 @@
         },
         {
             "id": 4642,
-            "answer": "**Can I get COVID-19 from my pets or other animals?**\nAccording to the CDC, at this time, there is no evidence that animals play a large role in spreading the virus that causes COVID-19. Based on the limited information available at this time, the risk of animals spreading COVID-19 to people is considered to be low. A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. Find more information on [staying safe and healthy around animals including pets](https://www.cdc.gov/healthypets/index.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?**\n\nAccording to the CDC, at this time, there is no evidence that animals play a large role in spreading the virus that causes COVID-19, and no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets. Based on the limited information available at this time, the risk of animals spreading COVID-19 to people is considered to be low. A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. Find more information on [staying safe and healthy around animals including pets](https://www.cdc.gov/healthypets/index.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
-                "Can I get COVID-19 from my pets or other animals?",
                 "Can pets transmit Covid-19?",
-                "Can I get infected by my pet"
+                "Can I get infected by my pet",
+                "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?"
             ],
             "metadata": [
                 {
@@ -4022,7 +3941,7 @@
         },
         {
             "id": 4644,
-            "answer": "**Are there resources available to help with home schooling?** On April 6, Governor Scott and the Agency of Education announced a partnership with Vermont PBS to provide free educational content to supplement remote learning for Vermont students and school districts during the COVID-19 pandemic.\n\n  There is programming for PreK through 12th grade that is aligned to national, and customized to Vermont, standards. The programming includes interactive lessons and paired suggested activities for educators, students and families. There are also resources available that allow teachers and caregivers to access at-home curriculum that includes activities, assignments and learning objectives. \n\n The programming will be available for the rest of the school year. It is available on all cable systems and for free over the air through a digital antenna without the need for cable subscription or broadband internet access. \n\nFind the [programming schedule and resources](https://www.vermontpbs.org/at-home-learning/) for educators, parents and caregivers from Vermont PBS.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov) from the Agency of Education.",
+            "answer": "**Are there resources available to help with home schooling?**\n\nThere is programming for PreK through 12th grade that is aligned to national—and customized to Vermont—standards. The programming available from a partnership with the Agency of Education and Vermont PBS includes interactive lessons and paired suggested activities for educators, students and families. There are also resources available that allow teachers and caregivers to access at-home curriculum that includes activities, assignments and learning objectives. \n\n The programming will be available for the rest of the school year. It is available on all cable systems and for free over the air through a digital antenna without the need for cable subscription or broadband internet access. \n\nFind the [programming schedule and resources](https://www.vermontpbs.org/at-home-learning/) for educators, parents and caregivers from Vermont PBS.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov/covid19-continuity-of-learning/information-for-parents) from the Agency of Education.",
             "source": "Editorial",
             "questions": [
                 "Are there resources available to help with home schooling?",
@@ -4061,7 +3980,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vt is doing"
+                    "value": "state's response"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -4122,7 +4041,9 @@
             "answer": "**Is there a rapid (fast) test for COVID-19?**\n\nVermont will soon have a has a limited supply of rapid COVID-19 test machines and supplies. These tests take about 15 minutes for results. Currently, the Health Department is confirming the accuracy of these new tests to detect COVID-19 before they are used. Once they are validated, the Health Department will determine the best locations for these testing machines based on a number of factors. Potential locations could include hospitals, small facilities experiencing a COVID-19 outbreak, and new testing sites.",
             "source": "Editorial",
             "questions": [
-                "Is there a rapid (fast) test for COVID-19?"
+                "Is there a rapid (fast) test for COVID-19?",
+                "will a rapid test be available?",
+                "will we have a quick test available?"
             ],
             "metadata": [
                 {
@@ -4186,7 +4107,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vermont is doing"
+                    "value": "state's response"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -4295,7 +4216,7 @@
         },
         {
             "id": 4653,
-            "answer": "**Is there universal (widespread) testing being done at group living facilities?**\n\nIn Vermont, additional measures are being taken to slow the spread of COVID-19 in certain types of group living facilities. This includes nursing homes, corrections facilities, residential homes for people with disabilities, residential treatment centers, assisted living facilities, state psychiatric care facilities, and homeless shelters.\n\nWhen a person tests positive at these facilities, testing will be offered to all staff and residents, who are re-tested at 3 days, 7 days, 10 days and 14 days after the initial test. Staff and residents may decline testing, and facilities may decline universal testing. ",
+            "answer": "**Is there universal (widespread) testing being done at group living facilities?**\n\nIn Vermont, additional measures are being taken to slow the spread of COVID-19 in certain types of group living facilities. This includes nursing homes, corrections facilities, residential homes for people with disabilities, residential treatment centers, assisted living facilities, state psychiatric care facilities, and homeless shelters. Universal testing of all staff and residents is offered at these facilities. Staff and residents may decline testing, and facilities may decline universal testing.\n\nAdditionally, when a person tests positive at a skilled nursing facility, sequential testing is offered to those who tested negative during the universal testing. ",
             "source": "Editorial",
             "questions": [
                 "enforce that a nursing home test a resident for Covid-19?",
@@ -4598,7 +4519,7 @@
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Stay Home, Stay Safe Order does not prevent people from going to their seasonal home or RV. \n\nAny individual returning to, or traveling to, Vermont from another state or country for non-essential reasons is required to quarantine at home for 14 days upon their return and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Stay Home, Stay Safe Order](https://governor.vermont.gov/covid19response).",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Stay Home, Stay Safe Order does not prevent people from going to their seasonal home or RV. \n\nAny individual returning to, or traveling to, Vermont from another state or country for non-essential reasons is required to quarantine at home for 14 days upon their return and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Stay Home, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart. ",
             "source": "Editorial",
             "questions": [
                 "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
@@ -4732,7 +4653,7 @@
         },
         {
             "id": 4666,
-            "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nHowever, there are some exceptions, and this guidance may change. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.",
+            "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nVisitors from other states and countries are asked not to come to Vermont at this time. If they do come to Vermont, they must stay at home (quarantine) 14 days before participating in any activities out of their home or lodging. Learn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nHowever, there are some exceptions, and this guidance may change. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.",
             "source": "Editorial",
             "questions": [
                 "Can we still have our wedding ceremony?",
@@ -4759,7 +4680,7 @@
         },
         {
             "id": 4667,
-            "answer": "**Why is race and ethnicity now included in reported data on COVID-19 cases?**\n\nThe Health Department is now including data about race and ethnicity on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). We recognized the need to include this information to help us understand how Vermonters were being affected by COVID-19, but in our earlier efforts to respond to the pandemic, race and ethnicity data was not always collected for each patient.\n\nHealth equity exists when all people have a fair and just opportunity to be healthy – especially those who have experienced socioeconomic disadvantage, historical injustice, and other systemic inequalities. Therefore, our epidemiology team collaborated with Vermont Information Technology Leaders (VITL) to cross-reference medical records to gain more robust race information about COVID-19 cases in Vermont. At the end of March, race was unknown in 73% of cases, but through our joint work, we have brought that number down to just 8%. We have been able to partner with VITL through a state directive issued in response to the State of Emergency.\n\nWe can use this data to help to prevent the spread of illness, improve care for patients, and present a more complete picture of how COVID-19 may be affecting everyone in Vermont.",
+            "answer": "**Why is race and ethnicity now included in reported data on COVID-19 cases?**\n\nThe Health Department is now including data about race and ethnicity on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). We recognized the need to include this information to help us understand how Vermonters were being affected by COVID-19, but in our earlier efforts to respond to the pandemic, race and ethnicity data was not always collected for each patient.\n\nHealth equity exists when all people have a fair and just opportunity to be healthy – especially those who have experienced socioeconomic disadvantage, historical injustice, and other systemic inequalities. Therefore, our epidemiology team collaborated with Vermont Information Technology Leaders (VITL) to cross-reference medical records to gain more robust race information about COVID-19 cases in Vermont.\n\nWe can use this data to help to prevent the spread of illness, improve care for patients, and present a more complete picture of how COVID-19 may be affecting everyone in Vermont.",
             "source": "Editorial",
             "questions": [
                 "Why is race and ethnicity now included in reported data on COVID-19 cases?"
@@ -5129,10 +5050,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vermont is doing"
-                },
-                {
-                    "name": "subcategory",
                     "value": "state's response"
                 }
             ],
@@ -5222,10 +5139,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "what vermont is doing"
-                },
-                {
-                    "name": "subcategory",
                     "value": "state's response"
                 }
             ],
@@ -5243,7 +5156,7 @@
         },
         {
             "id": 4683,
-            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nAll residents and staff in group living settings, where there has been a single positive test, can also be tested. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n\nWe are now working to ramp up our testing capabilities to conduct 1,000 tests a day – or 7,000 tests a week. That is about three times the average number of tests conducted over the last several weeks. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.\n\nAs of April 29, we will now be able to expand testing for:\n\n* **Long-term care facilities and other group living settings**: If there is a person who has tested positive with COVID-19, they can be retested at 3 days, 7 days, 10 days and 14 days after the initial test. This is to help prevent community-wide outbreaks. For all sites, regardless of whether a person has tested positive, we will provide testing at intake, discharge, and for certain residents who require regular care outside of the facility.\n\n* **Health care personnel**: Testing will now be available for those who may have been exposed to patients who have tested positive for COVID-19, but who do not have symptoms themselves. Testing will also be offered to health care personnel who may be needed to aid their Restart Vermont efforts.\n\n* **Correctional facilities**: Now all corrections staff can be tested in the correctional facility, regardless if there has been a person who has tested positive for COVID-19.\n\nDuring the next phase, we will focus on expanded testing for health care and home health workers who have had direct contact with someone who tested positive for COVID-19. We will also consider testing those who are in 14-day quarantine due to possible exposure to COVID-19. We will increase opportunities for child care workers to be tested, too. Expanded testing will not happen all at once but will be phased in over the next few weeks.",
+            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nAll residents and staff in group living settings, where there has been a single positive test, can also be tested. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n\nWe are now working to ramp up our testing capabilities to conduct 1,000 tests a day – or 7,000 tests a week. That is about three times the average number of tests conducted over the last several weeks. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.\n\nAs of April 29, we will now be able to expand testing for:\n\n* **Long-term care facilities and other group living settings**: If there is a person who has tested positive with COVID-19 at a skilled nursing facility, they can be retested at 3 days, 7 days, 10 days and 14 days after the initial test. This is to help prevent community-wide outbreaks. For all sites, regardless of whether a person has tested positive, testing is offered at intake, discharge, and for certain residents who require regular care outside of the facility.\n\n* **Health care personnel**: Testing will now be available for those who may have been exposed to patients who have tested positive for COVID-19, but who do not have symptoms themselves. Testing will also be offered to health care personnel who may be needed to aid their Restart Vermont efforts.\n\n* **Correctional facilities**: Now all corrections staff can be tested in the correctional facility, regardless if there has been a person who has tested positive for COVID-19.\n\nDuring the next phase, we will focus on expanded testing for health care and home health workers who have had direct contact with someone who tested positive for COVID-19. We will also consider testing those who are in 14-day quarantine due to possible exposure to COVID-19. We will increase opportunities for child care workers to be tested, too. Expanded testing will not happen all at once but will be phased in over the next few weeks.",
             "source": "Editorial",
             "questions": [
                 "Who is getting tested for COVID-19 in Vermont?",
@@ -5317,6 +5230,31 @@
                 {
                     "name": "category",
                     "value": "stay home, stay safe order"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4691,
+            "answer": "**My health care provider is out-of-state. Can I be tested in Vermont?**\n\nYes, out-of-state health care providers can refer their patients for COVID-19 testing in Vermont. Ask your health care provider for a referral. Everyone must have a referral from their health care provider to be tested.",
+            "source": "Editorial",
+            "questions": [
+                "My health care provider is out-of-state. Can I be tested in Vermont?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
                 }
             ],
             "alternateQuestionClusters": [],
