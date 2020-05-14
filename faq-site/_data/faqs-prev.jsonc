@@ -257,7 +257,8 @@
                 "how to stay safe?",
                 "family member of essential worker, how to stay safe?",
                 "How can I protect myself from Covid-19?",
-                "How can you help protect yourself from getting the virus?"
+                "How can you help protect yourself from getting the virus?",
+                " Hand sanitizer protect against corona virus"
             ],
             "metadata": [
                 {
@@ -475,7 +476,7 @@
         },
         {
             "id": 4545,
-            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. \n\nAnyone who meets the medical requirements for testing for COVID-19 can be tested at no cost. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nAs of April 29, the State began expanding testing for long-term care facilities and other group living settings, health care personnel, and correctional facilities. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.",
+            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. \n\nAnyone currently under quarantine and without symptoms – this includes people coming into Vermont and close contacts of people who have tested positive – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](http://humanresources.vermont.gov/popups).\n\nThere is no cost to individuals for the COVID-19 test. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nAs of April 29, the State began expanding testing. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -586,10 +587,10 @@
         },
         {
             "id": 4548,
-            "answer": "**Where is testing being done?**\n\nAs of March 20, 2020, health care providers submit samples to the University of Vermont Medical Center Laboratory (UVMMC) for prioritization. Samples from higher risk populations will be tested at the Vermont Department of Health Laboratory. Lower priority tests are done at commercial labs.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity). ",
+            "answer": "**Where do the test samples get processed?**\n\nAs of March 20, 2020, health care providers submit samples to the University of Vermont Medical Center Laboratory (UVMMC) for prioritization. Samples from higher risk populations will be tested at the Vermont Department of Health Laboratory. Lower priority tests are done at commercial labs.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity). ",
             "source": "KB-COVID",
             "questions": [
-                "Where is testing being done?"
+                "Where do the test samples get processed?"
             ],
             "metadata": [
                 {
@@ -1129,7 +1130,7 @@
         },
         {
             "id": 4566,
-            "answer": "**What should I do if I have traveled internationally or traveled by cruise ship?**\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, you should for quarantine for 14 days. Learn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nIf you develop [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), contact your health care provider right away. \n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
+            "answer": "**What should I do if I have traveled internationally or traveled by cruise ship?**\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, you should for quarantine for 14 days. Learn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine and without symptoms – this includes people coming into Vermont – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups). \n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nIf you develop [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), contact your health care provider right away. \n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
             "source": "KB-COVID",
             "questions": [
                 "What should I do if I have traveled internationally or traveled by cruise ship?",
@@ -1159,7 +1160,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCases of coronavirus disease (COVID-19) have been reported in all states, and some areas are experiencing community spread of the disease. Travel increases your chances of getting and spreading COVID-19.\n\nThe [CDC recommends](http://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) you stay home as much as possible, especially if your trip is not essential, and practice social distancing especially if you are at higher risk of severe illness. Don’t travel if you are sick or travel with someone who is sick.\n\nIn Vermont, people from other states and countries are still being asked not to visit. If they do, they are required to self-quarantine for at least 14 days after arriving in Vermont before engaging in any activities, such as grocery shopping or going for walks.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart. ",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCases of COVID-19 have been reported in all states, and some areas are experiencing community spread of the disease. Travel increases your chances of getting and spreading COVID-19.\n\nThe [CDC recommends](http://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) you stay home as much as possible, especially if your trip is not essential, and practice social distancing especially if you are at higher risk of severe illness. Don’t travel if you are sick or travel with someone who is sick.\n\nIn Vermont, people from other states and countries are still being asked not to visit. If they do, they are required to self-quarantine for at least 14 days after arriving in Vermont before engaging in any activities, such as grocery shopping or going for walks.\n\nAnyone currently under quarantine and without symptoms – this includes people coming into Vermont – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups). \n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart. ",
             "source": "KB-COVID",
             "questions": [
                 "Should I fly to Texas?",
@@ -1208,7 +1209,7 @@
         },
         {
             "id": 4568,
-            "answer": "**Do family members of people who traveled internationally or by cruise ship need to stay at home?**\n\nIf your family member has traveled internationally to any country or traveled by cruise ship or river cruise voyage, they should quarantine for 14 days, and the other household members should do self-observation for 14 days. Learn more on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
+            "answer": "**Do family members of people who traveled internationally or by cruise ship need to stay at home?**\n\nIf your family member has traveled internationally to any country or traveled by cruise ship or river cruise voyage, they should quarantine for 14 days, and the other household members should do self-observation for 14 days. Learn more on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine and without symptoms – this includes people coming into Vermont – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups). \n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
             "source": "KB-COVID",
             "questions": [
                 "Do family members of people who traveled to an affected area need to stay at home?"
@@ -1372,6 +1373,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -1642,7 +1648,8 @@
                 "Can I go to a dentist appointment?",
                 "What should dentists know about COVID-19?",
                 "are dental offices open",
-                "Can I get my teeth cleaned?"
+                "Can I get my teeth cleaned?",
+                "Dentist offices open"
             ],
             "metadata": [
                 {
@@ -1660,13 +1667,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4659,
+                        "displayText": "What should I do if I have a dental emergency?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4659,
-                        "displayText": "What should I do if I have a dental emergency?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1753,13 +1760,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4577,
+                        "displayText": "What does social distancing mean?\n"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4577,
-                        "displayText": "What does social distancing mean?\n"
+                        "qnaId": 4638,
+                        "displayText": "Can I still do outdoor activities with the Stay Home, Stay Safe Order?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1985,7 +1997,8 @@
                 "Should Social Service Organizations, Fraternal Organizations be holding meetings",
                 "How many people are allowed",
                 "Event restrictions",
-                "Are mass gatherings allowed?"
+                "Are mass gatherings allowed?",
+                "Congregate"
             ],
             "metadata": [
                 {
@@ -2118,13 +2131,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4537,
+                        "displayText": "How does COVID-19 spread?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4537,
-                        "displayText": "How does COVID-19 spread?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2743,7 +2756,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?**\n\nVisitors from other states, and countries, are still being asked not to come to Vermont. If they do, they are required to quarantine at home for 14 days after arriving in Vermont and before engaging in any activities, like grocery shopping or going for walks.\n\nAnyone who leaves Vermont for more than one day for travel that is not “essential\" is required to quarantine at home for 14 days after arriving in Vermont and before engaging in any activities, like grocery shopping or going for walks.\n\nEssential travel is defined as travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security. Read [Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) for more details.\n\nFor those who are in a 14-day quarantine, you may need to rely on neighbors, friends or family living outside of the household to deliver groceries to your home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nRead [Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) and [Addendum 13](https://governor.vermont.gov/content/addendum-13-executive-order-01-20) for more information about travel into Vermont. ",
+            "answer": "**Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?**\n\nVisitors from other states, and countries, are still being asked not to come to Vermont. If they do, they are required to quarantine at home for 14 days after arriving in Vermont and before engaging in any activities, like grocery shopping or going for walks.\n\nAnyone who leaves Vermont for more than one day for travel that is not “essential\" is required to quarantine at home for 14 days after arriving in Vermont and before engaging in any activities, like grocery shopping or going for walks.\n\nEssential travel is defined as travel required for personal safety; food, beverage or medicine; medical care; care of others; and to perform work, services or functions deemed critical to public health and safety, as well as economic and national security. Read [Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) for more details.\n\nFor those who are in a 14-day quarantine, you may need to rely on neighbors, friends or family living outside of the household to deliver groceries to your home. Check your local grocery store to see if there is an option for home delivery or look for online sources for home delivery. Groceries should always be left at your door. Wash your hands before and after if a signature for receipt is required.\n\nAnyone currently under quarantine and without symptoms – this includes people coming into Vermont – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups). \n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nRead [Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) and [Addendum 13](https://governor.vermont.gov/content/addendum-13-executive-order-01-20) for more information about travel into Vermont. ",
             "source": "Editorial",
             "questions": [
                 "What if I work in a different state?",
@@ -2778,7 +2791,8 @@
                 "visiting",
                 "after entering VT when can you leave",
                 "can I visit VT?",
-                "Do you have to stay 14 days in VT?"
+                "Do you have to stay 14 days in VT?",
+                "go to vermont to"
             ],
             "metadata": [
                 {
@@ -3366,7 +3380,8 @@
                 "how many people can work in the same building?",
                 "what are the rules of phase one concerning covid-19?",
                 "site visits for commercial development",
-                "information for business"
+                "information for business",
+                "Costco fully open"
             ],
             "metadata": [
                 {
@@ -3641,7 +3656,7 @@
         },
         {
             "id": 4637,
-            "answer": "**Does the Stay Home, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you are in an essential industry in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, just as you would if the contact occurred in Vermont. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). ",
+            "answer": "**Does the Stay Home, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you are in an essential industry in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, just as you would if the contact occurred in Vermont. Anyone currently under quarantine and without symptoms – this includes close contacts of people who have tested positive – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups).\n\nLearn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). ",
             "source": "Editorial",
             "questions": [
                 "Can I travel to NH for work?",
@@ -3917,7 +3932,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?** *IMPORTANT: Everyone must have a referral from their health care provider in order to be tested.* \n\nThere are several testing sites and drive-through locations across the state and more may be added as the situations evolves.\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nPeople who are NOT experiencing symptoms will not be tested. People who arrive at a testing site without a referral from their health care provider will not be tested.\n\nIf you are a health care worker, first responder, or child care provider, [learn how you can get tested](https://www.healthvermont.gov/response/infectious-disease/novel-coronavirus-covid-19-health-care-professionals).\n\nIf you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).",
+            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nThere are several testing sites and drive-through locations across the state and more may be added as the situation evolves. Any Vermonter without symptoms can be tested at a pop-up site without a doctor’s referral, but [registration for testing is required](https://humanresources.vermont.gov/popups). Regular test collection locations still require a doctor’s referral.\n\nThe following groups are encouraged to [get tested at pop-up sites](https://humanresources.vermont.gov/popups): health care workers, first responders (EMS, fire, and law enforcement), child care providers currently serving essential workers, and anyone in quarantine for 7 or more days (including people returning to Vermont from other states and countries). \n\nIf you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -4551,7 +4566,7 @@
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Stay Home, Stay Safe Order does not prevent people from going to their seasonal home or RV. \n\nAny individual returning to, or traveling to, Vermont from another state or country for non-essential reasons is required to quarantine at home for 14 days upon their return and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Stay Home, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart. ",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are a second or seasonal homeowner (including an RV located in Vermont), you are encouraged to stay in your primary home unless you don’t have other options. However, the Governor’s Stay Home, Stay Safe Order does not prevent people from going to their seasonal home or RV. \n\nAny individual returning to, or traveling to, Vermont from another state or country for non-essential reasons is required to quarantine at home for 14 days upon their return and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Stay Home, Stay Safe Order](https://governor.vermont.gov/covid19response). Anyone currently under quarantine and without symptoms – this includes people coming into Vermont – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups). \n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart. ",
             "source": "Editorial",
             "questions": [
                 "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
@@ -4575,6 +4590,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Are there any travel restrictions into Vermont?"
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -4654,7 +4674,9 @@
                 "Where can I buy cloth face coverings?",
                 "location of face masks",
                 "Where to get masks",
-                "Where can I buy cloth face masks or coverings?"
+                "Where can I buy cloth face masks or coverings?",
+                "PPE requests",
+                "need PPE"
             ],
             "metadata": [
                 {
@@ -4685,7 +4707,7 @@
         },
         {
             "id": 4666,
-            "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nVisitors from other states and countries are asked not to come to Vermont at this time. If they do come to Vermont, they must stay at home (quarantine) 14 days before participating in any activities out of their home or lodging. Learn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nHowever, there are some exceptions, and this guidance may change. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.",
+            "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nVisitors from other states and countries are asked not to come to Vermont at this time. If they do come to Vermont, they must stay at home (quarantine) 14 days before participating in any activities out of their home or lodging. Anyone currently under quarantine and without symptoms – this includes people coming into Vermont – has the option to be tested after seven days of quarantine at a pop-up testing site. [Registration for testing is required](https://humanresources.vermont.gov/popups). \n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nHowever, there are some exceptions, and this guidance may change. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.",
             "source": "Editorial",
             "questions": [
                 "Can we still have our wedding ceremony?",
@@ -5111,7 +5133,8 @@
                 "Are stores open?",
                 "What is open?",
                 "What is open in Vermont?",
-                "When will the DMV be open?"
+                "When will the DMV be open?",
+                "reopening"
             ],
             "metadata": [
                 {
@@ -5188,7 +5211,7 @@
         },
         {
             "id": 4683,
-            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nAll residents and staff in group living settings, where there has been a single positive test, can also be tested. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n\nWe are now working to ramp up our testing capabilities to conduct 1,000 tests a day – or 7,000 tests a week. That is about three times the average number of tests conducted over the last several weeks. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.\n\nAs of April 29, we will now be able to expand testing for:\n\n* **Long-term care facilities and other group living settings**: If there is a person who has tested positive with COVID-19 at a skilled nursing facility, they can be retested at 3 days, 7 days, 10 days and 14 days after the initial test. This is to help prevent community-wide outbreaks. For all sites, regardless of whether a person has tested positive, testing is offered at intake, discharge, and for certain residents who require regular care outside of the facility.\n\n* **Health care personnel**: Testing will now be available for those who may have been exposed to patients who have tested positive for COVID-19, but who do not have symptoms themselves. Testing will also be offered to health care personnel who may be needed to aid their Restart Vermont efforts.\n\n* **Correctional facilities**: Now all corrections staff can be tested in the correctional facility, regardless if there has been a person who has tested positive for COVID-19.\n\nDuring the next phase, we will focus on expanded testing for health care and home health workers who have had direct contact with someone who tested positive for COVID-19. We will also consider testing those who are in 14-day quarantine due to possible exposure to COVID-19. We will increase opportunities for child care workers to be tested, too. Expanded testing will not happen all at once but will be phased in over the next few weeks.",
+            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nWe ramping up our testing capabilities to conduct 1,000 tests a day – or 7,000 tests a week. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.\n\nTesting is currently available for:\n\n* Any adult or child with symptoms of COVID-19 – even if their symptoms are mild – who has been referred for testing by their doctor.\n\n* Long-term care facilities and other group living settings:\n\t* All residents and staff in group living settings, where there has been a single positive test. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n\t* If there is a person who has tested positive with COVID-19 at a skilled nursing facility, they can be retested at 3 days, 7 days, 10 days and 14 days after the initial test. This is to help prevent community-wide outbreaks.\n\t*For all sites, regardless of whether a person has tested positive, testing is offered at intake, discharge, and for certain residents who require regular care outside of the facility.\n\n* Staff at correctional facilities\n\n* Any Vermonter without symptoms can be tested at a pop-up site without a doctor’s referral, but [registration for testing is required](https://humanresources.vermont.gov/popups). Regular test collection locations still require a doctor’s referral.\n\t* The following groups are encouraged to get tested at these sites: health care workers, first responders (EMS, fire, and law enforcement), child care providers currently serving essential workers, and anyone in quarantine for 7 or more days (including people returning to Vermont from other states and countries). ",
             "source": "Editorial",
             "questions": [
                 "Who is getting tested for COVID-19 in Vermont?",
@@ -5278,7 +5301,7 @@
         },
         {
             "id": 4691,
-            "answer": "**My health care provider is out-of-state. Can I be tested in Vermont?**\n\nYes, out-of-state health care providers can refer their patients for COVID-19 testing in Vermont. Ask your health care provider for a referral. Everyone must have a referral from their health care provider to be tested.",
+            "answer": "**My health care provider is out-of-state. Can I be tested in Vermont?**\n\nYes, out-of-state health care providers can refer their patients for COVID-19 testing in Vermont. Ask your health care provider for a referral. ",
             "source": "Editorial",
             "questions": [
                 "My health care provider is out-of-state. Can I be tested in Vermont?"
