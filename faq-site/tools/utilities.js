@@ -58,8 +58,8 @@ function toTitleCase(str) {
         let dontCapitalize = dontCapitalizeWords.some(w => w === word.toLowerCase())
         if (dontCapitalize) return word.toLowerCase()
 
-        // lower case if less than or equal to 4 characters
-        if (word.length <= 4) return word.toLowerCase()
+        // lower case if less than or equal to 3 characters
+        if (word.length <= 3) return word.toLowerCase()
 
         // otherwise uppercase everything else
         return toProperCase(word)
