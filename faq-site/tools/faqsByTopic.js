@@ -121,7 +121,7 @@ function getSubCategories(catFaqs, topics, catName) {
     // check if we have manual subcategory sort
     let subSort = topics.find(t => utilities.stringsAlphaEqual(t.name, catName))
 
-    let manualSubSort = subSort.subs || []
+    let manualSubSort = subSort && subSort.subs ? subSort.subs : []
 
     // sort subcategories
     let sortedSubCats = subCats.sort((a, b) => a.localeCompare(b))
@@ -136,7 +136,7 @@ function getSubCategories(catFaqs, topics, catName) {
     // add general category if we've added a manual sort and any subcats blank
     let blankSubs = catFaqs.filter(faq => !faq.metadata.subcategory)
 
-    if (subSort.subs && blankSubs.length) {
+    if (subSort && subSort.subs && blankSubs.length) {
         uniqueSubCats.push("General")
         blankSubs.forEach(faq => faq.metadata.subcategory = "General")
     }
