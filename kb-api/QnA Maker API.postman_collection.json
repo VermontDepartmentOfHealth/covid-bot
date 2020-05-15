@@ -132,6 +132,27 @@
 					"response": []
 				},
 				{
+					"name": "Get Operation Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/knowledgebases/{{kbId}}",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"knowledgebases",
+								"{{kbId}}"
+							]
+						},
+						"description": "Gets details of a specific knowledgebase."
+					},
+					"response": []
+				},
+				{
 					"name": "Download",
 					"request": {
 						"method": "GET",
