@@ -478,7 +478,7 @@
         },
         {
             "id": 4545,
-            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. \n\nCurrently, any person without symptoms who lives or works in Vermont can be tested at a pop-up testing site without a doctor’s referral. Find more information on pop-up testing sites under [“Where can I get tested for COVID-19?”](https://apps.health.vermont.gov/COVID/faq/#4643) on this page.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThere is no cost to individuals for the COVID-19 test. \n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nAs of April 29, the State began expanding testing. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.",
+            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nCurrently, any person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. [Registration is required](https://humanresources.vermont.gov/popups).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThere is no cost to individuals for the COVID-19 test.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nAs of April 29, the State began expanding testing. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -497,7 +497,8 @@
                 "Should I get tested?",
                 "We want testing. ",
                 "When should you get tested for the virus?",
-                "Have the qualifications for testing changed?"
+                "Have the qualifications for testing changed?",
+                "Testing available"
             ],
             "metadata": [
                 {
@@ -873,7 +874,8 @@
                 "when is the church open",
                 "is the church open",
                 "When will we be able to start attending church services again?",
-                "religious gathering"
+                "religious gathering",
+                "churches"
             ],
             "metadata": [
                 {
@@ -2842,7 +2844,8 @@
                 " letting people from out of state in",
                 "drive through Vermont",
                 "cross state travel",
-                "interstate travel"
+                "interstate travel",
+                "Returning to Vermont"
             ],
             "metadata": [
                 {
@@ -3020,7 +3023,8 @@
                 "quaranting",
                 "14 day quarantine",
                 "self isolate",
-                "self-isolate"
+                "self-isolate",
+                "quarentine guidelines"
             ],
             "metadata": [
                 {
@@ -3248,8 +3252,13 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4643,
+                        "displayText": "Where can I get tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3365,7 +3374,8 @@
                 "How long do I have to social distance",
                 "lockdown",
                 "What does the Be Smart, Stay Safe Order mean for Vermonters?",
-                "stay home, stay safe"
+                "stay home, stay safe",
+                "current restrictions"
             ],
             "metadata": [
                 {
@@ -3985,7 +3995,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nFind out [what to do if you are \nsick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html)\n from the CDC and [what to do while you’re waiting for test \nresults](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites**\n\nAny person without symptoms who lives or works in Vermont can be tested at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\n[Register for a pop-up testing site](https://humanresources.vermont.gov/popups).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nThe following groups are encouraged to get tested at pop-up sites: health care workers, first responders (EMS, fire, and law enforcement), child care providers currently serving essential workers, and anyone currently under quarantine who has had no symptoms during the first seven days of quarantine. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page. ",
+            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nFind out [what to do if you are](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html)\n[sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html)\nfrom the CDC and [what to do while you’re waiting for test](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf)\n[results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites**\n\nAny person without symptoms who lives or works in Vermont can be tested at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\n[Register for a pop-up testing site](https://humanresources.vermont.gov/popups).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf).\n\nThe following groups are encouraged to get tested at pop-up sites: health care workers, first responders (EMS, fire, and law enforcement), child care providers currently serving essential workers, and anyone currently under quarantine who has had no symptoms during the first seven days of quarantine. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -5429,7 +5439,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who is not a health care worker or a correctional worker, and who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. [Registration is required](https://humanresources.vermont.gov/popups).\n\nThis includes:\n\n* people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students)\n\n* visitors coming into Vermont\n\n* close contacts of people who have tested positive\n\nFor anyone coming into Vermont, Day 0 is the day you arrive in Vermont.\n\nHealth care workers and correctional workers must complete the full 14-day quarantine.\n\nYou can end your quarantine period only if:\n\n* You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period.\n\n* You are tested on Day 7 or later.\n\n* You remain in quarantine until the result comes back.\n\n* You receive a negative test result and are still not having symptoms.\n\nHowever, you must continue to monitor yourself for symptoms for the full 14 days and isolate at home immediately if symptoms develop.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who is not a health care worker or a correctional worker, and who has had no symptoms during the first seven days of quarantine has the option to be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. [Registration is required](https://humanresources.vermont.gov/popups).\n\nThis includes:\n\n*   people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students)\n*   visitors coming into Vermont\n*   close contacts of people who have tested positive\n\nFor anyone coming into Vermont, Day 0 is the day you arrive in Vermont.\n\nHealth care workers and correctional workers must complete the full 14-day quarantine.\n\nYou can end your quarantine period only if:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period.\n*   You are tested on Day 7 or later.\n*   You remain in quarantine until the result comes back.\n*   You receive a negative test result and are still not having symptoms.\n\nHowever, you must continue to monitor yourself for symptoms for the full 14 days and isolate at home immediately if symptoms develop.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
@@ -5452,6 +5462,31 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4693,
+            "answer": "**Can I get COVID-19 from swimming in a lake or river?**\n\nThe COVID-19 virus could possibly enter waterways through untreated wastewater that is discharged into waterways following large rain events or for other reasons. The virus has been found in untreated wastewater, but there has been no evidence that a person can get COVID-19 from being exposed to untreated wastewater or sewerage systems.\n\nAccording to the CDC, it is thought that the COVID-19 virus does not spread through standard municipal and individual septic system wastewater treatment practices. Guidance will be updated if anything new is learned.\n\nThe Health Department recommends that towns do routine weekly _E. coli_ testing and after large storm events during the swim season. These tests are a good indication of the water quality, meaning that if the _E. coli_ levels are low, then COVID-19 virus levels are also expected to be low.\n\nThe best practices for staying healthy while swimming are to obey signage at beaches, do not swim during and following large rain events, and do not swallow the water.",
+            "source": "Editorial",
+            "questions": [
+                "Can I get COVID-19 from swimming in a lake or river?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "how it spreads"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
