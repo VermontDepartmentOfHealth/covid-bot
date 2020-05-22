@@ -344,8 +344,10 @@
             "answer": "**Can pets get sick from COVID-19?**\n\nOn April 5, the USDA confirmed the [first case of a tiger being infected with COVID-19](http://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19). The tiger is at a zoo in New York.\n\nOn April 22, the CDC announced the first confirmed cases of COVID-19 infection in two pet cats. These are the first pets in the U.S. to test positive. The cats live in two separate areas of New York State. Find out more from the CDC’s press release [Confirmation of COVID-19 in Two Pet Cats in New York](https://www.cdc.gov/media/releases/2020/s0422-covid-19-cats-NYC.html).\n\nThe CDC recommends the following:\n\n* Do not let pets interact with people or other animals outside the household.\n\n* Keep cats indoors when possible to prevent them from interacting with other animals or people.\n\n* Walk dogs on a leash, keeping at least 6 feet from other people and animals.\n\n* Avoid dog parks or public places where large numbers of people and dogs may gather.\n\nAt this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
-                "Can pets get sick from COVID-19?",
-                "Can my pet get sick?"
+                "Pets",
+                "Animals",
+                "Dog",
+                "Cat"
             ],
             "metadata": [
                 {
@@ -359,13 +361,23 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4542,
+                        "displayText": "Should I stay away from animals if I'm sick?\n"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4542,
-                        "displayText": "Should I stay away from animals if I'm sick?\n"
+                        "qnaId": 4642,
+                        "displayText": "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4673,
+                        "displayText": "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -580,7 +592,8 @@
                 "How can I get my test results?",
                 "How do I get my COVID-19 tests results back",
                 "waiting",
-                "how quickly do you get results"
+                "how quickly do you get results",
+                "How long after a test are the results available"
             ],
             "metadata": [
                 {
@@ -831,6 +844,11 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -877,7 +895,8 @@
                 "is the church open",
                 "When will we be able to start attending church services again?",
                 "religious gathering",
-                "churches"
+                "churches",
+                "churches allowed to operate"
             ],
             "metadata": [
                 {
@@ -2041,7 +2060,7 @@
         },
         {
             "id": 4591,
-            "answer": "**Are mass gatherings allowed?**\n\nAs of May 6, Vermonters are allowed to gather in small groups of 10 or fewer people as long as health and safety precautions are followed. Members of one household may now choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nGatherings of more than 10 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.",
+            "answer": "**Are mass gatherings allowed?**\n\nAs of May 6, Vermonters are allowed to gather in small groups of 10 or fewer people as long as health and safety precautions are followed. Members of one household may now choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nGatherings of more than 10 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nVermonters may hold yard sales and garage sales with 10 or fewer people. Hosts and visitors must keep a distance of at least 6 feet from others, and it is recommended that they wear cloth face masks or coverings.\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.",
             "source": "Editorial",
             "questions": [
                 "Are churches able to gather if they have 10 or less people attending",
@@ -2057,7 +2076,8 @@
                 "Event restrictions",
                 "Are mass gatherings allowed?",
                 "Congregate",
-                "car parade"
+                "car parade",
+                "funeral"
             ],
             "metadata": [
                 {
@@ -2341,8 +2361,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4541,
+                        "displayText": "Can pets get sick from COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2858,7 +2883,9 @@
                 "cross state travel",
                 "interstate travel",
                 "Returning to Vermont",
-                "do i need to quarantine when i come to vermont?"
+                "do i need to quarantine when i come to vermont?",
+                "Are visitor from outside of US",
+                "can I go up to Vermont "
             ],
             "metadata": [
                 {
@@ -3066,6 +3093,16 @@
                         "displayOrder": 0,
                         "qnaId": 4569,
                         "displayText": "What should I do if I feel sick and think I may have COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "What if I work in a different state?"
                     },
                     {
                         "displayOrder": 0,
@@ -3388,7 +3425,9 @@
                 "lockdown",
                 "What does the Be Smart, Stay Safe Order mean for Vermonters?",
                 "stay home, stay safe",
-                "current restrictions"
+                "current restrictions",
+                "state of emergency",
+                "Be smart stay safe addendum"
             ],
             "metadata": [
                 {
@@ -3404,6 +3443,16 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4690,
+                        "displayText": "Can I get together with friends and family?"
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -3646,7 +3695,8 @@
             "source": "Editorial",
             "questions": [
                 "I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?",
-                "I have split custody and I need to get my child from New York."
+                "I have split custody and I need to get my child from New York.",
+                "How do parents share custody"
             ],
             "metadata": [
                 {
@@ -3752,11 +3802,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4635,
-                        "displayText": "Split custody information."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4567,
                         "displayText": "Is it okay to travel within the United States? "
                     },
@@ -3767,20 +3812,25 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4692,
+                        "displayText": "Can I have the option to be tested and end my quarantine period?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "qnaId": 4635,
+                        "displayText": "I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
         },
         {
             "id": 4638,
-            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty is important for our mind and bodies.\n\nBusinesses, non-profit and government entities that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact can open on May 7. These include, but are not limited to, state and municipal parks, recreation associations, trail networks, golf courses, big game check stations and guided expeditions.\n\nFind up-to-date [information on outdoor recreation](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#outdoor-recreation) and [campgrounds](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#campgrounds-rv-parks-seasonal-resorts) from the Agency of Commerce and Community Development.\n\nContact sports and games should not be played at this time.\n\nWe can safely continue to enjoy outdoor activities with these measures:\n\n* **Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n\n* **Take health and safety precautions.** Keep the virus from spreading by staying at least 6 feet apart from other people outside of your household, washing or sanitizing your hands, and staying home when you are sick.\n\n* **Bring a cloth face mask with you.** Put a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) on if you encounter other people and stop to chat or if you are on a crowded trail or bike path.\n\n* **Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system. \n\n* **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to find out if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n\n* **Choose no-contact sports**: For example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but signage should be posted prohibiting contact games. Do not share sports equipment with people outside of your household.\n\n* **Check for ticks and wear an EPA-registered tick repellent**. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/outdoor-recreation-and-covid-19). \n\nLearn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).",
+            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty is important for our mind and bodies. As the weather warms up, be sure to follow these [summer safety tips](https://www.healthvermont.gov/summer-safety-tips).\n\nBusinesses, non-profit and government entities that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact can open on May 7. These include, but are not limited to, state and municipal parks, recreation associations, trail networks, golf courses, big game check stations and guided expeditions.\n\nFind up-to-date [information on outdoor recreation](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#outdoor-recreation) and [campgrounds](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#campgrounds-rv-parks-seasonal-resorts) from the Agency of Commerce and Community Development.\n\nContact sports and games should not be played at this time.\n\nWe can safely continue to enjoy outdoor activities with these measures:\n\n**Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n\n**Take health and safety precautions.** Keep the virus from spreading by staying at least 6 feet apart from other people outside of your household, washing or sanitizing your hands, and staying home when you are sick.\n\n**Bring a cloth face mask with you.** Put a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) on if you encounter other people and stop to chat or if you are on a crowded trail or bike path.\n\n**Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system.\n\n**Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to find out if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n\n**Choose no-contact sports**: For example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but signage should be posted prohibiting contact games. Do not share sports equipment with people outside of your household.\n\n**Check for ticks and wear an EPA-registered tick repellent**. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/outdoor-recreation-and-covid-19).\n\nLearn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).",
             "source": "Editorial",
             "questions": [
                 "travel to another place in Vermont for recreation?",
@@ -3979,9 +4029,8 @@
             "answer": "**Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?**\n\nAccording to the CDC, at this time, there is no evidence that animals play a large role in spreading the virus that causes COVID-19, and no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets. Based on the limited information available at this time, the risk of animals spreading COVID-19 to people is considered to be low. A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. Find more information on [staying safe and healthy around animals including pets](https://www.cdc.gov/healthypets/index.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
-                "Can pets transmit Covid-19?",
-                "Can I get infected by my pet",
-                "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?"
+                "Pets",
+                "Animals"
             ],
             "metadata": [
                 {
@@ -3995,13 +4044,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "qnaId": 4541,
+                        "displayText": "Can pets get sick from COVID-19?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4541,
-                        "displayText": "Can pets get sick from COVID-19?"
+                        "qnaId": 4673,
+                        "displayText": "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -4057,13 +4111,18 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "qnaId": 4692,
+                        "displayText": "Can I have the option to be tested and end my quarantine period?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "qnaId": 4654,
+                        "displayText": "What is serologic, or antibody, testing and will it be used in Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -4470,7 +4529,8 @@
                 "Food truck outdoor seating",
                 "Must restaurant workers offering to go food wear masks?",
                 "Are food providers supposed to wear masks",
-                "Guidelines for employers"
+                "Guidelines for employers",
+                "Rules for restaurants"
             ],
             "metadata": [
                 {
@@ -4495,7 +4555,7 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4681,
-                        "displayText": "Information about reopening a business."
+                        "displayText": "What do employers need to do to reopen their business?"
                     },
                     {
                         "displayOrder": 0,
@@ -4589,11 +4649,11 @@
         },
         {
             "id": 4660,
-            "answer": "**Are property management and landscaping businesses allowed to operate?**\n\nProperty management and landscaping businesses may conduct limited in-person operations.\n\nFind details on the Agency of Commerce and Community Development (ACCD) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n* Up-to-date [guidance and mandatory health and safety requirements for property management and landscaping](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#property-management-landscaping). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others.\n\n* Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health &amp; Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf) from the Health Department.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**Are property management and landscaping businesses allowed to operate?**\n\nProperty management and landscaping businesses may conduct limited in-person operations.\n\nFind details on the Agency of Commerce and Community Development (ACCD) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n* Up-to-date [guidance and mandatory health and safety requirements for property management and landscaping](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#property-management-landscaping). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others.\n\n* Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) and read the [Health & Safety Tips for Essential Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Essential-Workers-Health-Safety-Tips.pdf) from the Health Department.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
             "questions": [
-                "Are property management and landscaping businesses allowed to operate?",
-                "rules for landscapers"
+                "rules for landscapers",
+                "Are property management and landscaping allowed to operate?"
             ],
             "metadata": [
                 {
@@ -4663,7 +4723,8 @@
                 "When returning to a summer home, do we have to quarantine?",
                 "If you have a home in Vermont are you allowed to go there from another state?",
                 "own a timeshare",
-                "I have a second home in Vermont "
+                "I have a second home in Vermont ",
+                "my vacation home"
             ],
             "metadata": [
                 {
@@ -4686,13 +4747,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4692,
+                        "displayText": "Can I have the option to be tested and end my quarantine period?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4884,11 +4945,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4575,
                         "displayText": "What does close contact mean?"
                     },
@@ -4896,6 +4952,11 @@
                         "displayOrder": 0,
                         "qnaId": 4601,
                         "displayText": "When can I stop home isolation?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4910,7 +4971,8 @@
                 "rental",
                 "Can a landlord move someone into my house during COVID-19?",
                 "look at real-estate",
-                "Can you rent a house in vermont"
+                "Can you rent a house in vermont",
+                "how do I move to Vermont?"
             ],
             "metadata": [
                 {
@@ -5011,13 +5073,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "qnaId": 4651,
+                        "displayText": "Is there any assistance available for food?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4651,
-                        "displayText": "Is there any assistance available for food?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -5039,6 +5101,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4541,
+                        "displayText": "Can pets get sick from COVID-19?"
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -5112,7 +5179,12 @@
             "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes, services have been changed to limit in-person contact. Some services may not be available like walk-in HIV/Hepatitis C testing. Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
             "questions": [
-                "Are syringe service programs (needle exchanges) still open?"
+                "syringe service ",
+                "needle exchanges ",
+                "NSP",
+                "Injecting",
+                "IDU",
+                "Hypodermic needles"
             ],
             "metadata": [
                 {
@@ -5246,7 +5318,8 @@
                 "What is open in Vermont?",
                 "When will the DMV be open?",
                 "reopening",
-                "when will nail salons open?"
+                "when will nail salons open?",
+                "Can I get a haircut"
             ],
             "metadata": [
                 {
@@ -5278,7 +5351,7 @@
         },
         {
             "id": 4681,
-            "answer": "**What do employers need to do to reopen their business?**\n\nAll businesses must follow mandatory health and safety requirements as they reopen.\n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on their [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including a step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
+            "answer": "**What do employers need to do to reopen their business?**\n\nAll businesses must follow mandatory health and safety requirements as they reopen.\n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on their [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including a step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).\n\nStagnant water in plumbing systems can lead to illness or cause disease. As offices, retail businesses, gyms and other buildings begin to reopen, they should follow [state guidance and recommendations](https://dec.vermont.gov/water/COVID-19-Response-and-Resources) before using the drinking water again. Read the CDC’s [Guidance for Reopening Buildings After Prolonged Shutdown or Reduced Operation](https://www.cdc.gov/coronavirus/2019-ncov/php/building-water-system.html) for more information.",
             "source": "Editorial",
             "questions": [
                 "What do employers need to do to reopen their business?"
@@ -5347,11 +5420,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4545,
                         "displayText": "Can I be tested for COVID-19?"
                     },
@@ -5359,6 +5427,11 @@
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -5405,7 +5478,8 @@
                 "Can I hang out with friends now",
                 "Spend the night",
                 "Kids sleepovers",
-                "should I visit a relative"
+                "should I visit a relative",
+                "have people over"
             ],
             "metadata": [
                 {
@@ -5417,6 +5491,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4591,
+                        "displayText": "Are mass gatherings allowed?"
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -5444,6 +5523,11 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4643,
+                        "displayText": "Where can I get tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5452,7 +5536,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. Registration for testing is required. If you are coming from out of state, you may be tested in your home state within 48 hours of travel to Vermont. You should bring a copy of your negative test result with you to Vermont.\n\nBased on data in the medical literature, the vast majority of people who are going to develop symptoms will do so by Day 7 or 8. For this reason, we offer what we consider to be a low-risk option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. This is simply an option, and it may not be practical or desirable for everyone.\n\nThe testing option is for:\n\n*   people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students)\n*   visitors coming into Vermont\n*   close contacts of people who have tested positive\n\nFor anyone coming into Vermont, Day 0 is the day you arrive in Vermont.\n\nNew admissions to long-term care facilities must complete the full 14-day quarantine.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If symptoms develop, you must isolate at home immediately and contact your health care provider.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. Registration for testing is required. If you are coming from out of state, you may be tested in your home state within 48 hours of travel to Vermont, but must remain in quarantine until your test result comes back. You should bring a copy of your negative test result with you to Vermont.\n\nBased on data in the medical literature, the vast majority of people who are going to develop symptoms will do so by Day 7 or 8. For this reason, we offer what we consider to be a low-risk option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. This is simply an option, and it may not be practical or desirable for everyone.\n\nThe testing option is for:\n\n*   people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students)\n*   visitors coming into Vermont\n*   close contacts of people who have tested positive\n\nFor anyone coming into Vermont, Day 0 is the day you arrive in Vermont.\n\nNew admissions to long-term care facilities must complete the full 14-day quarantine.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If symptoms develop, you must isolate at home immediately and contact your health care provider.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
@@ -5498,8 +5582,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4576,
+                        "displayText": "Can the COVID-19 virus spread through pools and hot tubs?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4638,
+                        "displayText": "Are sports and outdoor activities allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
