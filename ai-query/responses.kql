@@ -1,18 +1,28 @@
-// answered and unanswered
-let startDate = todatetime("2020-03-25T16:30:00");
+// comments
+// logs are stored in UTC time, so we need to convert between UTC and EST
+// 
+// changelog
+// date       author        message
+// 5/26/2020  kyle & grace  fix perf, fix startDate timezone, add change log
+
+// set start time for query
+let startDate_EST = todatetime("2020-05-26T09:30:00");
+let startDate_UTC = datetime_add("hour", 4, startDate_EST);
+//
 // bad convo ids
 let wrongIDs = traces
 | where customDimensions.Question contains "This did NOT answer my question" 
 | project extract("^[a-z0-9]{7}", 0, itemId);
+//
 // get all q/a pairs
 traces
+| where timestamp > startDate_UTC
+    and message contains "GenerateAnswer"
 | extend input = tostring(customDimensions.Question),
         answer = tostring(customDimensions.Answer),
         scoreInt = toint(round(todouble(customDimensions.Score))),
         convoId = extract("^[a-z0-9]{7}", 0, itemId)
-| where message contains "GenerateAnswer"
-    and input  !contains "This did NOT answer my question"
-    and timestamp > startDate
+| where input  !contains "This did NOT answer my question"
 | extend score = iif(convoId in (wrongIDs), -1, scoreInt), // separate bad vs good
          EST = datetime_add("hour", -4, timestamp)         // convert UTC to EST
 | order by timestamp desc 
