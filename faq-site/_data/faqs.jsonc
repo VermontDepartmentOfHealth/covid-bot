@@ -70,15 +70,15 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4535,
-                        "displayText": "Differences between COVID-19 and the flu?"
+                        "displayText": "What is the difference between COVID-19 and the flu?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4569,
-                        "displayText": "What should I do if I think I may have COVID-19?"
+                        "displayText": "What should I do if I feel sick and think I may have COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -112,11 +112,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4594,
-                        "displayText": "Can I get the virus from touching my mail?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4593,
                         "displayText": "Can I get the virus from food?"
                     },
@@ -132,6 +127,11 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4594,
+                        "displayText": "Can I get the virus from touching my mail or paper products?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -162,7 +162,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -198,7 +198,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -233,10 +233,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4584,
-                        "displayText": "How to practice social distancing with children."
+                        "displayText": "How should we practice social distancing with children?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -276,7 +276,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -324,17 +324,17 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4597,
-                        "displayText": "Do homemade face masks work?"
+                        "displayText": "Do homemade cloth face masks or coverings work?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4656,
-                        "displayText": "Information for protecting workers and customers."
+                        "displayText": "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -361,11 +361,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4542,
-                        "displayText": "Should I stay away from animals if I'm sick?\n"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4642,
                         "displayText": "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?"
                     },
@@ -376,8 +371,13 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4542,
+                        "displayText": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -403,13 +403,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4541,
                         "displayText": "Can pets get sick from COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -440,14 +440,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4544,
-                        "displayText": "What is monitoring?\n"
+                        "displayText": "What is monitoring?"
                     }
                 ]
             }
@@ -476,14 +476,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -533,18 +533,18 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4643,
+                        "displayText": "Where can I get tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -569,7 +569,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -606,7 +606,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -640,9 +640,9 @@
                         "displayText": "Can I be tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -681,7 +681,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -711,13 +711,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4545,
                         "displayText": "Can I be tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -742,18 +742,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4682,
+                        "displayText": "What is contact tracing?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4580,
-                        "displayText": "More info about Covid-19 Cases"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4682,
-                        "displayText": "What is contact tracing?"
+                        "displayText": "Can you tell me more information about a patient with COVID-19?"
                     }
                 ]
             }
@@ -787,7 +787,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -812,7 +812,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -848,7 +848,7 @@
                         "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -878,7 +878,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -909,7 +909,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -935,7 +935,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -979,17 +979,17 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4558,
-                        "displayText": "What should those in long-term care facilities do?"
+                        "displayText": "What should people in long-term care facilities or group homes do?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4596,
-                        "displayText": "Is it safe to go grocery shopping?\n"
+                        "displayText": "Is it safe to go grocery shopping?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1025,13 +1025,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4575,
                         "displayText": "What does close contact mean?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1060,16 +1060,16 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Can I be tested for Covid-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4549,
                         "displayText": "How much does the test cost?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1101,12 +1101,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4544,
-                        "displayText": "What is monitoring?\n"
+                        "displayText": "What is monitoring?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1135,7 +1135,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1172,13 +1172,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4567,
                         "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1206,14 +1206,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -1252,22 +1252,22 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont?"
+                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4637,
-                        "displayText": "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -1294,19 +1294,19 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4575,
-                        "displayText": "What does close contact mean?\n"
+                        "displayText": "What does close contact mean?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -1352,11 +1352,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4601,
-                        "displayText": "When can I stop self-isolating?\n"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4571,
                         "displayText": "How can I get help finding a health care provider?"
                     },
@@ -1367,18 +1362,23 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4648,
                         "displayText": "Can I take ibuprofen for COVID-19 symptoms?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4601,
+                        "displayText": "When can I stop self-isolating (home isolation)?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4542,
-                        "displayText": "Should I stay away from pets if I'm sick?\n"
+                        "displayText": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
                     }
                 ]
             }
@@ -1410,7 +1410,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1449,7 +1449,7 @@
                         "displayText": "Can I be tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1478,7 +1478,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1507,7 +1507,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1542,17 +1542,17 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4601,
-                        "displayText": "When can I stop self-isolating?\n"
+                        "displayText": "When can I stop self-isolating (home isolation)?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4569,
-                        "displayText": "What should I do if I think I may have COVID-19?"
+                        "displayText": "What should I do if I feel sick and think I may have COVID-19?"
                     }
                 ]
             }
@@ -1581,9 +1581,9 @@
                         "displayText": "Are sports and outdoor activities allowed?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1639,15 +1639,15 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4591,
-                        "displayText": "Information regarding mass gatherings?"
+                        "displayText": "Are mass gatherings (ceremonies, events, fairs or festivals) allowed?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4638,
-                        "displayText": "Can I still do outdoor activities?"
+                        "displayText": "Are sports and outdoor activities allowed?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1674,7 +1674,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1701,14 +1701,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4590,
-                        "displayText": "Why is Vermont reporting in this way?\n"
+                        "displayText": "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?"
                     }
                 ]
             }
@@ -1743,10 +1743,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4659,
-                        "displayText": "What should I do if I have a dental emergency?"
+                        "displayText": "What should I do if I need to see a dentist?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1773,7 +1773,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1804,7 +1804,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1836,15 +1836,15 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4577,
-                        "displayText": "What does social distancing mean?\n"
+                        "displayText": "What does social distancing mean?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4638,
-                        "displayText": "Can I still do outdoor activities with the Stay Home, Stay Safe Order?"
+                        "displayText": "Are sports and outdoor activities allowed?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1875,7 +1875,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1908,7 +1908,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1952,7 +1952,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1988,7 +1988,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2015,7 +2015,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2049,12 +2049,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4577,
-                        "displayText": "What does social distancing mean?\n"
+                        "displayText": "What does social distancing mean?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2092,7 +2092,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2123,13 +2123,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4587,
                         "displayText": "What is Vermont doing?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2162,18 +2162,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4596,
-                        "displayText": "Is it safe to go grocery shopping?\n"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4537,
                         "displayText": "How does COVID-19 spread?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4596,
+                        "displayText": "Is it safe to go grocery shopping?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2207,16 +2207,16 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4572,
-                        "displayText": "How long can the virus live on surfaces?\n"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4537,
                         "displayText": "How does COVID-19 spread?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4572,
+                        "displayText": "How long can the virus live on surfaces?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2245,7 +2245,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2287,7 +2287,7 @@
                         "displayText": "Can I get the virus from food?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2319,25 +2319,25 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4537,
-                        "displayText": "How does Covid-19 spread?\n"
+                        "displayText": "How does COVID-19 spread?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4540,
-                        "displayText": "Should I wear a face mask when I go out in public?"
+                        "displayText": "Should I wear a cloth face mask or covering when I go out in public?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4641,
-                        "displayText": "How can I make my own homemade face mask?"
+                        "displayText": "How can I make my own homemade cloth face mask or covering?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4665,
-                        "displayText": "Where can I buy cloth face coverings?"
+                        "displayText": "Where can I buy cloth face masks or coverings?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2367,7 +2367,7 @@
                         "displayText": "Can pets get sick from COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2414,23 +2414,23 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4618,
+                        "displayText": "What is isolation, quarantine and self-observation?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4639,
-                        "displayText": "When will the “Stay Home, Stay Safe” Order end?"
+                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4652,
-                        "displayText": "Can I donate my blood plasma after I recover?\n"
+                        "displayText": "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4618,
-                        "displayText": "What is isolation, quarantine and self-observation?"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2463,9 +2463,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2503,10 +2503,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4646,
-                        "displayText": "Violations of the Stay Home, Stay Safe Order. "
+                        "displayText": "How can I report a person or business who is violating the Be Smart, Stay Safe Order?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2534,7 +2534,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2570,16 +2570,16 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4619,
-                        "displayText": "Can I volunteer to help with the response?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4683,
                         "displayText": "Who is getting tested for COVID-19 in Vermont?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4619,
+                        "displayText": "Can I volunteer to help with the State’s response to COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2613,12 +2613,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4629,
-                        "displayText": "What does the “Stay Home, Stay Safe” Order mean?"
+                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2643,14 +2643,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4629,
-                        "displayText": "What does the “Stay Home, Stay Safe” Order mean?"
+                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
                     }
                 ]
             }
@@ -2679,9 +2679,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2710,7 +2710,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2741,10 +2741,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4611,
-                        "displayText": "How many people have recovered from COVID-19?"
+                        "displayText": "How many people have recovered from COVID-19 in Vermont?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2779,9 +2779,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2805,7 +2805,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2834,7 +2834,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2907,28 +2907,28 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4637,
-                        "displayText": "Does the “Stay Home, Stay Safe” Order ban travel to neighboring states for work or court-ordered parental visitation?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4662,
                         "displayText": "I have a second home or a seasonal home in Vermont. Can I come to Vermont?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                        "qnaId": 4637,
+                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4692,
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2981,10 +2981,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4669,
-                        "displayText": "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?\n"
+                        "displayText": "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3042,7 +3042,7 @@
                         "displayText": "What is contact tracing?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3091,11 +3091,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4560,
-                        "displayText": "I had close contact with someone who has COVID-19."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4569,
                         "displayText": "What should I do if I feel sick and think I may have COVID-19?"
                     },
@@ -3106,11 +3101,16 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "What if I work in a different state?"
+                        "qnaId": 4560,
+                        "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3151,19 +3151,19 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4620,
-                        "displayText": "Is volunteering allowed?"
+                        "displayText": "Is volunteering allowed under the Be Smart, Stay Safe Order?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4657,
-                        "displayText": "Can I get a temporary health professional license?"
+                        "displayText": "I’m a health professional and would like to volunteer. How do I get a temporary license?"
                     }
                 ]
             }
@@ -3192,17 +3192,17 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4577,
-                        "displayText": "What does social distancing mean?\n"
+                        "displayText": "What does social distancing mean?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4619,
-                        "displayText": "Can I volunteer with the COVID-19 response?"
+                        "displayText": "Can I volunteer to help with the State’s response to COVID-19?"
                     }
                 ]
             }
@@ -3232,9 +3232,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3264,12 +3264,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4616,
-                        "displayText": "Are lodging facilities closed?"
+                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3302,16 +3302,16 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4580,
-                        "displayText": "Information about patients with Covid-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4643,
                         "displayText": "Where can I get tested for COVID-19?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4580,
+                        "displayText": "Can you tell me more information about a patient with COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3344,9 +3344,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3372,14 +3372,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4631,
-                        "displayText": "What is considered essential?"
+                        "displayText": "What is considered an essential service or function?"
                     }
                 ]
             }
@@ -3411,7 +3411,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3450,16 +3450,16 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4680,
-                        "displayText": "Is the state reopened?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4690,
                         "displayText": "Can I get together with friends and family?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened? Which businesses are open now?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3521,20 +3521,20 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4681,
-                        "displayText": "What employers need to do to reopen businesses"
+                        "displayText": "What do employers need to do to reopen their business?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4629,
-                        "displayText": "Stay Home, Stay Safe Order for Vermonters?"
+                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4631,
-                        "displayText": "What is an essential service or function?"
+                        "displayText": "What is considered an essential service or function?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3573,10 +3573,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4636,
-                        "displayText": "Is my job or business considered essential?"
+                        "displayText": "Is my job or business considered essential? Can I continue to work?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3614,12 +3614,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4628,
-                        "displayText": "Can I get unemployment?\n"
+                        "displayText": "Can I get unemployment? How do I file an unemployment claim?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3648,9 +3648,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3686,9 +3686,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3714,16 +3714,16 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4637,
-                        "displayText": "Court-ordered parental visitation information."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4577,
                         "displayText": "What does social distancing mean?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4637,
+                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3764,17 +3764,17 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4631,
-                        "displayText": "What is considered an essential service?"
+                        "displayText": "What is considered an essential service or function?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4603,
-                        "displayText": "How can I share a safety complaint?"
+                        "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3806,26 +3806,26 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? "
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4635,
                         "displayText": "I split custody with my children. Can we still continue to bring our children from one home to another, or do we need to follow the 14-day self-quarantine for each visit?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4692,
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3879,13 +3879,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4690,
                         "displayText": "Can I get together with friends and family?"
+                    },
+                    {
+                        "displayOrder": 9,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3947,20 +3947,20 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4630,
-                        "displayText": "“Stay Home, Stay Safe” Order info for businesses."
+                        "displayText": "What should businesses and non-profits do?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4618,
-                        "displayText": "Isolation, quarantine and self-observation"
+                        "displayText": "What is isolation, quarantine and self-observation?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4680,
-                        "displayText": "Is the state reopened?"
+                        "displayText": "Is the state reopened? Which businesses are open now?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3990,9 +3990,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4022,9 +4022,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4058,9 +4058,9 @@
                         "displayText": "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4116,18 +4116,18 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4654,
                         "displayText": "What is serologic, or antibody, testing and will it be used in Vermont?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4692,
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4155,9 +4155,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4183,12 +4183,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4653,
-                        "displayText": "Universal testing at group living facilities?"
+                        "displayText": "Is there universal (widespread) testing being done at group living facilities?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4223,9 +4223,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4255,9 +4255,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4284,9 +4284,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4312,12 +4312,12 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4653,
-                        "displayText": "Testing at group living facilities."
+                        "displayText": "Is there universal (widespread) testing being done at group living facilities?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4340,7 +4340,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4374,7 +4374,7 @@
                         "displayText": "Is there food available if I need it?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4403,9 +4403,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4437,7 +4437,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4480,9 +4480,9 @@
                         "displayText": "Should I be tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4512,14 +4512,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4641,
-                        "displayText": "How can I make my own homemade face mask?"
+                        "displayText": "How can I make my own homemade cloth face mask or covering?"
                     }
                 ]
             }
@@ -4549,21 +4549,21 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4646,
-                        "displayText": "Violations of the Stay Home, Stay Safe Order"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4603,
-                        "displayText": "I don’t feel safe at work."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4681,
                         "displayText": "What do employers need to do to reopen their business?"
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4646,
+                        "displayText": "How can I report a person or business who is violating the Be Smart, Stay Safe Order?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4603,
+                        "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
+                    },
+                    {
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4592,7 +4592,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4619,7 +4619,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4646,7 +4646,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4681,7 +4681,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4719,15 +4719,15 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont?"
+                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4752,7 +4752,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4789,10 +4789,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4641,
-                        "displayText": "How can I make my own homemade face mask?"
+                        "displayText": "How can I make my own homemade cloth face mask or covering?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4819,14 +4819,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -4853,7 +4853,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4889,10 +4889,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4601,
-                        "displayText": "When can I stop home isolation?"
+                        "displayText": "When can I stop self-isolating (home isolation)?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4923,7 +4923,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4948,7 +4948,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4975,7 +4975,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5015,7 +5015,7 @@
                         "displayText": "Is there any assistance available for food?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5045,9 +5045,9 @@
                         "displayText": "Can pets get sick from COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -5075,7 +5075,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5105,7 +5105,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5139,7 +5139,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5171,7 +5171,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5198,7 +5198,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5235,7 +5235,7 @@
                         "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5276,15 +5276,15 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4639,
-                        "displayText": "When will COVID-19 infections peak? When will the Stay Home, Stay Safe Order end?"
+                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4616,
-                        "displayText": "Are hotels, motels and other lodging facilities closed?"
+                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5309,7 +5309,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5334,7 +5334,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5368,10 +5368,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4692,
-                        "displayText": "Can I have the option to be tested and end my quarantine period?"
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5400,10 +5400,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4537,
-                        "displayText": "How does COVID-19 spread?\n"
+                        "displayText": "How does COVID-19 spread?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5436,10 +5436,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4591,
-                        "displayText": "Are mass gatherings allowed?"
+                        "displayText": "Are mass gatherings (ceremonies, events, fairs or festivals) allowed?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5466,10 +5466,10 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
+                        "displayText": "Where can I get tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5498,7 +5498,7 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5533,9 +5533,9 @@
                         "displayText": "Are sports and outdoor activities allowed?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -5562,9 +5562,9 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 9,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
