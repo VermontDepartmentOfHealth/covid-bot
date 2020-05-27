@@ -29,8 +29,9 @@ async function restoreTestKb() {
         let updateObject = updateObjectCreationResult.updateKbObject
 
         //updates to follow up prompts require a two part update process
-        if (updateObjectCreationResult.promptHasBeenUpdated) {
+        if (updateObjectCreationResult.anyPromptHasBeenUpdated) {
 
+            // part ONE
             let stepOneWasSuccessful = await updateOneOfTwo(clientFromTest, process.env.kbId, updateObject);
 
             if (!stepOneWasSuccessful) {
@@ -43,7 +44,7 @@ async function restoreTestKb() {
             updateObject = updateResultForStepTwo.updateKbObject;
         }
 
-        let updateResponse = await initiateUpdate(clientFromTest, process.env.kbId, updateObject);
+        let updateResponse = await invokeUpdate(clientFromTest, process.env.kbId, updateObject);
 
         //get operation id from update response
         let updateJson = await updateResponse.json();
@@ -84,7 +85,7 @@ async function updateOneOfTwo(clientFromTest, kbId, updateObject) {
     console.log("\n" + 'Update includes changes to existing follow up prompts.')
     console.log('These types of updates must be handled in a two step process, starting the first update now...')
 
-    let updateResponse = await initiateUpdate(clientFromTest, kbId, updateObject);
+    let updateResponse = await invokeUpdate(clientFromTest, kbId, updateObject);
     let updateJson = await updateResponse.json();
     let opId = updateJson.operationId;
 
@@ -140,16 +141,16 @@ async function getLocalKb() {
 
 //Call update api, this will only kick off the update process, it will take a
 //significant amount of time for the kb to complete the update
-async function initiateUpdate(clientFromTest, kbId, updateObject) {
+async function invokeUpdate(clientFromTest, kbId, updateObject) {
 
-    console.log("\n" + 'Initiating update of test knowledge base...')
+    console.log("\n" + 'Invoking update of test knowledge base...')
 
     let updateResponse = await clientFromTest.knowledgeBase.update(kbId, updateObject)
     if (updateResponse && updateResponse.status === STATUS_ACCEPTED) {
-        console.log('Update initiated')
+        console.log('Update invoked')
         return updateResponse;
     } else {
-        throw "Failed to initiate update";
+        throw "Failed to invoked update";
     }
 }
 
@@ -212,7 +213,7 @@ function getKbUpdateResult(localKb, currentlyOnTestKB, kbDetails) {
 
     let updateEvalObjectResult = {
         updateKbObject: updateKbObject,
-        promptHasBeenUpdated: updateObjectListResult.promptsHaveBeenUpdated
+        anyPromptHasBeenUpdated: updateObjectListResult.promptsHaveBeenUpdated
     }
 
     return updateEvalObjectResult;
@@ -263,6 +264,7 @@ function getUpdatedQnaPairs(localKb, currentlyOnTestKB) {
 function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
 
     let promptHasBeenUpdated = false;
+
     //for each QnA pair that has been updated, find updated elements and use them to build object to
     let updateObjects = updatedQnaPairs.map(function(qnaPair) {
         //TODO test context updates
@@ -289,12 +291,38 @@ function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
         let promptsFromLocalKb = qnaPairFromLocalKb.context.prompts;
         let promptsToAdd = getListOfItemsToAdd(promptsFromLocalKb, promptsFromTest);
         let promptsToDelete = getListOfItemsToDelete(promptsFromLocalKb, promptsFromTest)
-            //updated prompts must be processed as a delete and an add but the kb is not able to do this in a single update
-            //when an prompt is updated it will be deleted, then a second comparison will be made between the local kb and the test
-            //kb and the updated prompt will be processed as an add.
-        let promptsNotUpdated = promptsToAdd.filter((elem) => !promptsToDelete.find(({ id }) => elem.id === id))
-        promptHasBeenUpdated = promptHasBeenUpdated || !(promptsNotUpdated.length === promptsToAdd.length)
-        promptsToAdd = promptsNotUpdated;
+
+        //updated prompts must be processed as a delete and an add but the kb is not able to do this in a single update
+        //when a prompt is updated it will be deleted, then a second comparison will be made between the local kb and the test
+        //kb and the updated prompt will be processed as an add.
+
+        // prompts from test
+        // [a,b1,c]
+        // prompts from local
+        // [a,b2,e]
+
+        // prompts to add
+        // [e,b2]
+        // prompts to delete
+        // [c,b1]
+
+        // first pass
+        // add - [e]        // hard part - hold off adding b2 right away
+        // delete - [c,b1] 
+
+        // second pass
+        // add - [b2]
+
+        // set flag at least once so we know have to do two passes
+        promptHasBeenUpdated = promptHasBeenUpdated || promptsToAdd.some(add => promptsToDelete.some(del => del.id === add.id))
+
+        // remove items from add that are being deleted for now (we'll get them in second pass)
+        promptsToAdd = promptsToAdd.filter(add => {
+            // for each prompt, if the same id is getting deleted, hold off for now
+            let samePromptIsAlsoBeingDeleted = promptsToDelete.some(del => del.id === add.id)
+            return !samePromptIsAlsoBeingDeleted
+        })
+
 
         let updateObject = {
             id: qnaPair.id,
