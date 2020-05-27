@@ -1,77 +1,88 @@
 const utilities = require('./utilities')
 
-//This follow up question will be ignored
-const didNotAnswerText = "This did NOT answer my question."
+// This follow up question will be ignored
+const DID_NOT_ANSWER_TEXT = "This did NOT answer my question."
+const DID_NOT_ANSWER_ID = 4533
+const DID_NOT_ANSWER_SORT = 9
+
 
 module.exports = fixFollowUpsOnLocalFaq();
 
 async function fixFollowUpsOnLocalFaq() {
-    //get local version of kb
+    // get local version of kb
     let faqs = await utilities.readJsonc("_data/faqs.jsonc")
     let allFaqs = faqs.qnaDocuments
 
     let updatedKb = updateFollowQuestionButtons(allFaqs)
 
-    //write updated version back to local file
+    // write updated version back to local file
     let contents = JSON.stringify(updatedKb, null, 4);
     await utilities.writeFile("_data/faqs.jsonc", contents)
 
 }
 
 function updateFollowQuestionButtons(allFaqs) {
-    
-    //for each qna item
+
+    // for each qna item
     allFaqs.forEach(faq => {
 
-        //get follow up prompts
+        // get follow up prompts
         let prompts = faq.context.prompts
 
-        //initialize array to track follow ups that point to a question that has been removed
-        let followUpsToDelete = [];
 
-        //If there are any follow ups TODO do I need to check lenght? or will the for each take care of that/
-        if(Array.isArray(prompts) && prompts.length){
-            
-            prompts.forEach(followUp => {
-                let buttonText = followUp.displayText
+        // update follow up prompts that point to a question that has been updated
+        prompts.forEach(followUp => {
+            // go grab displayText and ID from followup Prompt
+            let {
+                displayText: buttonText,
+                qnaId: targetQuestionId,
+                displayOrder: sort
+            } = followUp
 
-                //ignore the "This did not answer.." buttons
-                if (buttonText === didNotAnswerText){
-                    return;
+            // find the full question item
+            let targetQuestion = allFaqs.find(obj => {
+                return obj.id === targetQuestionId
+            })
+
+            // crazy edge case - this should probably never be true
+            if (!targetQuestion) return;
+
+
+            let curPromptIsDidNotAnswer = targetQuestionId === DID_NOT_ANSWER_ID
+
+            // We can trust that, if we found a question by ID, it will be unique and we can take the first
+            let targetQuestionText = curPromptIsDidNotAnswer ?
+                DID_NOT_ANSWER_TEXT :
+                utilities.extractQuestion(targetQuestion.answer)
+
+            // if the follow up button text is different from the question text, update it
+            if (buttonText !== targetQuestionText) {
+                followUp.displayText = targetQuestionText
+            }
+
+            // always set did not answer sort to bottom
+            if (curPromptIsDidNotAnswer) {
+                if (sort !== DID_NOT_ANSWER_SORT) {
+                    followUp.displayOrder = DID_NOT_ANSWER_SORT
                 }
-    
-                //get the Id that this follow up points to 
-                let targetQuestionId = followUp.qnaId
+            }
 
-                //find the full question item
-                let targetQuestion = allFaqs.filter(obj => {
-                     return obj.id === targetQuestionId
-                })
+        });
 
-                //if we can't find the question, it has been deleted, add this prompt to list that will be removed
-                if(targetQuestion.length === 0){
-                    followUpsToDelete.push(targetQuestionId)
-                    return; //the is nothing else we need to do for prompts that will be removed
-                }
+        // todo - this may never be possible if versions are synced
+        // delete follow up prompts that point to a question that has been deleted
+        faq.context.prompts = prompts.filter(prompt => {
+            // filter out prompts if they don't point to a faq
+            let qnaIdExists = allFaqs.some(faq => faq.id === prompt.qnaId)
+            return qnaIdExists;
+        })
 
-                //We can trust that, if we found a question by ID, it will be unique and we can take the first
-                let targetQuestionText = utilities.extractQuestion(targetQuestion[0].answer)
-    
-                //if the follow up button text is different from the question text, update it
-                if(buttonText !== targetQuestionText){
-                    followUp.displayText = targetQuestionText
-             }
-            });
-        }
 
-        //After all prompts for this question are processed, remove follow ups that point to delted questions
-        let updatedFollowups = faq.context.prompts.filter(prompt => !followUpsToDelete.includes(prompt.qnaId))
-        faq.context.prompts = updatedFollowups
+
     })
 
-    //return the udpated listed on qnaDocuments using teh KB signature
-    let knowledgeBase = {"qnaDocuments": allFaqs}
+    // return the updated listed on qnaDocuments using teh KB signature
+    let knowledgeBase = { "qnaDocuments": allFaqs }
     return knowledgeBase;
 
 }
-
