@@ -12,7 +12,8 @@
         "lint-data": "node tools/lintData.js",
         "list-changes": "node tools/listChanges.js",
         "restore-local": "npx cross-env AZURE_ENVIRONMENT=test node tools/restoreTestKb.js",
-        "deploy-to-prod": "node tools/deployToProd.js"
+        "deploy-to-prod": "node tools/deployToProd.js",
+        "update-follow-ups": "node tools/fixFollowUpsOnLocalFaq.js"
     },
     "keywords": [],
     "author": "",
