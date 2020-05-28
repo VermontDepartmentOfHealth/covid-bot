@@ -51,6 +51,13 @@
       "env": {
         "AZURE_ENVIRONMENT": "test"
       }
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Update Follow Ups",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\tools\\fixFollowUpsOnLocalFaq.js",     
     }
   ]
 }
