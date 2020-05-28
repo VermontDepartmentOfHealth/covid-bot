@@ -1220,7 +1220,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCases of COVID-19 have been reported in all states, and some areas are experiencing community spread of the disease. Travel increases your chances of getting and spreading COVID-19.\n\nThe [CDC recommends](http://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) you stay home as much as possible, especially if your trip is not essential, and practice social distancing especially if you are at higher risk of severe illness. Don’t travel if you are sick or travel with someone who is sick.\n\nIn Vermont, visitors from other states and countries are asked not to come to Vermont. If they do, they are required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCases of COVID-19 have been reported in all states, and some areas are experiencing community spread of the disease. Travel increases your chances of getting and spreading COVID-19.\n\nThe [CDC recommends](http://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) you stay home as much as possible, especially if your trip is not essential, and practice social distancing especially if you are at higher risk of severe illness. Don’t travel if you are sick or travel with someone who is sick.\n\nStaying home is still the best way to keep the virus from spreading. But if visitors do come to Vermont, they are required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
             "source": "KB-COVID",
             "questions": [
                 "Should I fly to Texas?",
@@ -1934,7 +1934,8 @@
                 "Tracking and tracing of COVID-19",
                 "When is Governor Scott going to give his next Stay home stay safe update?",
                 "Has the stay at home order been extended?",
-                "When can retail businesses open?"
+                "When can retail businesses open?",
+                "What is the plan?"
             ],
             "metadata": [
                 {
@@ -2077,7 +2078,8 @@
                 "Congregate",
                 "car parade",
                 "funeral",
-                "Are mass gatherings (ceremonies, events, fairs or festivals) allowed?"
+                "Are mass gatherings (ceremonies, events, fairs or festivals) allowed?",
+                "group size"
             ],
             "metadata": [
                 {
@@ -2422,13 +2424,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4618,
-                        "displayText": "Isolation, quarantine and self-observation."
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question. "
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question. "
+                        "qnaId": 4618,
+                        "displayText": "What is isolation, quarantine and self-observation?"
                     }
                 ]
             }
@@ -2841,7 +2843,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?**\n\nVisitors from other states and countries are asked not to come to Vermont. If they do, they are required to quarantine in Vermont for 14 days and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nAs of May 22, lodging facilities – including short-term rentals, campgrounds, RV parks, and seasonal resorts – may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf). Find more details on [lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) from the Agency of Commerce and Community Development (ACCD).\n\nAnyone who leaves Vermont for more than one day for travel that is not “essential\" is required to quarantine at home for 14 days before engaging in any activities, like grocery shopping or going for walks.\n\nEssential travel is defined as travel necessary for personal safety, medical care, care of others, parental shared custody, for food, beverage or medicine, and to perform essential work or work for businesses that are currently allowed to operate. Read [Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) for more details.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nRead [Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) and [Addendum 13](https://governor.vermont.gov/content/addendum-13-executive-order-01-20) for more information about travel into Vermont.",
+            "answer": "**Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?**\n\nStaying home is still the best way to keep the virus from spreading. But if visitors do come to Vermont, they are required to quarantine in Vermont for 14 days and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nAs of May 22, lodging facilities – including short-term rentals, campgrounds, RV parks, and seasonal resorts – may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf). Find more details on [lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) from the Agency of Commerce and Community Development (ACCD).\n\nAnyone who leaves Vermont for more than one day for travel that is not “essential\" is required to quarantine at home for 14 days before engaging in any activities, like grocery shopping or going for walks.\n\nEssential travel is defined as travel necessary for personal safety, medical care, care of others, parental shared custody, for food, beverage or medicine, and to perform essential work or work for businesses that are currently allowed to operate. Read [Addendum 6](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%206%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) for more details.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nRead [Addendum 7](https://governor.vermont.gov/content/addendum-7-executive-order-01-20) and [Addendum 13](https://governor.vermont.gov/content/addendum-13-executive-order-01-20) for more information about travel into Vermont.",
             "source": "Editorial",
             "questions": [
                 "What if I work in a different state?",
@@ -2885,7 +2887,9 @@
                 "Returning to Vermont",
                 "do i need to quarantine when i come to vermont?",
                 "Are visitor from outside of US",
-                "can I go up to Vermont "
+                "can I go up to Vermont ",
+                "Tourism",
+                "Do visitors have to quarantine?"
             ],
             "metadata": [
                 {
@@ -2901,11 +2905,6 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States?"
-                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4637,
@@ -2925,13 +2924,18 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question. "
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
                     }
                 ]
             }
         },
         {
             "id": 4616,
-            "answer": "**Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?**\n\nAs of May 22, lodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks and seasonal resorts – may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf).\n\nVisitors from other states and countries are asked not to come to Vermont at this time. If they do, they are required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont can be used as a place to quarantine.\n\nAll reservations from out-of-state guests who cannot first meet the quarantine requirement must be canceled through June 15. The State may require similar reservations to be canceled after June 15.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in. Lodging facilities may require a copy of a Vermont driver’s license or [signed document](https://accd.vermont.gov/content/be-smart-stay-safe-certificate-of-compliance) certifying that the quarantine was completed in Vermont.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration for testing is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind up-to-date [information on lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) from the Agency of Commerce and Community and Development (ACCD).\n\nIf an individual has concerns about lodging facilities that are violating the Be Smart, Stay Safe Order, the Department of Public Safety has created an online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u) to gather more information.",
+            "answer": "**Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?**\n\nAs of May 22, lodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks and seasonal resorts – may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf).\n\nStaying home is still the best way to keep the virus from spreading. But if visitors do come to Vermont, they are required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont can be used as a place to quarantine.\n\nAll reservations from out-of-state guests who cannot first meet the quarantine requirement must be canceled through June 15. The State may require similar reservations to be canceled after June 15.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in. Lodging facilities may require a copy of a Vermont driver’s license or [signed document](https://accd.vermont.gov/content/be-smart-stay-safe-certificate-of-compliance) certifying that the quarantine was completed in Vermont.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration for testing is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind up-to-date [information on lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) from the Agency of Commerce and Community and Development (ACCD).\n\nIf an individual has concerns about lodging facilities that are violating the Be Smart, Stay Safe Order, the Department of Public Safety has created an online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u) to gather more information.",
             "source": "Editorial",
             "questions": [
                 "Hotel",
@@ -3546,7 +3550,6 @@
                 "is pet grooming business considered essential",
                 "are liquor stores closing in the state",
                 "who are essential workers?",
-                "Are golf courses open?",
                 "is working allowed in VT?",
                 "How to get documentation if you are an essential worker?",
                 "Vermont’s Airport is open or not?",
@@ -3856,7 +3859,8 @@
                 "Can I go canoeing",
                 "biking guidlines",
                 "Are sports and outdoor activities allowed?",
-                "Can I go to a skate park"
+                "Can I go to a skate park",
+                "Are golf courses open?"
             ],
             "metadata": [
                 {
@@ -4063,7 +4067,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites**\n\nAny person without symptoms who lives or works in Vermont can be tested at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\n[Register for a pop-up testing site](https://humanresources.vermont.gov/popups).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf).\n\nThe following groups are encouraged to get tested at pop-up sites: health care workers, first responders (EMS, fire, and law enforcement), child care providers currently serving essential workers, and anyone currently under quarantine who has had no symptoms during the first seven days of quarantine. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
+            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\nSoon some pharmacies will be offering testing for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\n[Register for a pop-up testing site](https://humanresources.vermont.gov/popups).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf).\n\nThe following groups are encouraged to get tested at pop-up sites: health care workers, first responders (EMS, fire, and law enforcement), child care providers currently serving essential workers, and anyone currently under quarantine who has had no symptoms during the first seven days of quarantine. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -4655,7 +4659,8 @@
             "source": "Editorial",
             "questions": [
                 "How can I safely run errands for essential purposes?",
-                "Should gloves be worn when grocery shopping?"
+                "Should gloves be worn when grocery shopping?",
+                "How can I get medication?"
             ],
             "metadata": [
                 {
@@ -4796,7 +4801,7 @@
         },
         {
             "id": 4666,
-            "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the Governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nVisitors from other states and countries are asked not to come to Vermont at this time. If they do, they are required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nHowever, there are some exceptions, and this guidance may change. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.",
+            "answer": "**Can we still have our wedding ceremony?**\n\nAt this time, marriage ceremonies are discouraged, and officiants must ask to postpone services. But if a ceremony is held, it must be in accordance with the Governor’s orders. This includes limiting gatherings to fewer than 10 people in the same space at the same time.\n\nStaying home is still the best way to keep the virus from spreading. But if visitors do come to Vermont, they are required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nLearn more about quarantine on the [what is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nHowever, there are some exceptions, and this guidance may change. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.",
             "source": "Editorial",
             "questions": [
                 "Can we still have our wedding ceremony?",
@@ -5178,7 +5183,9 @@
             "answer": "**Is it safe to go to the hospital?**\n\nIf you are having symptoms of a more serious medical condition, such as heart attack or stroke, it is important to get medical care right away. Call 9-1-1, go to the emergency room, or call your doctor if your symptoms are not life-threatening.\n\nIt is safe to seek care at Vermont hospitals. They have measures in place to protect patients in the hospital from getting COVID-19. This includes separating patients with COVID-19 from other patients. There is a greater risk to staying at home if you're experiencing symptoms of a serious medical condition than going to the hospital.\n\nHealth care providers may do some clinic visits, diagnostic imaging, and outpatient surgeries and procedures again. Hospitals are also now able to schedule and perform inpatient surgeries and procedures if they follow required health and safety precautions.\n\nRead the [Governor’s press release](https://governor.vermont.gov/press-release/governor-phil-scott-announces-some-elective-health-care-procedures-resume) for details.",
             "source": "Editorial",
             "questions": [
-                "Is it safe to go to the hospital?"
+                "Is it safe to go to the hospital?",
+                "UVM Medical",
+                "ICU"
             ],
             "metadata": [
                 {
@@ -5253,7 +5260,8 @@
                 "when will nail salons open?",
                 "Can I get a haircut",
                 "Is the state reopened? Which businesses are open now?",
-                "landscaping rules"
+                "landscaping rules",
+                "Massage"
             ],
             "metadata": [
                 {

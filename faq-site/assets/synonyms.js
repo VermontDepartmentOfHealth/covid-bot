@@ -196,5 +196,8 @@ var synonyms = {
     "Albany": "a different state",
     "apartment": "condo",
     "condo": "condominium",
-    "condominium": "apartment"
+    "condominium": "apartment",
+    "quarantine": "quarentine",
+    "quarentine": "quarintine",
+    "quarintine": "quarantine"
 }
