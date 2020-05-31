@@ -90,11 +90,11 @@
             "answer": "**What is the difference between COVID-19 and the flu?**\n\nCOVID-19 is a new disease and we are still learning about how it makes people sick.\n\n**Cause**\n\nCOVID-19: Caused by one virus, the novel 2019 coronavirus, now called severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2.\n\nFlu: Caused by any of several different types and strains of influenza viruses.\n\n**Transmission**\n\nWhile both the flu and COVID-19 may be transmitted in similar ways, there is also a possible difference: COVID-19 might be spread through the airborne route, meaning that tiny droplets remaining in the air could cause disease in others even after the ill person is no longer near.\n\n**Antiviral Medications**\n\nCOVID-19: Antiviral medications are currently being tested to see if they can address symptoms.\n\nFlu: Antiviral medications can address symptoms and sometimes shorten the duration of the illness.\n\n**Vaccine**\n\nCOVID-19: No vaccine is available at this time, though it is in progress.\n\nFlu: A vaccine is available and effective to prevent some of the most dangerous types or to reduce the severity of the flu.\n\nFind out more about [deaths and infections from Johns Hopkins Medicine](http://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu).",
             "source": "KB-COVID",
             "questions": [
-                "What is the difference between COVID-19 and the flu?",
                 "What is covid19?",
-                "Is COVID-19 the same as the flu?",
-                "Is COVID-19 worse than the flu?",
-                "Could I have a common cold?"
+                "difference between this and the flu?",
+                " same as the flu?",
+                "worse than the flu?",
+                "common cold?"
             ],
             "metadata": [
                 {
@@ -593,7 +593,9 @@
                 "How do I get my COVID-19 tests results back",
                 "waiting",
                 "how quickly do you get results",
-                "How long after a test are the results available"
+                "How long after a test are the results available",
+                "test results",
+                " receive results "
             ],
             "metadata": [
                 {
@@ -960,7 +962,9 @@
                 "Who is most at risk?",
                 "Are there any recommendations for older adults (65 years and older) and people of any age with underlying medical conditions?",
                 "What should older people do?",
-                "what are the guidelines for older Vermonters?"
+                "what are the guidelines for older Vermonters?",
+                "Who is vulnerable",
+                "Shingles"
             ],
             "metadata": [
                 {
@@ -1072,6 +1076,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4692,
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     }
                 ]
             }
@@ -1189,7 +1198,8 @@
             "source": "KB-COVID",
             "questions": [
                 "What should I do if I have traveled internationally or traveled by cruise ship?",
-                "I came back from England, what should I do?"
+                "I came back from England, what should I do?",
+                "over seas quarantine"
             ],
             "metadata": [
                 {
@@ -1233,7 +1243,8 @@
                 "Travel to Pa",
                 "travel to neighboring states",
                 "Is it okay to travel within the United States? Do I need to quarantine when I return?",
-                "will I be quarantined when I return to vt"
+                "will I be quarantined when I return to vt",
+                "visiting immediate family in MA"
             ],
             "metadata": [
                 {
@@ -1661,7 +1672,8 @@
             "questions": [
                 "How does a health care provider collect samples for COVID-19 testing?",
                 "What is the process of getting tested like?\n",
-                "How does a doctor test me for Covid-19?"
+                "How does a doctor test me for Covid-19?",
+                "how is a test done?"
             ],
             "metadata": [
                 {
@@ -1847,6 +1859,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4690,
+                        "displayText": "Can I get together with friends and family?"
                     }
                 ]
             }
@@ -1935,7 +1952,8 @@
                 "When is Governor Scott going to give his next Stay home stay safe update?",
                 "Has the stay at home order been extended?",
                 "When can retail businesses open?",
-                "What is the plan?"
+                "What is the plan?",
+                "Whats closed in Vermont"
             ],
             "metadata": [
                 {
@@ -2079,7 +2097,9 @@
                 "car parade",
                 "funeral",
                 "Are mass gatherings (ceremonies, events, fairs or festivals) allowed?",
-                "group size"
+                "group size",
+                "larger gatherings",
+                "Can I host a class"
             ],
             "metadata": [
                 {
@@ -2095,6 +2115,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4690,
+                        "displayText": "Can I get together with friends and family?"
                     }
                 ]
             }
@@ -2552,7 +2577,8 @@
                 "Should assisted living workers have masks?",
                 "Healthcare",
                 "screening health care providers",
-                "guidelines for health care services"
+                "guidelines for health care services",
+                "nurse"
             ],
             "metadata": [
                 {
@@ -2722,7 +2748,7 @@
             "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nThe Vermont Department of Health has launched VTHelplink, a new, single source clearinghouse for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients. \n\nThe [VTHelplink website](https://vthelplink.org/) has information resources and an [online screening tool](https://vthelplink.org/app/account/findhelp) to help Vermonters learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (for example, residential treatment) and population (for example, people who are pregnant). \n\n**Here’s how you can reach VTHelplink:** \n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year. \n\n**Visit [vthelplink.org](https://vthelplink.org/)**.",
             "source": "Editorial",
             "questions": [
-                "Where do people living with a substance use disorder go for information on treatment and recovery services?"
+                " substance use disorder information on treatment and recovery?"
             ],
             "metadata": [
                 {
@@ -2889,7 +2915,12 @@
                 "Are visitor from outside of US",
                 "can I go up to Vermont ",
                 "Tourism",
-                "Do visitors have to quarantine?"
+                "Do visitors have to quarantine?",
+                "after traveling out of state?",
+                " isolate after travel",
+                "tourist",
+                "moving back to VT",
+                "when visiting Vermont"
             ],
             "metadata": [
                 {
@@ -2957,7 +2988,8 @@
                 "what are camp ground restrictions",
                 "camping allowed",
                 "summer camp",
-                "are campgrounds going to open for 2020 season"
+                "are campgrounds going to open for 2020 season",
+                "Vacationing"
             ],
             "metadata": [
                 {
@@ -2987,6 +3019,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             }
@@ -3020,7 +3057,8 @@
                 "What are the Covid-19 by town",
                 "how many cases of Covid-19 do we currently have?",
                 "How many people in Vermont are infected?",
-                "Can I travel to Vermont"
+                "Can I travel to Vermont",
+                "How many new cases"
             ],
             "metadata": [
                 {
@@ -3069,7 +3107,8 @@
                 "14 day quarantine",
                 "self isolate",
                 "self-isolate",
-                "quarentine guidelines"
+                "quarentine guidelines",
+                "During quarantine, can you"
             ],
             "metadata": [
                 {
@@ -3284,7 +3323,8 @@
                 "What percentage of people with Covid-19 are hospitalized?",
                 "How many people are inpatients with Covid-19?",
                 "hospitalized and under investigation",
-                "How many severe cases of Covid-19?"
+                "How many severe cases of Covid-19?",
+                " recovered cases"
             ],
             "metadata": [
                 {
@@ -3331,7 +3371,9 @@
                 "How many VT deaths have there been?",
                 "How many COVID-19 patients have died in the hospital, and nursing homes, and at home?",
                 "Death by age group",
-                "What is our Covid-19 death rate?"
+                "What is our Covid-19 death rate?",
+                "Death determination",
+                "death counts"
             ],
             "metadata": [
                 {
@@ -3380,6 +3422,11 @@
                         "displayOrder": 0,
                         "qnaId": 4631,
                         "displayText": "What is considered an essential service or function?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4553,
+                        "displayText": "What should child care programs and schools in Vermont do?"
                     }
                 ]
             }
@@ -3462,6 +3509,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
                     }
                 ]
             }
@@ -3506,7 +3558,10 @@
                 "site visits for commercial development",
                 "information for business",
                 "Costco fully open",
-                "how to perform employee health screenings"
+                "how to perform employee health screenings",
+                "What are current business requirements?",
+                "housecleaners",
+                "my employee has"
             ],
             "metadata": [
                 {
@@ -3860,7 +3915,8 @@
                 "biking guidlines",
                 "Are sports and outdoor activities allowed?",
                 "Can I go to a skate park",
-                "Are golf courses open?"
+                "Are golf courses open?",
+                "parks"
             ],
             "metadata": [
                 {
@@ -4210,7 +4266,8 @@
                 "can I report someone who tests positive for not quarantining?",
                 "How do I report on neighbors traveling in and out of state with out quarantine",
                 "Now they won’t isolate.",
-                "How can I report a person or business who is violating the Be Smart, Stay Safe Order?"
+                "How can I report a person or business who is violating the Be Smart, Stay Safe Order?",
+                "not wearing mask"
             ],
             "metadata": [
                 {
@@ -4258,6 +4315,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4643,
+                        "displayText": "Where can I get tested for COVID-19?"
                     }
                 ]
             }
@@ -4297,7 +4359,9 @@
             "source": "Editorial",
             "questions": [
                 "What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?",
-                "Cathedral square senior housing"
+                "Cathedral square senior housing",
+                "Health and beauty ",
+                "spa"
             ],
             "metadata": [
                 {
@@ -4440,6 +4504,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4645,
+                        "displayText": "What information is available for nursing homes, assisted-living, and state therapeutic care residences?"
                     }
                 ]
             }
@@ -4458,7 +4527,8 @@
                 "where can I get tested to see if I've already had Covid-19?",
                 "Covid-19 testing sites for antibodies",
                 "see if I had Covid-19",
-                "can I get an antibody or antigen test "
+                "can I get an antibody or antigen test ",
+                "I have covid-19"
             ],
             "metadata": [
                 {
@@ -4700,7 +4770,8 @@
                 "If you have a home in Vermont are you allowed to go there from another state?",
                 "own a timeshare",
                 "I have a second home in Vermont ",
-                "my vacation home"
+                "my vacation home",
+                "We have a 2nd home in Vermont "
             ],
             "metadata": [
                 {
@@ -5261,7 +5332,10 @@
                 "Can I get a haircut",
                 "Is the state reopened? Which businesses are open now?",
                 "landscaping rules",
-                "Massage"
+                "Massage",
+                "When can I go back to work?",
+                "return to work",
+                "When they can open?"
             ],
             "metadata": [
                 {
@@ -5318,7 +5392,7 @@
         },
         {
             "id": 4682,
-            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts. We will be using an app called SARA Alert, a secure monitoring and reporting system for public health that is being used in other states. This system will allow us to offer people who have tested positive for COVID-19, and their close contacts, to enroll in a text-based system to help us keep in touch and monitor their symptoms.\n\nAs the state reopens, Vermonters should consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19. ",
+            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts. We will be using an app called Sara Alert, a secure monitoring and reporting system for public health that is being used in other states. This system will allow us to offer people who have tested positive for COVID-19, and their close contacts, to enroll in a text-based system to help us keep in touch and monitor their symptoms.\n\nAs the state reopens, Vermonters should consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.",
             "source": "Editorial",
             "questions": [
                 "What is contact tracing?"
@@ -5565,6 +5639,31 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4697,
+            "answer": "**What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?**\n\nAccording to the CDC, [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html) is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. We do not yet know what causes MIS-C. However, we know that many children with MIS-C had the COVID-19 virus, or had been around someone with COVID-19. MIS-C can be serious, even deadly, but most children who were diagnosed with this condition have gotten better with medical care. \n\nMIS-C is rare, and it remains unknown whether multisystem inflammatory syndrome only occurs in children or if it also can occur in adults.",
+            "source": "Editorial",
+            "questions": [
+                "What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "families with children"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
