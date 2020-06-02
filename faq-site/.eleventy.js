@@ -1,4 +1,4 @@
-const utilities = require('./tools/utilities')
+const utilities = require('./util/utilities')
 
 module.exports = function(eleventyConfig) {
 

@@ -1,5 +1,5 @@
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
-const { writeFile } = require('./utilities')
+const { writeFile } = require('../util/utilities')
 
 let filePath = process.env.AZURE_ENVIRONMENT ? `.env.${process.env.AZURE_ENVIRONMENT}` : ".env"
 require('dotenv').config({ path: filePath })

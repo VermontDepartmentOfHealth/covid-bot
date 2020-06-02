@@ -3,7 +3,7 @@ const jsoncParser = require("jsonc-parser")
 const fetch = require("node-fetch")
 const chalk = require("chalk")
 
-const utilities = require('./utilities')
+const utilities = require('../util/utilities')
 
 // run main code block
 main()

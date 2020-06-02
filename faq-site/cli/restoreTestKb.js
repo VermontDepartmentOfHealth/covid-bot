@@ -1,5 +1,5 @@
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
-const utilities = require('./utilities')
+const utilities = require('../util/utilities')
 
 let filePath = process.env.AZURE_ENVIRONMENT ?
     `.env.${process.env.AZURE_ENVIRONMENT}` :

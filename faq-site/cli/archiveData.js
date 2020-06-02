@@ -7,7 +7,7 @@ async function updateData() {
 }
 
 async function archiveFaqs() {
-    const { readJsonc, writeFile } = require('./utilities')
+    const { readJsonc, writeFile } = require('../util/utilities')
 
     let faqs = await readJsonc("_data/faqs.jsonc")
 
