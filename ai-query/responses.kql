@@ -4,6 +4,7 @@
 // changelog
 // date       author        message
 // 5/26/2020  kyle & grace  fix perf, fix startDate timezone, add change log
+// 6/03/2020  kyle & grace  replace extract with substring for perf
 
 // set start time for query
 let startDate_EST = todatetime("2020-05-26T09:30:00");
@@ -12,7 +13,7 @@ let startDate_UTC = datetime_add("hour", 4, startDate_EST);
 // bad convo ids
 let wrongIDs = traces
 | where customDimensions.Question contains "This did NOT answer my question" 
-| project extract("^[a-z0-9]{7}", 0, itemId);
+| project substring(itemId, 0, 7);
 //
 // get all q/a pairs
 traces
@@ -21,7 +22,7 @@ traces
 | extend input = tostring(customDimensions.Question),
         answer = tostring(customDimensions.Answer),
         scoreInt = toint(round(todouble(customDimensions.Score))),
-        convoId = extract("^[a-z0-9]{7}", 0, itemId)
+        convoId = substring(itemId, 0, 7)
 | where input  !contains "This did NOT answer my question"
 | extend score = iif(convoId in (wrongIDs), -1, scoreInt), // separate bad vs good
          EST = datetime_add("hour", -4, timestamp)         // convert UTC to EST
