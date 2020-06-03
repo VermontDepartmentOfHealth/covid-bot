@@ -42,10 +42,82 @@ Choose which environment file to use by setting an environemtn variable named `A
 ## NPM Scripts
 
 ```bash
-npm run build             # runs `npx eleventy` to build the site
-npm run serve             # builds site + serves `_site` directory
-npm run update-data       # gets KB data and updates _data directory
-npm run update-and-build  # gets new KB data and builds site
+# eleventy site
+npm run clean
+npm run build         # runs `npx eleventy` to build the site
+npm run serve         # builds site + serves `_site` directory
+
+# knowledge base
+npm run publish-kb    # publishes the knowledge base from edit index to bot index
+npm run fetch-kb      # downloads the knowledge base from the targeted environment
+npm run deploy-kb     # deploys knowledge base from one environment to another
+npm run restore-kb    # makes incremental revisions to knowledge base from local faq file
+
+# local data file
+npm run archive-data  # moves local faq file into the archive file
+npm run lint-data     # validates data and checks for common errors
+npm run list-changes  # lists changes to questions - deleted, new, and title changes
+npm run fix-data      # automatically fix inconsistencies in follow up prompts - follow up with restore-kb
+```
+
+## Deployment
+
+### FAQ Site
+
+
+1. Verify latest changes are pulled in from source control
+
+    ```bash
+    git checkout master
+    git pull
+    ```
+
+2. Archive previous data
+
+    ```bash
+    npm run archive-data
+    ```
+
+3. Ensure updates were published
+
+    ```bash
+    npm run publish-kb
+    ```
+
+4. Get latest knowledge base updates
+
+    ```bash
+    npm run fetch-data
+    ```
+
+5. Check for any common problems
+
+    ```bash
+    npm run lint-data
+    ```
+
+6. Test site build and review differences in /diff.html
+
+    ```bash
+    npm run serve
+    ```
+
+7. **If there are validation issues**, fix them in QnA maker and redo steps 3-6 until the toothpick comes out clean
+
+8. Move static files
+
+   * **FROM**: `covid-bot\faq-site\_site\`
+   * **TO**
+     * **TEST**: `\\vdhwebapps-test\c$\VDHApplications\COVID\faq\`
+     * **PROD**: `\\vdhwebapps-prod\c$\VDHApplications\COVID\faq\`
+
+
+### Knowledge Base
+
+Move the KB changes from the test environment to production
+
+```bash
+npm run deploy-kb
 ```
 
 ## // TODO
