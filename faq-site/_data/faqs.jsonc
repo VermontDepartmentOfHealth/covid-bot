@@ -42,7 +42,9 @@
                 "first symptoms",
                 "what are the symptoms of Covid-19?",
                 "I got sick with headache and vomit",
-                "Are these symptoms of Covid-19?"
+                "Are these symptoms of Covid-19?",
+                "toe",
+                "toes"
             ],
             "metadata": [
                 {
@@ -341,13 +343,14 @@
         },
         {
             "id": 4541,
-            "answer": "**Can pets get sick from COVID-19?**\n\nOn April 5, the USDA confirmed the [first case of a tiger being infected with COVID-19](http://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19). The tiger is at a zoo in New York.\n\nOn April 22, the CDC announced the first confirmed cases of COVID-19 infection in two pet cats. These are the first pets in the U.S. to test positive. The cats live in two separate areas of New York State. Find out more from the CDC’s press release [Confirmation of COVID-19 in Two Pet Cats in New York](https://www.cdc.gov/media/releases/2020/s0422-covid-19-cats-NYC.html).\n\nThe CDC recommends the following:\n\n* Do not let pets interact with people or other animals outside the household.\n\n* Keep cats indoors when possible to prevent them from interacting with other animals or people.\n\n* Walk dogs on a leash, keeping at least 6 feet from other people and animals.\n\n* Avoid dog parks or public places where large numbers of people and dogs may gather.\n\nAt this time, routine testing of animals for COVID-19 is not recommended. Talk to your veterinarian about the best ways to care for your pet.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Can pets get sick from COVID-19? What should I do if I own a pet?**\n\nWe are still learning about the virus that causes COVID-19, but it appears that it can spread from people to animals in some situations. \n\nThere have been a few confirmed cases of animals infected with COVID-19:\n\n*   a [tiger at a zoo in New York](http://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2020/ny-zoo-covid-19)\n*   two [pet cats in New York](https://www.cdc.gov/media/releases/2020/s0422-covid-19-cats-NYC.html)\n*   a [cat in Minnesota](https://content.govdelivery.com/accounts/MNBAH/bulletins/28eac81) \n*   a [dog in New York](https://www.aphis.usda.gov/aphis/newsroom/stakeholder-info/sa_by_date/sa-2020/sa-06/sars-cov-2-dog)\n\nThe CDC recommends the following: \n\nUntil we learn more about how this virus affects animals, treat pets as you would other human family members to protect them from a possible infection.\n\nBecause there is a small risk that people with COVID-19 could spread the virus to animals, CDC recommends that pet owners limit their pet’s interaction with people outside their household.\n\n*   Keep cats indoors when possible and do not let them roam freely outside.\n*   Walk dogs on a leash at least 6 feet away from others.\n*   Avoid public places where large numbers of people gather.\n*   Do not put face coverings on pets. Covering a pet’s face could harm them.\n\nTalk to your veterinarian if your pet gets sick or if you have any concerns about your pet’s health.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) and answers to [frequently asked questions about COVID-19 and animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
                 "Pets",
                 "Animals",
                 "Dog",
-                "Cat"
+                "Cat",
+                "Can pets get sick from COVID-19? What should I do if I own a pet?"
             ],
             "metadata": [
                 {
@@ -384,7 +387,7 @@
         },
         {
             "id": 4542,
-            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nIf you are sick with COVID-19 (either suspected or confirmed by a test), avoid contact with your pets and other animals, just like you would around other people.\n\n* When possible, have another member of your household care for your pets while you are sick.\n\n* Avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food or bedding.\n\n* If you must care for your pet or be around animals while you are sick, wear a cloth face mask or covering and wash your hands before and after you interact with them.\n\nLearn more about what to do [if you have animals](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html) from the CDC.\n\nFind more information on [preparing for your pet](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nWe are still learning about this virus, but it appears that it can spread from people to animals in some situations. If you are sick with COVID-19 (either suspected or confirmed by a test), avoid contact with your pets and other animals, just like you would around other people.\n\n*   When possible, have another member of your household care for your pets while you are sick.\n*   Avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food or bedding.\n*   If you must care for your pet or be around animals while you are sick, wear a cloth face mask or covering and wash your hands before and after you interact with them.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) and answers to [frequently asked questions about COVID-19 and animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals) from the CDC.\n\nFind more information on [preparing for your pet](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
                 "Should I avoid contact with pets or other animals if I am sick with COVID-19?",
@@ -596,7 +599,8 @@
                 "How long after a test are the results available",
                 "test results",
                 " receive results ",
-                "I need my test results"
+                "I need my test results",
+                "waiting for test results"
             ],
             "metadata": [
                 {
@@ -791,7 +795,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4699,
+                        "displayText": "Are summer camps and residential summer college programs happening?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -901,7 +910,8 @@
                 "religious gathering",
                 "churches",
                 "churches allowed to operate",
-                "masks in church"
+                "masks in church",
+                "houses of worship"
             ],
             "metadata": [
                 {
@@ -968,7 +978,9 @@
                 "what are the guidelines for older Vermonters?",
                 "Who is vulnerable",
                 "Shingles",
-                "people over 65 "
+                "people over 65 ",
+                "people over 65",
+                "with health problems"
             ],
             "metadata": [
                 {
@@ -1386,14 +1398,14 @@
                         "displayText": "When can I stop self-isolating (home isolation)?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayOrder": 0,
+                        "qnaId": 4560,
+                        "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4542,
-                        "displayText": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1408,7 +1420,8 @@
                 "bleach",
                 "Lysol",
                 "cleaning the workplace after exposure",
-                "sanitizing apartments"
+                "sanitizing apartments",
+                "How do I clean"
             ],
             "metadata": [
                 {
@@ -1596,7 +1609,12 @@
                         "displayText": "Are sports and outdoor activities allowed?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened? Which businesses are open now?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1625,9 +1643,6 @@
                 "When can I leave my house?",
                 "boyfriend",
                 "Social distancing",
-                "Softball",
-                "baseball",
-                "what about sports",
                 "social distancing",
                 "can we gather as small groups to socialize",
                 "physical distancing",
@@ -1671,7 +1686,7 @@
         },
         {
             "id": 4578,
-            "answer": "**How does a health care professional collect samples for COVID-19 testing?**\n\n While wearing personal protective equipment like gloves and a mask, the health care professional collects samples (specimens) from the patient in one of three ways:\n\n* The patient coughs up saliva and mucus into a collection cup or dry container.\n\n* The health care professional collects a nasal, or nasopharyngeal (NP) swab. This is when a dry swab is inserted through one nostril and is rubbed against the back of the nose and throat.\n\n* The health care professional collects an oral swab. This is when a dry swab is inserted into the patient’s mouth and is rubbed against the tonsil and throat area.",
+            "answer": "**How does a health care professional collect samples for COVID-19 testing?**\n\nWhile wearing personal protective equipment like gloves and a mask, the health care professional collects samples (specimens) from you in one of three ways:\n\n*   You cough up saliva and mucus into a collection cup or dry container.\n*   The health care professional collects a nasal, or nasopharyngeal (NP) swab. This is when a dry swab is inserted through one nostril and is rubbed against the back of your nose and throat.\n*   The health care professional collects a sample from the front of your nose with a dry swab.\n*   The health care professional collects an oral swab. This is when a dry swab is inserted into your mouth and is rubbed against the tonsil and throat area.",
             "source": "Editorial",
             "questions": [
                 "How does a health care provider collect samples for COVID-19 testing?",
@@ -1684,6 +1699,10 @@
                 {
                     "name": "category",
                     "value": "testing"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "types of tests"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -1704,8 +1723,8 @@
             "source": "Editorial",
             "questions": [
                 "Can you tell me more information about a patient with COVID-19?",
-                "where the persons who have Covid19 have been",
-                "Is there a list of Vermonters that have tested positive for Covid-19?"
+                "where the persons who have Covid-19",
+                "Is there a list of Vermonters "
             ],
             "metadata": [
                 {
@@ -1861,14 +1880,14 @@
                         "displayText": "Are sports and outdoor activities allowed?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4690,
                         "displayText": "Can I get together with friends and family?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2085,7 +2104,7 @@
         },
         {
             "id": 4591,
-            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nVermonters are allowed to gather in groups of 25 or fewer people as long as health and safety precautions are followed. Members of one household may choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nVermonters may hold yard sales and garage sales with 25 or fewer people. Hosts and visitors must keep a distance of at least 6 feet from others, and it is recommended that they wear [cloth face masks or coverings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n\nGatherings of more than 25 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nAs of May 22, all traditional fairs and festivals are canceled until further notice.\n\nOrganized outdoor markets, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/new-farmers-market-guidance-updated-may-5) from the Agency of Agriculture, Food & Markets.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) from the Agency of Commerce and Community Development (ACCD).\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.",
+            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nVermonters are allowed to gather in groups of 25 or fewer people as long as health and safety precautions are followed. Members of one household may choose to socialize – and allow children to play – with members of another trusted household that is also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nVermonters may hold yard sales and garage sales with 25 or fewer people. Hosts and visitors must keep a distance of at least 6 feet from others, and it is recommended that they wear [cloth face masks or coverings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n\nGatherings of more than 25 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nAs of May 22, all traditional fairs and festivals are canceled until further notice.\n\nOrganized outdoor markets, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/farmers-market-guidance-updated) from the Agency of Agriculture, Food & Markets.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) from the Agency of Commerce and Community Development (ACCD).\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.",
             "source": "Editorial",
             "questions": [
                 "Are churches able to gather if they have 10 or less people attending",
@@ -2161,7 +2180,12 @@
                         "displayText": "What is Vermont doing?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened? Which businesses are open now?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3652,6 +3676,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened? Which businesses are open now?"
                     }
                 ]
             }
@@ -3747,7 +3776,8 @@
                 "Oh hello",
                 "Evening",
                 "Good evening",
-                "hi"
+                "hi",
+                "Hi there"
             ],
             "metadata": [
                 {
@@ -3821,7 +3851,6 @@
                 "\n\nwhen will the DMV open?",
                 "Are office staff essential workers?",
                 "\n\nAre landscapers able to work?",
-                "\n\nWhat is open?",
                 "Fire alarm technicians ",
                 "Can I have someone do landscaping work in my yard now?"
             ],
@@ -3935,7 +3964,12 @@
                 "Are sports and outdoor activities allowed?",
                 "Can I go to a skate park",
                 "Are golf courses open?",
-                "parks"
+                "parks",
+                "softball",
+                "baseball",
+                "organized sports",
+                "youth sports",
+                "public playgrounds"
             ],
             "metadata": [
                 {
@@ -4305,7 +4339,9 @@
                 "How can I report a person or business who is violating the Be Smart, Stay Safe Order?",
                 "not wearing mask",
                 "refuses to wear",
-                "How do I file a complaint"
+                "How do I file a complaint",
+                "refusing to quarentine",
+                "refusing to quarantine"
             ],
             "metadata": [
                 {
@@ -4547,7 +4583,8 @@
                 "can I get an antibody or antigen test ",
                 "I have covid-19",
                 "serologic testing",
-                "see if I've already had Covid-19?"
+                "see if I've already had Covid-19?",
+                "serological"
             ],
             "metadata": [
                 {
@@ -5115,10 +5152,11 @@
         },
         {
             "id": 4673,
-            "answer": "**I’m a veterinarian. Do I need to be testing animals for COVID-19?**\n\nPlease see the CDC’s guidance on [Evaluation for SARS-CoV-2 Testing in Animals](https://www.cdc.gov/coronavirus/2019-ncov/php/animal-testing.html).",
+            "answer": "**I’m a veterinarian. Do I need to be testing animals for COVID-19?**\n\nPlease see the CDC’s guidance on [Evaluation for SARS-CoV-2 Testing in Animals](https://www.cdc.gov/coronavirus/2019-ncov/php/animal-testing.html) and [guidance for veterinary clinics](https://www.cdc.gov/coronavirus/2019-ncov/community/veterinarians.html).",
             "source": "Editorial",
             "questions": [
-                "Veterinarian Animals "
+                "Veterinarian Animals ",
+                "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
             ],
             "metadata": [
                 {
@@ -5145,7 +5183,7 @@
         },
         {
             "id": 4674,
-            "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days. Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration for testing is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
+            "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days. Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
             "source": "Editorial",
             "questions": [
                 "What do I do if I'm a close contact of someone who is waiting for their test results?",
@@ -5485,9 +5523,9 @@
             "answer": "**Can ticks or mosquitoes spread the COVID-19 virus?**\n\nAt this time, the CDC has no data to suggest that the COVID-19 virus or other similar coronaviruses are spread by mosquitoes or ticks. The virus is thought to spread mainly from person-to-person.\n\nLearn [how to prevent mosquito bites](https://www.healthvermont.gov/disease-control/mosquito-borne-diseases/prevent-mosquito-bites) and [how to prevent tick bites](https://www.healthvermont.gov/disease-control/tickborne-diseases/prevent-tick-bites-tickborne-diseases).",
             "source": "Editorial",
             "questions": [
-                "Can ticks or mosquitoes spread the COVID-19 virus?",
                 "ticks carry COVID-19",
-                "mosquitoes carry COVID-19"
+                "mosquitoes carry COVID-19",
+                "Can ticks or mosquitoes "
             ],
             "metadata": [
                 {
@@ -5603,6 +5641,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
                     }
                 ]
             }
@@ -5775,6 +5818,35 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4702,
+            "answer": "**Can I get tested with a swab in the front of my nose?**\n\nThere is a test available that uses a dry swab to collect a sample from the front of your nose. At this time, the supplies needed for this type of test are limited. This type of test is being prioritized for different groups of people who may not be able to tolerate the longer nose swab (nasopharyngeal or NP) that collects samples from the back of the nose and throat. This includes children, patients at risk of increased bleeding or complications, patients with nasal irregularities (for example, polyps, deviated septum), people who need regular and repeated testing (for example, employees or residents of skilled nursing facilities), and those without the cognitive ability to understand the testing procedure.\n\nYour health care provider will determine if you should be referred for this type of test. Please note the pop-up testing sites use the longer NP swabs.",
+            "source": "Editorial",
+            "questions": [
+                "Can I get tested with a swab in the front of my nose?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "types of tests"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
