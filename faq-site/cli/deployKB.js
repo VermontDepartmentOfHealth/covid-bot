@@ -2,22 +2,34 @@ const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const STATUS_SUCCESS = 204;
 
 
-module.exports = deployToProd();
+// get command line args
+const { program } = require('commander');
+program
+    .option('-s, --source <value>', 'either test or prod', 'test')
+    .option('-t, --target <value>', 'either test or prod', 'prod')
+    .parse(process.argv);
+
+// load env file
+let sourceEnv = require('dotenv').config({ path: `.env.${program.source}` })
+let targetEnv = require('dotenv').config({ path: `.env.${program.target}` })
 
 
-async function deployToProd() {
+// validate we loaded file correctly
+if (sourceEnv.error) {
+    console.error("Source Environment file not found: ", sourceEnv.error.path)
+    return;
+}
+if (targetEnv.error) {
+    console.error("Target Environment file not found: ", targetEnv.error.path)
+    return;
+}
 
-    let sourceEnv = require('dotenv').config({ path: ".env.test" })
-    let targetEnv = require('dotenv').config({ path: ".env.prod" })
 
-    if (sourceEnv.error) {
-        console.error("Source Environment file not found: ", sourceEnv.error.path)
-        return;
-    }
-    if (targetEnv.error) {
-        console.error("Target Environment file not found: ", targetEnv.error.path)
-        return;
-    }
+module.exports = deployKB();
+
+
+async function deployKB() {
+
 
     let sourceClient = qnaMakerApi({
         endpoint: sourceEnv.parsed.Endpoint,

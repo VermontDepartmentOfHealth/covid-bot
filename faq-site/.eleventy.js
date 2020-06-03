@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addCollection("FaqsByTopic", async c => {
-        const buildFAQsByTopic = require('./tools/faqsByTopic')
+        const buildFAQsByTopic = require('./util/faqsByTopic')
         let col = await buildFAQsByTopic()
         return col
     });

@@ -1,6 +1,6 @@
-module.exports = updateData();
+module.exports = main();
 
-async function updateData() {
+async function main() {
 
     await archiveFaqs()
 

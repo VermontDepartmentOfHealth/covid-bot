@@ -1,13 +1,19 @@
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const { writeFile } = require('../util/utilities')
 
-let filePath = process.env.AZURE_ENVIRONMENT ? `.env.${process.env.AZURE_ENVIRONMENT}` : ".env"
-require('dotenv').config({ path: filePath })
+// get command line args
+const { program } = require('commander');
+program
+    .option('-e, --environment <value>', 'either test or prod', 'test')
+    .parse(process.argv);
+
+// load env file
+require('dotenv').config({ path: `.env.${program.environment}` })
 
 
-module.exports = updateData();
+module.exports = fetchKB();
 
-async function updateData() {
+async function fetchKB() {
 
     let client = qnaMakerApi({
         endpoint: process.env.Endpoint,
