@@ -1027,7 +1027,8 @@
                 "community exposure",
                 "may have been exposed to covid-19 came within a few feet of me and spoke a few words",
                 "What if you are exposed to someone presumed COVID-19 positive at work?",
-                "someone in building is sick, what should I do?"
+                "someone in building is sick, what should I do?",
+                "family member has symptoms"
             ],
             "metadata": [
                 {
@@ -2127,7 +2128,8 @@
                 "Can I host a class",
                 "pick your own",
                 "berry farms",
-                "orchards"
+                "orchards",
+                "grave side commital"
             ],
             "metadata": [
                 {
@@ -2162,7 +2164,8 @@
                 "Restaurant",
                 "brewpub",
                 "when will food service be open",
-                "Are bars and restaurants open?"
+                "Are bars and restaurants open?",
+                "can I go out to eat"
             ],
             "metadata": [
                 {
@@ -3673,14 +3676,14 @@
                         "displayText": "Is my job or business considered essential? Can I continue to work?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4680,
                         "displayText": "Is the state reopened? Which businesses are open now?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3720,7 +3723,12 @@
                         "displayText": "Can I get unemployment? How do I file an unemployment claim?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4616,
+                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3875,9 +3883,14 @@
                         "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened? Which businesses are open now?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question.\n"
                     }
                 ]
             }
@@ -3928,7 +3941,12 @@
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4646,
+                        "displayText": "How can I report a person or business who is violating the Be Smart, Stay Safe Order?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3943,33 +3961,33 @@
                 "travel to another place in Vermont for recreation?",
                 "Ride in the car",
                 "Go for a ride in the car.",
-                "Can we just go for a ride and not stop anywhere?",
                 "I like to go fly fishing alone is that ok?",
                 "Shooting ranges",
                 "Can I walk alone on the Beach?",
                 "Can I go for a drive?",
                 "Driving restrictions",
                 "Is going for a walk with neighbors practicing social distancing, considered essential activity?",
-                "Is it OK to go for walks with neighbors practicing social distancing?",
                 "outdoors",
                 "Exercise allowed",
-                "Can I go motorcycling?",
                 "Can I go outside?",
-                "Is it ok to go outside?",
                 "State parks",
                 "Are parks closed?",
-                "Can I still do outdoor activities with the Stay Home, Stay Safe Order?",
                 "Can I go canoeing",
                 "biking guidlines",
                 "Are sports and outdoor activities allowed?",
-                "Can I go to a skate park",
                 "Are golf courses open?",
                 "parks",
                 "softball",
                 "baseball",
                 "organized sports",
                 "youth sports",
-                "public playgrounds"
+                "public playgrounds",
+                "go for a ride and not stop anywhere?",
+                "go for walks with neighbors practicing social distancing?",
+                "motorcycling?",
+                "go outside?",
+                "do outdoor activities with the Stay Home, Stay Safe Order?",
+                "skate park"
             ],
             "metadata": [
                 {
@@ -4690,7 +4708,12 @@
                         "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4680,
+                        "displayText": "Is the state reopened? Which businesses are open now?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5051,7 +5074,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4616,
+                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5458,10 +5486,11 @@
         },
         {
             "id": 4682,
-            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts.\n\n**We are now offering** [**enrollment in Sara Alert**](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d)– an automated, secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19). People who have tested positive for COVID-19, their close contacts, and people traveling or returning to Vermont, can quickly and easily sign up to receive free daily reminders to check themselves for symptoms by email, text or phone call. If symptoms are reported, a member of our team will reach out to provide guidance and next steps. Sara Alert helps our public health teams contain the spread of COVID-19. [Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nPlease note, Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor client’s movements.\n\nAs the state reopens, Vermonters should consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.",
+            "answer": "**What is contact tracing?**\n\nContact tracing is a strategy used to determine the source of an infection and how it is spreading. Finding people who are close contacts to a person who has tested positive for COVID-19, and therefore at higher risk of becoming infected themselves, can help prevent further spread of the virus.\n\nA team of callers tries to reach anyone who has tested positive for COVID-19. They ask the patient questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than six feet apart for a long time while the person was infectious.) Those contacts might include family members, co-workers or health care providers. **Please note, the Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call.**\n\nThe team then gets in touch with those contacts and provides health guidance on [what to do if you are a close contact of someone who is diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). A close contact is asked to stay home for 14 days and watch for symptoms.\n\nWhile we have been successful in contact tracing, we will continue to add resources and personnel needed to address any increase in the number of people who test positive, which we expect to happen with more testing. This includes the use of technology to help in these efforts.\n\nWe are now offering [enrollment in Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19). People who have tested positive for COVID-19, their close contacts, and people traveling or returning to Vermont, can quickly and easily sign up to receive free daily reminders to check themselves for symptoms by email, text or phone call. If symptoms are reported, a member of our team will reach out to provide guidance and next steps. Sara Alert helps our public health teams contain the spread of COVID-19. [Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nPlease note, Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor your movements.\n\nAs the state reopens, Vermonters should consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.",
             "source": "Editorial",
             "questions": [
-                "What is contact tracing?"
+                "What is contact tracing?",
+                "tracing"
             ],
             "metadata": [
                 {
@@ -5618,7 +5647,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. Registration for testing is required.\n\nBased on data in the medical literature, the vast majority of people who are going to develop symptoms will do so by Day 7 or 8. For this reason, we offer what we consider to be a low-risk option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. This is simply an option, and it may not be practical or desirable for everyone.\n\nThe testing option is for:\n\n*   people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students)\n*   visitors coming into Vermont\n*   close contacts of people who have tested positive* (see more details below)\n\nFor anyone coming into Vermont, Day 0 is the day you arrive in Vermont.\n\nNew admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If symptoms develop, you must isolate at home immediately and contact your health care provider.\n\n**\\*** For **close contacts** of people who have tested positive:\n\n*   **If you are NOT able to completely physically separate yourself** from the person who tested positive – for example, you live in the same home – Day 0 of your quarantine is the day they have ended their self-isolation.\n*   **If you are able to completely physically separate** – for example you do not live in the same home – Day 0 is the last time you were in close contact with them.\n*   In addition to getting tested at pop-up testing sites, you can also get tested through your health care provider, Federally Qualified Health Centers, commercial testing sites, and other testing sites as they come on board.\n*   If you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. If you do not have a health provider, call 2-1-1.\n*   You can [sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) with Sara Alert. If you report any symptoms of COVID-19 through Sara Alert, a member of the Health Department’s team will contact you with guidance and next steps.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. Registration for testing is required.\n\nBased on data in the medical literature, the vast majority of people who are going to develop symptoms will do so by Day 7. For this reason, we offer what we consider to be a low-risk option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. This is simply an option, and it may not be practical or desirable for everyone.\n\nThe testing option is for:\n\n*   people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students)\n*   visitors coming into Vermont\n*   close contacts of people who have tested positive* (see more details below)\n\nFor anyone coming into Vermont, Day 1 is the day after you arrive in Vermont.\n\nNew admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. If you do not have a health care provider, call 2-1-1.\n\nYou can [sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) with Sara Alert, a free, automated and secure reminder system to check for common COVID-19 symptoms. Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor your movements. If you report any symptoms of COVID-19 through Sara Alert, a member of the Health Department’s team will contact you with guidance and next steps.\n\n**\\*** For **close contacts** of people who have tested positive:\n\n*   **If you are NOT able to completely physically separate yourself** from the person who tested positive – for example, you live in the same home – Day 1 of your quarantine is the day after they have ended their self-isolation.\n*   **If you are able to completely physically separate** from the person who tested positive – for example you do not live in the same home – Day 1 of your quarantine is the day after the last time you were in close contact with them.\n*   In addition to getting tested at pop-up testing sites, you can also get tested through your health care provider, Federally Qualified Health Centers, commercial testing sites, and other testing sites as they come on board.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
@@ -5744,7 +5773,8 @@
             "answer": "**Are summer camps and residential summer college programs happening?**\n\nSummer day camps serving Vermonters and those meeting the 14-day quarantine requirements, overnight summer camps, and limited residential summer college programs may operate under the [Health Guidance for Childcare Programs and Summer Programs](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf).\n\nFind information on the [mandatory health and safety requirements](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-sector-specific-guidance#summer-camps) for overnight camps and residential summer college programs, including quarantine requirements for out-of-state staff and campers, guidance for families dropping off campers, and wearing cloth face masks or coverings around other people, from the Agency of Commerce and Community Development (ACCD).\n\nFind more information about [what parents can expect from child care and school age camps and care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Resources4Families-Childcare-Summer-Programs.pdf) from the Vermont Department of Health.",
             "source": "Editorial",
             "questions": [
-                "Are summer camps and residential summer college programs happening?"
+                "Are summer camps and residential summer college programs happening?",
+                "overnight camp"
             ],
             "metadata": [
                 {
