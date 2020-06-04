@@ -23,18 +23,19 @@ module.exports = publishKB();
 async function publishKB() {
 
 
+
     let client = qnaMakerApi({
-        endpoint: targetEnv.parsed.Endpoint,
-        apiKey: targetEnv.parsed.OcpApimSubscriptionKey,
-        kbId: targetEnv.parsed.kbId
+        endpoint: process.env.Endpoint,
+        apiKey: process.env.OcpApimSubscriptionKey,
+        kbId: process.env.kbId
     })
 
-    if (replaceKbWasSuccessful) {
-        console.log("\n" + 'Publishing Knowledgebase...')
-        let publishResponse = await client.knowledgeBase.publish();
-        let publishSuccessful = publishResponse.status === STATUS_SUCCESS;
-        let publishResultMsg = publishSuccessful ? "Knowledgebase Published Successfully" : "Failed to Publish Knowledgebase";
-        console.log(publishResultMsg)
-    }
+
+    console.log("\n" + 'Publishing Knowledgebase...')
+    let publishResponse = await client.knowledgeBase.publish();
+    let publishSuccessful = publishResponse.status === STATUS_SUCCESS;
+    let publishResultMsg = publishSuccessful ? "Knowledgebase Published Successfully" : "Failed to Publish Knowledgebase";
+    console.log(publishResultMsg)
+
 
 }
