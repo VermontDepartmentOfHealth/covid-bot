@@ -77,7 +77,7 @@ async function readJsonc(path) {
     const { promises: fs } = require("fs");
     const jsoncParser = require("jsonc-parser")
 
-    let projectRoot = __dirname.replace(/tools$/, "");
+    let projectRoot = __dirname.replace(/(cli|util)$/, "")
     let fullPath = `${projectRoot}${path}`;
     let contents = await fs.readFile(fullPath, "utf8")
     let output = jsoncParser.parse(contents)
@@ -125,7 +125,7 @@ async function writeFile(path, contents) {
     const { promises: fs } = require("fs");
     const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
 
-    let projectRoot = __dirname.replace(/tools$/, "");
+    let projectRoot = __dirname.replace(/(cli|util)$/, "");
     let fullPath = `${projectRoot}/${path}`;
 
     try {

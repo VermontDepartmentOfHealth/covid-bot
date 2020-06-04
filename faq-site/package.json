@@ -7,13 +7,16 @@
         "clean": "npx rimraf _site",
         "build": "npx @11ty/eleventy",
         "serve": "npx @11ty/eleventy --serve",
-        "archive-data": "node tools/archiveData.js",
-        "fetch-data": "npx cross-env AZURE_ENVIRONMENT=test node tools/updateData.js",
-        "lint-data": "node tools/lintData.js",
-        "list-changes": "node tools/listChanges.js",
-        "restore-local": "npx cross-env AZURE_ENVIRONMENT=test node tools/restoreTestKb.js",
-        "deploy-to-prod": "node tools/deployToProd.js",
-        "update-follow-ups": "node tools/fixFollowUpsOnLocalFaq.js"
+
+        "fetch-kb": "node cli/fetchKB -e test",
+        "restore-kb": "node cli/restoreKB -e test",
+        "publish-kb": "node cli/publishKB -e test",
+        "deploy-kb": "node cli/deployKB -s test -t prod",
+
+        "archive-data": "node cli/archiveData",
+        "lint-data": "node cli/lintData",
+        "list-changes": "node cli/listChanges",
+        "fix-data": "node cli/fixFollowUpsOnLocalFaq"
     },
     "keywords": [],
     "author": "",
@@ -23,6 +26,7 @@
         "@ads-vdh/md-diff": "^1.0.3",
         "@ads-vdh/qnamaker-api": "^1.0.1",
         "chalk": "^3.0.0",
+        "commander": "^5.1.0",
         "details-polyfill": "^1.1.0",
         "dotenv": "^8.2.0",
         "jsonc-parser": "^2.2.1",

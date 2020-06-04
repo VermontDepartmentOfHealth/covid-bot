@@ -1,4 +1,4 @@
-const utilities = require('./utilities')
+const utilities = require('../util/utilities')
 
 // This follow up question will be ignored
 const DID_NOT_ANSWER_TEXT = "This did NOT answer my question."

@@ -1,13 +1,13 @@
-module.exports = updateData();
+module.exports = main();
 
-async function updateData() {
+async function main() {
 
     await archiveFaqs()
 
 }
 
 async function archiveFaqs() {
-    const { readJsonc, writeFile } = require('./utilities')
+    const { readJsonc, writeFile } = require('../util/utilities')
 
     let faqs = await readJsonc("_data/faqs.jsonc")
 

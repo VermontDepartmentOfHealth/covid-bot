@@ -1,4 +1,4 @@
-const utilities = require('./tools/utilities')
+const utilities = require('./util/utilities')
 
 module.exports = function(eleventyConfig) {
 
@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addCollection("FaqsByTopic", async c => {
-        const buildFAQsByTopic = require('./tools/faqsByTopic')
+        const buildFAQsByTopic = require('./util/faqsByTopic')
         let col = await buildFAQsByTopic()
         return col
     });

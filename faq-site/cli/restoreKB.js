@@ -1,19 +1,23 @@
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
-const utilities = require('./utilities')
-
-let filePath = process.env.AZURE_ENVIRONMENT ?
-    `.env.${process.env.AZURE_ENVIRONMENT}` :
-    ".env"
-require('dotenv').config({ path: filePath })
-
+const utilities = require('../util/utilities')
 const STATUS_ACCEPTED = 202;
+
+// get command line args
+const { program } = require('commander');
+program
+    .option('-e, --environment <value>', 'either test or prod', 'test')
+    .parse(process.argv);
+
+// load env file
+require('dotenv').config({ path: `.env.${program.environment}` })
+
 
 // set input file
 const LOCAL_KB_PARTIAL_FILE_PATH = "_data/faqs.jsonc"
 
-module.exports = restoreTestKb();
+module.exports = restoreKB();
 
-async function restoreTestKb() {
+async function restoreKB() {
 
     let clientFromTest = qnaMakerApi({
         endpoint: process.env.Endpoint,

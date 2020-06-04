@@ -11,53 +11,81 @@
       "program": "${workspaceFolder}/node_modules/@11ty/eleventy/cmd.js",
       "args": []
     },
+
     {
       "type": "node",
       "request": "launch",
-      "name": "Update Data",
+      "name": "Fetch KB",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\updateData.js",
-      "env": {
-        "AZURE_ENVIRONMENT": "test"
-      }
+      "program": "${workspaceFolder}\\cli\\fetchKB.js",
+      "args": [
+        "--environment",
+        "test"
+      ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Restore KB",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cli\\restoreKB.js",
+      "args": [
+        "--environment",
+        "test"
+      ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Publish KB",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cli\\publishKB.js",
+      "args": [
+        "--environment",
+        "test"
+      ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Deploy KB",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cli\\deployKB.js",
+      "args": [
+        "--source",
+        "test",
+        "--target",
+        "prod"
+      ]
+    },
+
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Archive Data",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cli\\archiveData.js"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Lint Data",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\lintData.js"
+      "program": "${workspaceFolder}\\cli\\lintData.js"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "List Changes",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\listChanges.js"
+      "program": "${workspaceFolder}\\cli\\listChanges.js"
     },
-    {
+      {
       "type": "node",
       "request": "launch",
-      "name": "Deploy to Prod",
+      "name": "Fix Data",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\deployToProd.js"
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Restore Test",
-      "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\restoreTestKb.js",
-      "env": {
-        "AZURE_ENVIRONMENT": "test"
-      }
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Update Follow Ups",
-      "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\tools\\fixFollowUpsOnLocalFaq.js",     
+      "program": "${workspaceFolder}\\cli\\fixFollowUpsOnLocalFaq.js",     
     }
   ]
 }
