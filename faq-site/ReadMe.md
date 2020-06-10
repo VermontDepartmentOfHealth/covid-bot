@@ -122,6 +122,9 @@ npm run deploy-kb
 
 ## // TODO
 
+- [ ] Don't display Empty subcategory
+- [ ] check for follow-up prompt generated duplicates (leviathan distance?)
+- [ ] only write synonyms if file's changed
 - [ ] #18 show revision history
 - [ ] #26 update timestamp from KB modified time, not build time #26
 - [ ] #37 add toggle for TOC on mobile
