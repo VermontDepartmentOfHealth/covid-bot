@@ -2054,7 +2054,7 @@
         },
         {
             "id": 4589,
-            "answer": "**Where can I find additional resources?**\n\n* Visit [CDC’s FAQs](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)\n\n* [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19)\n\n* Call the VT Department of Health call center at [**(802) 863-7240**](tel:802-863-7240) to talk to a person\n\n* Call **2-1-1** (if callers are having trouble calling from a cell phone, turn off WiFi then call again)\n\n* If your question still isn’t answered, email AHS.VDHPublicCommunication@vermont.gov",
+            "answer": "**Where can I find additional resources?**\n\n*   Go to the [Vermont Department of Health's COVID-19 website](http://www.healthvermont.gov/COVID-19)\n*   Read the [CDC’s COVID-19 Frequently Asked Questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics)\n*   Go to the [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19)\n*   Call the VT Department of Health call center at (802) 863-7240 to talk to a person\n*   Call 2-1-1 (if you are having trouble calling from a cell phone – turn off your WiFi, then call again)\n*   If your question still isn’t answered, email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).",
             "source": "Editorial",
             "questions": [
                 "Where can I find additional resources?",
@@ -2065,6 +2065,10 @@
                 {
                     "name": "category",
                     "value": "additional resources"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -2866,7 +2870,7 @@
         },
         {
             "id": 4612,
-            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is [information about COVID-19 available in several languages](https://www.newamericansinvermont.com).\n\nFind more videos and links to other translated information on the [Health Department’s website](https://www.healthvermont.gov/response/coronavirus-covid-19/resources).",
+            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is [information about COVID-19 available in several languages](https://www.newamericansinvermont.com) from NewAmericansInVermont.com.\n\nFind more [information and translated materials](https://www.healthvermont.gov/response/coronavirus-covid-19/resources) from the Health Department.",
             "source": "Editorial",
             "questions": [
                 "Are there any translated materials about COVID-19?",
@@ -2892,7 +2896,7 @@
         },
         {
             "id": 4614,
-            "answer": "**Does smoking or vaping increase the risk of getting seriously ill from COVID-19?**\n\nThere is growing evidence that e-cigarette use or vaping can harm lung health. The coronavirus attacks the lungs, making it harder for people who smoke or vape – tobacco, cannabis or anything else – to fight off the virus, putting them at much greater risk of severe illness, even death.  \n\n802Quits is the Vermont tobacco quit resource. You can get help to quit by phone or online. \n\nBy phone, call **1-800-QUIT-NOW** for 1:1 coaching, available 24/7, with email and text support. \n\nOnline: [802Quits.org](https://802quits.org/) \n\nBy quitting, you’ll also protect people in your household by reducing their exposure to secondhand smoke and aerosol as you spend more time at home right now.",
+            "answer": "**Does smoking or vaping increase the risk of getting seriously ill from COVID-19?**\n\nThere is growing evidence that e-cigarette use or vaping can harm lung health. The coronavirus attacks the lungs, making it harder for people who smoke or vape – tobacco, cannabis or anything else – to fight off the virus, putting them at much greater risk of severe illness, even death.\n\n802Quits is the Vermont tobacco quit resource. You can get help to quit by phone or online.\n\nDial **1-800-QUIT-NOW** for one-on-one coaching, available 24/7, with email and text support, or visit [802Quits.org](https://802quits.org/).\n\nBy quitting, you’ll also protect people in your household by reducing their exposure to secondhand smoke and aerosol as you spend more time at home right now.",
             "source": "Editorial",
             "questions": [
                 "Does smoking or vaping increase the risk of getting seriously ill from COVID-19?"
@@ -3150,7 +3154,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is isolation, quarantine and self-observation?**\n\n**Isolation** is for people who are sick with COVID-19.\n\n**Quarantine** is for people with no symptoms and who were in close contact with someone sick with COVID-19 or are returning to Vermont from out of state for anything other than an essential purpose.\n\n**Self-observation** is for other Vermonters who don’t have symptoms of COVID-19.\n\nFor more information, see the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nSee the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont.",
+            "answer": "**What is isolation, quarantine and self-observation?**\n\n**Isolation** is for people who are sick with COVID-19.\n\n**Quarantine** is for people with no symptoms who are returning to Vermont from out of state or who were in close contact with someone sick with COVID-19. This helps prevent spread of disease before a person knows they are sick or if they are infected with the virus without feeling symptoms.\n\nQuarantine means staying at a home or dwelling for 14 days before doing any activities outside of the home, like grocery shopping or getting together with friends or family. People in quarantine should separate themselves from others and check themselves for symptoms. Sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\n**Self-observation** is for other Vermonters who don’t have symptoms of COVID-19.\n\nFor more information, see the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart.\n\nSee the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont.",
             "source": "Editorial",
             "questions": [
                 "What is isolation, quarantine and self-observation?",
@@ -4521,6 +4525,10 @@
                 {
                     "name": "category",
                     "value": "additional resources"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "assistance"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5343,7 +5351,7 @@
         },
         {
             "id": 4677,
-            "answer": "**How do I practice safer drug use?**\n\nThe Harm Reduction Coalition has [tips for safer drug use during the COVID-19 pandemic](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs).Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
+            "answer": "**How do I practice safer drug use?**\n\nThe Harm Reduction Coalition has [tips for safer drug use during the COVID-19 pandemic](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs). Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
             "questions": [
                 "How do I practice safer drug use?",
@@ -5950,7 +5958,7 @@
         },
         {
             "id": 4704,
-            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nWhen travelers to Vermont who are under quarantine are staying with others in a home or lodging, the people hosting those travelers do not need to quarantine. If they are sharing space with others, people who are under quarantine should stay at least 6 feet from the people they are sharing the space with and are advised to wear a mask. Disinfect commonly touched surfaces. All should practice [self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nThe Vermont Department of Health has a new [webpage for visitors coming to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). They can get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once their quarantine is complete.",
+            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nWhen travelers to Vermont who are under quarantine are staying with others in a home or lodging, the people hosting those travelers do not need to quarantine. If they are sharing space with others, people who are under quarantine should stay at least 6 feet from the people they are sharing the space with and are advised to wear a mask. Disinfect commonly touched surfaces. People in the same household as you should check themselves for symptoms ([self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)) for 14 days.\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nThe Vermont Department of Health has a new [webpage for visitors coming to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). They can get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once their quarantine is complete.",
             "source": "Editorial",
             "questions": [
                 "Do I need to quarantine if out-of-state visitors are staying in my home?"

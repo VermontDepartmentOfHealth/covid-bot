@@ -577,7 +577,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1182,7 +1187,8 @@
             "questions": [
                 "Canada",
                 "The Canadian Border",
-                "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?\n"
+                "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?\n",
+                "go to Vermont"
             ],
             "metadata": [
                 {
@@ -1295,14 +1301,14 @@
                         "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1683,11 +1689,6 @@
                         "displayOrder": 0,
                         "qnaId": 4638,
                         "displayText": "Are sports and outdoor activities allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4705,
-                        "displayText": "Can I get together with friends and family?"
                     },
                     {
                         "displayOrder": 0,
@@ -2920,7 +2921,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nStaying in your home state or country is still the best way to keep the virus from spreading. \n\nTravelers from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nEveryone else is required to quarantine in Vermont for 14 days and before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nThe Vermont Department of Health has a new [webpage for what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once your quarantine is complete.",
+            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont – or you live in Vermont and have spent more than one day traveling for non-essential purposes – you may need to quarantine for 14 days once you arrive in Vermont.\n\nThe Vermont Department of Health has a [webpage for what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once your quarantine is complete.",
             "source": "Editorial",
             "questions": [
                 "What if I work in a different state?",
@@ -2939,7 +2940,6 @@
                 "I I have to self quarantine for 14 days?",
                 "what do I have to do when arriving in Vermont?",
                 "travel from out of state",
-                "Can I travel to vermont",
                 "Return from out of state",
                 "Can I travel to Vermont from New York?",
                 "what are travel restrictions from out of state",
@@ -2976,7 +2976,8 @@
                 "in your state",
                 "into your state",
                 "Travel rules",
-                "if I leave the state for one day"
+                "if I leave the state for one day",
+                "Can I travel to Vermont"
             ],
             "metadata": [
                 {
@@ -3118,7 +3119,6 @@
                 "What are the Covid-19 by town",
                 "how many cases of Covid-19 do we currently have?",
                 "How many people in Vermont are infected?",
-                "Can I travel to Vermont",
                 "How many new cases"
             ],
             "metadata": [
@@ -4652,7 +4652,12 @@
                         "displayText": "Should I be tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4545,
+                        "displayText": "Can I be tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4797,7 +4802,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4669,
+                        "displayText": "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5168,7 +5178,7 @@
         },
         {
             "id": 4672,
-            "answer": "**Is there food available if I need it?**\n\nPeople in need can receive a free, seven-day supply of ready-to-eat meals for each member of their household. The Vermont Foodbank and Vermont National Guard will give out free food throughout the month of May.\n\nPeople who are sick, have been asked to quarantine, or don’t have transportation can send a friend or relative to pick up meals for them. Those picking up food can come to the location nearest to them, open their trunk, and the food will be loaded by members of the Vermont National Guard.\n\nFind more details, [dates and locations for meal distribution for those in need](https://www.vtfoodbank.org/coronavirus-services-for-individuals/coronavirus-food-distributions). \n\nVermont food shelves are also able to meet the demand of clients and Vermont grocery stores are not experiencing shortages of most food items.\n\nVisit the [Vermont Foodbank](http://www.vtfoodbank.org/2020/03/covid-19-update.html) for more details on food resources during COVID-19.",
+            "answer": "**Is there food available if I need it?**\n\nThe Vermont Foodbank is partnering with The Abbey Group, the State of Vermont, and the Vermont National Guard to provide boxes of chicken, produce, dairy products, and non-perishable food at distributions held throughout the state. Distributions will require pre-registration to reduce wait times and improve the experience for people picking up food.\n\n[Register for food distribution](https://humanresources.vermont.gov/food-help). For more questions or for people who do not have internet access and would like to register, please call 2-1-1.\n\nPeople who are sick, have been asked to quarantine, or don’t have transportation can send a friend or relative to pick up meals for them. Those picking up food can come to the location nearest to them, open their trunk, and the food will be loaded by members of the Vermont National Guard.\n\nVisit the [Vermont Foodbank](http://www.vtfoodbank.org/2020/03/covid-19-update.html) for more details on food resources during COVID-19.",
             "source": "Editorial",
             "questions": [
                 "Is there food available if I need it?",
@@ -5970,20 +5980,6 @@
                         "displayText": "Are out-of-state visitors allowed in Vermont?"
                     }
                 ]
-            }
-        },
-        {
-            "id": 4705,
-            "answer": "**Can I get together with friends and family?**\n\nVermonters can leave home to get fresh air and exercise and for limited social interactions and gatherings of 25 or fewer people, preferably in outdoor settings, as long as health and safety precautions are taken. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nMembers of one household may choose to socialize – and allow children to play – with members of another trusted household, such as family, neighbors or friends. A trusted household is one that has taken seriously the importance of social distancing and proper hygiene in their day-to-day lives. By carefully limiting these closer social interactions at this time it will be easier to identify who else may have been exposed and need to self-isolate in case someone becomes sick.\n\nTo keep COVID-19 from spreading, we must continue to:\n\n* Stay home and away from others if you are sick with COVID-19, have recently been exposed to someone who has COVID-19, or just don’t feel well.\n* Keep a 6-foot distance from others when you meet people outside of your household.\n* Wash your hands frequently (hand sanitizer with at least 60% alcohol is acceptable when soap and water are not available).\n* Cough and sneeze into your elbow (even if you are wearing a cloth face mask or covering).\n* Wear a cloth face mask or covering over your nose and mouth.\n* Limiting travel to within Vermont to the extent possible and when you do travel, limit non-essential stops.\n\nOlder adults (age 65 and over), and people with underlying medical conditions, like heart and lung disease or diabetes, are more likely to develop severe illness. They should continue to stay home, and family and friends should do everything they can to help keep them safe.",
-            "source": "Editorial",
-            "questions": [
-                "Can I get together with friends and family?"
-            ],
-            "metadata": [],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": []
             }
         },
         {
