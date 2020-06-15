@@ -58,6 +58,11 @@ npm run archive-data  # moves local faq file into the archive file
 npm run lint-data     # validates data and checks for common errors
 npm run list-changes  # lists changes to questions - deleted, new, and title changes
 npm run fix-data      # automatically fix inconsistencies in follow up prompts - follow up with restore-kb
+
+# publish site
+npm run publish-faq-test  # publish local _site folder to path on test
+npm run publish-faq-prod  # publish local _site folder to path on prod
+npm run publish-faq       # publish local _site to test and prod
 ```
 
 ## Deployment
@@ -122,6 +127,7 @@ npm run deploy-kb
 
 ## // TODO
 
+- [ ] script site publish
 - [ ] Don't display Empty subcategory
 - [ ] check for follow-up prompt generated duplicates (leviathan distance?)
 - [ ] only write synonyms if file's changed

@@ -80,12 +80,24 @@
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\cli\\listChanges.js"
     },
-      {
+    {
       "type": "node",
       "request": "launch",
       "name": "Fix Data",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\cli\\fixFollowUpsOnLocalFaq.js",     
+    },
+
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Publish FAQ",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cli\\publishFaq.js",
+      "args": [
+        "--target",
+        "\\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\"
+      ]
     }
   ]
 }

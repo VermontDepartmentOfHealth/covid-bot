@@ -16,7 +16,11 @@
         "archive-data": "node cli/archiveData",
         "lint-data": "node cli/lintData",
         "list-changes": "node cli/listChanges",
-        "fix-data": "node cli/fixFollowUpsOnLocalFaq"
+        "fix-data": "node cli/fixFollowUpsOnLocalFaq",
+
+        "publish-faq-test": "node cli/publishFaq -t \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
+        "publish-faq-prod": "node cli/publishFaq -t \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
+        "publish-faq": "npm run publish-faq-test && npm run publish-faq-prod"
     },
     "keywords": [],
     "author": "",
