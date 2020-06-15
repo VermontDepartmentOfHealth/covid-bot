@@ -21,23 +21,23 @@ async function main() {
 }
 
 
+// https://stackoverflow.com/a/52562541/1366033
+async function copyDir(src, dest) {
+    const entries = await fsp.readdir(src, { withFileTypes: true });
 
-// https://stackoverflow.com/a/22185855/1366033
-function copyRecursiveSync(src, dest) {
-    let exists = fs.existsSync(src);
-    let stats = exists && fs.statSync(src);
-    let isDirectory = exists && stats.isDirectory();
-    if (isDirectory) {
-        try {
-            fs.mkdirSync(dest);
-        } catch (error) {
-            if (error.code != 'EEXIST') console.log(error)
-        }
-        fs.readdirSync(src).forEach(function(childItemName) {
-            copyRecursiveSync(path.join(src, childItemName),
-                path.join(dest, childItemName));
-        });
-    } else {
-        fs.copyFileSync(src, dest);
+    try {
+        await fsp.mkdir(dest);
+    } catch (error) {
+        if (error.code != 'EEXIST') console.log(error)
     }
-};
+
+    for (let entry of entries) {
+        const srcPath = path.join(src, entry.name);
+        const destPath = path.join(dest, entry.name);
+        if (entry.isDirectory()) {
+            await copyDir(srcPath, destPath);
+        } else {
+            await fsp.copyFile(srcPath, destPath);
+        }
+    }
+}
