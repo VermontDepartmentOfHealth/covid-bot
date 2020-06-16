@@ -216,7 +216,8 @@
                 "Can kids get Covid-19?",
                 "Can kids get it?",
                 "are children at risk",
-                "Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?"
+                "Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?",
+                "baby"
             ],
             "metadata": [
                 {
@@ -551,6 +552,11 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4547,
+                        "displayText": "How long is the turnaround for testing?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -624,7 +630,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4674,
+                        "displayText": "What do I do if I'm a close contact of someone who is waiting for their test results?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -992,7 +1003,8 @@
                 "Shingles",
                 "people over 65 ",
                 "people over 65",
-                "with health problems"
+                "with health problems",
+                "work at 65"
             ],
             "metadata": [
                 {
@@ -1587,14 +1599,19 @@
                         "displayText": "When can I stop self-isolating (home isolation)?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4569,
                         "displayText": "What should I do if I feel sick and think I may have COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4560,
+                        "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2183,7 +2200,8 @@
                 "brewpub",
                 "when will food service be open",
                 "Are bars and restaurants open?",
-                "can I go out to eat"
+                "can I go out to eat",
+                "occupancy of restaurants"
             ],
             "metadata": [
                 {
@@ -2587,7 +2605,12 @@
                         "displayText": "How can I report a person or business who is violating the Be Smart, Stay Safe Order?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4656,
+                        "displayText": "What should businesses do to protect workers and customers?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2896,7 +2919,7 @@
         },
         {
             "id": 4614,
-            "answer": "**Does smoking or vaping increase the risk of getting seriously ill from COVID-19?**\n\nThere is growing evidence that e-cigarette use or vaping can harm lung health. The coronavirus attacks the lungs, making it harder for people who smoke or vape – tobacco, cannabis or anything else – to fight off the virus, putting them at much greater risk of severe illness, even death.\n\n802Quits is the Vermont tobacco quit resource. You can get help to quit by phone or online.\n\nDial **1-800-QUIT-NOW** for one-on-one coaching, available 24/7, with email and text support, or visit [802Quits.org](https://802quits.org/).\n\nBy quitting, you’ll also protect people in your household by reducing their exposure to secondhand smoke and aerosol as you spend more time at home right now.",
+            "answer": "**Does smoking or vaping increase the risk of getting seriously ill from COVID-19?**\n\nThere is growing evidence that e-cigarette use or vaping can harm lung health. The COVID-19 virus attacks the lungs, making it harder for people who smoke or vape – tobacco, cannabis or anything else – to fight off the virus, putting them at much greater risk of severe illness, even death.\n\n802Quits is the Vermont tobacco quit resource. You can get help to quit by phone or online.\n\nDial **1-800-QUIT-NOW** for one-on-one coaching, available 24/7, with email and text support, or visit [802Quits.org](https://802quits.org/).\n\nBy quitting, you’ll also protect people in your household by reducing their exposure to secondhand smoke and aerosol as you spend more time at home right now.",
             "source": "Editorial",
             "questions": [
                 "Does smoking or vaping increase the risk of getting seriously ill from COVID-19?"
@@ -2925,7 +2948,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont – or you live in Vermont and have spent more than one day traveling for non-essential purposes – you may need to quarantine for 14 days once you arrive in Vermont.\n\nThe Vermont Department of Health has a [webpage for what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once your quarantine is complete.",
+            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from **certain counties in New York and New England** with low numbers of active infections, you do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if driving in personal vehicle and making **no stops along the way** OR \n*   Quarantine at a lodging facility or Vermont home for 14 days if making stops along the way or traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "What if I work in a different state?",
@@ -2981,7 +3004,9 @@
                 "into your state",
                 "Travel rules",
                 "if I leave the state for one day",
-                "Can I travel to Vermont"
+                "Can I travel to Vermont",
+                "Stay overnight in Vermont",
+                "Can I fly to Vermont"
             ],
             "metadata": [
                 {
@@ -3032,7 +3057,7 @@
         },
         {
             "id": 4616,
-            "answer": "**Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?**\n\nAs of May 22, lodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks, seasonal resorts and marinas – may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf).\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nEveryone else is required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont can be used as a place to quarantine.\n\nAll reservations from out-of-state guests who cannot first meet the quarantine requirement must be canceled through June 15. The State may require similar reservations to be canceled after June 15.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in and must provide a Vermont driver’s license or [signed document](https://accd.vermont.gov/content/be-smart-stay-safe-certificate-of-compliance) certifying that they met the quarantine and travel requirements. Out-of-state guests must register with [Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) – for daily reminders from the Vermont Department of Health.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a pop-up testing site without a doctor’s referral. Registration for testing is required. Find more details under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind more details and up-to-date information on [lodging, campgrounds and other accommodations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community and Development (ACCD).\n\nIf an individual has concerns about lodging facilities that are violating the Be Smart, Stay Safe Order, the Department of Public Safety has created an online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u) to gather more information.",
+            "answer": "**Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?**\n\nLodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks, seasonal resorts and marinas – may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf).\n\nVisitors from certain counties in New York and New England with low numbers of active infections do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nAll other travelers coming to Vermont must quarantine and follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). You have the option to quarantine at a lodging facility for 14 days if you make stops along the way or travel by plane, train, bus or other means of transportation. Find more information about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in and must provide a Vermont driver’s license or [signed document](https://accd.vermont.gov/content/be-smart-stay-safe-certificate-of-compliance) certifying that they met the quarantine and travel requirements. Out-of-state guests must register with [Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) – for daily reminders from the Vermont Department of Health.\n\nFind more details and up-to-date information on [lodging, campgrounds and other accommodations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community and Development (ACCD).\n\nIf an individual has concerns about lodging facilities that are violating the Be Smart, Stay Safe Order, the Department of Public Safety has created an online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u) to gather more information.",
             "source": "Editorial",
             "questions": [
                 "Hotel",
@@ -3082,14 +3107,14 @@
                         "displayText": "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4615,
                         "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3350,7 +3375,7 @@
         },
         {
             "id": 4622,
-            "answer": "**What do owners of lodging facilities need to do?**\n\nAs of May 22, lodging operations, short-term rentals, campgrounds and marinas may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf) under mandatory health and safety requirements.\n\nAll reservations from out-of-state guests who cannot first meet the mandatory 14-day quarantine requirements must also be canceled through June 15. This date may be changed or extended.\n\nGuests from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nFind details on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance for [lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) and for [campgrounds, RV parks, and seasonal resorts](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#campgrounds-rv-parks-seasonal-resorts). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) from the Health Department.\n\nThe Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn about [guidance on enforcement of the Be Smart, Stay Safe Order](https://vsp.vermont.gov/covid19/stayhome_enforcement) from the Vermont Department of Public Safety.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What do owners of lodging facilities need to do?**\n\nLodging operations, short-term rentals, campgrounds and marinas may accept overnight reservations from Vermont residents, those who have met the quarantine requirement, and [essential workers](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf) under mandatory health and safety requirements.\n\nGuests from counties in New York and New England with low numbers of active infections do not need to quarantine. Check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly. All other travelers coming to Vermont must quarantine. They have the option to quarantine at a lodging facility for 14 days if they make stops along the way or travel by plane, train, bus or other means of transportation.\n\nFind details on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance for [lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) and for [campgrounds, RV parks, and seasonal resorts](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#campgrounds-rv-parks-seasonal-resorts). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) from the Health Department.\n\nThe Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn about [guidance on enforcement of the Be Smart, Stay Safe Order](https://vsp.vermont.gov/covid19/stayhome_enforcement) from the Vermont Department of Public Safety.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
             "questions": [
                 "What do owners of lodging facilities need to do?",
@@ -3421,7 +3446,12 @@
                         "displayText": "Can you tell me more information about a patient with COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4674,
+                        "displayText": "What do I do if I'm a close contact of someone who is waiting for their test results?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4019,7 +4049,8 @@
                 "motorcycling?",
                 "go outside?",
                 "do outdoor activities with the Stay Home, Stay Safe Order?",
-                "skate park"
+                "skate park",
+                "soccer"
             ],
             "metadata": [
                 {
@@ -4436,14 +4467,19 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4643,
                         "displayText": "Where can I get tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4547,
+                        "displayText": "How long is the turnaround for testing?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4886,7 +4922,7 @@
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nAnyone returning or traveling to Vermont from another state or country for non-essential reasons, including second homeowners or seasonal home owners, is required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nIf you are coming from certain counties in New York and New England with low numbers of active infections, you do not need to quarantine when you arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nThe Vermont Department of Health has a new [webpage for what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once your quarantine is complete.",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are returning to your second or seasonal home in Vermont, you may be required to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from **certain counties in New York and New England** with low numbers of active infections, you do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if driving in personal vehicle and making **no stops along the way** OR \n*   Quarantine at a lodging facility or Vermont home for 14 days if making stops along the way or traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
@@ -4924,7 +4960,12 @@
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4616,
+                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4989,7 +5030,12 @@
                         "displayText": "How can I make my own homemade cloth face mask or covering?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4605,
+                        "displayText": "What should health care workers do?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4998,7 +5044,7 @@
         },
         {
             "id": 4666,
-            "answer": "**Can we still have our wedding ceremony?**\n\nJustices of the peace and other officiants may perform in-person marriages if there are 25 or fewer people. Town offices may decide to issue marriage licenses.\n\nCeremonies should preferably be outside, while keeping a 6-foot distance from others, and wearing [cloth face masks or coverings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n\nTravelers from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nEveryone else is required to quarantine in Vermont for 14 days before engaging in any activities, like grocery shopping or going for walks, and must comply with all of the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response). No lodging facility in Vermont – including short-term rentals, campgrounds, RV parks, and seasonal resorts – can be used as a place to quarantine.\n\nThe Vermont Department of Health has a new [webpage for what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once your quarantine is complete.\n\nFind up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development",
+            "answer": "**Can we still have our wedding ceremony?**\n\nJustices of the peace and other officiants may perform in-person marriages if there are 25 or fewer people. Town offices may decide to issue marriage licenses.\n\nCeremonies should preferably be outside, while keeping a 6-foot distance from others, and wearing [cloth face masks or coverings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n\nIf you are visiting Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.\n\nFind up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development",
             "source": "Editorial",
             "questions": [
                 "Can we still have our wedding ceremony?",
@@ -5498,7 +5544,12 @@
                         "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4638,
+                        "displayText": "Are sports and outdoor activities allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5693,7 +5744,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. Registration for testing is required.\n\nBased on data in the medical literature, the vast majority of people who are going to develop symptoms will do so by Day 7. For this reason, we offer what we consider to be a low-risk option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. This is simply an option, and it may not be practical or desirable for everyone.\n\nThe testing option is for:\n\n*   people returning to Vermont (for example, those who spend winter outside of Vermont, second homeowners and college students) who are required to quarantine when they arrive\n*   visitors coming into Vermont who are required to quarantine when they arrive\n*   close contacts of people who have tested positive* (see more details below)\n\nFor anyone coming into Vermont, Day 1 is the day after you arrive in Vermont.\n\nNew admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. If you do not have a health care provider, call 2-1-1.\n\nYou can [sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) with Sara Alert, a free, automated and secure reminder system to check for common COVID-19 symptoms. Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor your movements. If you report any symptoms of COVID-19 through Sara Alert, a member of the Health Department’s team will contact you with guidance and next steps.\n\n**\\*** For **close contacts** of people who have tested positive:\n\n*   **If you are NOT able to completely physically separate yourself** from the person who tested positive – for example, you live in the same home – Day 1 of your quarantine is the day after they have ended their self-isolation.\n*   **If you are able to completely physically separate** from the person who tested positive – for example you do not live in the same home – Day 1 of your quarantine is the day after the last time you were in close contact with them.\n*   In addition to getting tested at pop-up testing sites, you can also get tested through your health care provider, Federally Qualified Health Centers, commercial testing sites, and other testing sites as they come on board.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. In Vermont, you can be tested at a [pop-up testing site](https://www.healthvermont.gov/sites/default/files/documents/pdf/Pop-up-Testing-FAQs.pdf) without a doctor’s referral. Registration for testing is required. For travelers who are [completing quarantine in their home state](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont), your home state may offer testing for people without symptoms.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nFor anyone coming into Vermont, Day 1 is the day after you arrive in Vermont.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. If you do not have a health care provider, call 2-1-1. [Sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nFor **close contacts** of people who have tested positive:\n\n*   **If you are NOT able to completely physically separate yourself** from the person who tested positive – for example, you live in the same home – Day 1 of your quarantine is the day after they have ended their self-isolation.\n*   **If you are able to completely physically separate** from the person who tested positive – for example you do not live in the same home – Day 1 of your quarantine is the day after the last time you were in close contact with them.\n*   In addition to getting tested at pop-up testing sites, you can also get tested through your health care provider, Federally Qualified Health Centers, commercial testing sites, and other testing sites as they come on board.\n\nStudies have found most people will develop symptoms by Day 7. This why there is the option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. \n\nNew admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
@@ -5730,7 +5781,7 @@
             "answer": "**Can I get COVID-19 from swimming in a lake or river?**\n\nThe COVID-19 virus could possibly enter waterways through untreated wastewater that is discharged into waterways following large rain events or for other reasons. The virus has been found in untreated wastewater, but there has been no evidence that a person can get COVID-19 from being exposed to untreated wastewater or sewerage systems.\n\nAccording to the CDC, it is thought that the COVID-19 virus does not spread through standard municipal and individual septic system wastewater treatment practices. Guidance will be updated if anything new is learned.\n\nThe Health Department recommends that towns do routine weekly _E. coli_ testing and after large storm events during the swim season. These tests are a good indication of the water quality, meaning that if the _E. coli_ levels are low, then COVID-19 virus levels are also expected to be low.\n\nThe best practices for staying healthy while swimming are to obey signage at beaches, do not swim during and following large rain events, and do not swallow the water.",
             "source": "Editorial",
             "questions": [
-                "Can I get COVID-19 from swimming in a lake or river?"
+                "swimming in a lake or river?"
             ],
             "metadata": [
                 {
@@ -5871,7 +5922,7 @@
         },
         {
             "id": 4701,
-            "answer": "**What should returning and new college students do?**\n\nThe Vermont Department of Health has a new [webpage for what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once your quarantine is complete.\n\nStudents from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nCollege students returning to Burlington can also use the city’s [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine). The program includes a move-in care package of fresh local goods, a mask, and hygiene supplies.",
+            "answer": "**What should returning and new college students do?**\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.\n\nStudents from counties in New York and New England with low numbers of active infections do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nCollege students returning to Burlington can also use the city’s [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine). The program includes a move-in care package of fresh local goods, a mask, and hygiene supplies.",
             "source": "Editorial",
             "questions": [
                 "What should returning and new college students do?"
@@ -5929,7 +5980,7 @@
         },
         {
             "id": 4703,
-            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19). People who have tested positive for COVID-19, their close contacts, and people traveling or returning to Vermont can quickly and easily sign up for to receive free daily reminders to check themselves for symptoms by email, text or phone call. If symptoms are reported, the Health Department will reach out to provide guidance and next steps. Sara Alert helps our public health teams contain the spread of COVID-19.\n\nPlease note, Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor your movements.\n\nTravelers from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly. Visitors can sign up with Sara Alert once they arrive.\n\n[Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).",
+            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19). People who have tested positive for COVID-19, their close contacts, and people traveling or returning to Vermont can quickly and easily sign up for to receive free daily reminders to check themselves for symptoms by email, text or phone call. If symptoms are reported, the Health Department will reach out to provide guidance and next steps. Sara Alert helps our public health teams contain the spread of COVID-19.\n\nPlease note, Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor your movements.\n\nIf you are traveling or returning to Vermont, you should sign up with Sara Alert once you arrive in Vermont to get two weeks of daily symptom check reminders.\n\n[Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).",
             "source": "Editorial",
             "questions": [
                 "What is Sara Alert?"
@@ -5958,7 +6009,7 @@
         },
         {
             "id": 4704,
-            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nWhen travelers to Vermont who are under quarantine are staying with others in a home or lodging, the people hosting those travelers do not need to quarantine. If they are sharing space with others, people who are under quarantine should stay at least 6 feet from the people they are sharing the space with and are advised to wear a mask. Disinfect commonly touched surfaces. People in the same household as you should check themselves for symptoms ([self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)) for 14 days.\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine when they arrive in Vermont. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf), and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nThe Vermont Department of Health has a new [webpage for visitors coming to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). They can get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and how to safely connect with friends and family once their quarantine is complete.",
+            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nWhen travelers to Vermont who are under quarantine are staying with others in a home or lodging, the people hosting those travelers do not need to quarantine. If they are sharing space with others, people who are under quarantine should stay at least 6 feet from the people they are sharing the space with and are advised to wear a mask. Disinfect commonly touched surfaces. People in the same household as you should check themselves for symptoms ([self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)) for 14 days.\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "Do I need to quarantine if out-of-state visitors are staying in my home?"
@@ -5979,13 +6030,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4615,
+                        "displayText": "Are out-of-state visitors allowed in Vermont?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are out-of-state visitors allowed in Vermont?"
+                        "qnaId": 4618,
+                        "displayText": "What is isolation, quarantine and self-observation?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -6050,10 +6106,10 @@
         },
         {
             "id": 4708,
-            "answer": "**Do I need to quarantine in Vermont if I don’t make any stops along the way?**\n\nYou do not need to quarantine in Vermont if you are traveling in your personal vehicle from an approved county, and **do not make any stops along the way**. Be sure to fill up your gas tank and pack food, water and other essentials before you leave.\n\nVisitors and travelers coming to Vermont by plane, bus or train — or those who make stops in a personal vehicle — must quarantine in Vermont for 14 days. Find more information about [traveling to Vermont](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.",
+            "answer": "**I am traveling to Vermont. Do I need to quarantine if I don’t make any stops along the way?**\n\nYou do not need to quarantine if you are traveling in your personal vehicle from an [approved county in New York and New England](https://accd.vermont.gov/covid-19/restart/cross-state-travel), and **do not make any stops along the way**. Be sure to fill up your gas tank and pack food, water and other essentials before you leave.\n\nVisitors and travelers coming to Vermont by plane, bus or train — or those who make stops in a personal vehicle — must quarantine for 14 days. Check the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family",
             "source": "Editorial",
             "questions": [
-                "Do I need to quarantine in Vermont if I don’t make any stops along the way?"
+                "I am traveling to Vermont. Do I need to quarantine if I don’t make any stops along the way?"
             ],
             "metadata": [
                 {
