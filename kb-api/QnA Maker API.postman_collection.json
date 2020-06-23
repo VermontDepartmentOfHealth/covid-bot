@@ -153,6 +153,29 @@
 						"description": "Download the knowledgebase."
 					},
 					"response": []
+				},
+				{
+					"name": "Replace",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{Endpoint}}/qnamaker/v4.0/knowledgebases/{{kbId}}/{{environment}}/qna",
+							"host": [
+								"{{Endpoint}}"
+							],
+							"path": [
+								"qnamaker",
+								"v4.0",
+								"knowledgebases",
+								"{{kbId}}",
+								"{{environment}}",
+								"qna"
+							]
+						},
+						"description": "Download the knowledgebase."
+					},
+					"response": []
 				}
 			],
 			"auth": {
