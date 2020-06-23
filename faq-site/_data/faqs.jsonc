@@ -189,7 +189,8 @@
                 "how does Covid-19 move between people?",
                 "Can a person be infected through an open wound?",
                 "Do I need to wash my hands if i'm just staying home?",
-                "transmit new infections to other people"
+                "transmit new infections to other people",
+                "Can I get Covid from"
             ],
             "metadata": [
                 {
@@ -339,6 +340,11 @@
                         "displayOrder": 0,
                         "qnaId": 4707,
                         "displayText": "What can I wear if my health or work environment doesn't allow me to wear a cloth face mask or covering?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4656,
+                        "displayText": "What should businesses do to protect workers and customers?"
                     },
                     {
                         "displayOrder": 0,
@@ -1089,7 +1095,12 @@
                         "displayText": "What does close contact mean?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4682,
+                        "displayText": "What is contact tracing?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2159,7 +2170,7 @@
         },
         {
             "id": 4591,
-            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nVermonters are allowed to gather in groups of 25 or fewer people as long as health and safety precautions are followed. Choose other trusted households that are also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nVermonters may hold yard sales and garage sales with 25 or fewer people. Hosts and visitors must keep a distance of at least 6 feet from others, and it is recommended that they wear [cloth face masks or coverings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n\nGatherings of more than 25 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nAll traditional fairs and festivals have been canceled until further notice.\n\nOrganized outdoor markets, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/farmers-market-guidance-updated) from the Agency of Agriculture, Food & Markets (AAFM).\n\n[Farmers markets](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#farmers-markets) and [pick-your-own farms and orchards](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#retail-operations) must follow best practices outlined by AAFM.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) from the Agency of Commerce and Community Development (ACCD).\n\nIf leaving the home, Vermonters should adhere to social distancing policies, including remaining 6 feet from others (except for those with whom they share a home), wearing a cloth face mask or covering, and thoroughly and regularly washing hands.",
+            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nVermonters are allowed to gather in groups of 25 or fewer people as long as health and safety precautions are followed. Choose other trusted households that are also taking health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nVermonters may hold yard sales and garage sales with 25 or fewer people. Hosts and visitors must keep a distance of at least 6 feet from others, and it is recommended that they wear [cloth face masks or coverings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n\nGatherings of more than 25 people are still prohibited. This includes weddings, graduation ceremonies, and other social gatherings.\n\nAll traditional fairs and festivals have been canceled until further notice.\n\nOrganized outdoor markets, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/farmers-market-guidance-updated) from the Agency of Agriculture, Food & Markets (AAFM).\n\n[Farmers markets](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#farmers-markets) and [pick-your-own farms and orchards](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#retail-operations) must follow best practices outlined by AAFM.\n\nStarting June 26, [event venues, arts, culture and entertainment venues, and restaurants](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#event-venues) can hold events, such as weddings, funerals and parties, with certain occupancy limits and health and safety precautions. Outdoor services, events, and gatherings are strongly preferred.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) from the Agency of Commerce and Community Development (ACCD).\n\nAt any gathering or event, everyone should follow these general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.",
             "source": "Editorial",
             "questions": [
                 "Are churches able to gather if they have 10 or less people attending",
@@ -2363,7 +2374,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4560,
+                        "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3070,8 +3086,8 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4616,
-                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
+                        "qnaId": 4708,
+                        "displayText": "I am traveling to Vermont. Do I need to quarantine if I don’t make any stops along the way?"
                     },
                     {
                         "displayOrder": 0,
@@ -4538,7 +4554,12 @@
                         "displayText": "Is there universal (widespread) testing being done at group living facilities?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4558,
+                        "displayText": "What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4653,22 +4674,21 @@
         },
         {
             "id": 4654,
-            "answer": "**What is serologic, or antibody, testing and will it be used in Vermont?**\n\nSerologic testing measures antibodies in the blood of a person who has been infected with COVID-19, whether they felt sick or not. In other words, it measures the body’s immune response to the virus, but does not detect the virus itself. According to the FDA, in the early days of an infection when the body’s immune response is still building, antibodies may not be detected. This limits the test’s effectiveness for diagnosing COVID-19 and why it should not be used as the sole basis to diagnose COVID-19.\n\nWith any test, there is always a risk of incorrect test results – false positive and false negative results. We need a good and accurate test we can rely on. The Vermont Department of Health convened a working group of experts to research antibody tests. Their findings conclude that at this time, the serologic (antibody) tests that are currently available are not accurate or reliable enough. Based on these findings, they caution against using serologic testing to make decisions about individuals. For example, using this test to establish “proof of immunity.” However, this type of test could help us better understand the population-level rate of infection from COVID-19 in Vermont.\n\nWe will continue to use public health best practice – considering clinical data, exposure history, and what is happening at the community-level – to make decisions on when to reopen businesses and when to return to work. The working group will continue to meet regularly and will be watching closely for changes and improvements in serologic testing. Recommendations may change based on new data.\n\nAntibody testing that has been performed in Vermont, up to now, has been conducted on a trial basis and limited to specific groups such as health care workers.",
+            "answer": "**What is serologic, or antibody, testing and will it be used in Vermont?**\n\nSerologic testing measures antibodies in the blood of a person who has been infected with COVID-19, whether they felt sick or not. In other words, it measures the body’s immune response to the virus, but does not detect the virus itself. According to the FDA, in the early days of an infection when the body’s immune response is still building, antibodies may not be detected. This limits the test’s effectiveness for diagnosing COVID-19 and why it should not be used as the sole basis to diagnose COVID-19.\n\nWith any test, there is always a risk of incorrect test results – false positive and false negative results. We need a good and accurate test we can rely on. The Vermont Department of Health convened a working group of experts to research antibody tests. Their findings conclude that at this time, the serologic (antibody) tests that are currently available would not produce results that are accurate or reliable enough in Vermont.\n\nThough certain providers may offer antibody testing in Vermont, the working group cautions against using serologic testing to make decisions about individuals. For example, using this test to establish “proof of immunity.” However, this type of test could help us better understand the population-level rate of infection from COVID-19 in Vermont.\n\nWe will continue to use public health best practice – considering clinical data, exposure history, and what is happening at the community-level – to make decisions on when to reopen businesses and when to return to work. The working group will continue to meet regularly and will be watching closely for changes and improvements in serologic testing. Recommendations may change based on new data.",
             "source": "Editorial",
             "questions": [
                 "What is serologic, or antibody, testing and will it be used in Vermont?",
-                "Is Covid-19 antibody testing available?",
-                "Where can I get the new Covid-19 anti bodies test",
                 "I suspect that I've already had Covid-19 should I be tested?",
                 "antibody testing",
                 "serology",
-                "Covid-19 testing sites for antibodies",
                 "see if I had Covid-19",
-                "can I get an antibody or antigen test ",
-                "I have covid-19",
                 "serologic testing",
                 "see if I've already had Covid-19?",
-                "serological"
+                "serological",
+                "antibody",
+                "new Covid-19 anti bodies test",
+                " antibodies",
+                "an antibody or antigen test"
             ],
             "metadata": [
                 {
@@ -4693,6 +4713,11 @@
                         "displayOrder": 0,
                         "qnaId": 4545,
                         "displayText": "Can I be tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     },
                     {
                         "displayOrder": 0,
@@ -5050,7 +5075,8 @@
             "questions": [
                 "Can we still have our wedding ceremony?",
                 "Will weddings be allowed in September?",
-                "marriage license"
+                "marriage license",
+                "having a wedding in Vemont"
             ],
             "metadata": [
                 {
@@ -5435,7 +5461,8 @@
             "questions": [
                 "Is it safe to go to the hospital?",
                 "UVM Medical",
-                "ICU"
+                "ICU",
+                "quarantine after emergency room visit?"
             ],
             "metadata": [
                 {
