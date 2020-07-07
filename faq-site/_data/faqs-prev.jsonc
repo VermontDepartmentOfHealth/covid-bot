@@ -849,7 +849,7 @@
         },
         {
             "id": 4554,
-            "answer": "**What should pregnant or breastfeeding people do?**\n\nWe do not currently know if pregnant people have a greater chance of getting sick from COVID-19 than the general public nor whether they are more likely to have serious illness as a result. Based on available information, pregnant people seem to have the same risk as adults who are not pregnant.\n\nLearn more from CDC about [COVID-19 and pregnancy and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/resources).",
+            "answer": "**What should pregnant or breastfeeding people do?**\n\nBased on what we know at this time, pregnant people might be at an increased risk for severe illness from COVID-19 compared to non-pregnant people. Additionally, there may be an increased risk of adverse pregnancy outcomes, such as preterm birth, among pregnant people with COVID-19. Therefore, if you are pregnant, be mindful about reducing your risk of getting sick.\n\nLearn more from CDC about [COVID-19 and pregnancy and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/resources).",
             "source": "KB-COVID",
             "questions": [
                 "What should pregnant or breastfeeding people do?",
@@ -2956,7 +2956,7 @@
         },
         {
             "id": 4612,
-            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is [information about COVID-19 available in several languages](https://www.newamericansinvermont.com) from NewAmericansInVermont.com.\n\nFind more [information and translated materials](https://www.healthvermont.gov/response/coronavirus-covid-19/resources) from the Health Department.",
+            "answer": "**Are there any translated materials about COVID-19?**\n\nThere is [information about COVID-19 available in several languages](https://www.newamericansinvermont.com) from NewAmericansInVermont.com.\n\nFind more [information and translated materials](https://www.healthvermont.gov/media/translation/covid-19-translations) from the Health Department.",
             "source": "Editorial",
             "questions": [
                 "Are there any translated materials about COVID-19?",
@@ -5307,7 +5307,7 @@
         },
         {
             "id": 4672,
-            "answer": "**Is there food available if I need it?**\n\nThe Vermont Foodbank is partnering with The Abbey Group, the State of Vermont, and the Vermont National Guard to provide boxes of chicken, produce, dairy products, and non-perishable food at distributions held throughout the state. Distributions will require pre-registration to reduce wait times and improve the experience for people picking up food.\n\n[Register for food distribution](https://humanresources.vermont.gov/food-help). For more questions or for people who do not have internet access and would like to register, please call 2-1-1.\n\nPeople who are sick, have been asked to quarantine, or don’t have transportation can send a friend or relative to pick up meals for them. Those picking up food can come to the location nearest to them, open their trunk, and the food will be loaded by members of the Vermont National Guard.\n\nVisit the [Vermont Foodbank](http://www.vtfoodbank.org/2020/03/covid-19-update.html) for more details on food resources during COVID-19.",
+            "answer": "**Is there food available if I need it?**\n\nThere are multiple options for those in need to get help, including meal distribution and other food resources. [Get more details on how to get food help](https://vem.vermont.gov/pods).",
             "source": "Editorial",
             "questions": [
                 "Is there food available if I need it?",
