@@ -180,7 +180,7 @@
         },
         {
             "id": 4537,
-            "answer": "**How does COVID-19 spread?**\n\nThe virus is thought to spread mainly from person-to-person, by respiratory droplets released when an infected person talks, coughs, or sneezes. Another person can become infected if the droplets land in their mouth or nose and possibly if the droplets are inhaled into the lungs. The virus might also spread to a person’s hands from a contaminated surface and then to their nose, mouth, or possibly their eyes. Not everyone infected with the virus has symptoms.\n\nFollow these general precautions to help prevent the virus from spreading:\n\n*   Wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   Keep a 6-foot distance from others\n*   Wash your hands often\n*   Stay home if you are sick.\n\nLearn more from the CDC about [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
+            "answer": "**How does COVID-19 spread?**\n\nThe virus is thought to spread mainly from person-to-person, by respiratory droplets released when an infected person talks, coughs, or sneezes. Another person can become infected if the droplets land in their mouth or nose and possibly if the droplets are inhaled into the lungs. The virus might also spread to a person’s hands from a contaminated surface and then to their nose, mouth, or possibly their eyes. Not everyone infected with the virus has symptoms.\n\nThere is [growing scientific evidence](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798) that smaller particles of the COVID-19 virus in the air indoors can infect people. These lighter, finer droplets — that we all exhale from coughing or talking — may stay in the air for several hours, especially when there’s poor ventilation or overcrowding. \n\nYou could become infected if you have indoor contact with those aerosols for an extended period of time.\n\nFollow these general precautions to help prevent the virus from spreading:\n\n*   Wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   Keep a 6-foot distance from others\n*   Wash your hands often\n*   Stay home if you are sick.\n\nLearn more from the CDC about [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
             "source": "KB-COVID",
             "questions": [
                 "How does COVID-19 spread?",
@@ -270,7 +270,8 @@
                 "family member of essential worker, how to stay safe?",
                 "How can I protect myself from Covid-19?",
                 "How can you help protect yourself from getting the virus?",
-                " Hand sanitizer protect against corona virus"
+                " Hand sanitizer protect against corona virus",
+                "am I safe?"
             ],
             "metadata": [
                 {
@@ -513,7 +514,7 @@
         },
         {
             "id": 4545,
-            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nCurrently, any person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19) without a doctor’s referral. Registration for testing is required. You will get a letter with your test results within a week. If you have a positive result, a public health nurse will call you within a few days. If you're trying to end your quarantine early, you may want to ask your health care provider for testing.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThere is no cost to individuals for the COVID-19 test.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. If an asymptomatic patient who is currently in quarantine would like to end their quarantine period early based upon a negative test result, health care providers should refer them to a pop-up testing site on Day 7 or later of their quarantine.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nThe State began expanding testing in late April. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.",
+            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nCurrently, any person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19) without a doctor’s referral. Registration for testing is required. You will get a a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThere is no cost to individuals for the COVID-19 test.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. If an asymptomatic patient who is currently in quarantine would like to end their quarantine period early based upon a negative test result, health care providers should refer them to a pop-up testing site on Day 7 or later of their quarantine.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nThe State began expanding testing in late April. We know that with increased testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force has been created to guide and oversee this process.",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -611,7 +612,7 @@
         },
         {
             "id": 4547,
-            "answer": "**How long is the turnaround for testing?**\n\nTest results will be available typically within 1 – 3 days. You will get your test results from your health care provider. However, if you received a positive result, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.\n\nIf you got tested at a pop-up testing site, you will get a letter with your test results within a week. If you have a positive result, a public health nurse will call you within a few days. If you're trying to end your quarantine early, you may want to ask your health care provider for testing.\n\nFind out [what to do while you're waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf). Contact your health care provider with any questions.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).",
+            "answer": "**How long is the turnaround for testing?**\n\nTest results will be available typically within 1 to 3 days. You will get your test results from your health care provider. However, if you received a positive result, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.\n\nIf you got tested at a pop-up testing site, you will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nFind out [what to do while you're waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf). Contact your health care provider with any questions.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).",
             "source": "KB-COVID",
             "questions": [
                 "How long is the turnaround for testing?",
@@ -1125,7 +1126,7 @@
         },
         {
             "id": 4561,
-            "answer": "**Should I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nAny person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19) without a doctor’s referral. Registration for testing is required. You will get a letter with your test results within a week. If you have a positive result, a public health nurse will call you within a few days. If you're trying to end your quarantine early, you may want to ask your health care provider for testing.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
+            "answer": "**Should I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nAny person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19) without a doctor’s referral. Registration for testing is required. You will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
             "source": "KB-COVID",
             "questions": [
                 "Should I be tested for COVID-19?"
@@ -1329,7 +1330,10 @@
                 "travel to neighboring states",
                 "Is it okay to travel within the United States? Do I need to quarantine when I return?",
                 "will I be quarantined when I return to vt",
-                "visiting immediate family in MA"
+                "visiting immediate family in MA",
+                "do I need to quarantine",
+                "travel out of state",
+                "when I return from Maine do we have to quarantine?"
             ],
             "metadata": [
                 {
@@ -1359,6 +1363,11 @@
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4709,
+                        "displayText": "Do I need to quarantine if I do a short trip (day trip)?"
                     },
                     {
                         "displayOrder": 0,
@@ -1761,14 +1770,15 @@
         },
         {
             "id": 4578,
-            "answer": "**How does a health care professional collect samples for COVID-19 testing?**\n\nWhile wearing personal protective equipment like gloves and a mask, the health care professional collects samples (specimens) from you in one of three ways:\n\n*   You cough up saliva and mucus into a collection cup or dry container.\n*   The health care professional collects a nasal, or nasopharyngeal (NP) swab. This is when a dry swab is inserted through one nostril and is rubbed against the back of your nose and throat.\n*   The health care professional collects a sample from the front of your nose with a dry swab.\n*   The health care professional collects an oral swab. This is when a dry swab is inserted into your mouth and is rubbed against the tonsil and throat area.",
+            "answer": "**How is a sample collected for COVID-19 testing?**\n\nUsually a health care provider collects samples (specimens) from you in one of two ways, but there are other options:\n\n1.  The health care provider collects a nasal, or nasopharyngeal (NP) swab. This is when a dry swab is inserted through one nostril and is rubbed against the back of your nose and throat.\n2.  The health care provider collects a sample from the front of your nose with a dry swab.",
             "source": "Editorial",
             "questions": [
                 "How does a health care provider collect samples for COVID-19 testing?",
-                "What is the process of getting tested like?\n",
                 "How does a doctor test me for Covid-19?",
                 "how is a test done?",
-                "does the test hurt"
+                "does the test hurt",
+                "What is the process of getting tested like?",
+                "How is a sample collected for COVID-19 testing?"
             ],
             "metadata": [
                 {
@@ -2224,7 +2234,8 @@
                 "orchards",
                 "grave side commital",
                 "people in a group",
-                "outside gatherings"
+                "outside gatherings",
+                "number of people at a gathering"
             ],
             "metadata": [
                 {
@@ -3082,7 +3093,8 @@
                 "Stay overnight in Vermont",
                 "Can I fly to Vermont",
                 "Can I fly in",
-                "are going to visit VT"
+                "are going to visit VT",
+                "Can I visit Vermont when I come see my family?"
             ],
             "metadata": [
                 {
@@ -3616,11 +3628,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4631,
-                        "displayText": "What is considered an essential service or function?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4553,
                         "displayText": "What should child care programs and schools in Vermont do?"
                     }
@@ -3782,59 +3789,7 @@
                         "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
                     },
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4631,
-                        "displayText": "What is considered an essential service or function?"
-                    },
-                    {
                         "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4631,
-            "answer": "**What is considered an essential service or function?**\n\nBusinesses and entities providing services or functions deemed critical to public health and safety, as well as economic and national security can remain open and do not need to suspend in-person operations. However, they must follow [new mandatory health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order), such as wearing cloth face masks or coverings, social distancing, hygiene and cleaning requirements. Essential state and local government services and functions remain open.\n\nFind the [list of essential services or functions](https://vem.vermont.gov/sites/demhs/files/Critical%20Service%20and%20Function%20GUidance.pdf).\n\nFor more information, read the Agency of Commerce and Community Development’s (ACCD’s) [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) and visit the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business).",
-            "source": "Editorial",
-            "questions": [
-                "What is considered an essential service or function?",
-                "is pet grooming business considered essential",
-                "are liquor stores closing in the state",
-                "who are essential workers?",
-                "is working allowed in VT?",
-                "How to get documentation if you are an essential worker?",
-                "Vermont’s Airport is open or not?",
-                "essential purpose definition",
-                "Is massage allowed?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, schools"
-                },
-                {
-                    "name": "sort",
-                    "value": "1"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4636,
-                        "displayText": "Is my job or business considered essential? Can I continue to work?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4680,
-                        "displayText": "Is the state reopened? Which businesses are open now?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4001,59 +3956,6 @@
             }
         },
         {
-            "id": 4636,
-            "answer": "**Is my job or business considered essential? Can I continue to work?**\n\nIf you have questions about whether your business meets the definition of “critical to public health and safety, as well as economic and national security” as per Governor Scott's Executive Order, please review the Agency of Commerce and Community Development’s [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).",
-            "source": "Editorial",
-            "questions": [
-                "Is my job or business considered essential? Can I continue to work?",
-                "Are stores essential?",
-                "Is my job essential?",
-                "Are factories considered essential?",
-                "Can I keep working?",
-                "What recreational businesses are allowed to operate?",
-                "List of essential Businesses",
-                "Barber shops",
-                "\n\nfarm workers",
-                "\n\nwhen will the DMV open?",
-                "Are office staff essential workers?",
-                "\n\nAre landscapers able to work?",
-                "Fire alarm technicians ",
-                "Can I have someone do landscaping work in my yard now?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "work and employees"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4631,
-                        "displayText": "What is considered an essential service or function?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4603,
-                        "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4680,
-                        "displayText": "Is the state reopened? Which businesses are open now?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question.\n"
-                    }
-                ]
-            }
-        },
-        {
             "id": 4637,
             "answer": "**Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you are in an essential industry in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, just as you would if the contact occurred in Vermont.\n\nLearn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind out more about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
             "source": "Editorial",
@@ -4062,7 +3964,8 @@
                 "I work in New Hampshire and live in Vermont",
                 "Can you leave vt?",
                 "Is there a travel restriction new Hampshire",
-                "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?",
+                "is quarantining the law?"
             ],
             "metadata": [
                 {
@@ -4367,7 +4270,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at no cost at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\nYou will get a letter with your test results within a week. If you have a positive result, a public health nurse will call you within a few days. If you're trying to end your quarantine early, you may want to ask your health care provider for testing.\n\nSome pharmacies may offer testing at no cost for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\n[Register for a pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nSome commercial businesses may offer other testing opportunities. You can contact them directly for more information.",
+            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at no cost at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\nYou will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nSome pharmacies may offer testing at no cost for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\n[Register for a pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nSome commercial businesses may offer other testing opportunities. You can contact them directly for more information.",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -4439,11 +4342,12 @@
         },
         {
             "id": 4644,
-            "answer": "**Are there resources available to help with home schooling?**\n\nThere is programming for PreK through 12th grade that is aligned to national—and customized to Vermont—standards. The programming available from a partnership with the Agency of Education and Vermont PBS includes interactive lessons and paired suggested activities for educators, students and families. There are also resources available that allow teachers and caregivers to access at-home curriculum that includes activities, assignments and learning objectives. \n\n The programming will be available for the rest of the school year. It is available on all cable systems and for free over the air through a digital antenna without the need for cable subscription or broadband internet access. \n\nFind the [programming schedule and resources](https://www.vermontpbs.org/at-home-learning/) for educators, parents and caregivers from Vermont PBS.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov/covid19-continuity-of-learning/information-for-parents) from the Agency of Education.",
+            "answer": "**Are there resources available to help with at-home learning?**\n\nThere is programming for PreK through 12th grade that is aligned to national—and customized to Vermont—standards. The programming available from a partnership with the Agency of Education and Vermont PBS includes interactive lessons and paired suggested activities for educators, students and families. There are also resources available that allow teachers and caregivers to access at-home curriculum that includes activities, assignments and learning objectives.\n\nFind the [programming schedule and resources](https://www.vermontpbs.org/at-home-learning/) for educators, parents and caregivers from Vermont PBS. It is available on all cable systems and for free over the air through a digital antenna without the need for cable subscription or broadband internet access.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov/covid19-continuity-of-learning/information-for-parents) from the Agency of Education.",
             "source": "Editorial",
             "questions": [
                 "Are there resources available to help with home schooling?",
-                "what is the phone number for Vermont COVID-19 hotline?"
+                "what is the phone number for Vermont COVID-19 hotline?",
+                "Are there resources available to help with at-home learning?"
             ],
             "metadata": [
                 {
@@ -4617,44 +4521,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4651,
-            "answer": "**Is there any assistance available for food?**\n\nHunger Free Vermont is working to make sure we’re all prepared to mitigate the impacts of COVID-19 on the food security of Vermonters, particularly older adults, working Vermonters who may lose hours and paychecks, those without access to paid leave, and families and students who will be disproportionately impacted by school closings. Learn more about [Hunger Free Vermont](https://www.hungerfreevt.org/coronavirus).\n\nWIC provides access to healthy foods, nutrition education and counseling, breastfeeding support, and community referrals. WIC is available to people who are pregnant, caregivers, or parents with a child under five. Vermont WIC is open, and most services are being done by phone appointment to align with social distancing. Find out more [about WIC and apply online](https://www.healthvermont.gov/wic) or text ‘VTWIC’ to 855-11.\n\n3SquaresVT can help you stretch your food budget so you can put three healthy meals on your table every day. Find out more [about 3SquaresVT and apply online](https://dcf.vermont.gov/benefits/3SquaresVT/).",
-            "source": "Editorial",
-            "questions": [
-                "Is there any assistance available for food?",
-                "hungerfree",
-                "How can I get food?",
-                "How can I get food assistance?",
-                "will snap benefits be extended"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "additional resources"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "assistance"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4672,
-                        "displayText": "Is there food available if I need it?"
-                    },
-                    {
-                        "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -4974,12 +4840,13 @@
         },
         {
             "id": 4661,
-            "answer": "**How can I safely run errands for essential purposes?**\n\nThe CDC has guidance on [how to safely run essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) to meet basic household needs, such as going grocery shopping, getting deliveries and take-out, banking, and getting gas.",
+            "answer": "**How can I safely run errands?**\n\nThe CDC has guidance on [how to safely run essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) to meet basic household needs, such as going grocery shopping, getting deliveries and take-out, banking, and getting gas.",
             "source": "Editorial",
             "questions": [
                 "How can I safely run errands for essential purposes?",
                 "Should gloves be worn when grocery shopping?",
-                "How can I get medication?"
+                "How can I get medication?",
+                "How can I safely run errands?\n"
             ],
             "metadata": [
                 {
@@ -5328,7 +5195,7 @@
         },
         {
             "id": 4672,
-            "answer": "**Is there food available if I need it?**\n\nThere are multiple options for those in need to get help, including meal distribution and other food resources. [Get more details on how to get food help](https://vem.vermont.gov/pods).",
+            "answer": "**Where can I get food assistance?**\n\nThere are multiple options for those in need to get help, including meal distribution and other food resources. [Get more details on how to get food help](https://vem.vermont.gov/pods).",
             "source": "Editorial",
             "questions": [
                 "Is there food available if I need it?",
@@ -5337,7 +5204,12 @@
                 "food resources",
                 "hunger",
                 "hungerfree",
-                "food assistance"
+                "food assistance",
+                "Where can I get food assistance?",
+                "is there any assistance available for food?",
+                "How can I get food?",
+                "How can I get food assistance?",
+                "will snap benefits be extended"
             ],
             "metadata": [
                 {
@@ -5353,11 +5225,6 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4651,
-                        "displayText": "Is there any assistance available for food?"
-                    },
                     {
                         "displayOrder": 9,
                         "qnaId": 4533,
@@ -5623,7 +5490,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "be smart, stay safe order"
+                    "value": "businesses, organizations, schools"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5785,7 +5656,8 @@
                 "Kids sleepovers",
                 "should I visit a relative",
                 "have people over",
-                "people can gather"
+                "people can gather",
+                "How large can a group gathering be"
             ],
             "metadata": [
                 {
@@ -6210,7 +6082,8 @@
             "answer": "**I am traveling to Vermont. Do I need to quarantine?**\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nAll visitors and travelers coming to Vermont are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once arriving in Vermont to get two weeks of daily symptom check reminders.",
             "source": "Editorial",
             "questions": [
-                "I am traveling to Vermont. Do I need to quarantine?"
+                "I am traveling to Vermont. Do I need to quarantine?",
+                "before I come to vermont"
             ],
             "metadata": [
                 {
@@ -6265,7 +6138,7 @@
         },
         {
             "id": 4710,
-            "answer": "**I’d like to end my quarantine early. When will I get my test results?**\n\nAny person under quarantine who has had no symptoms during the first 7 days of quarantine, has the option of being tested at a pop-up testing site. You will get a letter with your test results within a week. If you have a positive result, a public health nurse will call you within a few days. If you're trying to end your quarantine early, you may want to ask your health care provider for testing.",
+            "answer": "**I’d like to end my quarantine early. When will I get my test results?**\n\nAny person under quarantine who has had no symptoms during the first 7 days of quarantine, has the option of being tested at a pop-up testing site. You will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.",
             "source": "Editorial",
             "questions": [
                 "I’d like to end my quarantine early. When will I get my test results?"
