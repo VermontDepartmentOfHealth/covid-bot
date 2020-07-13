@@ -18,9 +18,9 @@
         "list-changes": "node cli/listChanges",
         "fix-data": "node cli/fixFollowUpsOnLocalFaq",
 
-        "publish-faq-test": "node cli/publishFaq -t \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
-        "publish-faq-prod": "node cli/publishFaq -t \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
-        "publish-faq": "npm run publish-faq-test && npm run publish-faq-prod"
+        "deploy-faq-test": "node cli/publishFaq -t \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
+        "deploy-faq-prod": "node cli/publishFaq -t \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
+        "deploy-faq": "npm run publish-faq-test && npm run publish-faq-prod"
     },
     "keywords": [],
     "author": "",

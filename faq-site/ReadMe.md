@@ -60,9 +60,9 @@ npm run list-changes  # lists changes to questions - deleted, new, and title cha
 npm run fix-data      # automatically fix inconsistencies in follow up prompts - follow up with restore-kb
 
 # publish site
-npm run publish-faq-test  # publish local _site folder to path on test
-npm run publish-faq-prod  # publish local _site folder to path on prod
-npm run publish-faq       # publish local _site to test and prod
+npm run deploy-faq-test  # publish local _site folder to path on test
+npm run deploy-faq-prod  # publish local _site folder to path on prod
+npm run deploy-faq       # publish local _site to test and prod
 ```
 
 ## Deployment
@@ -109,13 +109,11 @@ npm run publish-faq       # publish local _site to test and prod
 
 7. **If there are validation issues**, fix them in QnA maker and redo steps 3-6 until the toothpick comes out clean
 
-8. Move static files
+8. Deploy static files to test and prod environments
 
-   * **FROM**: `covid-bot\faq-site\_site\`
-   * **TO**
-     * **TEST**: `\\vdhwebapps-test\c$\VDHApplications\COVID\faq\`
-     * **PROD**: `\\vdhwebapps-prod\c$\VDHApplications\COVID\faq\`
-
+    ```bash
+    npm run deploy-faq
+    ```
 
 ### Knowledge Base
 
