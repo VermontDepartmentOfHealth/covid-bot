@@ -23,9 +23,10 @@
         "list-changes": "node cli/_index -- list-changes",
         "fix-data": "node cli/_index -- fix-data",
 
-        "deploy-faq-test": "node cli/_index -- deploy-faq -e \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
-        "deploy-faq-prod": "node cli/_index -- deploy-faq -e \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
-        "deploy-faq": "npm run deploy-faq-test && npm run deploy-faq-prod"
+        "deploy-faq-test": "node cli/_index -- deploy-faq \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
+        "deploy-faq-prod": "node cli/_index -- deploy-faq \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
+        "deploy-faq": "npm run deploy-faq-test && npm run deploy-faq-prod",
+        "predeploy-faq": "npm run build"
     },
     "keywords": [],
     "author": "",

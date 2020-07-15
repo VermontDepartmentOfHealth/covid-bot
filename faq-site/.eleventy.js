@@ -16,6 +16,7 @@ module.exports = function(eleventyConfig) {
         let col = await buildFAQsByTopic()
         return col
     });
+    eleventyConfig.addAsyncShortcode("ldJson", async() => await require('./util/ldJson')());
 
     eleventyConfig.addShortcode("now", () => utilities.getCurrentTimestamp());
 
