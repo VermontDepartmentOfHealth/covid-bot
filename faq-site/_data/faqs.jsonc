@@ -48,7 +48,8 @@
                 "incubation",
                 "children symptoms",
                 "will I know I am sick?",
-                "symptom"
+                "symptom",
+                "runny nose"
             ],
             "metadata": [
                 {
@@ -1096,7 +1097,14 @@
                 "been exposed",
                 "secondary contact",
                 "third person contact",
-                "was around someone who was around someone"
+                "was around someone who was around someone",
+                "My husband tested positive",
+                "my wife tested positive",
+                "my mom tested positive",
+                "my dad tested positive",
+                "my son tested positive",
+                "my child tested positive",
+                "my daughter tested positive"
             ],
             "metadata": [
                 {
@@ -1786,7 +1794,7 @@
         },
         {
             "id": 4578,
-            "answer": "**How is a sample collected for COVID-19 testing?**\n\nUsually a health care provider collects samples (specimens) from you in one of two ways, but there are other options:\n\n1.  The health care provider collects a nasal, or nasopharyngeal (NP) swab. This is when a dry swab is inserted through one nostril and is rubbed against the back of your nose and throat.\n2.  The health care provider collects a sample from the front of your nose with a dry swab.",
+            "answer": "**How is a sample collected for COVID-19 testing?**\n\nUsually a health care provider collects samples (specimens) from you in one of two ways, but there are other options:\n\n1.  The health care provider collects a sample using a nasopharyngeal or NP swab. This is when a long, dry swab is inserted through one nostril and is rubbed against the back of your nose and throat.\n2.  The health care provider collects a sample using a nasal swab. This is when a short, dry swab is used to collect a sample from the front of your nose.",
             "source": "Editorial",
             "questions": [
                 "How does a health care provider collect samples for COVID-19 testing?",
@@ -2193,7 +2201,8 @@
                 "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?",
                 "where do results get attributed?",
                 "Statistics",
-                "What don't stat categories"
+                "What don't stat categories",
+                "reporting cases"
             ],
             "metadata": [
                 {
@@ -2224,7 +2233,7 @@
         },
         {
             "id": 4591,
-            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\n[Event venues, arts, culture and entertainment venues, and restaurants](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#event-venues) can hold events, such as weddings, funerals and parties, with certain occupancy limits and health and safety precautions. Outdoor services, events, and gatherings are strongly preferred.\n\nAll traditional fairs and festivals have been canceled until further notice.\n\nOrganized outdoor markets, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/farmers-market-guidance-updated) from the Agency of Agriculture, Food & Markets (AAFM).\n\n[Farmers markets](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#farmers-markets) and [pick-your-own farms and orchards](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#retail-operations) must follow best practices outlined by AAFM.\n\nLibraries, galleries, museums, theaters and other [indoor arts, culture and entertainment organizations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#indoor-arts-culture-and-entertainment) are open with certain occupancy limits and health and safety precautions.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) from the Agency of Commerce and Community Development (ACCD).\n\nAt any gathering or event, everyone should follow these general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.",
+            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nEvent venues can hold events, such as weddings, funerals, parties, concerts and large sporting events with certain occupancy limits and health and safety precautions. Outdoor services, events and gatherings are strongly preferred. Find up-to-date information on the [number of people allowed in event venues](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#event-venues) from the Agency of Commerce and Community Development.\n\nAll traditional fairs and festivals have been canceled until further notice.\n\nOrganized outdoor markets, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/farmers-market-guidance-updated) from the Agency of Agriculture, Food & Markets (AAFM).\n\n[Farmers markets](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#farmers-markets) and [pick-your-own farms and orchards](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#retail-operations) must follow best practices outlined by AAFM.\n\nLibraries, galleries, museums, theaters and other [indoor arts, culture and entertainment organizations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#indoor-arts-culture-and-entertainment) are open with certain occupancy limits and health and safety precautions.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) from the Agency of Commerce and Community Development (ACCD).\n\nAt any gathering or event, everyone should follow these general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.",
             "source": "Editorial",
             "questions": [
                 "Are churches able to gather if they have 10 or less people attending",
@@ -2617,11 +2626,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4652,
                         "displayText": "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
                     },
@@ -2634,6 +2638,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "How is Vermont deciding when it is safe to reopen?"
                     }
                 ]
             }
@@ -3458,7 +3467,9 @@
                 "How many people are inpatients with Covid-19?",
                 "hospitalized and under investigation",
                 "How many severe cases of Covid-19?",
-                " recovered cases"
+                " recovered cases",
+                "current stats",
+                "current numbers"
             ],
             "metadata": [
                 {
@@ -4207,7 +4218,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at no cost at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\nYou will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nSome pharmacies may offer testing at no cost for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\n[Register for a pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care professional uses a swab to collect a sample from the back of the nose and throat. This test will tell you if you have a current infection. It is not a serology/antibody test, which means it will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nSome commercial businesses may offer other testing opportunities. You can contact them directly for more information.",
+            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at no cost at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. Registration for testing is required. For people who do not have internet access and want to register at a pop-up site, they can call 2-1-1 for help with registration.\n\nYou will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nSome pharmacies may offer testing at no cost for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\n[Register for a pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nFor pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care provider uses a long swab to collect a sample from the back of the nose and throat. A limited supply of nasal swabs may be available for children or other priority groups, where a health care provider uses a short swab to collect a sample from the front of the nose. These tests will tell you if you have a current infection. They are not a serology/antibody test, which means the test will not tell you if you were infected in the past.\n\nFind answers to more [frequently asked questions about pop-up testing sites](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nSome commercial businesses may offer other testing opportunities. You can contact them directly for more information.",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -4951,7 +4962,7 @@
         },
         {
             "id": 4666,
-            "answer": "**Can we still have our wedding ceremony?**\n\nJustices of the peace and other officiants may perform in-person marriages. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage) from the Agency of Commerce and Community Development.\n\nIf you are visiting Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Can we still have our wedding ceremony?**\n\nJustices of the peace and other officiants may perform in-person marriages. Find up-to-date [information on marriage ceremonies](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#marriage), including the number of people that are allowed, from the Agency of Commerce and Community Development.\n\nIf you are visiting Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "Can we still have our wedding ceremony?",
@@ -5016,7 +5027,7 @@
         },
         {
             "id": 4668,
-            "answer": "**How can I keep from getting sick if I live with or care for someone who is sick with COVID-19?**\n\nThe CDC has advice on how to protect yourself or others if you are [caring for someone sick at home or in a non-healthcare setting](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html). Learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms.\n\nThe CDC also has [guidance for large or extended families living in the same household](https://www.cdc.gov/coronavirus/2019-ncov/downloads/living-in-close-quarters.pdf).",
+            "answer": "**How can I keep from getting sick if I live with or care for someone who is sick with COVID-19?**\n\nThe CDC has advice on how to protect yourself or others if you are [caring for someone sick at home or in a non-healthcare setting](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html). Learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms.\n\nThe CDC also has [guidance for large or extended families living in the same household](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html).",
             "source": "Editorial",
             "questions": [
                 "How can I keep from getting sick if I live with or care for someone who is sick with COVID-19?"
@@ -5096,7 +5107,7 @@
         },
         {
             "id": 4670,
-            "answer": "**How can I help care for someone sick at home?**\n\nThe CDC has advice on how to protect yourself or others if you are [caring for someone sick at home or in a non-healthcare setting](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html). Learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms.\n\nThe CDC also has [guidance for large or extended families living in the same household](https://www.cdc.gov/coronavirus/2019-ncov/downloads/living-in-close-quarters.pdf).",
+            "answer": "**How can I help care for someone sick at home?**\n\nThe CDC has advice on how to protect yourself or others if you are [caring for someone sick at home or in a non-healthcare setting](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html). Learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms.\n\nThe CDC also has [guidance for large or extended families living in the same household](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html).",
             "source": "Editorial",
             "questions": [
                 "How can I help care for someone sick?"
@@ -5611,7 +5622,8 @@
                 "have people over",
                 "people can gather",
                 "How large can a group gathering be",
-                "visiting neighbors"
+                "visiting neighbors",
+                "Can people meet indoors"
             ],
             "metadata": [
                 {
@@ -5880,7 +5892,7 @@
         },
         {
             "id": 4702,
-            "answer": "**Can I get tested with a swab in the front of my nose?**\n\nThere is a test available that uses a dry swab to collect a sample from the front of your nose. At this time, the supplies needed for this type of test are limited. This type of test is being prioritized for different groups of people who may not be able to tolerate the longer nose swab (nasopharyngeal or NP) that collects samples from the back of the nose and throat. This includes children, patients at risk of increased bleeding or complications, patients with nasal irregularities (for example, polyps, deviated septum), people who need regular and repeated testing (for example, employees or residents of skilled nursing facilities), and those without the cognitive ability to understand the testing procedure.\n\nYour health care provider will determine if you should be referred for this type of test. Please note the pop-up testing sites use the longer NP swabs.",
+            "answer": "**Can I get tested with a swab in the front of my nose?**\n\nThere is a test available that uses a dry swab to collect a sample from the front of your nose, called a nasal swab. At this time, the supplies needed for this type of test are limited. This type of test is being prioritized for different groups of people who may not be able to tolerate the longer swab that collects samples from the back of the nose and throat, called a nasopharyngeal or NP swab. This includes children, patients at risk of increased bleeding or complications, patients with nasal irregularities (for example, polyps, deviated septum), people who need regular and repeated testing (for example, employees or residents of skilled nursing facilities), and those without the cognitive ability to understand the testing procedure.\n\nYour health care provider will determine if you should be referred for a nasal swab. Please note the pop-up testing sites use the longer NP swabs, but may have a limited supply of the shorter nasal swabs available for the groups of people listed above.",
             "source": "Editorial",
             "questions": [
                 "Can I get tested with a swab in the front of my nose?"
@@ -6094,6 +6106,11 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -6131,6 +6148,35 @@
                         "qnaId": 4639,
                         "displayText": "How is Vermont deciding when it is safe to reopen?"
                     },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4713,
+            "answer": "**What is an antigen test?**\n\nAn antigen test is a newer type of COVID-19 test that identifies people who are currently infected with the COVID-19 virus.\n\nAntigen tests provide results much more quickly than diagnostic, or PCR, tests (the most common type of test used to diagnose COVID-19 infection). But antigen tests may not be as accurate.\n\nAntigen tests may be used to screen people to identify those who need a more definitive test.\n\nWe are monitoring how these antigen tests evolve and how results can best be used. Currently, people who test positive from antigen tests are not considered lab-confirmed cases and are not included in our total number of cases. However, we recommend they follow the same guidelines as a positive case to stay home (self-isolate). We would also conduct contact tracing and recommend a more accurate diagnostic test to confirm the positive result.\n\nAntigen tests are different from antibody (serologic) tests, which identify people who have previously been infected with the coronavirus and do not show whether a person is currently infected.",
+            "source": "Editorial",
+            "questions": [
+                "What is an antigen test?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "types of tests"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,

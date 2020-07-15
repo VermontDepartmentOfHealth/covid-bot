@@ -46,7 +46,9 @@
                 "toe",
                 "toes",
                 "incubation",
-                "children symptoms"
+                "children symptoms",
+                "will I know I am sick?",
+                "symptom"
             ],
             "metadata": [
                 {
@@ -140,7 +142,12 @@
                         "displayText": "Can I get the virus from touching my mail or paper products?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4601,
+                        "displayText": "When can I stop self-isolating (home isolation)?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -313,7 +320,9 @@
                 "facemask",
                 "masks",
                 "Wear mask when walking",
-                "Should I wear a cloth face mask or covering when I go out in public?"
+                "Should I wear a cloth face mask or covering when I go out in public?",
+                "too young for mask",
+                "should young children wear masks?"
             ],
             "metadata": [
                 {
@@ -464,14 +473,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4544,
                         "displayText": "What is monitoring?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -500,14 +509,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -633,7 +642,9 @@
                 "I need my test results",
                 "waiting for test results",
                 "turn around for the test",
-                "no results"
+                "no results",
+                "results of test online?",
+                "results of test from phone call"
             ],
             "metadata": [
                 {
@@ -796,14 +807,14 @@
                         "displayText": "What is contact tracing?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4580,
                         "displayText": "Can you tell me more information about a patient with COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -903,14 +914,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             }
@@ -1302,14 +1313,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1351,11 +1362,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4637,
                         "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
                     },
@@ -1373,6 +1379,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             }
@@ -1399,11 +1410,6 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4575,
                         "displayText": "What does close contact mean?"
@@ -1412,6 +1418,11 @@
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -1556,7 +1567,12 @@
                         "displayText": "Can I be tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4643,
+                        "displayText": "Where can I get tested for COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1822,14 +1838,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4590,
                         "displayText": "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2235,7 +2251,12 @@
                 "grave side commital",
                 "people in a group",
                 "outside gatherings",
-                "number of people at a gathering"
+                "number of people at a gathering",
+                "Is there any restriction on group size",
+                "75 people",
+                "100 people",
+                "150 people",
+                "200 people"
             ],
             "metadata": [
                 {
@@ -2704,7 +2725,7 @@
         },
         {
             "id": 4604,
-            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during an infectious disease outbreak. Taking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger. \n\n* Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n\n* Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n\n* Make time to unwind. Try to do some other activities you enjoy.\n\n* Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/response/coronavirus-covid-19/coping-stress), including resources for local help, self-care, suicide prevention, and domestic violence.\n\nFind more [tips for coping with stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) from the CDC, including how to help children cope with stress.\n\nNeed support right now?\n\n* Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n\n* Text VT to 741741\n\n* Call 2-1-1 or 1-866-652-4636\n\n* Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n\n* For multilingual support, call 800-985-5990 or text TalkWithUs to 66746",
+            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during a pandemic. Taking care of yourself, your friends, and your family can help you cope with stress. Helping others cope with their stress can also make your community stronger.\n\n*   Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n*   Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n*   Make time to unwind. Try to do some other activities you enjoy.\n*   Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/response/coronavirus-covid-19/coping-stress), including resources for local help, self-care, Vermont teens, suicide prevention, and domestic violence.\n\nFind more [tips for coping with stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) from the CDC, including how to help children cope with stress.\n\nNeed support right now?\n\n*   Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n*   Text VT to 741741\n*   Call 2-1-1 or 1-866-652-4636\n*   Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n*   Pathways Vermont peer support line, call or text 833-VT-TALKS (833-888-2557)\n*   For multilingual support, call 800-985-5990 or text TalkWithUs to 66746",
             "source": "Editorial",
             "questions": [
                 "How can I take care of myself, my family, or friends with the stress from COVID-19?",
@@ -2778,43 +2799,6 @@
             }
         },
         {
-            "id": 4606,
-            "answer": "**How can I stay connected while social distancing (being physically distant)?**\n\nMany of us are missing our friends and family. We want to know how we can safely connect and stay physically active, especially as the weather gets warmer.\n\nThe best way to lower our risk of getting or spreading COVID-19 is to stay home, but we have reached a point where we can take small steps to restart in-person connections. However, we all have a responsibility to do so thoughtfully. We are flattening the curve, but it won’t take much for cases and serious illness to quickly rocket back up if we are not careful.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. Family and friends should do everything they can to help keep them safe.\n\nLearn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf). These recommended practices will help you weigh the risks and plan accordingly.",
-            "source": "Editorial",
-            "questions": [
-                "How can I stay connected while social distancing?",
-                "How can I stay connected while being physically distant?",
-                "visiting neighbors"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "caring for yourself and others"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4577,
-                        "displayText": "What does social distancing mean?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4629,
-                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
-                    },
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
             "id": 4607,
             "answer": "**Does the Be Smart, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?**\n\nEnforcement of the Governor’s executive order extension — [Be Smart, Stay Safe](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2014%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) — will be mainly be done through education and voluntary compliance.\n\n*   The Order does not close roads and does not establish roadblocks or checkpoints.\n*   Motor vehicle and pedestrian traffic will continue as Vermonters do outdoor activities that are allowed and travel to and from businesses and other entities that are open.\n*   There will not be motor vehicle stops or people detained for questioning about their travel, but law enforcement officers may be reminding people of the Order if they see groups gathering or businesses operating in violation of the Order.\n\nRead the latest updates to the [Be Smart, Stay Safe Executive Order](http://governor.vermont.gov/document-types/executive-orders)",
             "source": "Editorial",
@@ -2833,14 +2817,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4629,
                         "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3094,7 +3078,8 @@
                 "Can I fly to Vermont",
                 "Can I fly in",
                 "are going to visit VT",
-                "Can I visit Vermont when I come see my family?"
+                "Can I visit Vermont when I come see my family?",
+                "private plane"
             ],
             "metadata": [
                 {
@@ -3132,11 +3117,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4708,
-                        "displayText": "I am traveling to Vermont. Do I need to quarantine if I don’t make any stops along the way?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4709,
                         "displayText": "Do I need to quarantine if I do a short trip (day trip)?"
                     },
@@ -3149,6 +3129,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4708,
+                        "displayText": "I am traveling to Vermont. Do I need to quarantine?"
                     }
                 ]
             }
@@ -3206,13 +3191,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             }
@@ -3337,21 +3322,21 @@
                         "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
                     },
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             }
         },
         {
             "id": 4619,
-            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the state’s response to COVID-19. We currently have a contact tracing team in place, but these are other ways you can help.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corps units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills.\n\nSign up with the [Vermont Medical Reserve Corps](https://www.vermont.gov/volunteer) if you:\n\nAre a licensed and certified health care professional\n\nHave health, mental health, or other types of clinical or professional experience\n\nHave health care administrative experience, such as with medical data entry or language translators\n\nHave worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, physician assistants and podiatrists can learn more on the [Board of Medical Practice website](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other medical professionals, including nurses and osteopathic physicians, can learn more on the [Office of Professional Regulation's website](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also contribute to blood banks, food banks, and other emergency supply efforts. The American Red Cross of Northern New England faces a severe blood shortage and many local food banks and other community organizations are in need of support and donations of supplies.\n\n**Give blood**: Learn how to safely [donate blood with the American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n\nSupport your [local Foodbank by donating online](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. The [Vermont Foodbank can help](https://www.vtfoodbank.org/gethelp) if you need it.\n\nYou can also help your neighbors – older adults and people of any age who have underlying medical conditions should stay close to home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. When volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the State’s response to COVID-19. We currently have a contact tracing team in place, but these are other ways you can help.\n\nPeople with medical or other health care backgrounds are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corps units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills.\n\nSign up with the [Vermont Medical Reserve Corps](https://www.vermont.gov/volunteer) if you:\n\n*   Are a licensed and certified health care professional\n*   Have health, mental health, or other types of clinical or professional experience\n*   Have health care administrative experience, such as with medical data entry or language translators\n*   Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, physician assistants and podiatrists can learn more on the [Board of Medical Practice website](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other medical professionals, including nurses and osteopathic physicians, can learn more on the [Office of Professional Regulation's website](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\nVermonters can also: \n\n*   Donate blood with the [American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n*   Support your [local Food Bank by donating online](https://www.vtfoodbank.org/) or you can text GIVEHEALTH to 85511. The [Vermont Foodbank can help](https://www.vtfoodbank.org/) if you need it.\n*   Donate or volunteer with community organizations or emergency supply efforts.\n*   Help your neighbors – older adults and people of any age who have underlying medical conditions should stay close to home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance. \n\nWhen volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
             "source": "Editorial",
             "questions": [
                 "Can I volunteer to help with the State’s response to COVID-19?",
@@ -3383,63 +3368,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4620,
-                        "displayText": "Is volunteering allowed under the Be Smart, Stay Safe Order?"
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4657,
                         "displayText": "I’m a health professional and would like to volunteer. How do I get a temporary license?"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4620,
-            "answer": "**Is volunteering allowed under the Be Smart, Stay Safe Order?**\n\nYes, as long as it is with an agency that is essential for public health and safety or is included in the Governor's [new safe work additions](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order). The best way to volunteer is virtually. If you would like to help by packing donated food or something out in the community, you can only if:\n\n* The non-profit is eligible to be open\n\n* A safe workspace can be provided\n\n* There is enough social distancing between volunteers (at least 6 feet) \n\n* You wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)",
-            "source": "Editorial",
-            "questions": [
-                "Is volunteering allowed under the Be Smart, Stay Safe Order?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "caring for yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "volunteering"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4577,
-                        "displayText": "What does social distancing mean?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4619,
-                        "displayText": "Can I volunteer to help with the State’s response to COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4680,
-                        "displayText": "Is the state reopened? Which businesses are open now?"
                     }
                 ]
             }
@@ -3622,14 +3558,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4553,
                         "displayText": "What should child care programs and schools in Vermont do?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3709,14 +3645,14 @@
                         "displayText": "Is the state reopened? Which businesses are open now?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "How is Vermont deciding when it is safe to reopen?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -3993,11 +3929,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
@@ -4010,6 +3941,11 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?*"
                     }
                 ]
             }
@@ -4049,7 +3985,8 @@
                 "go outside?",
                 "do outdoor activities with the Stay Home, Stay Safe Order?",
                 "skate park",
-                "soccer"
+                "soccer",
+                "is soccer allowed"
             ],
             "metadata": [
                 {
@@ -4256,14 +4193,14 @@
                         "displayText": "I’m a veterinarian. Do I need to be testing animals for COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4542,
                         "displayText": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4331,6 +4268,11 @@
                         "displayOrder": 0,
                         "qnaId": 4547,
                         "displayText": "How long is the turnaround for testing?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4683,
+                        "displayText": "Who is getting tested for COVID-19 in Vermont?"
                     },
                     {
                         "displayOrder": 0,
@@ -4584,13 +4526,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4683,
+                        "displayText": "Who is getting tested for COVID-19 in Vermont?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4683,
-                        "displayText": "Who is getting tested for COVID-19 in Vermont?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4611,7 +4553,8 @@
                 "antibody",
                 "new Covid-19 anti bodies test",
                 " antibodies",
-                "an antibody or antigen test"
+                "an antibody or antigen test",
+                "antibody tests"
             ],
             "metadata": [
                 {
@@ -4641,6 +4584,11 @@
                         "displayOrder": 0,
                         "qnaId": 4615,
                         "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4547,
+                        "displayText": "How long is the turnaround for testing?"
                     },
                     {
                         "displayOrder": 0,
@@ -4684,6 +4632,11 @@
                         "displayOrder": 0,
                         "qnaId": 4560,
                         "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4534,
+                        "displayText": "What are the symptoms of COVID-19?"
                     },
                     {
                         "displayOrder": 0,
@@ -4905,11 +4858,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Are there any travel restrictions into Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
@@ -4917,6 +4865,11 @@
                         "displayOrder": 0,
                         "qnaId": 4616,
                         "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     },
                     {
                         "displayOrder": 0,
@@ -5020,14 +4973,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -5143,7 +5096,7 @@
         },
         {
             "id": 4670,
-            "answer": "**How can I help care for someone sick at home?**\n\nThe CDC has advice on how to protect yourself or others if you are caring for someone with COVID-19. You can learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms. Read [Caring for Someone Sick at Home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html).",
+            "answer": "**How can I help care for someone sick at home?**\n\nThe CDC has advice on how to protect yourself or others if you are [caring for someone sick at home or in a non-healthcare setting](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html). Learn what to do when someone has symptoms of COVID-19, when someone has been diagnosed with COVID-19, or when someone who has tested positive but is not showing symptoms.\n\nThe CDC also has [guidance for large or extended families living in the same household](https://www.cdc.gov/coronavirus/2019-ncov/downloads/living-in-close-quarters.pdf).",
             "source": "Editorial",
             "questions": [
                 "How can I help care for someone sick?"
@@ -5392,7 +5345,7 @@
         },
         {
             "id": 4678,
-            "answer": "**Is it safe to go to the hospital?**\n\nIf you are having symptoms of a more serious medical condition, such as heart attack or stroke, it is important to get medical care right away. Call 9-1-1, go to the emergency room, or call your doctor if your symptoms are not life-threatening.\n\nIt is safe to seek care at Vermont hospitals. They have measures in place to protect patients in the hospital from getting COVID-19. This includes separating patients with COVID-19 from other patients. There is a greater risk to staying at home if you're experiencing symptoms of a serious medical condition than going to the hospital.\n\nIf you are planning to visit someone at the hospital, be sure to check the hospital’s visitation policy first.\n\nHealth care providers may do some clinic visits, diagnostic imaging, and outpatient surgeries and procedures. Hospitals are also able to schedule and perform inpatient surgeries and procedures if they follow required health and safety precautions.\n\nRead the [Governor’s press release](https://governor.vermont.gov/press-release/governor-phil-scott-announces-some-elective-health-care-procedures-resume) for details.",
+            "answer": "**Is it safe to go to the hospital?**\n\nIf you are having symptoms of a more serious medical condition, such as heart attack or stroke, it is important to get medical care right away. Call 9-1-1, go to the emergency room, or call your doctor if your symptoms are not life-threatening.\n\nIt is safe to seek care at Vermont hospitals. They have measures in place to protect patients in the hospital from getting COVID-19. This includes separating patients with COVID-19 from other patients. There is a greater risk to staying at home if you're experiencing symptoms of a serious medical condition than going to the hospital.\n\nIf you are planning to visit someone at the hospital, be sure to check the hospital’s visitation policy first.\n\nHealth care providers may be doing some clinic visits, diagnostic imaging, and outpatient surgeries and procedures. Hospitals are also scheduling and performing inpatient surgeries and procedures if they follow required health and safety precautions. Read the [Governor’s press release](https://governor.vermont.gov/press-release/governor-phil-scott-announces-some-elective-health-care-procedures-resume) for details.",
             "source": "Editorial",
             "questions": [
                 "Is it safe to go to the hospital?",
@@ -5439,16 +5392,16 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4656,
-                        "displayText": "What should retail food stores, restaurants, and pick-up and delivery services do to protect workers and customers?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4603,
                         "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4656,
+                        "displayText": "What should businesses do to protect workers and customers?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -5503,11 +5456,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4616,
                         "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
                     },
@@ -5515,6 +5463,11 @@
                         "displayOrder": 0,
                         "qnaId": 4638,
                         "displayText": "Are sports and outdoor activities allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "How is Vermont deciding when it is safe to reopen?"
                     },
                     {
                         "displayOrder": 0,
@@ -5657,7 +5610,8 @@
                 "should I visit a relative",
                 "have people over",
                 "people can gather",
-                "How large can a group gathering be"
+                "How large can a group gathering be",
+                "visiting neighbors"
             ],
             "metadata": [
                 {
@@ -5734,14 +5688,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayOrder": 0,
+                        "qnaId": 4639,
+                        "displayText": "How is Vermont deciding when it is safe to reopen?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -5857,6 +5811,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4616,
+                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -6051,9 +6010,9 @@
             "answer": "**What can I wear if my health or work environment doesn't allow me to wear a cloth face mask or covering?**\n\nPeople who have trouble breathing can wear a light-weight bandanna or cloth covering tied to be open at the bottom or a face shield. Face shields are generally not recommended because they are more for health care settings to protect the person wearing it from droplets getting into their eyes. Face masks or coverings, like a cloth face mask or bandanna, do a better job than face shields of keeping droplets in. However, if your work environment or health does not allow you to wear a cloth face mask, wearing a face shield is better than having no barrier on your nose and mouth.\n\nOutdoor workers who are doing strenuous work that causes heavy breathing are not required to wear a cloth face mask or covering when it is hot outside. Workers should keep masks with them and wear them when they are not exerting themselves (for example talking, resting, or interacting with other co-workers or people). It is important that workers keep a 6-foot distance from others whenever possible, especially when they are not wearing a mask.",
             "source": "Editorial",
             "questions": [
-                "What can I wear if my health or work environment doesn't allow me to wear a cloth face mask or covering?",
                 "Can't wear a mask",
-                "face shields"
+                "face shields",
+                "alternative to mask"
             ],
             "metadata": [
                 {
@@ -6130,8 +6089,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -6159,13 +6123,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4692,
+                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                        "qnaId": 4639,
+                        "displayText": "How is Vermont deciding when it is safe to reopen?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
