@@ -127,7 +127,7 @@ async function validateUrlsValid(allFaqs) {
 }
 
 
-async function validateAddedFollowUpPrompt(allFaqs) {
+function validateAddedFollowUpPrompt(allFaqs) {
 
     // find "this did not answer my question"
     let noAnswerFAQ = allFaqs.find(faq => faq.answer.startsWith("Sorry we could not find a good match")) // 4533
@@ -145,7 +145,7 @@ async function validateAddedFollowUpPrompt(allFaqs) {
 
         if (!noAnswerPrompt) {
             acc.missing.push(faq.questions[0])
-        } else if (noAnswerPrompt.displayText.trim() !== displayText.trim()) {
+        } else if (noAnswerPrompt.displayText.replace(/\s+/g, '') !== displayText.replace(/\s+/g, '')) {
             acc.wrong.push({ prompt: noAnswerPrompt.displayText, q: faq.questions[0] })
         }
 
@@ -168,7 +168,7 @@ async function validateAddedFollowUpPrompt(allFaqs) {
     }
 }
 
-async function validateHasCategory(allFaqs) {
+function validateHasCategory(allFaqs) {
 
     let missingQuestions = allFaqs.flatMap(faq => {
         let catMetadata = faq.metadata.find(m => m.name === "category")
@@ -185,7 +185,7 @@ async function validateHasCategory(allFaqs) {
 }
 
 
-async function validateInvalidCategory(allFaqs, topicNames) {
+function validateInvalidCategory(allFaqs, topicNames) {
 
     // add chitchat to topics
     topicNames.push("chitchat")
@@ -216,7 +216,7 @@ async function validateInvalidCategory(allFaqs, topicNames) {
 }
 
 
-async function validateParseQuestion(allFaqs) {
+function validateParseQuestion(allFaqs) {
 
     let invalidBoldQuestions = allFaqs.flatMap(faq => {
         // get metadata and kick out if 'chitchat'
