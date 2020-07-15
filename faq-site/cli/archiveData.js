@@ -1,4 +1,4 @@
-module.exports = main();
+module.exports = main;
 
 async function main() {
 

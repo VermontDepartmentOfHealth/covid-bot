@@ -2,33 +2,29 @@ const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const STATUS_SUCCESS = 204;
 
 
-// get command line args
-const { program } = require('commander');
-program
-    .option('-s, --source <value>', 'either test or prod', 'test')
-    .option('-t, --target <value>', 'either test or prod', 'prod')
-    .parse(process.argv);
+module.exports = main
 
-// load env file
-let sourceEnv = require('dotenv').config({ path: `.env.${program.source}` })
-let targetEnv = require('dotenv').config({ path: `.env.${program.target}` })
+async function main(source, target) {
 
+    // load env file
+    let sourceEnv = require('dotenv').config({ path: `.env.${source}` })
+    let targetEnv = require('dotenv').config({ path: `.env.${target}` })
 
-// validate we loaded file correctly
-if (sourceEnv.error) {
-    console.error("Source Environment file not found: ", sourceEnv.error.path)
-    return;
+    // validate we loaded file correctly
+    if (sourceEnv.error) {
+        console.error("Source Environment file not found: ", sourceEnv.error.path)
+        return;
+    }
+    if (targetEnv.error) {
+        console.error("Target Environment file not found: ", targetEnv.error.path)
+        return;
+    }
+
+    deployKB(sourceEnv, targetEnv)
 }
-if (targetEnv.error) {
-    console.error("Target Environment file not found: ", targetEnv.error.path)
-    return;
-}
 
 
-module.exports = deployKB();
-
-
-async function deployKB() {
+async function deployKB(sourceEnv, targetEnv) {
 
 
     let sourceClient = qnaMakerApi({
@@ -76,7 +72,7 @@ async function replaceKnowledgeBase(sourceClient, targetClient) {
     //download KB from test
     let sourceKnowledgeBase = await sourceClient.knowledgeBase.download();
     let testKbid = targetClient.knowledgeBase.kbId;
-    //call replace 
+    //call replace
     let knowledgeBaseReplaceResponse = await targetClient.knowledgeBase.replace(0, { qnaList: sourceKnowledgeBase.qnaDocuments });
     //return bool to indicate if replace was successful
     return knowledgeBaseReplaceResponse.status === STATUS_SUCCESS;

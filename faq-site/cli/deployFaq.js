@@ -2,22 +2,16 @@ const fs = require("fs")
 const fsp = require('fs').promises;
 const path = require("path")
 
-// get command line args
-const { program } = require('commander');
-program
-    .requiredOption('-t, --target <value>', 'destination path')
-    .parse(process.argv);
 
-// call main function
-main()
+module.exports = main
 
-async function main() {
+async function main(target) {
     // get local site path
     let projectRoot = __dirname.replace(/(cli|util)$/, "")
     let sitePath = `${projectRoot}_site\\`
 
     // overwrite files in target path
-    copyDir(sitePath, program.target)
+    copyDir(sitePath, target)
 }
 
 

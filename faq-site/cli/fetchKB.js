@@ -1,19 +1,13 @@
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const { writeFile } = require('../util/utilities')
 
-// get command line args
-const { program } = require('commander');
-program
-    .option('-e, --environment <value>', 'either test or prod', 'test')
-    .parse(process.argv);
 
-// load env file
-require('dotenv').config({ path: `.env.${program.environment}` })
+module.exports = main;
 
+async function main(environment) {
 
-module.exports = fetchKB();
-
-async function fetchKB() {
+    // load env file
+    require('dotenv').config({ path: `.env.${environment}` })
 
     let client = qnaMakerApi({
         endpoint: process.env.Endpoint,

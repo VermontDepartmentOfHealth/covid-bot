@@ -41,11 +41,16 @@ Choose which environment file to use by setting an environemtn variable named `A
 
 ## NPM Scripts
 
+
 ```bash
 # eleventy site
 npm run clean
 npm run build         # runs `npx eleventy` to build the site
 npm run serve         # builds site + serves `_site` directory
+
+# interactive cli
+npm run faq-cli       # run interactive cli cmd with options
+npm run cli-help      # get help info on available CLI commands
 
 # knowledge base
 npm run publish-kb    # publishes the knowledge base from edit index to bot index
@@ -57,12 +62,24 @@ npm run restore-kb    # makes incremental revisions to knowledge base from local
 npm run archive-data  # moves local faq file into the archive file
 npm run lint-data     # validates data and checks for common errors
 npm run list-changes  # lists changes to questions - deleted, new, and title changes
-npm run fix-data      # automatically fix inconsistencies in follow up prompts - follow up with restore-kb
+npm run fix-data      # automatically fix inconsistencies in follow up prompts - upload via restore-kb
 
 # publish site
 npm run deploy-faq-test  # publish local _site folder to path on test
 npm run deploy-faq-prod  # publish local _site folder to path on prod
 npm run deploy-faq       # publish local _site to test and prod
+```
+
+Install the cli from the [`"bin"`](https://docs.npmjs.com/files/package.json#bin)  property in `package.json` with the following command:
+
+```bash
+npm i ./ -g
+```
+
+Then you can invoke via:
+
+```bash
+faq-cli
 ```
 
 ## Deployment

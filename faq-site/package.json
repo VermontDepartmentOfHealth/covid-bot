@@ -2,25 +2,30 @@
     "name": "covid-faq",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "bin": {
+        "faq-cli": "./cli/_index.js"
+    },
     "scripts": {
         "clean": "npx rimraf _site",
         "build": "npx @11ty/eleventy",
         "serve": "npx @11ty/eleventy --serve",
 
-        "fetch-kb": "node cli/fetchKB -e test",
-        "restore-kb": "node cli/restoreKB -e test",
-        "publish-kb": "node cli/publishKB -e test",
-        "deploy-kb": "node cli/deployKB -s test -t prod",
+        "faq-cli": "node cli/_index --",
+        "cli-help": "node cli/_index -- help",
 
-        "archive-data": "node cli/archiveData",
-        "lint-data": "node cli/lintData",
-        "list-changes": "node cli/listChanges",
-        "fix-data": "node cli/fixFollowUpsOnLocalFaq",
+        "publish-kb": "node cli/_index -- publish-kb test",
+        "fetch-kb": "node cli/_index -- fetch-kb test",
+        "deploy-kb": "node cli/_index -- deploy-kb test prod",
+        "restore-kb": "node cli/_index -- restore-kb test",
 
-        "deploy-faq-test": "node cli/publishFaq -t \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
-        "deploy-faq-prod": "node cli/publishFaq -t \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
-        "deploy-faq": "npm run publish-faq-test && npm run publish-faq-prod"
+        "archive-data": "node cli/_index -- archive-data",
+        "lint-data": "node cli/_index -- lint-data",
+        "list-changes": "node cli/_index -- list-changes",
+        "fix-data": "node cli/_index -- fix-data",
+
+        "deploy-faq-test": "node cli/_index -- deploy-faq -e \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
+        "deploy-faq-prod": "node cli/_index -- deploy-faq -e \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
+        "deploy-faq": "npm run deploy-faq-test && npm run deploy-faq-prod"
     },
     "keywords": [],
     "author": "",
@@ -33,6 +38,7 @@
         "commander": "^5.1.0",
         "details-polyfill": "^1.1.0",
         "dotenv": "^8.2.0",
+        "inquirer": "^7.3.2",
         "jsonc-parser": "^2.2.1",
         "mark.js": "^8.11.1",
         "node-fetch": "^2.6.0"

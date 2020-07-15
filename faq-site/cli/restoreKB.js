@@ -1,23 +1,15 @@
 const qnaMakerApi = require('@ads-vdh/qnamaker-api');
 const utilities = require('../util/utilities')
 const STATUS_ACCEPTED = 202;
-
-// get command line args
-const { program } = require('commander');
-program
-    .option('-e, --environment <value>', 'either test or prod', 'test')
-    .parse(process.argv);
-
-// load env file
-require('dotenv').config({ path: `.env.${program.environment}` })
+const LOCAL_KB_PARTIAL_FILE_PATH = "_data/faqs.jsonc" // set input file
 
 
-// set input file
-const LOCAL_KB_PARTIAL_FILE_PATH = "_data/faqs.jsonc"
+module.exports = main;
 
-module.exports = restoreKB();
+async function main() {
 
-async function restoreKB() {
+    // load env file
+    require('dotenv').config({ path: `.env.${environment}` })
 
     let clientFromTest = qnaMakerApi({
         endpoint: process.env.Endpoint,
@@ -312,7 +304,7 @@ function getQnaPairUpdateObjectsResult(updatedQnaPairs) {
 
         // first pass
         // add - [e]        // hard part - hold off adding b2 right away
-        // delete - [c,b1] 
+        // delete - [c,b1]
 
         // second pass
         // add - [b2]

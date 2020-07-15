@@ -6,9 +6,10 @@ const DID_NOT_ANSWER_ID = 4533
 const DID_NOT_ANSWER_SORT = 9
 
 
-module.exports = fixFollowUpsOnLocalFaq();
+module.exports = main
 
-async function fixFollowUpsOnLocalFaq() {
+async function main() {
+
     // get local version of kb
     let faqs = await utilities.readJsonc("_data/faqs.jsonc")
     let allFaqs = faqs.qnaDocuments

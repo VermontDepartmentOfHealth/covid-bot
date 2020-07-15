@@ -1,19 +1,15 @@
 const chalk = require("chalk")
-
 const utilities = require('../util/utilities')
 
-// run main code block
-main()
 
+module.exports = main
 
 async function main() {
 
     let faqsPrev = await utilities.readJsonc("_data/faqs-prev.jsonc")
     let faqsCur = await utilities.readJsonc("_data/faqs.jsonc")
 
-
     listChanges(faqsCur.qnaDocuments, faqsPrev.qnaDocuments)
-
 }
 
 

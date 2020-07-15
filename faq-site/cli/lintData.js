@@ -4,7 +4,7 @@ const chalk = require("chalk")
 const utilities = require('../util/utilities')
 
 // run main code block
-validate()
+module.exports = validate
 
 
 async function validate() {
