@@ -1,3 +1,8 @@
+---
+title: md-diff node client
+permalink: /md-diff/
+---
+
 # Package Maintenance Info
 
 Info for local developers to get the package up and running locally and publish it live

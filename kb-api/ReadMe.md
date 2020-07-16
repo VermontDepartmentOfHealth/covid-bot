@@ -1,3 +1,8 @@
+---
+title: QnA Maker API
+permalink: /kb-api/
+---
+
 # QnA Maker API
 
 ## Setup

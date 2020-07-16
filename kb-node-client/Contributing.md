@@ -1,4 +1,11 @@
+---
+title: kb-node-client
+permalink: /kb-node-client/
+---
+
 # Package Maintenance Info
+
+> **NOTE**: This is likely deprecated by [replace vdh qnamaker-api-client with official one #55](https://github.com/VermontDepartmentOfHealth/covid-bot/issues/55)
 
 Info for local developers to get the package up and running locally and publish it live
 

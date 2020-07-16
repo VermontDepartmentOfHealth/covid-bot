@@ -1,11 +1,15 @@
-﻿# QnABot ReadMe
+﻿---
+title: QnA Bot Service
+permalink: /bot-service/
+---
 
 
+# QnABot ReadMe
 
 
-### Project Setup
+## Project Setup
 
-Add a separate `appsettings.<environment>.json` file for each environment in `Properties/launchSettings.json` per [these instructions](https://stackoverflow.com/a/60961168/1366033).  
+Add a separate `appsettings.<environment>.json` file for each environment in `Properties/launchSettings.json` per [these instructions](https://stackoverflow.com/a/60961168/1366033).
 
 * `appsettings.Development.json`
 * `appsettings.Production.json`
@@ -18,15 +22,15 @@ You can get them from someone who's worked on the project or grab the keys from 
 	 - [More info on confidence scores here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/confidence-score)
 
 
-### Contributing
+## Contributing
 
-#### SOV Org Members
+### SOV Org Members
 
-1. Create a local branch 
+1. Create a local branch
 2. Push changes to our repo
 3. Open pull request
 
-#### General Public
+### General Public
 
 1. Fork the repo
 2. Push changes to any branch
@@ -34,7 +38,7 @@ You can get them from someone who's worked on the project or grab the keys from 
 4. When creating PR, check "Allow maintainers to edit my branch"
 
 
-### Deployment
+## Deployment
 
 Deploys should only be done after a PR is merged into master
 

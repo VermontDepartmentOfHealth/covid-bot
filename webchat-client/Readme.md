@@ -1,4 +1,9 @@
-# Web Chat API
+---
+title: Web Chat Client
+permalink: /webchat-client/
+---
+
+# Web Chat Client
 
 * [Web chat customization](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-webchat-customization?view=azure-bot-service-4.0)
 * [JavaScript client builder](https://github.com/Microsoft/BotFramework-WebChat/)

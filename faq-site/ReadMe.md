@@ -1,4 +1,9 @@
-# COVID FAQ
+---
+title: COVID FAQ Site Builder
+permalink: /faq-site/
+---
+
+# COVID FAQ Site Builder
 
 ## Built With
 

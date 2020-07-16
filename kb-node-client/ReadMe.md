@@ -1,4 +1,4 @@
-Provides a wrapper around the [Cognitive Services APIs](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/) for QnaMaker
+Provides a NodeJS client wrapper around the [Cognitive Services APIs](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/) for QnaMaker
 
 - [KnowledgeBase](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/knowledgebase)
 - [Alterations](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/qnamaker/alterations)
