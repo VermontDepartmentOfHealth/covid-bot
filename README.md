@@ -1,4 +1,9 @@
-﻿# COVID FAQ & ChatBot
+﻿---
+layout: default
+title: VT Covid Bot Docs
+---
+
+# COVID FAQ & ChatBot
 
 The Vermont Department of Health has a knowledge base that is published via a chatbot and faq page in response to the COVID-19 pandemic
 
@@ -36,9 +41,9 @@ Front end chat client that calls the bot service, either as an iFrame or JS init
 
 ## Resources
 
-* [Microsoft - Create an Azure Covid-19 Chatbot](https://microsoft.github.io/slg-covid-bot/)
+* [Microsoft - Create an  Covid-19 Chatbot](https://microsoft.github.io/slg-covid-bot/)
 * [QnA Maker](https://www.qnamaker.ai/)
-* [Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/)
+* [ Bot Service](https://.microsoft.com/en-us/services/bot-service/)
 
 ### Forums
 
