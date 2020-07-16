@@ -61,13 +61,13 @@ Published via [gh-pages](https://docs.github.com/en/github/working-with-github-p
 * [md-diff](./md-diff/)
 
 
-### 5. QnA Maker
+### 7. QnA Maker
 
 > QnA Maker front end to create, maintain, test, and publish the Knowledge Base
 
 * [QnA Maker Web GUI](./qna-maker/)
 
-### 6. WebChat Client
+### 8. WebChat Client
 
 > Front end chat client that calls the bot service, either as an iFrame or JS initialization.
 
