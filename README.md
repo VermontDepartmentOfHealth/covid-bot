@@ -1,42 +1,53 @@
 ﻿---
-layout: default
 title: VT Covid Bot Docs
+permalink: /
 ---
 
 # COVID FAQ & ChatBot
 
 The Vermont Department of Health has a knowledge base that is published via a chatbot and faq page in response to the COVID-19 pandemic
 
-* **VDH**: https://www.healthvermont.gov/COVID
-* **BOT**: https://apps.health.vermont.gov/COVID/
-* **FAQ**: https://apps.health.vermont.gov/COVID/faq/
+* **VDH**: [www.healthvermont.gov/COVID](https://www.healthvermont.gov/COVID)
+* **BOT**: [apps.health.vermont.gov/COVID/](https://apps.health.vermont.gov/COVID/)
+* **FAQ**: [apps.health.vermont.gov/COVID/faq/](https://apps.health.vermont.gov/COVID/faq/)
+
+## Docs
+
+Published via [gh-pages](https://docs.github.com/en/github/working-with-github-pages/getting-started-with-github-pages), [jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll), and [cayman theme](https://pages-themes.github.io/cayman/) at:
+
+[**vermontdepartmentofhealth.github.io/covid-bot/**](https://vermontdepartmentofhealth.github.io/covid-bot/)
+
 
 
 ## Repo Structure
 
 ### 1. Application Insights Query
 
-Query written in Kusto/KQL to get info from logs in App Insights
+> Query written in Kusto/KQL to get info from logs in App Insights
 
-### 1. Bot Service
+* [App Insights Query](./ai-query/)
+* [ChatBot Logs Update Instructions](./sheet-updates/)
 
-.NET Core API written in C# that connects to the knowledge base.
 
-### 2. FAQ Site
+### 2. Bot Service
 
-NodeJS static site generator written using Eleventy that templates the knowledge base into FAQ.
+> .NET Core API written in C# that connects to the knowledge base.
 
-### 3. Knowledge Base API
+### 3. FAQ Site
 
-Postman collection to call methods in the Knowledge Base API
+> NodeJS static site generator written using Eleventy that templates the knowledge base into FAQ.
 
-### 4. QnA Maker
+### 4. Knowledge Base API
 
-QnA Maker front end to create, maintain, test, and publish the Knowledge Base
+> Postman collection to call methods in the Knowledge Base API
 
-### 5. WebChat Client
+### 5. QnA Maker
 
-Front end chat client that calls the bot service, either as an iFrame or JS initialization.
+> QnA Maker front end to create, maintain, test, and publish the Knowledge Base
+
+### 6. WebChat Client
+
+> Front end chat client that calls the bot service, either as an iFrame or JS initialization.
 
 
 ## Resources
@@ -56,8 +67,8 @@ Front end chat client that calls the bot service, either as an iFrame or JS init
 
 For testing purposes, please use the following links to not interfere with our production telemetry
 
-* **BOT**: https://apps-test.health.vermont.gov/COVID/
-* **FAQ**: https://apps-test.health.vermont.gov/COVID/faq/
+* **BOT**: [apps-test.health.vermont.gov/COVID/](https://apps-test.health.vermont.gov/COVID/)
+* **FAQ**: [apps-test.health.vermont.gov/COVID/faq/](https://apps-test.health.vermont.gov/COVID/faq/)
 
 
 ## Acronyms

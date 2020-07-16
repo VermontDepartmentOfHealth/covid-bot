@@ -1,3 +1,8 @@
+---
+title: App Insights Query
+permalink: /ai-query/
+---
+
 # App Insights Query
 
 ## Setup
