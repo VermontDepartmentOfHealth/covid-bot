@@ -1,6 +1,6 @@
 title: VT Covid Bot Docs
 baseurl: "/covid-bot" # the subpath of your site, e.g. /blog
 url: "https://vermontdepartmentofhealth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme: jekyll-theme-cayman
+remote_theme: VermontDepartmentOfHealth/cayman
 exclude: ["*.*"]
-include: ["*.md", "*.html"]
+include: ["*.md", "*.liquid"]
