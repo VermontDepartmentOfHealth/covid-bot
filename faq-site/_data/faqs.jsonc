@@ -324,7 +324,8 @@
                 "Should I wear a cloth face mask or covering when I go out in public?",
                 "too young for mask",
                 "should young children wear masks?",
-                "Should I wear a mask outside?"
+                "Should I wear a mask outside?",
+                "Is it important to wear a mask?"
             ],
             "metadata": [
                 {
@@ -1011,7 +1012,8 @@
                 "people over 65",
                 "with health problems",
                 "work at 65",
-                "Are there any recommendations for older adults and people of any age with underlying medical conditions?"
+                "Are there any recommendations for older adults and people of any age with underlying medical conditions?",
+                "I'm 70 should I go back to work"
             ],
             "metadata": [
                 {
@@ -1610,6 +1612,11 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4682,
+                        "displayText": "What is contact tracing?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1742,7 +1749,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4702,
+                        "displayText": "Can I get tested with a swab in the front of my nose?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -3022,7 +3034,10 @@
                 "Can I visit Vermont when I come see my family?",
                 "private plane",
                 "Traveling from Arizona",
-                "Are there any travel restrictions to Vermont?"
+                "Are there any travel restrictions to Vermont?",
+                "quarantine for 2 wks if visiting Vermont",
+                "where do I quarantine",
+                "can i go to Vermont to swim for the day?"
             ],
             "metadata": [
                 {
@@ -3264,6 +3279,11 @@
                         "displayOrder": 0,
                         "qnaId": 4615,
                         "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4629,
+                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
                     },
                     {
                         "displayOrder": 0,
@@ -3924,7 +3944,8 @@
                 "skate park",
                 "soccer",
                 "is soccer allowed",
-                "gymnastics"
+                "gymnastics",
+                "hockey"
             ],
             "metadata": [
                 {
@@ -5835,8 +5856,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4578,
+                        "displayText": "How is a sample collected for COVID-19 testing?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -6046,7 +6072,7 @@
         },
         {
             "id": 4713,
-            "answer": "**What is an antigen test?**\n\nAn antigen test is a newer type of COVID-19 test that identifies people who are currently infected with the COVID-19 virus.\n\nAntigen tests provide results much more quickly than PCR tests (the most common type of test used to diagnose COVID-19 infection). But antigen tests have a higher chance of missing an active infection. This means that you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests may be used to screen people to identify those who need a more definitive test.\n\nWe are monitoring how these antigen tests evolve and how results can best be used. Currently, people who test positive from antigen tests are not considered lab-confirmed cases and are not included in our total number of cases. However, we consider these cases “presumptive positives” and recommend they follow the same guidelines as a positive case to stay home (self-isolate). We also conduct contact tracing and recommend a more accurate PCR test to confirm the positive result.\n\nIf you tested positive on an antigen test, and then test negative on the PCR test, you are not considered a case. \n\nIf you tested negative on an antigen or PCR test, and are a close contact of a positive case, you still need to follow quarantine recommendations and monitor for signs of illness. [Learn more about isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).\n\nAntigen tests are different from antibody (serologic) tests, which identify people who have previously been infected with the coronavirus and do not show whether a person is currently infected.\n\nLearn more about the [coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food & Drug Administration.",
+            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a newer type test that identifies people who are currently infected with the COVID-19 virus. According to the CDC and the Association of Public Health Laboratories, antigen tests are only recommended for people who have symptoms of COVID-19. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms. More studies are required before antigen testing can be recommended for people without symptoms of COVID-19. \n\nAntigen tests provide results much more quickly than PCR tests (the most common type of test used to diagnose and confirm COVID-19 infection). When used appropriately to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests may be used to screen people to identify those who need a more definitive test.\n\nWe are monitoring how these antigen tests evolve and how results can best be used. Right now, people who test positive from antigen tests are not considered to have a lab-confirmed case of COVID-19 and are not included in our total number of cases. However, we consider these cases “presumptive positives” and recommend they follow the same guidelines as a positive case to stay home (self-isolate). We also conduct contact tracing and recommend a PCR test to confirm the positive result.\n\nAntigen tests are different from antibody (serologic) tests, which identify people who have previously been infected with the coronavirus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food & Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
             "source": "Editorial",
             "questions": [
                 "What is an antigen test?"
