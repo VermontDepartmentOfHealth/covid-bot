@@ -1,10 +1,25 @@
+---
+pagination:
+  data: environments
+  size: 1
+  alias: env
+environments:
+ - test
+ - prod
+permalink: "/{{env}}/direct/index.html"
+---
+
 <!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>VDH COVID-19 Direct Iframe TEST</title>
+    <title>
+        VDH COVID-19 Direct
+        <!-- conditionally render title -->
+        {% if env != 'prod' %} TEST {% endif%}
+    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- Conditionally render meta -->
@@ -19,7 +34,7 @@
             padding: 0;
         }
         /* wrap long answer text */
-        
+
         .ac-actionSet .ac-pushButton>div {
             overflow: visible !important;
             text-overflow: initial !important;
@@ -38,11 +53,11 @@
     <script>
         // iife - immediately invoked function expression
         (function() {
-
+            let token = "{{config.token[env]}}"
             // conditionally add token
             window.WebChat.renderWebChat({
                     directLine: window.WebChat.createDirectLine({
-                        token: "ZDGxeGJnaXQ.15ZJlWeJYLP5nauEk9SAqtuetXRfnyen7gBk28soqH8",
+                        token: token,
                     }),
                     locale: "en-US",
                     botAvatarInitials: "VDH",

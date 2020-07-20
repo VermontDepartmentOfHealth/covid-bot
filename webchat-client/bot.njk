@@ -1,3 +1,14 @@
+---
+pagination:
+  data: environments
+  size: 1
+  alias: env
+environments:
+ - test
+ - prod
+permalink: "/{{env}}/index.html"
+---
+
 <!DOCTYPE html>
 <html>
 
@@ -5,12 +16,17 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <!-- conditionally render title -->
-    <title>VDH COVID-19 Chatbot TEST</title>
+    <title>
+        VDH COVID-19 Chatbot
+        <!-- conditionally render title -->
+        {% if env != 'prod' %} TEST {% endif%}
+    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- Conditionally render meta -->
-    <meta name="robots" content="nofollow">
+    {% if env != 'prod' %}
+        <meta name="robots" content="nofollow">
+    {% endif%}
 
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet" />
 
@@ -19,7 +35,7 @@
         body {
             height: 100%;
         }
-        
+
         body {
             display: flex;
             flex-direction: column;
@@ -29,33 +45,33 @@
             margin: 0 auto;
             font-family: "Noto Sans", sans-serif;
         }
-        
+
         header {
             text-align: center;
             background: #0171a1;
             color: white;
             padding: 15px;
         }
-        
+
         footer {
             text-align: center;
             background: #e2e2e2;
             padding: 10px;
         }
-        
+
         h1 {
             margin: 0;
         }
-        
+
         h2 {
             color: #0171a1;
         }
-        
+
         main {
             padding: 15px;
             flex-grow: 1;
         }
-        
+
         iframe {
             border: 1px solid black;
             width: 100%;
@@ -63,7 +79,7 @@
             min-height: 250px;
             resize: vertical;
         }
-        
+
         @media (min-width: 750px) {
             main {
                 padding: 15px 0;
@@ -74,7 +90,11 @@
 
 <body>
     <header>
-        <h1>VDH COVID-19 Chatbot - TEST</h1>
+        <h1>
+            VDH COVID-19 Chatbot
+            <!-- conditionally render title -->
+            {% if env != 'prod' %} TEST {% endif%}
+        </h1>
     </header>
 
     <main>
