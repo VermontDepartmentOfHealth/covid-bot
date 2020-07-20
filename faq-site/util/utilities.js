@@ -11,7 +11,8 @@ module.exports = {
     getCurrentTimestamp,
     deduplicate,
     writeFile,
-    removeWhitespace
+    removeWhitespace,
+    customizeMarkdown
 }
 
 
@@ -94,7 +95,7 @@ function slugify(title) {
 
 /**
  * Test whether item is is empty object `{}`
- * @param {object} obj 
+ * @param {object} obj
  * @description See also: https://stackoverflow.com/q/679915/1366033
  */
 function isEmptyObj(obj) {
@@ -140,4 +141,45 @@ async function writeFile(path, contents) {
 
 function removeWhitespace(str) {
     return str.replace(/\s/g, "")
+}
+
+
+
+function customizeMarkdown() {
+
+    let md = require("markdown-it")({
+        html: true,
+        linkify: true
+    });
+
+    // Remember old renderer, if overridden, or proxy to default renderer
+    let defaultAnchorRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options);
+    };
+
+    md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
+        // If you are sure other plugins can't add `target` - drop check below
+        let token = tokens[idx]
+
+        let setAttribute = function(token, attrName, attrValue, append) {
+            var index = token.attrIndex(attrName);
+
+            if (index < 0) {
+                // add new attribute
+                token.attrPush([attrName, attrValue]);
+            } else {
+                // update value of existing attr
+                token.attrs[index][1] = (append ? token.attrs[index][1] : "") + attrValue;
+            }
+        }
+
+        setAttribute(token, "target", "_blank")
+        setAttribute(token, "rel", "noopener")
+        setAttribute(token, "class", " external-link", true)
+
+        // pass token to default renderer.
+        return defaultAnchorRender(tokens, idx, options, env, self);
+    };
+
+    return md
 }
