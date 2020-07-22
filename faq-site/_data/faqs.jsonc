@@ -898,14 +898,14 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
                         "displayOrder": 0,
                         "qnaId": 4615,
                         "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -915,8 +915,7 @@
             "answer": "**What should colleges and universities who are planning student foreign travel do?**\n\nPlease read the [guidance for institutions of higher education with students participating in foreign travel or study abroad programs](https://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html) from the CDC.",
             "source": "KB-COVID",
             "questions": [
-                "What should colleges and universities who are planning student foreign travel do?",
-                "study abroad"
+                "QnaId4556"
             ],
             "metadata": [
                 {
@@ -933,7 +932,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1140,8 +1144,7 @@
             "answer": "**I traveled through an international airport. Do I need to notify the Health Department?**\n\nTravelers with international layovers returning to Vermont need to follow the same monitoring guidelines as if they are a returning traveler from that country. If you have a layover in **China** or **Iran**, you should:\n\n1. Call your health care provider and\n\n2. Call the Vermont Department of Health at 802-863-7240\n\nRead the CDC’s guidance on [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).",
             "source": "KB-COVID",
             "questions": [
-                "I traveled through an international airport. Do I need to notify the Health Department?",
-                "travel from overseas"
+                "QnaId4563"
             ],
             "metadata": [
                 {
@@ -1163,7 +1166,12 @@
                         "displayText": "What is monitoring?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1209,12 +1217,7 @@
             "answer": "**Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?**\n\nThe Department of State has issued a [Global Level 4 Health Advisory](https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-level-4-health-advisory-issue.html), and the CDC recommends that travelers avoid all nonessential international travel.\n\nThe CDC also recommends that no one travel on cruise ships, including river cruises, worldwide. That’s because the risk of COVID-19 on cruise ships is high.\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html). \n\nYou can also check the [CDC's FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).",
             "source": "KB-COVID",
             "questions": [
-                "Canada",
-                "The Canadian Border",
-                "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?\n",
-                "go to Vermont",
-                "Mexico",
-                "Can I travel to Germany?"
+                "QnaId4565"
             ],
             "metadata": [
                 {
@@ -1237,11 +1240,11 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -1253,9 +1256,7 @@
             "answer": "**What should I do if I have traveled internationally or traveled by cruise ship?**\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, you should for quarantine for 14 days.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.\n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nIf you develop [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), contact your health care provider right away.\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
             "source": "KB-COVID",
             "questions": [
-                "What should I do if I have traveled internationally or traveled by cruise ship?",
-                "I came back from England, what should I do?",
-                "over seas quarantine"
+                "QnaId4566"
             ],
             "metadata": [
                 {
@@ -1278,8 +1279,13 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question. "
                     }
                 ]
             }
@@ -1289,21 +1295,7 @@
             "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19. According to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or travel with someone who is sick.\n\nRead the CDC’s [considerations for travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) if you are thinking of traveling away from your local community.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "KB-COVID",
             "questions": [
-                "Should I fly to Texas?",
-                "Should I go to Texas?",
-                "Can I travel to Boston",
-                "What is essential travel",
-                "What kind of travel is ok?",
-                "Can I travel?",
-                "Can I leave Vermont?",
-                "Travel to Pa",
-                "travel to neighboring states",
-                "Is it okay to travel within the United States? Do I need to quarantine when I return?",
-                "will I be quarantined when I return to vt",
-                "visiting immediate family in MA",
-                "do I need to quarantine",
-                "travel out of state",
-                "when I return from Maine do we have to quarantine?"
+                "QnaId4567"
             ],
             "metadata": [
                 {
@@ -1317,28 +1309,18 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4637,
-                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4709,
-                        "displayText": "Do I need to quarantine if I do a short trip (day trip)?"
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             }
@@ -1348,7 +1330,7 @@
             "answer": "**Do family members of people who traveled internationally or by cruise ship need to stay at home?**\n\nIf your family member has traveled internationally to any country or traveled by cruise ship or river cruise voyage, they should quarantine for 14 days, and the other household members should do self-observation for 14 days.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.\n\nFind more information from the CDC about [returning from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) and [returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nStay up to date on the [latest COVID-19 travel advisories from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/).",
             "source": "KB-COVID",
             "questions": [
-                "Do family members of people who traveled to an affected area need to stay at home?"
+                "QnaId4568"
             ],
             "metadata": [
                 {
@@ -1373,6 +1355,11 @@
                         "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
@@ -2604,13 +2591,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4639,
+                        "displayText": "How is Vermont deciding when it is safe to reopen?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "How is Vermont deciding when it is safe to reopen?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -2994,79 +2981,10 @@
         },
         {
             "id": 4615,
-            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
-                "What if I work in a different state?",
-                "Travel",
-                "Coming From New York",
-                "return home from Florida",
-                "Drive from Florida",
-                "If I traveled from Florida yesterday, do I have to self-quarantine?",
-                "Appointment in Vermont, I live in New York can I keep it?",
-                "May I enter Vermont from Massachusetts?",
-                "Penalty for traveling",
-                "Can I visit Vermont?",
-                "Should seasonal Vermonters come for the summer?",
-                "Can I fly into Vermont from another state?",
-                "be allowed to come back into state?",
-                "I I have to self quarantine for 14 days?",
-                "what do I have to do when arriving in Vermont?",
-                "travel from out of state",
-                "Return from out of state",
-                "Can I travel to Vermont from New York?",
-                "what are travel restrictions from out of state",
-                "returning to Vermont from another state?",
-                "Coming to Vermont",
-                "vacationers?",
-                " come to Vermont",
-                "If I visit vermont",
-                "Can you travel to Vermont",
-                "out of state",
-                "can I visit family if I'm from out of state",
-                "visiting",
-                "after entering VT when can you leave",
-                "can I visit VT?",
-                "Do you have to stay 14 days in VT?",
-                "go to vermont to",
-                " letting people from out of state in",
-                "drive through Vermont",
-                "cross state travel",
-                "interstate travel",
-                "Returning to Vermont",
-                "do i need to quarantine when i come to vermont?",
-                "Are visitor from outside of US",
-                "can I go up to Vermont ",
-                "Tourism",
-                "Do visitors have to quarantine?",
-                "after traveling out of state?",
-                " isolate after travel",
-                "tourist",
-                "moving back to VT",
-                "when visiting Vermont",
-                "return to Vermont",
-                "Can I travel to Vermont? Are out-of-state visitors allowed?",
-                "in your state",
-                "into your state",
-                "Travel rules",
-                "if I leave the state for one day",
-                "Can I travel to Vermont",
-                "Stay overnight in Vermont",
-                "Can I fly to Vermont",
-                "Can I fly in",
-                "are going to visit VT",
-                "Can I visit Vermont when I come see my family?",
-                "private plane",
-                "Traveling from Arizona",
-                "Are there any travel restrictions to Vermont?",
-                "quarantine for 2 wks if visiting Vermont",
-                "where do I quarantine",
-                "can i go to Vermont to swim for the day?",
-                "We plan to vacation in VT",
-                "out of state visitors",
-                "what are the guidelines for out of state visitors",
-                "Travel from New York City to Burlington",
-                "Travel by airplane from New York City "
+                "QnaId4615"
             ],
             "metadata": [
                 {
@@ -3084,33 +3002,13 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4662,
-                        "displayText": "I have a second home or a seasonal home in Vermont. Can I come to Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4637,
-                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4709,
-                        "displayText": "Do I need to quarantine if I do a short trip (day trip)?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4566,
-                        "displayText": "What should I do if I have traveled internationally or traveled by cruise ship?"
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
@@ -3296,23 +3194,18 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4560,
                         "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                        "qnaId": 4629,
+                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4629,
-                        "displayText": "What does the Be Smart, Stay Safe Order mean for Vermonters?"
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
@@ -3865,13 +3758,8 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4637,
-                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
@@ -3886,12 +3774,7 @@
             "answer": "**Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you work in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel, and you do not need to quarantine.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred.\n\nLearn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind out more about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
             "source": "Editorial",
             "questions": [
-                "Can I travel to NH for work?",
-                "I work in New Hampshire and live in Vermont",
-                "Can you leave vt?",
-                "Is there a travel restriction new Hampshire",
-                "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?",
-                "is quarantining the law?"
+                "QnaId4637"
             ],
             "metadata": [
                 {
@@ -3910,11 +3793,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
@@ -3925,13 +3803,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
@@ -4815,15 +4693,7 @@
             "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are returning to your second or seasonal home in Vermont, you may be required to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
-                "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
-                "What is the policy about opening summer camps or coming to them on weekends?",
-                "seasonal property owner",
-                "When returning to a summer home, do we have to quarantine?",
-                "If you have a home in Vermont are you allowed to go there from another state?",
-                "own a timeshare",
-                "I have a second home in Vermont ",
-                "my vacation home",
-                "We have a 2nd home in Vermont "
+                "QnaId4662"
             ],
             "metadata": [
                 {
@@ -4849,6 +4719,11 @@
                         "displayOrder": 0,
                         "qnaId": 4615,
                         "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
@@ -6040,7 +5915,7 @@
             "answer": "**Do I need to quarantine if I do a short trip (day trip)?**\n\nPeople who live near the Vermont border and regularly travel to and from a neighboring state may make day trips to Vermont for work, health care, and other essential needs like groceries or visitation for parental shared custody without quarantining. \n\nIf you go on a day trip that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine in Vermont upon return.",
             "source": "Editorial",
             "questions": [
-                "Do I need to quarantine if I do a short trip (day trip)?"
+                "QnaId4709"
             ],
             "metadata": [
                 {
@@ -6054,13 +5929,8 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     },
                     {
                         "displayOrder": 0,
@@ -6143,7 +6013,7 @@
             "answer": "**Are there any travel restrictions if I am traveling through Vermont?**\n\nIf you are only traveling through and not staying in Vermont (for example, driving through Vermont to another state, flying to Vermont and immediately picking up a rental car to drive to another state), there are no quarantine or other restrictions you need to follow. If you need to make stops in Vermont or are otherwise not in a vehicle while you are traveling through Vermont, please follow these general precautions to help prevent the spread of the virus: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often.",
             "source": "Editorial",
             "questions": [
-                "Are there any travel restrictions if I am traveling through Vermont?"
+                "QnaId4717"
             ],
             "metadata": [
                 {
@@ -6157,8 +6027,272 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4718,
+            "answer": "It looks like you are asking about **Travel**, please select one of the topics below.",
+            "source": "Editorial",
+            "questions": [
+                "Top level travel question",
+                "travel from overseas",
+                "traveled through an international airport",
+                "Can I travel to Germany?",
+                "Mexico",
+                "The Canadian Border",
+                "Canada",
+                "study abroad",
+                "planning student foreign travel",
+                "What if I work in a different state?",
+                "Travel",
+                "Coming From New York",
+                "return home from Florida",
+                "Drive from Florida",
+                "If I traveled from Florida yesterday, do I have to self-quarantine?",
+                "Appointment in Vermont, I live in New York can I keep it?",
+                "May I enter Vermont from Massachusetts?",
+                "Penalty for traveling",
+                "Can I visit Vermont?",
+                "Should seasonal Vermonters come for the summer?",
+                "Can I fly into Vermont from another state?",
+                "be allowed to come back into state?",
+                "I have to self quarantine for 14 days?",
+                "what do I have to do when arriving in Vermont?",
+                "travel from out of state",
+                "Return from out of state",
+                "Can I travel to Vermont from New York?",
+                "what are travel restrictions from out of state",
+                "returning to Vermont from another state?",
+                "Coming to Vermont",
+                "vacationers?",
+                "come to Vermont",
+                "If I visit Vermont",
+                "Can you travel to Vermont",
+                "out of state",
+                "can I visit family if I'm from out of state",
+                "visiting",
+                "After entering VT when can you leave",
+                "can I visit VT?",
+                "Do you have to stay 14 days in VT?",
+                "go to vermont to",
+                "letting people from out of state in",
+                "drive through Vermont",
+                "cross state travel",
+                "interstate travel",
+                "Returning to Vermont",
+                "do i need to quarantine when i come to vermont?",
+                "Are visitor from outside of US",
+                "can I go up to Vermont ",
+                "Tourism",
+                "Do visitors have to quarantine?",
+                "after traveling out of state?",
+                "isolate after travel",
+                "tourist",
+                "moving back to VT",
+                "when visiting Vermont",
+                "return to Vermont",
+                "in your state",
+                "into your state",
+                "Travel rules",
+                "if I leave the state for one day",
+                "Can I travel to Vermont",
+                "Stay overnight in Vermont",
+                "Can I fly to Vermont",
+                "Can I fly in",
+                "are going to visit VT",
+                "Can I visit Vermont when I come see my family?",
+                "private plane",
+                "Traveling from Arizona",
+                "Are there any travel restrictions to Vermont?",
+                "quarantine for 2 wks if visiting Vermont",
+                "where do I quarantine",
+                "can i go to Vermont to swim for the day?",
+                "We plan to vacation in VT",
+                "out of state visitors",
+                "what are the guidelines for out of state visitors",
+                "Travel from New York City to Burlington",
+                "Travel by airplane from New York City ",
+                "Do I need to quarantine if I do a short trip (day trip)?",
+                "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?",
+                "Can I travel to NH for work?",
+                "I work in New Hampshire and live in Vermont",
+                "Can you leave vt?",
+                "Is there a travel restriction new Hampshire",
+                "is quarantining the law?",
+                "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
+                "What is the policy about opening summer camps or coming to them on weekends?",
+                "When returning to a summer home, do we have to quarantine?",
+                "If you have a home in Vermont are you allowed to go there from another state?",
+                "own a timeshare",
+                "my vacation home",
+                "We have a 2nd home in Vermont ",
+                "I have a second home in Vermont ",
+                "seasonal property owner",
+                "Should I fly to Texas?",
+                "Should I go to Texas?",
+                "Can I travel to Boston",
+                "What is essential travel",
+                "What kind of travel is ok?",
+                "Can I travel?",
+                "Can I leave Vermont?",
+                "Travel to Pa",
+                "travel to neighboring states",
+                "Is it okay to travel within the United States? Do I need to quarantine when I return?",
+                "will I be quarantined when I return to vt",
+                "visiting immediate family in MA",
+                "do I need to quarantine",
+                "travel out of state",
+                "when I return from Maine do we have to quarantine?",
+                "Are there any travel restrictions if I am traveling through Vermont?",
+                "Do family members of people who traveled to an affected area need to stay at home?",
+                "I traveled through an international airport. Do I need to notify the Health Department?",
+                "safe to go on a cruise",
+                "safe to travel internationally? ",
+                "colleges student foreign travel",
+                "travel to Vermont",
+                "court-ordered parental visitation",
+                "second home",
+                "seasonal home",
+                "travel in the United States"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "chitchat"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4719,
+                        "displayText": "Travel to Vermont or within the United States"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4720,
+                        "displayText": "International travel "
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "I was NOT asking about travel."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4719,
+            "answer": "Please select a question below on the topic of **Travel to Vermont and within the United States.**",
+            "source": "Editorial",
+            "questions": [
+                "Travel to Vermont and within the United States"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "chitchat"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": true,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4615,
+                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4709,
+                        "displayText": "Do I need to quarantine if I do a short trip (day trip)?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4637,
+                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4662,
+                        "displayText": "I have a second home or a seasonal home in Vermont. Can I come to Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4567,
+                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4717,
+                        "displayText": "Are there any travel restrictions if I am traveling through Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "My question is not covered by these options."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4720,
+            "answer": "Please select a question below on the topic of **International Travel.**",
+            "source": "Editorial",
+            "questions": [
+                "International Travel"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "chitchat"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": true,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4568,
+                        "displayText": "Do family members of people who traveled internationally or by cruise ship need to stay at home?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4563,
+                        "displayText": "I traveled through an international airport. Do I need to notify the Health Department?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4566,
+                        "displayText": "What should I do if I have traveled internationally or traveled by cruise ship?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4565,
+                        "displayText": "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4556,
+                        "displayText": "What should colleges and universities who are planning student foreign travel do?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "My question is not covered by these options. "
                     }
                 ]
             }
