@@ -199,7 +199,8 @@
                 "Can a person be infected through an open wound?",
                 "Do I need to wash my hands if i'm just staying home?",
                 "transmit new infections to other people",
-                "Can I get Covid from"
+                "Can I get Covid from",
+                "How long can virus stay in the air?"
             ],
             "metadata": [
                 {
@@ -225,7 +226,7 @@
         },
         {
             "id": 4538,
-            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n*   **Socialize with household members or other trusted households** that are also taking health and safety precautions.\n*   **Wash hands often** using soap and water or hand sanitizer with at least 60% alcohol.\n*   **Avoid people who are sick** (coughing and sneezing).\n*   **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks).\n*   **Wash items** including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nVermonters can get together with friends and family, but are encouraged to keep groups small when possible to limit any possible exposure, and follow health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/resources) and information from the CDC on [caring for young children](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).",
+            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. However, a few children have developed [multisystem inflammatory syndrome (MIS-C)](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n*   **Stay home if you are sick** and avoid people who are sick.\n*   **Wear a cloth face mask or covering**.\n*   **Keep a 6-foot distance from others** who are not part of your household.\n*   **Wash hands often** using soap and water (or hand sanitizer with at least 60% alcohol).\n*   **Socialize with household members or other trusted households** that are also taking health and safety precautions.\n*   **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks).\n*   **Wash items** including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nVermonters can get together with friends and family, but are encouraged to keep groups small when possible to limit any possible exposure to the virus and to keep it from spreading and to follow health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces#families) and information from the CDC on [caring for young children](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).",
             "source": "KB-COVID",
             "questions": [
                 "Can kids get Covid-19?",
@@ -255,7 +256,12 @@
                         "displayText": "How should we practice social distancing with children?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4553,
+                        "displayText": "What should schools, child care and summer programs in Vermont do?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -279,7 +285,8 @@
                 "How can I protect myself from Covid-19?",
                 "How can you help protect yourself from getting the virus?",
                 " Hand sanitizer protect against corona virus",
-                "am I safe?"
+                "am I safe?",
+                "exposure risk"
             ],
             "metadata": [
                 {
@@ -490,7 +497,7 @@
         },
         {
             "id": 4544,
-            "answer": "**What is monitoring?**\n\nMonitoring means someone who has returned from an affected area or cruise ship and does not have symptoms of COVID-19 or someone who signed up with Sara Alert for daily symptom check reminders. Information that may identify someone under monitoring is not available to the public.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThe [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) includes the number of people being monitored and the number of people who have completed monitoring and is updated every day.",
+            "answer": "**What is monitoring?**\n\nMonitoring means someone who has returned from an affected area or cruise ship and does not have symptoms of COVID-19 or someone who signed up with Sara Alert for daily symptom check reminders. Information that may identify someone under monitoring is not available to the public.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThe [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) includes the number of people being monitored and the number of people who have completed monitoring and is updated every day.",
             "source": "KB-COVID",
             "questions": [
                 "What is monitoring?",
@@ -526,7 +533,7 @@
         },
         {
             "id": 4545,
-            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nCurrently, any person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19) without a doctor’s referral. Registration for testing is required. You will get a a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThere is no cost to individuals for the COVID-19 test.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nSince late April, we have been able to conduct about 1,000 tests a day – or 7,000 tests a week. With more testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A new Testing and Tracing Task Force was created to guide and oversee this process.",
+            "answer": "**Can I be tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nCurrently, any person without symptoms who lives or works in Vermont can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19) without a doctor’s referral. Registration for testing is required. You will get a a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nThere is no cost to individuals for the COVID-19 test.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -611,7 +618,9 @@
                 "turn around for the test",
                 "no results",
                 "results of test online?",
-                "results of test from phone call"
+                "results of test from phone call",
+                "When will I get my results",
+                "I was tested, how will I get my results?"
             ],
             "metadata": [
                 {
@@ -696,7 +705,9 @@
                 "How much will coronavirus test cost me?",
                 "How much does the test cost?",
                 "Insurance for a Covid-19 test",
-                "Is there a fee for covid-19 testing"
+                "Is there a fee for covid-19 testing",
+                "Who pays for tests?",
+                "Who pays for it?"
             ],
             "metadata": [
                 {
@@ -744,7 +755,12 @@
                         "displayText": "Can I be tested for COVID-19?"
                     },
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4549,
+                        "displayText": "How much does the test cost?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -789,7 +805,7 @@
         },
         {
             "id": 4553,
-            "answer": "**What should schools, child care and summer programs in Vermont do?**\n\nSchools will reopen in the fall for in-person instruction. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Reopening Schools, Fall 2020](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance). Find more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers can decide to reopen if they follow health and safety precautions. Some may choose not to reopen or are unable to do so. Find [guidance on child care](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#education-childcare) from the Agency of Commerce and Community Development as it becomes available.\n\n**Guidance and Resources for Child Care and Summer Programs**\n\n*   [Health Guidance for Childcare Programs and Summer Programs](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf) that are or will open during the COVID-19 pandemic\n*   [Health & Safety Guidance for Childcare & Summer Programs FAQ](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf)\n*   [Sample Daily COVID-19 Health Checklist Child Care and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Childcare-Camp-Daily-Health-Checklist-Template.pdf)\n*   [Sample Weekly COVID-19 Health Checklist Child Care and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Childcare-Camp-Weekly-Health-Checklist-Template.pdf)\n\nFind more [resources and information for schools, child care and summer programs](https://www.healthvermont.gov/COVID19-schools).",
+            "answer": "**What should schools, child care and summer programs in Vermont do?**\n\nSchools will reopen in the fall for in-person instruction. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Reopening Schools, Fall 2020](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance). Find more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers can decide to reopen if they follow health and safety precautions. Some may choose not to reopen or are unable to do so. Find [guidance on child care](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#education-childcare) from the Agency of Commerce and Community Development as it becomes available.\n\n**Guidance and Resources for Child Care and Summer Programs**\n\n*   [Health Guidance for Childcare and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf) that are or will open during the COVID-19 pandemic\n*   [Health & Safety Guidance for Childcare & Summer Programs FAQ](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf)\n*   [Sample Daily COVID-19 Health Checklist Child Care and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Childcare-Camp-Daily-Health-Checklist-Template.pdf)\n*   [Sample Weekly COVID-19 Health Checklist Child Care and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Childcare-Camp-Weekly-Health-Checklist-Template.pdf)\n\nFind more [resources and information for schools, child care and summer programs](https://www.healthvermont.gov/COVID19-schools).",
             "source": "KB-COVID",
             "questions": [
                 "What should I do at my day care?",
@@ -959,7 +975,7 @@
         },
         {
             "id": 4558,
-            "answer": "**What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?**\n\nStarting June 19, facilities may offer limited visitation outside with residents. Check with the facility first before planning a visit.\n\nMedically necessary personnel and visitors for residents receiving end-of-life care are allowed inside. Read the [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO%2001-20%20Declaration%20of%20State%20of%20Emergency%20in%20Response%20to%20COVID-19%20and%20National%20Guard%20Call-Out.pdf).\n\nThe Health Department recommends that all health care personnel in long-term care facilities and other congregate settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nAny new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period first.\n\nSenior Centers may reopen with guidance from the Health Department and the Department of Aging and Independent Living. Adult Day programs remain closed.\n\nThere is guidance ­on preventing the spread of COVID-19 for [managers and owners of senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf), which includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more guidance and information for [long-term care and group living settings](https:/www.healthvermont.gov/COVID19-longtermcare).",
+            "answer": "**What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?**\n\nFacilities may offer limited visitation outside with residents. Check with the facility first before planning a visit.\n\nLong-term care facilities can now ease some restrictions based on new phased guidance from the Department of Aging and Independent Living (DAIL). The guidance creates a framework for long-term care facilities to determine how to ease the restrictions on communal activities, non-essential personnel entering the building, trips outside the building and visitation.Check with the long-term care facility to find out what they are currently allowing.\n\nMedically necessary personnel and visitors for residents receiving end-of-life care are allowed inside. Read the [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO%2001-20%20Declaration%20of%20State%20of%20Emergency%20in%20Response%20to%20COVID-19%20and%20National%20Guard%20Call-Out.pdf).\n\nThe Health Department recommends that all health care personnel in long-term care facilities and other congregate settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nAny new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period first.\n\nSenior Centers may reopen with guidance from the Health Department and DAIL. Adult Day programs remain closed.\n\nThere is guidance ­on preventing the spread of COVID-19 for [managers and owners of senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf), which includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more guidance and information for [long-term care and group living settings](https:/www.healthvermont.gov/COVID19-longtermcare).",
             "source": "KB-COVID",
             "questions": [
                 "What should people in long-term care facilities or group homes do?",
@@ -1013,7 +1029,8 @@
                 "with health problems",
                 "work at 65",
                 "Are there any recommendations for older adults and people of any age with underlying medical conditions?",
-                "I'm 70 should I go back to work"
+                "I'm 70 should I go back to work",
+                "I am 78 & have asthma"
             ],
             "metadata": [
                 {
@@ -1073,7 +1090,8 @@
                 "my son tested positive",
                 "my child tested positive",
                 "my daughter tested positive",
-                "I am a contact case"
+                "I am a contact case",
+                "do close contacts of confirmed cases need to self-quarantine?"
             ],
             "metadata": [
                 {
@@ -1103,6 +1121,11 @@
                         "displayOrder": 0,
                         "qnaId": 4656,
                         "displayText": "What should businesses do to protect workers and customers?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4674,
+                        "displayText": "What do I do if I'm a close contact of someone who is waiting for their test results?"
                     },
                     {
                         "displayOrder": 0,
@@ -1263,7 +1286,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19. According to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or travel with someone who is sick.\n\nRead the CDC’s [considerations for travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) if you are thinking of traveling away from your local community.\n\nCheck the Health Department’s webpage for [what to do if you are returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19. According to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or travel with someone who is sick.\n\nRead the CDC’s [considerations for travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) if you are thinking of traveling away from your local community.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "KB-COVID",
             "questions": [
                 "Should I fly to Texas?",
@@ -2007,7 +2030,7 @@
         },
         {
             "id": 4587,
-            "answer": "**What is Vermont doing?**\n\nOn June 15, Governor Phil Scott extended Vermont’s State of Emergency through July 15 to help ensure Vermont has all the necessary resources to respond to this evolving threat. Find details on all [executive orders](https://governor.vermont.gov/document-types/executive-orders).\n\nThe strategies continue to be updated based on guidance from federal and state public health officials. Find a [summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response).",
+            "answer": "**What is Vermont doing?**\n\nOn July 14, Governor Phil Scott extended Vermont’s State of Emergency through August 15 to help ensure Vermont has all the necessary resources to respond to this evolving public health emergency. Find details on all [executive orders](https://governor.vermont.gov/document-types/executive-orders).\n\nThe strategies continue to be updated based on guidance from federal and state public health officials. Find a [summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response).",
             "source": "Editorial",
             "questions": [
                 "What is Vermont doing?",
@@ -2200,7 +2223,8 @@
                 "75 people",
                 "100 people",
                 "150 people",
-                "200 people"
+                "200 people",
+                "current maximum gathering"
             ],
             "metadata": [
                 {
@@ -2593,7 +2617,7 @@
         },
         {
             "id": 4602,
-            "answer": "**Can people who recover from COVID-19 be infected again?**The immune response to COVID-19 is not yet understood. Patients with another type of coronavirus, MERS-CoV (also known as MERS) are unlikely to be re-infected shortly after they recover, but it is not yet known whether this is true for people sick from COVID-19.",
+            "answer": "**Can people who recover from COVID-19 be infected again?**\n\nIt is not yet known if people who recover from COVID-19 can get infected again. \n\nThere is also no evidence that people who have recovered from COVID-19 can infect others.",
             "source": "Editorial",
             "questions": [
                 "Can people who recover from COVID-19 be infected again?",
@@ -2784,7 +2808,7 @@
         },
         {
             "id": 4608,
-            "answer": "**Can I use reusable grocery bags?**\n\nYes, people can continue to use reusable grocery bags. However, some stores are choosing to no longer allow reusable bags and containers at this time. Check with your local store for their current policies.\n\nAfter July 1, stores and food service establishments will no longer provide plastic bags at check-out. You’ll have the option to purchase paper bags for 10 cents each or use reusable bags. If a store has temporarily banned reusable bags, consider putting your groceries back into your cart and bag them at your car. Some stores and food establishments may still offer plastic bags after July 1 since they are allowed to use the ones they currently have in stock until they are gone.\n\nCurrent evidence suggests that the COVID-19 virus may live for hours to days on surfaces made from a variety of materials. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads. It is important to remember to wash your hands before you eat and to avoid touching your face. \n\nMake sure you clean your reusable bags regularly, which can also help prevent illnesses from bacteria, such as _E.coli_, that are from meat and unwashed fruits and vegetables.\n\nFind more information and tips about the [single-use plastics ban](https://dec.vermont.gov/content/single-use-products-law) from the Department of Environmental Conservation.",
+            "answer": "**Can I use reusable grocery bags?**\n\nYes, people can continue to use reusable grocery bags. However, some stores are choosing to no longer allow reusable bags and containers at this time. Check with your local store for their current policies.\n\nStores and food service establishments no longer provide plastic bags at check-out. You have the option to purchase paper bags for 10 cents each or use reusable bags. If a store has temporarily banned reusable bags, consider putting your groceries back into your cart and bag them at your car. Some stores and food establishments may still offer plastic bags after July 1 since they are allowed to use the ones they currently have in stock until they are gone.\n\nCurrent evidence suggests that the COVID-19 virus may live for hours to days on surfaces made from a variety of materials. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads. It is important to remember to wash your hands before you eat and to avoid touching your face.\n\nMake sure you clean your reusable bags regularly, which can also help prevent illnesses from bacteria, such as _E.coli_, that are from meat and unwashed fruits and vegetables.\n\nFind more information and tips about the [single-use plastics ban](https://dec.vermont.gov/content/single-use-products-law) from the Department of Environmental Conservation.",
             "source": "Editorial",
             "questions": [
                 "Can I use my reusable grocery bags?",
@@ -2970,7 +2994,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "What if I work in a different state?",
@@ -3037,7 +3061,12 @@
                 "Are there any travel restrictions to Vermont?",
                 "quarantine for 2 wks if visiting Vermont",
                 "where do I quarantine",
-                "can i go to Vermont to swim for the day?"
+                "can i go to Vermont to swim for the day?",
+                "We plan to vacation in VT",
+                "out of state visitors",
+                "what are the guidelines for out of state visitors",
+                "Travel from New York City to Burlington",
+                "Travel by airplane from New York City "
             ],
             "metadata": [
                 {
@@ -3567,7 +3596,7 @@
         },
         {
             "id": 4629,
-            "answer": "**What does the Be Smart, Stay Safe Order mean for Vermonters?**\n\nUnder the Governor’s executive order extension — [Be Smart, Stay Safe](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2014%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) — Vermonters are encouraged to limit their exposure to the COVID-19 virus outside their homes as much as possible.\n\nVermonters should travel only as needed:\n\n*   For personal safety, medical care and care of others\n*   For work, although all workers should continue to work remotely whenever possible\n*   For shopping and services available at all businesses and non-profit and government entities determined to be critical and those which have been authorized to resume operations\n*   To get fresh air and exercise by taking advantage of outdoor recreation and outdoor fitness activities that require low or no direct physical contact\n*   For in-state stays at available lodging, campground and marina facilities\n\nVermonters should follow health and safety precautions to help keep the virus from spreading by:\n\n*   Staying home and away from others if you are sick with COVID-19, have recently been exposed to someone who has COVID-19, or just don’t feel well.\n*   Keeping a physical distance of at least 6 feet away from others (except for those you live with).\n*   Washing or sanitizing your hands often.\n*   Wearing a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) in public settings when a physical distance of at least 6 feet is difficult to maintain (for example, at a grocery store or on a crowded sidewalk or bike path).\n*   Coughing and sneezing into your elbow (even when wearing a face covering).\n*   Limiting travel to within Vermont to the extent possible and when you do travel, limit non-essential stops.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. They should consider [taking additional steps to limit their risk](https://apps.health.vermont.gov/COVID/faq/#4559).\n\nLearn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf). These recommended practices will help you weigh the risk and plan accordingly.\n\nRead the latest updates to the [Be Smart, Stay Safe Order](http://governor.vermont.gov/document-types/executive-orders).\n\nThe Agency of Commerce and Community Development has [resources for individuals](https://accd.vermont.gov/covid-19/individuals) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance) for details on which businesses are open.",
+            "answer": "**What does the Be Smart, Stay Safe Order mean for Vermonters?**\n\nUnder the Governor’s executive order extension — [Be Smart, Stay Safe](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%2014%20TO%20EXECUTIVE%20ORDER%2001-20.pdf) — Vermonters are encouraged to limit their exposure to the COVID-19 virus outside their homes as much as possible.\n\nVermonters should travel only as needed:\n\n*   For personal safety, medical care and care of others\n*   For work, although all workers should continue to work remotely whenever possible\n*   For shopping and services available at all businesses and non-profit and government entities determined to be critical and those which have been authorized to resume operations\n*   To get fresh air and exercise by taking advantage of outdoor recreation and outdoor fitness activities that require low or no direct physical contact\n*   For in-state stays at available lodging, campground and marina facilities\n\nVermonters should follow health and safety precautions to help keep the virus from spreading by:\n\n*   Staying home and away from others if you are sick with COVID-19, have recently been exposed to someone who has COVID-19, or just don’t feel well.\n*   Keeping a physical distance of at least 6 feet away from others (except for those you live with).\n*   Washing or sanitizing your hands often.\n*   Wearing a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) in public settings when a physical distance of at least 6 feet is difficult to maintain (for example, at a grocery store or on a crowded sidewalk or bike path).\n*   Coughing and sneezing into your elbow (even when wearing a face covering).\n*   Limiting travel to within Vermont, or to [places that have been identified as low risk](https://accd.vermont.gov/covid-19/restart/cross-state-travel), as much as possible and limiting non-essential stops when you do travel.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. They should consider [taking additional steps to limit their risk](https://apps.health.vermont.gov/COVID/faq/#4559).\n\nLearn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf). These recommended practices will help you weigh the risk and plan accordingly.\n\nRead the latest updates to the [Be Smart, Stay Safe Order](http://governor.vermont.gov/document-types/executive-orders).\n\nThe Agency of Commerce and Community Development has [resources for individuals](https://accd.vermont.gov/covid-19/individuals) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance) for details on which businesses are open.",
             "source": "Editorial",
             "questions": [
                 "Stay at home order",
@@ -3695,7 +3724,7 @@
         },
         {
             "id": 4632,
-            "answer": "**I have questions about financial assistance and housing.**\n\nThe Agency of Commerce and Community Development has answers to questions regarding financial assistance (for example mortgage, utility bills, internet, and taxes) and housing (for example, paying rent, short-term housing and emergency housing) on its [COVID-19 Resource Recovery Center](https://accd.vermont.gov/covid-19/individuals).",
+            "answer": "**I have questions about financial assistance and housing.**\n\nThe Agency of Commerce and Community Development has answers to questions regarding financial assistance (for example mortgage, utility bills, internet, and taxes) and housing (for example, paying rent, short-term housing and emergency housing) on its [COVID-19 Resource Recovery Center](https://accd.vermont.gov/covid-19/individuals).\n\nHousing assistance programs for those affected by COVID-19 are available. Find information on [rental assistance](http://www.vsha.org/rental-housing-stabilization-program) and [mortgage assistance](https://www.vhfa.org/)",
             "source": "Editorial",
             "questions": [
                 "I have questions about financial assistance and housing.",
@@ -3854,7 +3883,7 @@
         },
         {
             "id": 4637,
-            "answer": "**Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you work in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel, and you do not need to quarantine.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred.\n\nLearn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind out more about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
+            "answer": "**Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?**\n\nNo. If you work in a neighboring state, or if you need to drop off or pick up children from court-ordered parental visits, for example, that is considered essential travel, and you do not need to quarantine.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred.\n\nLearn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind out more about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
             "source": "Editorial",
             "questions": [
                 "Can I travel to NH for work?",
@@ -4166,7 +4195,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at no cost at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options. \n\n[Registration for pop-up testing is required](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19). People who do not have internet access and want to register at a pop-up testing site can call 2-1-1 for help with registration. For pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nYou will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care provider uses a long swab to collect a sample from the back of the nose and throat. A limited supply of nasal swabs may be available for children or other priority groups, where a health care provider uses a short swab to collect a sample from the front of the nose. These tests will tell you if you have a current infection. They are not a serology/antibody test, which means the test will not tell you if you were infected in the past.\n\nSome pharmacies may offer testing at no cost for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\nFind more information about [testing and testing locations](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19). \n\nSome commercial businesses may offer other testing opportunities. You can contact them directly for more information.",
+            "answer": "**Where can I get tested for COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider for a referral. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for a referral to a test site. If you are having a medical emergency, call 9-1-1 or go to the hospital.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and [what to do while you’re waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/HS-ID-COVID19-Waiting-For-Test-Results-Handout.pdf).\n\n**Pop-up Testing Sites and Pharmacy Testing Locations**\n\nAny person without symptoms who lives or works in Vermont can be tested at no cost at a pop-up testing site without a doctor’s referral. This includes people who live in a neighboring state and work in Vermont, second homeowners, and college students. Children under 12 months cannot be tested at a pop-up testing site. Please talk to your child’s doctor about testing options.\n\n[Register to guarantee your spot](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19). People who do not have internet access and want to register at a pop-up testing site can call 2-1-1 for help with registration. For pop-up testing site registration questions and issues, call 802-828-2828. If you need transportation to a pop-up testing site, please call 833-387-7200 at least two days before your scheduled appointment.\n\nYou will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.\n\nThe test is a nasopharyngeal swab, or NP swab, where a health care provider uses a long swab to collect a sample from the back of the nose and throat. A limited supply of nasal swabs may be available for children or other priority groups, where a health care provider uses a short swab to collect a sample from the front of the nose. These are known as PCR tests will tell you if you have a current infection. They are not a serology/antibody test, which means the test will not tell you if you were infected in the past.\n\nSome pharmacies may offer testing at no cost for people without symptoms. Call the pharmacy first to see if testing is offered and to schedule an appointment.\n\nFind more information about [testing and testing locations](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19).\n\nSome commercial businesses may offer other testing opportunities. You can contact them directly for more information.",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -4295,7 +4324,10 @@
                 "How do I file a complaint",
                 "refusing to quarentine",
                 "refusing to quarantine",
-                "report restaurant violations of Covid guidelines "
+                "report restaurant violations of Covid guidelines ",
+                "How do I report a business that is not following regulations",
+                "staff do not wear masks",
+                "not following required Covid-19 regulations"
             ],
             "metadata": [
                 {
@@ -4537,18 +4569,13 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4547,
-                        "displayText": "How long is the turnaround for testing?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4671,
+                        "displayText": "What is a PCR test?"
                     }
                 ]
             }
@@ -4618,7 +4645,8 @@
                 "work from home",
                 "directive to work at home if possible",
                 "Employees may have been exposed",
-                "Employee may have been exposed"
+                "Employee may have been exposed",
+                "Should gyms require face masks?"
             ],
             "metadata": [
                 {
@@ -4784,7 +4812,7 @@
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are returning to your second or seasonal home in Vermont, you may be required to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. You are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel)with low rates of active cases, you do not need to quarantine.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are returning to your second or seasonal home in Vermont, you may be required to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "I have a second home or a seasonal home in Vermont. Can I come to Vermont?",
@@ -5072,17 +5100,22 @@
         },
         {
             "id": 4671,
-            "answer": "**How accurate is the test for COVID-19?**\n\nThe test used by the Vermont Department of Health Laboratory has a sensitivity rate of 95%, which means the test correctly gives a positive result 95% of the time. Sensitivity rates may be different at other labs.",
+            "answer": "**What is a PCR test?**\n\nA PCR test is the most common type of COVID-19 test used today. PCR stands for polymerase chain reaction. The test identifies people who are currently infected with the COVID-19 virus.\n\nPCR tests are generally the most reliable tests. Samples are analyzed at a lab, which usually takes up to a few days. A PCR test is used at pop-up testing sites offered by the Health Department.\n\n[Data on COVID-19 activity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) reported by the Health Department includes only PCR tests.\n\nThe PCR test used by the Vermont Department of Health Laboratory has a sensitivity rate of 95%, which means the test correctly gives a positive result 95% of the time. Sensitivity rates may be different at other labs.",
             "source": "Editorial",
             "questions": [
                 "How accurate is the test for COVID-19?",
                 "False negative test results",
-                "accuracy rate"
+                "accuracy rate",
+                "What is a PCR test?"
             ],
             "metadata": [
                 {
                     "name": "category",
                     "value": "testing"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "types of tests"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5093,6 +5126,11 @@
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4654,
+                        "displayText": "What is serologic, or antibody, testing?"
                     }
                 ]
             }
@@ -5170,7 +5208,7 @@
         },
         {
             "id": 4674,
-            "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days. Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
+            "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days. Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
             "source": "Editorial",
             "questions": [
                 "What do I do if I'm a close contact of someone who is waiting for their test results?",
@@ -5481,7 +5519,7 @@
         },
         {
             "id": 4683,
-            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nSince late April, we have been able to conduct about 1,000 tests a day – or 7,000 tests a week. With more testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A Testing and Tracing Task Force was created to guide and oversee this process.\n\nTesting is currently available for:\n\n*   Any adult or child with symptoms of COVID-19 – even if their symptoms are mild – who has been referred for testing by their doctor.\n*   Long-term care facilities and other group living settings:\n    *   All residents and staff in group living settings, where there has been a single positive test. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n    *   If there is a person who has tested positive with COVID-19 at a skilled nursing facility, they can be retested at 3 days, 7 days, 10 days and 14 days after the initial test. This is to help prevent community-wide outbreaks.\n    *   For all sites, regardless of whether a person has tested positive, testing is offered at intake, discharge, and for certain residents who require regular care outside of the facility.\n*   Staff at correctional facilities\n*   Any Vermonter without symptoms can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/resources#testing) without a doctor’s referral, but registration for testing is required. Regular test collection locations still require a doctor’s referral.\n*   Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine can be tested. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
+            "answer": "**Who is getting tested for COVID-19 in Vermont?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19), call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local [community or hospital-connected clinic](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) for referral to a test site.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild.\n\nSince late April, we have been able to conduct about 1,000 tests a day – or 7,000 tests a week. With more testing we are likely to see a rise in positive cases, and we are prepared to handle such a scenario. A Testing and Tracing Task Force was created to guide and oversee this process.\n\nTesting is currently available for:\n\n*   Any adult or child with symptoms of COVID-19 – even if their symptoms are mild – who has been referred for testing by their doctor.\n*   Long-term care facilities and other group living settings:\n    *   All residents and staff in group living settings, where there has been a single positive test. This includes nursing homes, assisted living facilities, prisons, and certain high-density residential buildings.\n    *   If there is a person who has tested positive with COVID-19 at a skilled nursing facility, they can be retested at 3 days, 7 days, 10 days and 14 days after the initial test. This is to help prevent community-wide outbreaks.\n    *   For all sites, regardless of whether a person has tested positive, testing is offered at intake, discharge, and for certain residents who require regular care outside of the facility.\n*   Staff at correctional facilities\n*   Any Vermonter without symptoms can be tested at a [pop-up testing site](https://www.healthvermont.gov/response/coronavirus-covid-19/resources#testing) without a doctor’s referral, but registration for testing is required. Regular test collection locations still require a doctor’s referral.\n*   Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine can be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
             "source": "Editorial",
             "questions": [
                 "Who is getting tested for COVID-19 in Vermont?",
@@ -5551,7 +5589,7 @@
         },
         {
             "id": 4690,
-            "answer": "**Can I get together with friends and family?**\n\nVermonters can get together with friends and family, but should keep groups small whenever possible to limit any possible exposure, and follow health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nChoose other trusted households that are also taking health and safety precautions. A trusted household is one that has taken seriously the importance of following the general precautions in their day-to-day lives: wearing a cloth face mask or covering, keeping a 6-foot distance from others, washing their hands often, and staying home if they are sick.\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of the virus. .\n\nTo keep COVID-19 from spreading, we must continue to:\n\n*   Wear a cloth face mask or covering over your nose and mouth.\n*   Stay home and away from others if you are sick with COVID-19, have recently been exposed to someone who has COVID-19, or just don’t feel well.\n*   Keep a 6-foot distance from others when you meet people outside of your household.\n*   Wash your hands frequently (use hand sanitizer with at least 60% alcohol when soap and water are not available).\n*   Cough and sneeze into your elbow (even if you are wearing a cloth face mask or covering).\n*   Limiting travel to within Vermont to the extent possible and when you do travel, limit non-essential stops.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. They should stay close to home, and family and friends should do everything they can to help keep them safe.",
+            "answer": "**Can I get together with friends and family?**\n\nVermonters can get together with friends and family. There are no group size limits to social gatherings and parties that are not held at [event venues](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#event-venues). However, we recommend keeping groups small whenever possible to limit any possible exposure to the virus, and following these general precautions: wearing a cloth face mask or covering, keeping a 6-foot distance from others, washing your hands often, and staying home if you are sick. Learn more about how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nChoose other trusted households that are also taking health and safety precautions. A trusted household is one that has taken seriously the importance of following the general precautions in their day-to-day lives.\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of the virus.\n\nTo keep COVID-19 from spreading, we must continue to:\n\n*   Wear a cloth face mask or covering over your nose and mouth.\n*   Stay home and away from others if you are sick or have recently been exposed to someone who has COVID-19.\n*   Keep a 6-foot distance from others who are not part of your household.\n*   Wash your hands frequently (use hand sanitizer with at least 60% alcohol when soap and water are not available).\n*   Cough and sneeze into your elbow (even if you are wearing a cloth face mask or covering).\n*   Limit travel to within Vermont, or to [places that have been identified as low risk](https://accd.vermont.gov/covid-19/restart/cross-state-travel), as much as possible and limit non-essential stops when you do travel.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. They should stay close to home, and family and friends should do everything they can to help keep them safe.",
             "source": "Editorial",
             "questions": [
                 "Can I get together with friends and family?",
@@ -5623,7 +5661,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. Talk to your health care provider to find out where to get tested. If you do not have a health care provider, call 2-1-1. For travelers who are [completing quarantine in their home state](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont), your home state may offer testing for people without symptoms.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nFor anyone coming into Vermont, Day 1 is the day after you arrive in Vermont.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. If you do not have a health care provider, call 2-1-1. [Sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nFor **close contacts** of people who have tested positive:\n\n*   **If you are NOT able to completely physically separate yourself** from the person who tested positive – for example, you live in the same home – Day 1 of your quarantine is the day after they have ended their self-isolation.\n*   **If you are able to completely physically separate** from the person who tested positive – for example you do not live in the same home – Day 1 of your quarantine is the day after the last time you were in close contact with them.\n\nStudies have found most people will develop symptoms by Day 7. This why there is the option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nNew admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. The test must be a PCR test. Talk to your health care provider to find out where to get tested. If you do not have a health care provider, call 2-1-1. For travelers who are [completing quarantine in their home state](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont), your home state may offer testing for people without symptoms.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) during your quarantine period;\n*   You are tested on Day 7 or later;\n*   You remain in quarantine until the result comes back; AND\n*   You receive a negative test result and are still not having symptoms.\n\nFor anyone coming into Vermont, Day 1 is the day after you arrive in Vermont.\n\nHowever, if you end your quarantine period before 14 days, you must continue to monitor yourself for symptoms for the full 14 days. If you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. If you do not have a health care provider, call 2-1-1. [Sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nFor **close contacts** of people who have tested positive:\n\n*   **If you are NOT able to completely physically separate yourself** from the person who tested positive – for example, you live in the same home – Day 1 of your quarantine is the day after they have ended their self-isolation.\n*   **If you are able to completely physically separate** from the person who tested positive – for example you do not live in the same home – Day 1 of your quarantine is the day after the last time you were in close contact with them.\n\nStudies have found most people will develop symptoms by Day 7. This why there is the option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nNew admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
@@ -5902,7 +5940,8 @@
             "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nIf you are hosting travelers under quarantine in your home or lodging, you do not also need to quarantine. If you are sharing space, stay at least 6 feet from the people under quarantine. People under quarantine should wear a mask in common spaces. Disinfect commonly touched surfaces and check for symptoms for 14 days.\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nCheck the Health Department’s webpage for [information for travelers to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). They can get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
-                "Do I need to quarantine if out-of-state visitors are staying in my home?"
+                "Do I need to quarantine if out-of-state visitors are staying in my home?",
+                "if someone comes to visit me from out of state"
             ],
             "metadata": [
                 {
@@ -6032,45 +6071,6 @@
             }
         },
         {
-            "id": 4710,
-            "answer": "**I’d like to end my quarantine early. When will I get my test results?**\n\nAny person under quarantine who has had no symptoms during the first 7 days of quarantine, has the option of being tested at a pop-up testing site. You will get a call from the Health Department when your results are ready, which is usually within 2 to 4 days, if not sooner. You will also get a letter in the mail within 7 days of being tested.",
-            "source": "Editorial",
-            "questions": [
-                "I’d like to end my quarantine early. When will I get my test results?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "symptoms and sickness"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "How is Vermont deciding when it is safe to reopen?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
             "id": 4713,
             "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a newer type test that identifies people who are currently infected with the COVID-19 virus. According to the CDC and the Association of Public Health Laboratories, antigen tests are only recommended for people who have symptoms of COVID-19. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms. More studies are required before antigen testing can be recommended for people without symptoms of COVID-19. \n\nAntigen tests provide results much more quickly than PCR tests (the most common type of test used to diagnose and confirm COVID-19 infection). When used appropriately to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests may be used to screen people to identify those who need a more definitive test.\n\nWe are monitoring how these antigen tests evolve and how results can best be used. Right now, people who test positive from antigen tests are not considered to have a lab-confirmed case of COVID-19 and are not included in our total number of cases. However, we consider these cases “presumptive positives” and recommend they follow the same guidelines as a positive case to stay home (self-isolate). We also conduct contact tracing and recommend a PCR test to confirm the positive result.\n\nAntigen tests are different from antibody (serologic) tests, which identify people who have previously been infected with the coronavirus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food & Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
             "source": "Editorial",
@@ -6095,6 +6095,70 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4654,
+                        "displayText": "What is serologic, or antibody, testing?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4671,
+                        "displayText": "What is a PCR test?"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4714,
+            "answer": "**Why is it okay to end quarantine after seven days with a negative test result?**\n\nStudies have found most people will develop symptoms by Day 7. This why there is the option for people to be tested at Day 7 or after in their quarantine and, if the test is negative, to end quarantine. The test must be a PCR test.",
+            "source": "Editorial",
+            "questions": [
+                "Why is it okay to end quarantine after seven days with a negative test result?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "symptoms and sickness"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "isolation, quarantine and self-observation"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4717,
+            "answer": "**Are there any travel restrictions if I am traveling through Vermont?**\n\nIf you are only traveling through and not staying in Vermont (for example, driving through Vermont to another state, flying to Vermont and immediately picking up a rental car to drive to another state), there are no quarantine or other restrictions you need to follow. If you need to make stops in Vermont or are otherwise not in a vehicle while you are traveling through Vermont, please follow these general precautions to help prevent the spread of the virus: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often.",
+            "source": "Editorial",
+            "questions": [
+                "Are there any travel restrictions if I am traveling through Vermont?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
