@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52251621-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-52251621-2');
+        </script>
+
+        <script type="application/ld+json">
+            {% ldJson %}
+        </script>
+
+        {# Meta Tags #}
+        {% include "meta.njk" %}
+
+        {# Google Fonts #}
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
+        {# Styles #}
+        <link href="/assets/styles.css?v=7" rel="stylesheet">
+
+    </head>
+
+    <body class="no-js {% if type == 'diff' %} show-diff {% endif %}" >
+
+        {# content appended to body should not use display grid #}
+
+        <div class="page">
+
+            {{ content | safe }}
+
+        </div>
+
+
+        <script src="/assets/mark.js"></script>
+        <script src="/assets/details-polyfill.js"></script>
+        <script src="/assets/polyfill.js"></script>
+        <script src="/assets/synonyms.js?v=3"></script>
+        <script src="/assets/script.js?v=9"></script>
+
+    </body>
+
+</html>

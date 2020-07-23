@@ -1,0 +1,72 @@
+---
+permalink: "/direct/index.html"
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>
+        VDH COVID-19 Direct
+        <!-- conditionally render title -->
+        {% if env.ELEVENTY_ENV != 'prod' %} TEST {% endif%}
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Conditionally render meta -->
+    <meta name="robots" content="nofollow">
+
+    <style>
+        html,
+        body,
+        #webchat {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        /* wrap long answer text */
+
+        .ac-actionSet .ac-pushButton>div {
+            overflow: visible !important;
+            text-overflow: initial !important;
+            white-space: normal !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="webchat" role="main"></div>
+
+    <!-- TODO: find versioned cdn for webchat.js -->
+    <script crossorigin="anonymous" src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+
+    <script>
+        // iife - immediately invoked function expression
+        (function() {
+            let token = "{{env.BotToken}}"
+            // conditionally add token
+            window.WebChat.renderWebChat({
+                    directLine: window.WebChat.createDirectLine({
+                        token: token,
+                    }),
+                    locale: "en-US",
+                    botAvatarInitials: "VDH",
+                    userAvatarInitials: "ME",
+                    styleOptions: {
+                        hideUploadButton: true,
+                        accent: "#0171a1",
+                        botAvatarImage: "https://www.healthvermont.gov/sites/all/themes/vdh/favicon.ico",
+                    },
+                },
+                document.getElementById("webchat")
+            );
+
+            document.querySelector('#webchat input').focus()
+        })()
+    </script>
+</body>
+
+</html>

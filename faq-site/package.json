@@ -23,10 +23,13 @@
         "list-changes": "node cli/_index -- list-changes",
         "fix-data": "node cli/_index -- fix-data",
 
+        "build-test": "npx cross-env ELEVENTY_ENV=test npx @11ty/eleventy",
+        "build-prod": "npx cross-env ELEVENTY_ENV=prod npx @11ty/eleventy",
         "deploy-faq-test": "node cli/_index -- deploy-faq \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
         "deploy-faq-prod": "node cli/_index -- deploy-faq \\\\vdhwebapps-prod\\C$\\VDHApplications\\COVID\\faq\\",
-        "deploy-faq": "npm run deploy-faq-test && npm run deploy-faq-prod",
-        "predeploy-faq": "npm run build"
+        "predeploy-faq-test": "npm run build-test",
+        "predeploy-faq-prod": "npm run build-prod",
+        "deploy-faq": "npm run deploy-faq-test && npm run deploy-faq-prod"
     },
     "keywords": [],
     "author": "",

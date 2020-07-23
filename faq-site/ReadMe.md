@@ -7,15 +7,15 @@ permalink: /faq-site/
 
 ## Built With
 
-- [11ty/Eleventy](https://www.11ty.io) - static site generation
-- [nunjucks](https://mozilla.github.io/nunjucks/) - templating
+* [11ty/Eleventy](https://www.11ty.io) - static site generation
+* [nunjucks](https://mozilla.github.io/nunjucks/) - templating
 
 ## Project Setup
 
-- Install [Node.js & NPM](https://nodejs.org/en/download/)
-- Run `npm install` in the project directory to install local dependencies
-- Run `npm run serve` to run a local dev environment
-- Access dev copy of the site at [localhost:8080](http://localhost:8080)
+* Install [Node.js & NPM](https://nodejs.org/en/download/)
+* Run `npm install` in the project directory to install local dependencies
+* Run `npm run serve` to run a local dev environment
+* Access dev copy of the site at [localhost:8080](http://localhost:8080)
 
 ### Environment Variables
 
@@ -36,9 +36,10 @@ RuntimeApiKey=***
 Endpoint=https://***.cognitiveservices.azure.com
 OcpApimSubscriptionKey=***
 environment=prod
+BotToken=***
 ```
 
-Choose which environment file to use by setting an environemtn variable named `AZURE_ENVIRONMENT` before running.  You can set the value in the following locations:
+Choose which environment file to use by setting an environment variable named `AZURE_ENVIRONMENT` before running.  You can set the value in the following locations:
 
 * **Debug** - `.vscode/launch.json`
 * **Run** - `package.json` > `scripts`
@@ -147,44 +148,55 @@ npm run deploy-kb
 
 ## // TODO
 
-- [ ] script site publish
-- [ ] Don't display Empty subcategory
-- [ ] check for follow-up prompt generated duplicates (leviathan distance?)
-- [ ] only write synonyms if file's changed
-- [ ] #18 show revision history
-- [ ] #26 update timestamp from KB modified time, not build time #26
-- [ ] #37 add toggle for TOC on mobile
-- [ ] #17 expand / collapse all
-- [ ] #20 low-perf debouncing
-- [ ] add deep links to filter and each fragment URI
-- [ ] sort title vs body match & reset position when clearing filter
-- [ ] fix [tel:211]
-- [ ] social meta tags
-- [ ] determine multiple env for config (workaround comment out)
-- [x] contain page action buttons to main area when scrolled to bottom
-- [x] #49 add remove filter button
-- [x] fix focus styles
-- [x] #39 add back to top button
-- [x] #40 guarantee unique IDs for subcategories
-- [x] handle no js
-- [x] subcategories sort override (symptoms, sick, monitor)
-- [x] add tooltip to abbreviations
-- [x] title case subcategories
-- [x] rename category abbrev (VT -> Vermont)
-- [x] #36 polyfill summary detail
-- [x] #24 add linter
-- [x] add subcategories
-- [x] #25 add synonyms to mark.js
-- [x] #18 add toc overview
-- [x] #22 add telemetry from search terms
-- [x] add VDH logo / branding
-- [x] test for questions missing a category
-- [x] add timestamp
-- [x] add topics
-- [x] filter out "This did not answer my question"
-- [x] figure out async await for fs.writeFile
-- [x] update data live api
-- [x] fix mark.js failing
-- [x] fix encoding â€™
-- [x] get primary question from answer markdown
-- [x] conditionally hide alt phrasings when not search hits
+* [ ] script site publish
+* [ ] Don't display Empty subcategory
+* [ ] check for follow-up prompt generated duplicates (leviathan distance?)
+* [ ] only write synonyms if file's changed
+* [ ] #18 show revision history
+* [ ] #26 update timestamp from KB modified time, not build time #26
+* [ ] #37 add toggle for TOC on mobile
+* [ ] #17 expand / collapse all
+* [ ] #20 low-perf debouncing
+* [ ] add deep links to filter and each fragment URI
+* [ ] sort title vs body match & reset position when clearing filter
+* [ ] fix [tel:211]
+* [ ] social meta tags
+
+## // ToDone
+
+* [x] determine multiple env for config (workaround comment out)
+* [x] contain page action buttons to main area when scrolled to bottom
+* [x] #49 add remove filter button
+* [x] fix focus styles
+* [x] #39 add back to top button
+* [x] #40 guarantee unique IDs for subcategories
+* [x] handle no js
+* [x] subcategories sort override (symptoms, sick, monitor)
+* [x] add tooltip to abbreviations
+* [x] title case subcategories
+* [x] rename category abbrev (VT -> Vermont)
+* [x] #36 polyfill summary detail
+* [x] #24 add linter
+* [x] add subcategories
+* [x] #25 add synonyms to mark.js
+* [x] #18 add toc overview
+* [x] #22 add telemetry from search terms
+* [x] add VDH logo / branding
+* [x] test for questions missing a category
+* [x] add timestamp
+* [x] add topics
+* [x] filter out "This did not answer my question"
+* [x] figure out async await for fs.writeFile
+* [x] update data live api
+* [x] fix mark.js failing
+* [x] fix encoding â€™
+* [x] get primary question from answer markdown
+* [x] conditionally hide alt phrasings when not search hits
+
+
+## Web Chat Client
+
+* [Web chat customization](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-webchat-customization?view=azure-bot-service-4.0)
+* [JavaScript client builder](https://github.com/Microsoft/BotFramework-WebChat/)
+* [API](https://github.com/microsoft/BotFramework-WebChat/blob/master/docs/API.md)
+* [style options](https://github.com/microsoft/BotFramework-WebChat/blob/master/packages/component/src/Styles/defaultStyleOptions.js)
