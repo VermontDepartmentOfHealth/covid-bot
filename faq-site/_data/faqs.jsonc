@@ -217,7 +217,12 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 9,
+                        "displayOrder": 0,
+                        "qnaId": 4602,
+                        "displayText": "Can people who recover from COVID-19 be infected again?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -554,7 +559,8 @@
                 "When should you get tested for the virus?",
                 "Have the qualifications for testing changed?",
                 "Testing available",
-                "covid-19 testing"
+                "covid-19 testing",
+                "can you take a test here?"
             ],
             "metadata": [
                 {
@@ -819,7 +825,8 @@
                 "What should schools, child care and summer programs in Vermont do?",
                 "teach local children",
                 "summer camp",
-                "child in daycare"
+                "child in daycare",
+                "school children"
             ],
             "metadata": [
                 {
@@ -2114,7 +2121,9 @@
             "questions": [
                 "Where can I find additional resources?",
                 "what resources are available",
-                "Where can I get more information?"
+                "Where can I get more information?",
+                "posters",
+                "sinage"
             ],
             "metadata": [
                 {
@@ -2254,7 +2263,8 @@
                 "Are bars and restaurants open?",
                 "can I go out to eat",
                 "occupancy of restaurants",
-                "bars"
+                "bars",
+                "outside dining "
             ],
             "metadata": [
                 {
@@ -2613,7 +2623,10 @@
                 "second positive",
                 "reinfection",
                 "re-infection",
-                "Are there re-infections of Covid-19"
+                "Are there re-infections of Covid-19",
+                "get the virus a second time",
+                "get the virus more than one time",
+                "can you be reinfected"
             ],
             "metadata": [
                 {
@@ -2728,7 +2741,8 @@
                 "screening health care providers",
                 "guidelines for health care services",
                 "nurse",
-                "healthcare providers"
+                "healthcare providers",
+                "what do staff need to wear when doing testing"
             ],
             "metadata": [
                 {
@@ -2981,7 +2995,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: wear a cloth face mask or covering, keep a 6-foot distance from others, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
                 "QnaId4615"
@@ -4524,7 +4538,8 @@
                 "directive to work at home if possible",
                 "Employees may have been exposed",
                 "Employee may have been exposed",
-                "Should gyms require face masks?"
+                "Should gyms require face masks?",
+                "guidelines for offices"
             ],
             "metadata": [
                 {
@@ -5562,6 +5577,11 @@
                     },
                     {
                         "displayOrder": 0,
+                        "qnaId": 4601,
+                        "displayText": "When can I stop self-isolating (home isolation)?"
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -6040,7 +6060,7 @@
         },
         {
             "id": 4718,
-            "answer": "It looks like you are asking about **Travel**, please select one of the topics below.",
+            "answer": "**It looks like you are asking about** **Travel, please select one of the topics below.**",
             "source": "Editorial",
             "questions": [
                 "Top level travel question",
