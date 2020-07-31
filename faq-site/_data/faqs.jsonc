@@ -647,11 +647,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4674,
-                        "displayText": "What do I do if I'm a close contact of someone who is waiting for their test results?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4683,
                         "displayText": "Who is getting tested for COVID-19 in Vermont?"
                     },
@@ -1054,7 +1049,7 @@
         },
         {
             "id": 4560,
-            "answer": "**What do I do if I think I had close contact with someone who has COVID-19?**\n\nIf someone tests positive for COVID-19, they are contacted by the Health Department. They are asked questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than 6 feet apart for a long time while the person was infectious.) This is called contact tracing. \n\nIf the Health Department determines that you were a close contact of the person who tested positive, then the Health Department will call you to tell you [what you need to do](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf). \n\nIf the Health Department determines you are **not** a close contact, then you will not be called. You can continue to take the general precautions to slow the spread of the virus: wear a [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf), keep a 6-foot distance from others you do not live with, wash your hands often, and stay home if you are sick.",
+            "answer": "**What do I do if I think I had close contact with someone who has COVID-19?**\n\nIf someone tests positive for COVID-19, they are contacted by the Health Department. They are asked questions about their activities within a certain timeframe – to help identify anyone they had close contact with. (Close contact means being closer than 6 feet apart for a long time while the person was infectious. Other factors, such as the nature of the contact with the person, can influence who is determined a close contact.) This is called contact tracing.\n\nIf the Health Department determines that you were a close contact of the person who tested positive, then the Health Department will call you to tell you [what you need to do](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf the Health Department determines you are **not** a close contact, then you will not be called. While contact tracers work to identify all close contacts, all might not be identified. If you think that you might be a close contact but didn't get a call from the Health Department, you may take precautions by quarantining for 14 days since the last day you were in contact with that person, and get tested on day 7 or after if you have not had any symptoms.\n\nIf you are not a close contact of a person who tested positive, you can continue to take the general precautions to slow the spread of the virus: wear a [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf), keep a 6-foot distance from others you do not live with, wash your hands often, and stay home if you are sick.",
             "source": "KB-COVID",
             "questions": [
                 "What if I think I was exposed?",
@@ -1109,11 +1104,6 @@
                         "displayOrder": 0,
                         "qnaId": 4656,
                         "displayText": "What should businesses do to protect workers and customers?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4674,
-                        "displayText": "What do I do if I'm a close contact of someone who is waiting for their test results?"
                     },
                     {
                         "displayOrder": 0,
@@ -1758,38 +1748,6 @@
             }
         },
         {
-            "id": 4582,
-            "answer": "**Can the Health Department provide documentation that I can go to work?**\n\nNo, the Health Department cannot provide documentation for people to go to work or to stay home.",
-            "source": "Editorial",
-            "questions": [
-                "Can the Health Department provide documentation that I can go to work?",
-                "Can you certify that I can go to work?",
-                "Can the Health Department certify that I can work?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "work and employees"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4656,
-                        "displayText": "What should businesses do to protect workers and customers?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
             "id": 4583,
             "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, staying home is still the best way to lower our risk of COVID-19, but many of us are eager to take small steps to safely see our friends and family again. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nEven though the risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions, young people can also get sick. The virus can spread even if a person does not have any symptoms. Taking health and safety precautions protects everyone and helps slow the spread of this virus. Everyone should wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf), keep a 6-foot distance from others, wash your hands often, and stay home if you are sick.",
             "source": "Editorial",
@@ -2420,7 +2378,7 @@
         },
         {
             "id": 4601,
-            "answer": "**When can I stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation under the following conditions:\n\n**If you will not have a test to determine if you are still contagious**, you can leave home after these three things have happened:\n\n*   you have had no fever for at least 24 hours without the use medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n**If you will be tested to determine if you are still contagious**, you can leave home after these three things have happened:\n\n*   you no longer have a fever (without the use medicine that reduces fevers) **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   you received two negative tests in a row, 24 hours apart.\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.",
+            "answer": "**When can I stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation under the following conditions:\n\n**If you had symptoms**, you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider:\n\n*   you have had no fever for at least 24 hours without the use medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n**If you did not have any symptoms**, you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nAfter stopping home isolation, continue to follow the general precautions to help keep the virus from spreading: [wear a cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf), keep a 6-foot distance from others you don’t live with, wash your hands often, and stay home if you are sick.",
             "source": "Editorial",
             "questions": [
                 "How long after being ill with Covid-19 does someone need to stay quarantined?",
@@ -2468,11 +2426,6 @@
                         "displayOrder": 0,
                         "qnaId": 4652,
                         "displayText": "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4655,
-                        "displayText": "I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?"
                     },
                     {
                         "displayOrder": 0,
@@ -3260,11 +3213,6 @@
                         "displayOrder": 0,
                         "qnaId": 4580,
                         "displayText": "Can you tell me more information about a patient with COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4674,
-                        "displayText": "What do I do if I'm a close contact of someone who is waiting for their test results?"
                     },
                     {
                         "displayOrder": 0,
@@ -4318,54 +4266,6 @@
             }
         },
         {
-            "id": 4655,
-            "answer": "**I tested positive for COVID-19 but I never had symptoms. When can I stop home isolation?**\n\nIf you didn’t have symptoms when you were tested, you may stop home isolation when at least 10 days have passed since the date of your first positive COVID-19 test.\n\nAfter stopping home isolation, continue to stay 6 feet away from others and wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) whenever other people are present.",
-            "source": "Editorial",
-            "questions": [
-                "I tested positive for COVID-19, but I never had symptoms. When can I stop home isolation?",
-                "Can I still infect others?",
-                "Can someone who has the Covid-19 antibodies still infect others?",
-                "I have been tested positive for Covid-19 virus. After my 14 days should I get retested?",
-                "how long after diagnosis"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "symptoms and sickness"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4641,
-                        "displayText": "How can I make my own homemade cloth face mask or covering?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4560,
-                        "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4534,
-                        "displayText": "What are the symptoms of COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
             "id": 4656,
             "answer": "**What should businesses do to protect workers and customers?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date [guidance and mandatory health and safety requirements](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others. Businesses and other entities may also post signage explaining their mask requirements and can deny entry or service to people who do not to wear a mask.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nMore resources are available from the Health Department:\n\n*   [Health resources for businesses and food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces)\n*   [What to do if an Employee Tests Positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the FDA.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
@@ -4937,36 +4837,6 @@
                         "qnaId": 4541,
                         "displayText": "Can pets get sick from COVID-19?"
                     },
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4674,
-            "answer": "**What do I do if I'm a close contact of someone who is waiting for their test results?**\n\nPeople can be contagious for up to 48 hours before showing symptoms, so you should quarantine for 48 hours or until the test results come back.\n\nIf the test results come back positive (the person has COVID-19), then you should continue to quarantine for 14 days. Anyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nIf the test results come back negative (the person does not have COVID-19), then you should start self-observation.\n\nRead the [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) chart for details.",
-            "source": "Editorial",
-            "questions": [
-                "What do I do if I'm a close contact of someone who is waiting for their test results?",
-                "Person in house tested for Covid-19 "
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "close contact"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
                     {
                         "displayOrder": 9,
                         "qnaId": 4533,
@@ -5697,10 +5567,10 @@
         },
         {
             "id": 4704,
-            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nIf you are hosting travelers under quarantine in your home or lodging, you do not also need to quarantine. If you are sharing space, stay at least 6 feet from the people under quarantine. People under quarantine should wear a mask in common spaces. Disinfect commonly touched surfaces and check for symptoms for 14 days.\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nCheck the Health Department’s webpage for [information for travelers to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). They can get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nIf you are hosting travelers under quarantine in your home or lodging, you do not also need to quarantine. If you are sharing space, stay at least 6 feet from the people under quarantine. People under quarantine should wear a mask in common spaces. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nVisitors from counties in New York and New England with low numbers of active infections do not need to quarantine. Read the [travel guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Vermont-Visitors-and-Returning-Travelers.pdf) and check the [map of approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel), which is updated weekly.\n\nCheck the Health Department’s webpage for [information for travelers to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). They can get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
             "source": "Editorial",
             "questions": [
-                "are staying in my home?"
+                "Do I need to quarantine if out-of-state visitors are staying in my home?"
             ],
             "metadata": [
                 {
@@ -6214,7 +6084,7 @@
         },
         {
             "id": 4721,
-            "answer": "**What do I do if one of my co-workers has COVID-19?**\n\nLearning that a co-worker has tested positive for COVID-19 can be stressful, but there are actions you can take to stay safe. Read [what to do when your co-worker has COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-What-to-do-if-coworker-tests-positive.pdf).",
+            "answer": "**What do I do if one of my co-workers has COVID-19?**\n\nLearning that a co-worker has tested positive for COVID-19 can be stressful, but there are actions you can take to stay safe. Read [what to do when your co-worker has COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-What-to-do-if-coworker-tests-positive.pdf).\n\nThere may be misinformation circulating and concerns about getting COVID-19. Remember to treat co-workers with respect and confidentiality.",
             "source": "Editorial",
             "questions": [
                 "What do I do if one of my co-workers has COVID-19?"
@@ -6272,6 +6142,68 @@
                         "displayOrder": 0,
                         "qnaId": 4540,
                         "displayText": "Are face masks or coverings required in Vermont?"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4724,
+            "answer": "**Do I need to quarantine if someone I had close contact with is under quarantine?**\n\nNo. You do not need to quarantine if you had close contact with someone who is under quarantine. \n\nIf you are living with someone who is under quarantine, stay at least 6 feet from them. People under quarantine should wear a mask in common spaces. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.",
+            "source": "Editorial",
+            "questions": [
+                "Do I need to quarantine if someone I had close contact with is under quarantine?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "symptoms and sickness"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "isolation, quarantine and self-observation"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4725,
+            "answer": "**Do I need a negative COVID-19 test result to return to work safely?**\n\nA negative test for COVID-19 should NOT be required to return to work. The Health Department does not issue letters for employees to return to work either.\n\nThe best way to know when it’s safe for someone who tested positive for COVID-19 to return to work is to follow guidance based on the presence of symptoms, or the amount of time that has passed since the person was tested. This information is found in the [employer guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf), under “When can employees with COVID-19 return to work?”",
+            "source": "Editorial",
+            "questions": [
+                "Do I need a negative COVID-19 test result to return to work safely?",
+                "can the Health Department provide documentation that I can go to work?",
+                "can you certify that I can go to work?",
+                "can the Health Department certify that I can go to work?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "work and employees"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4656,
+                        "displayText": "What should businesses protect workers and customers?"
                     }
                 ]
             }

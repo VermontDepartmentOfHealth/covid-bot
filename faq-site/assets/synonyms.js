@@ -20,6 +20,7 @@ var synonyms = {
     "82": "85",
     "85": "90",
     "90": "65",
+    "211": "2 1 1",
     "doctor": "healthcare professional",
     "healthcare professional": "health care provider",
     "health care provider": "primary care provider",
@@ -219,5 +220,7 @@ var synonyms = {
     "condominium": "apartment",
     "quarantine": "quarentine",
     "quarentine": "quarintine",
-    "quarintine": "quarantine"
+    "quarintine": "quarantine",
+    "2-1-1": "211",
+    "2 1 1": "2-1-1"
 }
