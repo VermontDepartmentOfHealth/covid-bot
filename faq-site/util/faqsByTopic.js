@@ -5,6 +5,7 @@ module.exports = buildFAQsByTopic
 async function buildFAQsByTopic() {
 
     let faqsPrev = await utilities.readJsonc("_data/faqs-prev.jsonc")
+    let revisions = await utilities.readJsonc("_data/revisions.jsonc")
     let faqsCur = await utilities.readJsonc("_data/faqs.jsonc")
     let topics = await utilities.readJsonc("_data/topics.jsonc")
 
@@ -15,7 +16,7 @@ async function buildFAQsByTopic() {
     let allFaqsCur = faqsCur.qnaDocuments.map(transformFaq)
 
     // diff faqs
-    let allFaqs = findDifferences(allFaqsCur, allFaqsPrev)
+    let allFaqs = findDifferences(allFaqsCur, revisions)
 
     // get all new topics
     let allTopics = allFaqs.map(faq => faq.metadata.category).filter(cat => cat)
@@ -144,33 +145,56 @@ function getSubCategories(catFaqs, topics, catName) {
     return uniqueSubCats
 }
 
-function findDifferences(allFaqsCur, allFaqsPrev) {
+function findDifferences(allFaqsCur, revisions) {
 
     let diffText = require("@ads-vdh/md-diff")
 
     allFaqsCur.forEach(curFaq => {
 
-        let prevFaq = allFaqsPrev.find(prev => prev.id === curFaq.id)
+        // get revision history
+        let history = revisions.find(rev => rev.id === curFaq.id)
 
-        if (prevFaq) {
 
-            // markup deltas on changed questions (ids match)
-            let diffQuestion = utilities.removeWhitespace(prevFaq.question) != utilities.removeWhitespace(curFaq.question)
-            let diffAnswer = utilities.removeWhitespace(prevFaq.answerBody) != utilities.removeWhitespace(curFaq.answerBody)
+        // sort by date reverse chronologically and grab first item
+        let sortedHistory = history.revisions.sort((a, b) => b.date - a.date)
+            // get latest item from history
+        let latestRevision = sortedHistory[0]
 
-            // check if modified 
-            if (diffQuestion || diffAnswer) {
+        // apply last update timestamp to all questions
+        curFaq.lastUpdated = latestRevision.date
 
-                curFaq.questionDiff = diffText(prevFaq.question, curFaq.question, false)
-                curFaq.answerBodyDiff = diffText(prevFaq.answerBody, curFaq.answerBody, false)
-                curFaq.isUpdated = true
-
-            }
-
-        } else {
+        // should always have revisions history - brand new questions - just have # of revs = 1
+        if (history.length === 1) {
             // new questions (new id not in old)
             curFaq.isNew = true
+            return
         }
+
+
+        // only display delta if we've changed in the last n days
+
+        // markup deltas on changed questions (ids match)
+        let diffQuestion = utilities.removeWhitespace(latestRevision.question) != utilities.removeWhitespace(curFaq.question)
+        let diffAnswer = utilities.removeWhitespace(latestRevision.answerBody) != utilities.removeWhitespace(curFaq.answerBody)
+
+        // check if modified
+        let isModified = diffQuestion || diffAnswer
+
+        // revision cut off time
+        var revCutOff = new Date();
+        revCutOff.setDate(revCutOff.getDate() - 5);
+
+        let isModifiedRecently = latestRevision.date > revCutOff
+
+        if (isModified && isModifiedRecently) {
+
+            curFaq.questionDiff = diffText(latestRevision.question, curFaq.question, false)
+            curFaq.answerBodyDiff = diffText(latestRevision.answerBody, curFaq.answerBody, false)
+            curFaq.isUpdated = true
+
+        }
+
+
 
     })
 

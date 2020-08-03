@@ -20,7 +20,16 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addShortcode("now", () => utilities.getCurrentTimestamp());
 
-
+    eleventyConfig.addFilter("prettyDate", dateStr => {
+        let dateParts = dateStr.split("-")
+        let date = new Date(dateParts[0], dateParts[1] - 1, dateParts[2])
+        let output = date.toLocaleDateString('en-US', {
+            month: 'short',
+            day: 'numeric'
+        });
+        // todo: maybe use ordinal numbers ex. 3rd
+        return output
+    })
     eleventyConfig.addFilter("slugify", title => utilities.slugify(title))
 
     let md = customizeMarkdown();

@@ -94,7 +94,7 @@ function slugify(title) {
 
 /**
  * Test whether item is is empty object `{}`
- * @param {object} obj 
+ * @param {object} obj
  * @description See also: https://stackoverflow.com/q/679915/1366033
  */
 function isEmptyObj(obj) {
@@ -139,5 +139,5 @@ async function writeFile(path, contents) {
 }
 
 function removeWhitespace(str) {
-    return str.replace(/\s/g, "")
+    return (str || "").replace(/\s/g, "")
 }
