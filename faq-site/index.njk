@@ -84,7 +84,7 @@ permalink: "/{{type}}.html"
 
             <aside>
                 <nav class="toc">
-                    
+
                     <h2>Table of Contents</h2>
 
                     <ul class="nav-topics">
@@ -94,7 +94,7 @@ permalink: "/{{type}}.html"
                                 <a class="navlink" href="#{{ topic.name | slugify }}">{{topic.name}}</a>
 
                                 {% if topic.subs.length %}
-                                    
+
                                 <ul class="nav-subs">
                                     {% for sub in topic.subs %}
                                         {% if sub.name %}
@@ -146,8 +146,8 @@ permalink: "/{{type}}.html"
                                                     <details >
                                                         <summary class="context title-link" tabindex="0">
                                                             <h4>
-                                                            
-                                                            {% if type == 'diff' %} 
+
+                                                            {% if type == 'diff' %}
                                                                 {{(faq.questionDiff or faq.question) | safe}}
                                                             {% else %}
                                                                 {{faq.question | safe}}
@@ -155,7 +155,7 @@ permalink: "/{{type}}.html"
 
                                                             </h4>&nbsp;<a class="permalink" href="#{{faq.id}}">#</a>
                                                         </summary>
-                                                        
+
                                                         {# container for details polyfill #}
                                                         <span>
                                                             <ul class="alt-phrasings">
@@ -164,9 +164,13 @@ permalink: "/{{type}}.html"
                                                                 {% endfor %}
                                                             </ul>
 
+                                                            <div class="last-updated">
+                                                               <strong>Last Updated:</strong> <span>{{faq.lastUpdated | prettyDate }}</span>
+                                                            </div>
+
                                                             <div class="answer">
 
-                                                                {% if type == 'diff' %} 
+                                                                {% if type == 'diff' %}
                                                                     {{(faq.answerBodyDiff or faq.answerBody) | md | safe}}
                                                                 {% else %}
                                                                     {{faq.answerBody | md | safe}}
@@ -174,7 +178,7 @@ permalink: "/{{type}}.html"
 
                                                             </div>
                                                         </span>
-                                                        
+
 
                                                     </details>
 
@@ -221,7 +225,7 @@ permalink: "/{{type}}.html"
 
             </footer>
         </div>
-        
+
 
         <script src="assets/mark.js"></script>
         <script src="assets/details-polyfill.js"></script>

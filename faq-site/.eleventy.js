@@ -20,7 +20,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addShortcode("now", () => utilities.getCurrentTimestamp());
 
-
+    eleventyConfig.addFilter("prettyDate", utilities.prettyDate)
     eleventyConfig.addFilter("slugify", title => utilities.slugify(title))
 
     let md = customizeMarkdown();

@@ -233,6 +233,10 @@ li.faq {
     list-style: decimal;
 }
 
+.last-updated {
+    margin-top: 5px;
+    color: #626060;
+}
 
 /* filtering */
 

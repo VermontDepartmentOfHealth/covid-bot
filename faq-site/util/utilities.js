@@ -11,7 +11,9 @@ module.exports = {
     getCurrentTimestamp,
     deduplicate,
     writeFile,
-    removeWhitespace
+    removeWhitespace,
+    prettyDate,
+    parseYYYYMMDDToDate
 }
 
 
@@ -26,7 +28,7 @@ function extractQuestion(answer) {
 function extractAnswer(answer) {
 
     // replace initial bold text
-    let body = answer.replace(/^\*\*(.*)\*\*/, "");
+    let body = answer.replace(/^\*\*(.*)\*\*\n*/, "");
 
     return body;
 }
@@ -94,7 +96,7 @@ function slugify(title) {
 
 /**
  * Test whether item is is empty object `{}`
- * @param {object} obj 
+ * @param {object} obj
  * @description See also: https://stackoverflow.com/q/679915/1366033
  */
 function isEmptyObj(obj) {
@@ -123,7 +125,7 @@ function deduplicate(array) {
 
 async function writeFile(path, contents) {
     const { promises: fs } = require("fs");
-    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
+    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running script - local changes will be wiped out\r\n"
 
     let projectRoot = __dirname.replace(/(cli|util)$/, "");
     let fullPath = `${projectRoot}/${path}`;
@@ -139,5 +141,21 @@ async function writeFile(path, contents) {
 }
 
 function removeWhitespace(str) {
-    return str.replace(/\s/g, "")
+    return (str || "").replace(/\s/g, "")
+}
+
+function parseYYYYMMDDToDate(dateStr) {
+    let dateParts = dateStr.split("-")
+    return new Date(dateParts[0], dateParts[1] - 1, dateParts[2])
+}
+
+function prettyDate(dateStr) {
+    let date = parseYYYYMMDDToDate(dateStr)
+
+    let output = date.toLocaleDateString('en-US', {
+        month: 'short',
+        day: 'numeric'
+    });
+    // todo: maybe use ordinal numbers ex. 3rd
+    return output
 }
