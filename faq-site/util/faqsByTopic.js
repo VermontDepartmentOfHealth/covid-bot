@@ -182,9 +182,12 @@ function findDifferences(allFaqsCur, revisions) {
             return
         }
 
+        // get second latest revision
+        let penultimateRevision = sortedHistory[1]
+
         // otherwise, we have a recently updated question - add deltas
-        curFaq.questionDiff = diffText(latestRevision.question, curFaq.question, false)
-        curFaq.answerBodyDiff = diffText(latestRevision.answerBody, curFaq.answerBody, false)
+        curFaq.questionDiff = diffText(penultimateRevision.question, latestRevision.question, false)
+        curFaq.answerBodyDiff = diffText(penultimateRevision.answerBody, latestRevision.answerBody, false)
         curFaq.isUpdated = true
 
 
