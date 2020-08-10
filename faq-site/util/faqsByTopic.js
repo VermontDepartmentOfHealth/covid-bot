@@ -1,4 +1,5 @@
 const utilities = require('./utilities')
+const SHOW_REVISION_HISTORY_LAG_DAYS = 4
 
 module.exports = buildFAQsByTopic
 
@@ -156,45 +157,45 @@ function findDifferences(allFaqsCur, revisions) {
 
 
         // sort by date reverse chronologically and grab first item
-        let sortedHistory = history.revisions.sort((a, b) => b.date - a.date)
-            // get latest item from history
+        let sortedHistory = history.revisions.sort((a, b) => utilities.parseYYYYMMDDToDate(b.date) - utilities.parseYYYYMMDDToDate(a.date))
+
+        // get latest item from history
         let latestRevision = sortedHistory[0]
 
         // apply last update timestamp to all questions
         curFaq.lastUpdated = latestRevision.date
 
+
+        // revision cut off time
+        var revCutOff = new Date();
+        revCutOff.setDate(revCutOff.getDate() - SHOW_REVISION_HISTORY_LAG_DAYS);
+
+        // only display delta if we've changed in the last n days
+        // leave if we haven't been modified recently
+        let isModifiedRecently = utilities.parseYYYYMMDDToDate(latestRevision.date) > revCutOff
+        if (!isModifiedRecently) return;
+
+
         // should always have revisions history - brand new questions - just have # of revs = 1
-        if (history.length === 1) {
+        let noRevisionHistory = history.revisions.length === 1
+        if (noRevisionHistory) {
             // new questions (new id not in old)
             curFaq.isNew = true
             return
         }
 
-
-        // only display delta if we've changed in the last n days
-
-        // markup deltas on changed questions (ids match)
-        let diffQuestion = utilities.removeWhitespace(latestRevision.question) != utilities.removeWhitespace(curFaq.question)
-        let diffAnswer = utilities.removeWhitespace(latestRevision.answerBody) != utilities.removeWhitespace(curFaq.answerBody)
-
-        // check if modified
-        let isModified = diffQuestion || diffAnswer
-
-        // revision cut off time
-        var revCutOff = new Date();
-        revCutOff.setDate(revCutOff.getDate() - 5);
-
-        let isModifiedRecently = latestRevision.date > revCutOff
-
-        if (isModified && isModifiedRecently) {
-
-            curFaq.questionDiff = diffText(latestRevision.question, curFaq.question, false)
-            curFaq.answerBodyDiff = diffText(latestRevision.answerBody, curFaq.answerBody, false)
-            curFaq.isUpdated = true
-
-        }
+        // otherwise, we have a recently updated question - add deltas
+        curFaq.questionDiff = diffText(latestRevision.question, curFaq.question, false)
+        curFaq.answerBodyDiff = diffText(latestRevision.answerBody, curFaq.answerBody, false)
+        curFaq.isUpdated = true
 
 
+        // markup deltas on changed questions (ids match) // todo - probably always true because multiple revisions
+        // let diffQuestion = utilities.removeWhitespace(latestRevision.question) != utilities.removeWhitespace(curFaq.question)
+        // let diffAnswer = utilities.removeWhitespace(latestRevision.answerBody) != utilities.removeWhitespace(curFaq.answerBody)
+
+        // // check if modified
+        // let isModified = diffQuestion || diffAnswer
 
     })
 

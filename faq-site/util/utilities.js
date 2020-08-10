@@ -11,7 +11,9 @@ module.exports = {
     getCurrentTimestamp,
     deduplicate,
     writeFile,
-    removeWhitespace
+    removeWhitespace,
+    prettyDate,
+    parseYYYYMMDDToDate
 }
 
 
@@ -140,4 +142,20 @@ async function writeFile(path, contents) {
 
 function removeWhitespace(str) {
     return (str || "").replace(/\s/g, "")
+}
+
+function parseYYYYMMDDToDate(dateStr) {
+    let dateParts = dateStr.split("-")
+    return new Date(dateParts[0], dateParts[1] - 1, dateParts[2])
+}
+
+function prettyDate(dateStr) {
+    let date = parseYYYYMMDDToDate(dateStr)
+
+    let output = date.toLocaleDateString('en-US', {
+        month: 'short',
+        day: 'numeric'
+    });
+    // todo: maybe use ordinal numbers ex. 3rd
+    return output
 }
