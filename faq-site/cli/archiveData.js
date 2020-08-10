@@ -13,10 +13,10 @@ async function archiveFaqs() {
     let faqsCur = await utilities.readJsonc("_data/faqs.jsonc")
 
     let curDate = new Date();
-    let dateStr = date.toISOString().split('T')[0]
+    let dateStr = curDate.toISOString().split('T')[0]
 
     // get all cur faqs (by id)
-    faqsCur.forEach(curFaq => {
+    faqsCur.qnaDocuments.forEach(curFaq => {
 
         // lookup the revision history item based on that id
         let history = revisions.find(rev => rev.id === curFaq.id)
@@ -40,20 +40,20 @@ async function archiveFaqs() {
         // rev history does exist
 
         // get all rev history items & sort by date
-        let sortedHistory = history.revisions.sort((a, b) => utilities.parseYYYYMMDDToDate(b.date) - utilities.parseYYYYMMDDToDate(a.date))
+        let sortedHistory = history.revisions.sort((a, b) => utilities.parseYYYYMMDDToDate(a.date) - utilities.parseYYYYMMDDToDate(b.date))
 
         // get latest item from history
-        let latestRevision = sortedHistory[0]
+        let latestRevision = sortedHistory[sortedHistory.length - 1]
 
         // if most recent is today, then remove and replace with current - and exit
         if (dateStr === latestRevision.date) {
-            sortedHistory[0] = curRevItem
+            sortedHistory[sortedHistory.length - 1] = curRevItem
             return;
         }
 
         // compare current question/answer to most recent
-        let diffQuestion = utilities.removeWhitespace(latestRevision.question) != utilities.removeWhitespace(curFaq.question)
-        let diffAnswer = utilities.removeWhitespace(latestRevision.answerBody) != utilities.removeWhitespace(curFaq.answerBody)
+        let diffQuestion = utilities.removeWhitespace(latestRevision.question) != utilities.removeWhitespace(utilities.extractQuestion(curFaq.answer))
+        let diffAnswer = utilities.removeWhitespace(latestRevision.answerBody) != utilities.removeWhitespace(utilities.extractAnswer(curFaq.answer))
 
         // check if modified
         let isModified = diffQuestion || diffAnswer
