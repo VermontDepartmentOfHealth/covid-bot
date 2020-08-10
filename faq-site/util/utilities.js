@@ -28,7 +28,7 @@ function extractQuestion(answer) {
 function extractAnswer(answer) {
 
     // replace initial bold text
-    let body = answer.replace(/^\*\*(.*)\*\*/, "");
+    let body = answer.replace(/^\*\*(.*)\*\*\n*/, "");
 
     return body;
 }
@@ -125,7 +125,7 @@ function deduplicate(array) {
 
 async function writeFile(path, contents) {
     const { promises: fs } = require("fs");
-    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out\r\n"
+    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running script - local changes will be wiped out\r\n"
 
     let projectRoot = __dirname.replace(/(cli|util)$/, "");
     let fullPath = `${projectRoot}/${path}`;

@@ -5,7 +5,6 @@ module.exports = buildFAQsByTopic
 
 async function buildFAQsByTopic() {
 
-    let faqsPrev = await utilities.readJsonc("_data/faqs-prev.jsonc")
     let revisions = await utilities.readJsonc("_data/revisions.jsonc")
     let faqsCur = await utilities.readJsonc("_data/faqs.jsonc")
     let topics = await utilities.readJsonc("_data/topics.jsonc")
@@ -13,7 +12,6 @@ async function buildFAQsByTopic() {
     let sortedTopics = topics.map(t => t.name)
 
     // transform faq object
-    let allFaqsPrev = faqsPrev.qnaDocuments.map(transformFaq)
     let allFaqsCur = faqsCur.qnaDocuments.map(transformFaq)
 
     // diff faqs
@@ -189,13 +187,6 @@ function findDifferences(allFaqsCur, revisions) {
         curFaq.answerBodyDiff = diffText(latestRevision.answerBody, curFaq.answerBody, false)
         curFaq.isUpdated = true
 
-
-        // markup deltas on changed questions (ids match) // todo - probably always true because multiple revisions
-        // let diffQuestion = utilities.removeWhitespace(latestRevision.question) != utilities.removeWhitespace(curFaq.question)
-        // let diffAnswer = utilities.removeWhitespace(latestRevision.answerBody) != utilities.removeWhitespace(curFaq.answerBody)
-
-        // // check if modified
-        // let isModified = diffQuestion || diffAnswer
 
     })
 

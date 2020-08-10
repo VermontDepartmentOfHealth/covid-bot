@@ -99,22 +99,22 @@ faq-cli
     git pull
     ```
 
-2. Archive previous data
-
-    ```bash
-    npm run archive-data
-    ```
-
-3. Ensure updates were published
+2. Ensure updates were published
 
     ```bash
     npm run publish-kb
     ```
 
-4. Get latest knowledge base updates
+3. Get latest knowledge base updates
 
     ```bash
-    npm run fetch-data
+    npm run fetch-kb
+    ```
+
+4. Archive previous data
+
+    ```bash
+    npm run archive-data
     ```
 
 5. Check for any common problems
