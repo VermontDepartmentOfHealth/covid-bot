@@ -1,5 +1,5 @@
 const utilities = require('./utilities')
-const SHOW_REVISION_HISTORY_LAG_DAYS = 4
+const SHOW_REVISION_HISTORY_LAG_DAYS = 1
 
 module.exports = buildFAQsByTopic
 

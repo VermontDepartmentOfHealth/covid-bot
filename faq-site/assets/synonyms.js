@@ -1,4 +1,4 @@
-// GENERATED FILE - only update by re-running updateData.js - local changes will be wiped out
+// GENERATED FILE - only update by re-running script - local changes will be wiped out
 var synonyms = {
     "65": "66",
     "66": "67",
