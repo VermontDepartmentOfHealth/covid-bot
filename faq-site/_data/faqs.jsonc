@@ -318,7 +318,7 @@
         },
         {
             "id": 4540,
-            "answer": "**Are face masks or coverings required in Vermont?**\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nFace masks or coverings are not required when you are doing strenuous exercise or activities. They are also not required for – and should not be worn by:\n\n*   Children under the age of 2\n*   Anyone who has trouble breathing\n*   Anyone who is unable to remove the face mask without assistance\n*   Anyone who has a medical or behavioral reason for not wearing a face mask\n\nIf you have a medical or developmental condition or have trouble breathing, you are not required to show evidence or documentation of your condition.\n\nBusinesses and other entities may also post signage explaining their mask requirements and can deny entry or service to people who do not wear a mask.\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nWearing face masks or coverings helps keep people from spreading the virus. This is because the virus can spread even if a person does not have any symptoms.\n\nIn addition to wearing face masks or coverings, everyone should keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).",
+            "answer": "**Are face masks or coverings required in Vermont?**\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nFace masks or coverings are not required when you are doing strenuous exercise or activities. They are also not required for – and should not be worn by:\n\n*   Children under the age of 2\n*   Anyone who has trouble breathing\n*   Anyone who is unable to remove the face mask without assistance\n*   Anyone who has a medical or behavioral reason for not wearing a face mask\n\nIf you have a medical or developmental condition or have trouble breathing, you are not required to show evidence or documentation of your condition.\n\nBusinesses and other entities may also post signage explaining their mask requirements and can deny entry or service to people who are not wearing a mask, including people who are not required to wear a mask. However, the business must provide another way for people who are unable to wear a mask to access the business (for example, offering curbside pick-up or delivery or other creative solution).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nWearing face masks or coverings helps keep people from spreading the virus. This is because the virus can spread even if a person does not have any symptoms.\n\nIn addition to wearing face masks or coverings, everyone should keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).\n\nFor the month of August, the State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://www.vem.vermont.gov/maskdistribution).",
             "source": "KB-COVID",
             "questions": [
                 "Should I wear a face mask when I go out in public?",
@@ -717,7 +717,8 @@
                 "Insurance for a Covid-19 test",
                 "Is there a fee for covid-19 testing",
                 "Who pays for tests?",
-                "Who pays for it?"
+                "Who pays for it?",
+                "is testing free"
             ],
             "metadata": [
                 {
@@ -744,7 +745,7 @@
         },
         {
             "id": 4553,
-            "answer": "**What should schools, child care and summer programs in Vermont do?**\n\nSchools will reopen on September 8. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Reopening Schools, Fall 2020](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance). Find more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers may also open, following health and safety precautions. \n\n**Guidance and Resources for Child Care and Summer Programs**\n\n*   [Health Guidance for Childcare and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf) that are or will open during the COVID-19 pandemic\n*   [Health & Safety Guidance for Childcare & Summer Programs FAQ](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf)\n*   [Sample Daily COVID-19 Health Checklist Child Care and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Childcare-Camp-Daily-Health-Checklist-Template.pdf)\n*   [Sample Weekly COVID-19 Health Checklist Child Care and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Childcare-Camp-Weekly-Health-Checklist-Template.pdf)\n\nFind more [resources and information for schools, child care and summer programs](https://www.healthvermont.gov/COVID19-schools).",
+            "answer": "**What should schools and child care programs in Vermont do?**\n\nSchools will reopen on September 8. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Reopening Schools, Fall 2020](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance).\n\nFind more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers may also open, following health and safety precautions outlined in the [Health Guidance for Childcare and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf). Find answers to frequently asked questions about [health and safety guidance for child care and summer programs](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf).\n\nFind more [resources and information for schools and child care programs](https://www.healthvermont.gov/COVID19-schools).",
             "source": "KB-COVID",
             "questions": [
                 "What should I do at my day care?",
@@ -755,11 +756,11 @@
                 "child care",
                 "childcare programs",
                 "school",
-                "What should schools, child care and summer programs in Vermont do?",
                 "teach local children",
                 "summer camp",
                 "child in daycare",
-                "school children"
+                "school children",
+                "What should schools and child care programs in Vermont do?"
             ],
             "metadata": [
                 {
@@ -1036,7 +1037,8 @@
                 "my daughter tested positive",
                 "I am a contact case",
                 "do close contacts of confirmed cases need to self-quarantine?",
-                "What do I do if I think I had close contact with someone who has COVID-19?"
+                "What do I do if I think I had close contact with someone who has COVID-19?",
+                "I was in a high-risk situation"
             ],
             "metadata": [
                 {
@@ -1150,7 +1152,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19. According to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or travel with someone who is sick. Read the CDC’s [considerations for travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) if you are thinking of traveling away from your local community.\n\nVermonters may travel to [certain counties with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel). If you make your trip in a personal vehicle, you do not need to quarantine upon return to Vermont. If you travel out of state to a location other than those counties with low rates of active cases, you must quarantine in Vermont for 14 days upon return. This includes day trips.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, sign up to get daily symptom check reminders by email, text or phone, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19. According to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or travel with someone who is sick. Read the CDC’s [considerations for travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) if you are thinking of traveling away from your local community.\n\nVermonters may travel to [certain counties with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel). If you make your trip in a personal vehicle (including a rental vehicle or private plane), you do not need to quarantine upon return to Vermont. If you travel out of state to a location other than those counties with low rates of active cases, you must quarantine in Vermont for 14 days upon return. This includes day trips.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4567"
@@ -1448,7 +1450,9 @@
             "source": "KB-COVID",
             "questions": [
                 "What does close contact mean?",
-                "What is direct contact"
+                "What is direct contact",
+                "define close contact",
+                "please define close contact"
             ],
             "metadata": [
                 {
@@ -1591,6 +1595,11 @@
                         "displayOrder": 0,
                         "qnaId": 4704,
                         "displayText": "Do I need to quarantine if out-of-state visitors are staying in my home?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4690,
+                        "displayText": "Can I get together with friends and family?"
                     },
                     {
                         "displayOrder": 0,
@@ -2260,7 +2269,7 @@
         },
         {
             "id": 4597,
-            "answer": "**Do homemade face masks or coverings work?**\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nWearing a homemade cloth face mask or covering can offer some protection to others. This is because the virus can spread even if a person does not have any symptoms. The cloth face mask or covering can contain respiratory droplets and prevent them from spreading to others.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).",
+            "answer": "**Do homemade face masks or coverings work?**\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nWearing a homemade cloth face mask or covering can offer some protection to others. This is because the virus can spread even if a person does not have any symptoms. The cloth face mask or covering can contain respiratory droplets and prevent them from spreading to others.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).\n\nFor the month of August, the State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://www.vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
                 "Do homemade face masks work?",
@@ -2782,7 +2791,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary. When you stop, follow the general precautions: keep a 6-foot distance from people you don't live with, [wear a face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you can't keep 6 feet apart, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**Can I travel to Vermont? Are out-of-state visitors allowed?**\n\nIf you are visiting or returning to Vermont you may need to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle (including a rental vehicle or private plane) OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by [plane, train, bus or other means of transportation](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs#if-i-take-a-form-of-public-transportation-including-charter-buses-or-airplanes-will-it-impact-my-quarantine-status).\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when necessary (for example, for fuel, food or rest). Try to plan your stops in an approved county. When you stop, follow the general precautions: keep a 6-foot distance from people you don't live with, [wear a face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you can't keep 6 feet apart, and wash your hands often. Stay home and do not travel if you are sick.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "QnaId4615"
@@ -2976,7 +2985,8 @@
                 "During quarantine, can you",
                 "how to quarentine",
                 "Can I go grocery shopping while quarantined ",
-                "When is quarantining necessary"
+                "When is quarantining necessary",
+                "if you are near someone with covid"
             ],
             "metadata": [
                 {
@@ -3151,7 +3161,8 @@
                 " recovered cases",
                 "current stats",
                 "current numbers",
-                "what is an acceptable positivity rate? "
+                "what is an acceptable positivity rate? ",
+                "How many patients are symptomatic"
             ],
             "metadata": [
                 {
@@ -3348,7 +3359,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What should businesses and non-profits do?**\n\nVermont is continuing a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back. \n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\nA step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n\nUp-to-date [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance)\n\nMandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others. Businesses and non-profits may require customers or clients to wear masks.\n\nAnswers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) from the Health Department.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What should businesses and non-profits do?**\n\nVermont is continuing a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back.\n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   A step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n*   Up-to-date [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance)\n*   Mandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) from the Health Department.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
             "questions": [
                 "Stay at home restriction",
@@ -3540,7 +3551,7 @@
         },
         {
             "id": 4637,
-            "answer": "**Do I need to quarantine if I work in a neighboring state or have parental shared custody?**\n\nNo. If you live near a border and regularly travel to and from a neighboring state, you may make day trips to that state for work, health care, and other essential needs like groceries or visitation for parental shared custody, without quarantining.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you travel out of state for another reason and to a location that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine for 14 days in Vermont upon return. This includes day trips. Find up-to-date information about [travel and COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.",
+            "answer": "**Do I need to quarantine if I'm traveling for an essential purpose (like work in a neighboring state or parental shared custody)?**\n\nIf you are traveling for essential purposes, you do not need to quarantine. Essential travel includes travel for personal safety, medical care, care of others, parental shared custody, for food, beverage or medicine, or for work.\n\nIf you live near a border and regularly travel to and from a neighboring state, you may make day trips to that state for work, health care, and other essential needs like groceries or visitation for parental shared custody, without quarantining.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you travel out of state for leisure and to a location that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine for 14 days in Vermont upon return. This includes day trips. Find up-to-date information about [travel and COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under [“I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?”](https://apps.health.vermont.gov/COVID/faq/#4692) on this page.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "QnaId4637"
@@ -3767,7 +3778,7 @@
         },
         {
             "id": 4641,
-            "answer": "**How can I make my own homemade cloth face mask or covering?**\n\nHomemade cloth face masks or coverings can be made using simple materials found in most homes, for example, an old t-shirt or bandanna and rubber bands or hair ties. Your cloth face mask or covering should include multiple layers of fabric and allow you to be able to breathe easily. Watch a quick [video by the CDC on how to make your own cloth face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html).\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).",
+            "answer": "**How can I make my own homemade cloth face mask or covering?**\n\nHomemade cloth face masks or coverings can be made using simple materials found in most homes, for example, an old t-shirt or bandanna and rubber bands or hair ties. Your cloth face mask or covering should include multiple layers of fabric and allow you to be able to breathe easily. Watch a quick [video by the CDC on how to make your own cloth face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html).\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).\n\nFor the month of August, the State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://www.vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
                 "How can I make my own homemade face mask?",
@@ -3897,11 +3908,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4654,
-                        "displayText": "What is serologic, or antibody, testing and will it be used in Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
@@ -3909,6 +3915,11 @@
                         "displayOrder": 0,
                         "qnaId": 4547,
                         "displayText": "How long is the turnaround for testing?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4654,
+                        "displayText": "What is serologic, or antibody, testing?"
                     },
                     {
                         "displayOrder": 0,
@@ -4228,7 +4239,7 @@
         },
         {
             "id": 4656,
-            "answer": "**What should businesses do to protect workers and customers?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date [guidance and mandatory health and safety requirements](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others. Businesses and other entities may also post signage explaining their mask requirements and can deny entry or service to people who do not to wear a mask.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nMore resources are available from the Health Department:\n\n*   [Health resources for businesses and food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces)\n*   [What to do if an Employee Tests Positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the FDA.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What should businesses do to protect workers and customers?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date [guidance and mandatory health and safety requirements](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nMore resources are available from the Health Department:\n\n*   [Health guidance and resources for workplaces and employees](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces)\n*   [What to do if an Employee Tests Positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the FDA.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
             "questions": [
                 "Outdoor seating for restaurants",
@@ -4414,7 +4425,7 @@
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are returning to your second or seasonal home in Vermont, you may be required to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary. When you stop, follow the general precautions: keep a 6-foot distance from people you don't live with, [wear a face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you can't keep 6 feet apart, and wash your hands often. Stay home and do not travel if you are sick.\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nIf you are returning to your second or seasonal home in Vermont, you may be required to quarantine for 14 days before engaging in any activities, like grocery shopping or getting together with friends or family. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nIf you are coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases, you do not need to quarantine.\n\nAll other travelers coming to Vermont must quarantine.\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle (including a rental vehicle or private plane) OR\n*   Quarantine at a lodging facility or Vermont home for 14 days if you are traveling by [plane, train, bus or other means of transportation](((including a rental vehicle or private plane).\n\nYou have the option to get tested on Day 7 of your quarantine. Learn more under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary for example, for fuel, food or rest). Try to plan your stops in an approved county. When you stop, follow the general precautions: keep a 6-foot distance from people you don't live with, [wear a face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you can't keep 6 feet apart, and wash your hands often. Stay home and do not travel if you are sick.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "QnaId4662",
@@ -4486,7 +4497,7 @@
         },
         {
             "id": 4665,
-            "answer": "**Where can I buy cloth face masks or coverings?**\n\nThe Department of Public Safety has a [list of where to buy face coverings](https://vem.vermont.gov/covid19/facecovering) from businesses. \n\nYou can also reach out to your community. Check out places like Front Porch Forum to connect with other Vermonters making cloth face masks or coverings.",
+            "answer": "**Where can I buy cloth face masks or coverings?**\n\nThe Department of Public Safety has a [list of where to buy face coverings](https://vem.vermont.gov/covid19/facecovering) from businesses.\n\nYou can also reach out to your community. Check out places like Front Porch Forum to connect with other Vermonters making cloth face masks or coverings.\n\nFor the month of August, the State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://www.vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
                 "Where can I buy cloth face coverings?",
@@ -4635,16 +4646,16 @@
         },
         {
             "id": 4669,
-            "answer": "**Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?**\n\nLong-term rental leases are allowed. Moving and moving services are also allowed, as long as people keep a 6-foot distance from each other. Wearing a face mask or covering is required whenever it is not possible to keep a 6-foot distance from people you don't live with. More housing information is available at the Agency of Commerce and Community Development's (ACCD’s) [COVID-19 Resource Recovery Center](http://accd.vermont.gov/covid-19/individuals#individual-housing).\n\nReal estate services, including real estate firms, brokerages, attorneys or individuals, must work remotely as much as possible to minimize in-person contact. Real estate and related services (such as title searches, appraisals, and home inspections) are operating under certain health and safety requirements including keeping at least 6 feet away from others and wearing face masks or coverings.\n\nOut-of-state buyers and renters must follow all quarantine requirements.\n\nFind details and up-to-date [information on real estate](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#real-estate) from the ACCD.",
+            "answer": "**Can I buy a home or sign a long-term lease (more than 30 days) for an apartment or house?**\n\nLong-term rental leases are allowed. Moving and moving services are also allowed, as long as people keep a 6-foot distance from each other. Wearing a face mask or covering is required whenever it is not possible to keep a 6-foot distance from people you don't live with. More housing information is available at the Agency of Commerce and Community Development's (ACCD’s) [COVID-19 Resource Recovery Center](http://accd.vermont.gov/covid-19/individuals#individual-housing).\n\nOut-of-state buyers and renters must follow all the [current travel and quarantine requirements](https://accd.vermont.gov/covid-19/restart/cross-state-travel). \n\nReal estate services, including real estate firms, brokerages, attorneys or individuals, must work remotely as much as possible to minimize in-person contact. Real estate and related services (such as title searches, appraisals, and home inspections) are operating under certain health and safety requirements including keeping at least 6 feet away from others and wearing face masks or coverings.\n\nFind details and up-to-date [information on real estate](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#real-estate) from the ACCD.",
             "source": "Editorial",
             "questions": [
-                "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?",
                 "Long term rentals allowed?",
                 "rental",
                 "Can a landlord move someone into my house during COVID-19?",
                 "look at real-estate",
                 "Can you rent a house in vermont",
-                "how do I move to Vermont?"
+                "how do I move to Vermont?",
+                "Can I buy a home or sign a long-term lease (more than 30 days) for an apartment or house?"
             ],
             "metadata": [
                 {
@@ -5427,7 +5438,7 @@
         },
         {
             "id": 4703,
-            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19). People who have tested positive for COVID-19, their close contacts, and people traveling or returning to Vermont can quickly and easily sign up for to receive free daily reminders to check themselves for symptoms by email, text or phone call. If symptoms are reported, the Health Department will reach out to provide guidance and next steps. Sara Alert helps our public health teams contain the spread of COVID-19.\n\nPlease note, Sara Alert is not a contact tracing system. It is not GPS based, so it does not monitor your movements.\n\nIf you are traveling or returning to Vermont, you are strongly encouraged to sign up with Sara Alert once you arrive in Vermont to get two weeks of daily symptom check reminders.\n\n[Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).",
+            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for common symptoms of COVID-19. People visiting or returning to Vermont are strongly encouraged to sign up to get daily reminders by email, text or phone asking if they are experiencing any [symptoms](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19).\n\nSara Alert sends daily reminders until they automatically stop after two weeks since the day you report arriving in Vermont. If you are going to be in Vermont for at least two weeks, it’s important to stay enrolled for the entire monitoring period to help our public health response to COVID-19.\n\nIf symptoms are reported, a member of our team will reach out to provide guidance and next steps. Sara Alert is **not **a contact tracing system. It is not GPS-based, so it does not monitor someone's movements or track their location. \n\nHere are some reasons why you should sign up for Sara Alert:\n\n*   You get fast, easy, and free reminders to check yourself for symptoms.\n*   You get quick access to the Health Department for guidance and information if you develop symptoms.\n*   It helps our public health teams contain the spread of COVID-19.\n\nIf you are currently enrolled in Sara Alert and have questions about your messages, email the Travel Team at [ahs.vdhcovid19returntravelerinquiries@vermont.gov](mailto:ahs.vdhcovid19returntravelerinquiries@vermont.gov) or call 802-863-7240 (option 6).\n\n[Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).",
             "source": "Editorial",
             "questions": [
                 "What is Sara Alert?",
@@ -5568,7 +5579,7 @@
         },
         {
             "id": 4709,
-            "answer": "**Do I need to quarantine if I do a short trip (day trip)?**\n\nPeople who live near the Vermont border and regularly travel to and from a neighboring state may make day trips to Vermont for work, health care, and other essential needs like groceries or visitation for parental shared custody without quarantining.\n\nIf you go on a day trip that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine in Vermont for 14 days upon return.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.",
+            "answer": "**Do I need to quarantine if I make a short trip (day trip)?**\n\nIf you live near a border and regularly travel to and from a neighboring state, you may make day trips to Vermont for work, health care, and other essential needs like groceries or visitation for parental shared custody without quarantining.\n\nIf you are traveling for leisure and you go on a day trip that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine in Vermont for 14 days upon return.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "QnaId4709"
@@ -5851,7 +5862,22 @@
                 "traveling with children",
                 "I live in Massachusetts",
                 "if I fly a domestic flight",
-                "returning from another state\n"
+                "returning from another state\n",
+                "what states are on VT quarantine list",
+                "I am visiting VT from CT",
+                "yellow zone in Hampton Beach",
+                "What are the current states that Vermont requires quarantine",
+                "Can you go to Vermont from CT",
+                "traveling from Boston can I quarantine at home?",
+                "visiting a county that is yellow",
+                "Can we bring a camp to vermont",
+                "Can we come to Vermont and stay in a hotel",
+                "Does my daughter need to quarantine when she returns home",
+                "via plane on July 27th",
+                "How long does a California traveler need to quarantine",
+                "If i am traveling by car to vermont",
+                "Traveling from Quebec",
+                "what are safe counties"
             ],
             "metadata": [
                 {
@@ -6018,7 +6044,7 @@
         },
         {
             "id": 4723,
-            "answer": "**What is the correct way to wear a face mask or covering?**\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces ((for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nWearing face masks or coverings helps keep people from spreading the virus. This is because the virus can spread even if a person does not have any symptoms.\n\nIn addition to wearing face masks or coverings, everyone should keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.\n\nA face mask or covering must be worn properly to be effective and avoid the spread of germs:\n\n*   Wash your hands before putting it on.\n*   Be sure your mouth and nose are covered.\n*   Hook loops around your ears or tie it snugly.\n*   Do not touch it or pull it down while in public.\n*   Keep it on until you get home.\n*   Remove it without touching your eyes, nose or mouth, then wash your hands immediately.\n*   Wash it and make sure it’s completely dry before using again. Have a few on hand so you can rotate for washing.\n\nIf you feel like you are overheating and are having trouble breathing because it is hot outside, you should take off your mask, drink water, rest and seek shade or a cool place. It is important that you keep a 6-foot distance from others whenever possible, especially when you are not wearing a mask.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).",
+            "answer": "**What is the correct way to wear a face mask or covering?**\n\nAs of August 1, you are required to wear a face mask or covering in public spaces in Vermont any time it is not possible to keep a 6-foot distance from others who are not part of your household. This includes both indoor and outdoor public spaces ((for example, businesses, public buildings, parks) and group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes).\n\nIn private settings with people you don’t live with (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering when it’s not possible to stay 6 feet apart.\n\nWearing face masks or coverings helps keep people from spreading the virus. This is because the virus can spread even if a person does not have any symptoms.\n\nIn addition to wearing face masks or coverings, everyone should keep a 6-foot distance from others, wash their hands often, and stay home if they are sick.\n\nA face mask or covering must be worn properly to be effective and avoid the spread of germs:\n\n*   Wash your hands before putting it on.\n*   Be sure your mouth and nose are covered.\n*   Hook loops around your ears or tie it snugly.\n*   Do not touch it or pull it down while in public.\n*   Keep it on until you get home.\n*   Remove it without touching your eyes, nose or mouth, then wash your hands immediately.\n*   Wash it and make sure it’s completely dry before using again. Have a few on hand so you can rotate for washing.\n\nIf you feel like you are overheating and are having trouble breathing because it is hot outside, you should take off your mask, drink water, rest and seek shade or a cool place. It is important that you keep a 6-foot distance from others whenever possible, especially when you are not wearing a mask.\n\nLearn more about [wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) and [face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf).\n\nFor the month of August, the State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://www.vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
                 "What is the correct way to wear a face mask or covering?"
@@ -6212,7 +6238,7 @@
         },
         {
             "id": 4729,
-            "answer": "**Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?**\n\nIf you are a visitor and staying at a lodging, camping or short-term rental property in Vermont, you must [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that you have met the quarantine requirement or have traveled from an [approved county with a low rate of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel).\n\nIn general, we rely on every visitor’s and every Vermonter’s voluntary compliance of the Governor’s orders to protect the health and safety of all. Vermonters and visitors are encouraged to take responsible common-sense measures in our daily lives to make sure we all are following CDC and Vermont Department of Health guidelines to prevent the spread of COVID-19.",
+            "answer": "**Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?**\n\nIf you are a visitor and staying at a lodging, camping or short-term rental property in Vermont, you must [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that you have met the quarantine requirement or have traveled from an [approved county with a low rate of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel).\n\nIn general, we rely on every visitor’s and every Vermonter’s voluntary compliance of the Governor’s orders to protect the health and safety of all. Vermonters and visitors are encouraged to take responsible common-sense measures in our daily lives to make sure we all are following CDC and Vermont Department of Health guidelines to prevent the spread of COVID-19.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?"
@@ -6231,6 +6257,56 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4730,
+            "answer": "**If I go on vacation, do I need to quarantine before I return to work?**\n\nIf you travel to an [approved county with a low rate of active infections](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you do not need to quarantine.\n\nIf you travel to a county that is not approved, then you need to quarantine for 14 days, either before you come back to Vermont or upon your return to Vermont. This applies to both employees living in Vermont and employees who live in a neighboring state and commute to Vermont for work.\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested with a PCR test. Find out how under “[I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?](https://apps.health.vermont.gov/COVID/faq/#4692)” on this page.\n\nYour employer may provide [sick or vacation time for you to complete your quarantine](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs#if-an-employee-travels-on-vacation-to-a-county-that-requires-quarantine-is-a-company-required-to-provide-vacation-or-sick-time-to-the-employee-to-complete-their-quarantine-upon-their-return).",
+            "source": "Editorial",
+            "questions": [
+                "If I go on vacation, do I need to quarantine before I return to work?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "work and employees"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4731,
+            "answer": "**I need to drop off someone at college. Do I need to quarantine?**\n\nYes. You have two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://accd.vermont.gov/covid-19/restart/cross-state-travel) OR  \n2.  You do the drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a face mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.  \n*   If your drive is farther than a single day trip, you may stay at a lodging property only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n\nWe strongly encourage you contact the school before you travel to find out if there are any move-in restrictions or rules.",
+            "source": "Editorial",
+            "questions": [
+                "I need to drop off someone at college. Do I need to quarantine?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             }
