@@ -15,11 +15,39 @@ async function archiveFaqs() {
     let curDate = new Date();
     let dateStr = curDate.toISOString().split('T')[0]
 
+    //get all the qna ids for current faq
+    let currentQnaIds = faqsCur.qnaDocuments.map(faq => {return  {id: faq.id}})
+    let delFaqs = revisions.filter(p => !currentQnaIds.some(c => c.id == p.id))
+
+    let revsWithDeletions = revisions.map(rev => {
+        //if this rev id is not in current, mark it as deleted
+
+        //is this rev in current?
+        let revHasBeenDeleted = !currentQnaIds.some(c => c.id == rev.id)
+
+        if(revHasBeenDeleted){
+            return {
+                id: rev.id,
+                revisions: rev.revisions,
+                deletedDate : dateStr
+            }
+        }else {
+            return {
+                id: rev.id,
+                revisions: rev.revisions,
+                deletedDate : null
+            }
+        }
+        //let delFaqs = revisions.filter(p => !currentQnaIds.some(c => c.id == p.id))
+
+    })
+    //check if there are any in revisions that are not in current faq, if there are, mark them as deleted
+
     // get all cur faqs (by id)
     faqsCur.qnaDocuments.forEach(curFaq => {
 
         // lookup the revision history item based on that id
-        let history = revisions.find(rev => rev.id === curFaq.id)
+        let history = revsWithDeletions.find(rev => rev.id === curFaq.id)
 
         let curRevItem = {
             question: utilities.extractQuestion(curFaq.answer),
@@ -29,10 +57,10 @@ async function archiveFaqs() {
 
         // if rev history doesn't exist, add rev item {id, revisions: [ {question, answerBody, date}]} - and exit
         if (!history) {
-            revisions.push({
+            revsWithDeletions.push({
                 id: curFaq.id,
-                revisions: [curRevItem]
-
+                revisions: [curRevItem],
+                deletedDate : null
             })
             return;
         }
@@ -66,7 +94,7 @@ async function archiveFaqs() {
     });
 
     // build output
-    let contents = JSON.stringify(revisions, null, 4);
+    let contents = JSON.stringify(revsWithDeletions, null, 4);
     await utilities.writeFile("_data/revisions.jsonc", contents)
 }
 
