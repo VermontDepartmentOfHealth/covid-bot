@@ -103,6 +103,14 @@ async function main() {
             require("./listChanges")()
         })
 
+    /* list-questions */
+    program
+        .command('list-questions')
+        .description('lists all faq questions')
+        .action((cmd) => {
+            require("./listQuestions")()
+        })
+
     /* fix-data */
     program
         .command('fix-data')

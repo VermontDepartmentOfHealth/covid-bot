@@ -11,6 +11,7 @@ module.exports = {
     getCurrentTimestamp,
     deduplicate,
     writeFile,
+    writeFileRaw,
     removeWhitespace,
     prettyDate,
     parseYYYYMMDDToDate
@@ -123,21 +124,26 @@ function deduplicate(array) {
     return uniqueArray
 }
 
-async function writeFile(path, contents) {
+async function writeFileRaw(path, contents) {
     const { promises: fs } = require("fs");
-    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running script - local changes will be wiped out\r\n"
 
     let projectRoot = __dirname.replace(/(cli|util)$/, "");
     let fullPath = `${projectRoot}/${path}`;
 
     try {
-        await fs.writeFile(fullPath, GENERATED_FILE_WARNING + contents)
+        await fs.writeFile(fullPath, contents)
 
         console.log(`Data has been written to ${path}`);
 
     } catch (error) {
         console.error(error)
     }
+}
+
+async function writeFile(path, contents) {
+    const GENERATED_FILE_WARNING = "// GENERATED FILE - only update by re-running script - local changes will be wiped out\r\n"
+
+    await writeFileRaw(path, GENERATED_FILE_WARNING + contents)
 }
 
 function removeWhitespace(str) {

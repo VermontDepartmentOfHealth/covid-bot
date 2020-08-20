@@ -21,6 +21,7 @@
         "archive-data": "node cli/_index -- archive-data",
         "lint-data": "node cli/_index -- lint-data",
         "list-changes": "node cli/_index -- list-changes",
+        "list-questions": "node cli/_index -- list-questions",
         "fix-data": "node cli/_index -- fix-data",
 
         "deploy-faq-test": "node cli/_index -- deploy-faq \\\\vdhwebapps-test\\C$\\VDHApplications\\COVID\\faq\\",
