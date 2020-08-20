@@ -64,21 +64,33 @@
       "request": "launch",
       "name": "Archive Data",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\cli\\archiveData.js"
+      "program": "${workspaceFolder}\\cli\\_index",
+      "args": [
+        "--",
+        "archive-data"
+      ]
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Lint Data",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\cli\\lintData.js"
+      "program": "${workspaceFolder}\\cli\\_index.js",
+      "args": [
+        "--",
+        "lint-data"
+      ]
     },
     {
       "type": "node",
       "request": "launch",
       "name": "List Changes",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\cli\\listChanges.js"
+      "program": "${workspaceFolder}\\cli\\_index.js",
+      "args": [
+        "--",
+        "list-changes"
+      ]
     },
     {
       "type": "node",
