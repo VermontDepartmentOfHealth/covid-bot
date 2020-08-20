@@ -377,6 +377,11 @@
                 "question": "How many people are being monitored in Vermont?",
                 "answerBody": "The number of people being monitored is updated every day on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).",
                 "date": "2020-05-08"
+            },
+            {
+                "question": "How many people are being monitored in Vermont?",
+                "answerBody": "The number of travelers monitored and the number of contacts monitored are updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). Below the map, you can find information on how the data for travelers monitored and contacts monitored are reported.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -807,6 +812,11 @@
                 "question": "What should schools and child care programs in Vermont do?",
                 "answerBody": "Schools will reopen on September 8. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Reopening Schools, Fall 2020](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance).\n\nFind more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers may also open, following health and safety precautions outlined in the [Health Guidance for Childcare and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf). Find answers to frequently asked questions about [health and safety guidance for child care and summer programs](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf).\n\nFind more [resources and information for schools and child care programs](https://www.healthvermont.gov/COVID19-schools) from the Health Department.\n\n**School administrators and child care providers who you learn of a positive case at their school or child care** can contact the Health Department's Infectious Disease Epidemiology team. Call 802-863-7240 (Mon - Fri 7:45 a.m. - 4:30 p.m, choose Option 3, outside those hours, choose Option 7).",
                 "date": "2020-08-18"
+            },
+            {
+                "question": "What should schools and child care programs in Vermont do?",
+                "answerBody": "Schools will reopen on September 8. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Reopening Schools](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance) and [A Strong and Healthy Start: Social, Emotional and Mental Health Supports During COVID-19](https://education.vermont.gov/documents/guidance-strong-healthy-start-social-emotional-mental-health-supports-during-covid19).\n\nFind more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers may also open, following health and safety precautions outlined in the [Health Guidance for Childcare and School Age Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf). Find answers to frequently asked questions about [health and safety guidance for child care and summer programs](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf).\n\nFind more [resources and information for schools and child care programs](https://www.healthvermont.gov/COVID19-schools) from the Health Department.\n\n**School administrators and child care providers who you learn of a positive case at their school or child care** can contact the Health Department's Infectious Disease Epidemiology team. Call 802-863-7240 (Mon - Fri 7:45 a.m. - 4:30 p.m, choose Option 3, outside those hours, choose Option 7).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -885,6 +895,11 @@
                 "question": "What should colleges and universities who are planning student foreign travel do?",
                 "answerBody": "Please read the [guidance for institutions of higher education with students participating in foreign travel or study abroad programs](https://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html) from the CDC.",
                 "date": "2020-05-08"
+            },
+            {
+                "question": "What should colleges and universities who are planning student foreign travel do?",
+                "answerBody": "Please read the [guidance for institutions of higher education with students participating in international travel or study abroad programs](https://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html) from the CDC.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -1163,6 +1178,11 @@
                 "question": "How many cases of COVID-19 are in Vermont and in the U.S.?",
                 "answerBody": "The number of cases in Vermont are updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).\n\nThe CDC reports [updated national numbers of COVID-19 cases and deaths](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html).",
                 "date": "2020-07-15"
+            },
+            {
+                "question": "How many cases of COVID-19 are in Vermont and in the U.S.?",
+                "answerBody": "The number of total cases and number of new cases in Vermont are updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). Below the map, you can find information on how the data for total cases and new cases are reported.\n\nThe CDC reports [updated national numbers of COVID-19 cases and deaths](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -1484,6 +1504,11 @@
                 "question": "What types of disinfectants should I be using to clean?",
                 "answerBody": "Read the CDC's [cleaning and disinfecting your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) guidance.\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n* Follow the directions on the label\n\n* Don’t mix chemicals\n\n* Wear protective gear (such as gloves)\n\n* Use them in a well-ventilated area\n\n* Store them out of reach of children\n\nIf you feel sick after using disinfectants, you can chat with the [New England Poison Control Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
                 "date": "2020-04-28"
+            },
+            {
+                "question": "What types of disinfectants should I be using to clean?",
+                "answerBody": "Find tips from the CDC on how to [clean and disinfect your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) routinely and when someone is sick.\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n*   Wear protective gear (such as gloves and eye protection)\n*   Use them in a well-ventilated area\n*   Follow the directions on the label\n*   Use no more than the amount recommended on the label\n*   Use water at room temperature for dilution (unless the label says a different temperature)\n*   Don’t mix chemicals\n*   Label diluted cleaning products\n*   Store them out of reach of children and pets\n\nYou should never eat, drink, breathe or inject these products into your body or apply directly to your skin as they can cause serious harm. Do not wipe or bathe pets with these products or any other products that are not approved for animal use.\n\nIf you feel sick after using disinfectants, you can chat with the [New England Poison Control Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -1759,6 +1784,11 @@
                 "question": "Can you tell me more information about a patient with COVID-19?",
                 "answerBody": "In order to protect patient privacy, we can’t provide details about specific cases. We are focusing our efforts on tracing any close contact patients may have had with others. We will keep the public informed as we are able, including any known risk to the public.",
                 "date": "2020-04-27"
+            },
+            {
+                "question": "Can you tell me more information about a person diagnosed with COVID-19?",
+                "answerBody": "In order to protect a person’s personal health information and privacy, we can’t provide details about specific cases. We are focusing our efforts on [contact tracing](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19#contacttracing) to help identify people who have been in close contact with a person who has tested positive for COVID-19. We will keep the public informed as we are able, including any known risk to the public.\n\nFind up-to-date COVID-19 information on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -1939,6 +1969,11 @@
                 "question": "How can community helpers and volunteers keep from getting sick with COVID-19?",
                 "answerBody": "Making sure neighbors have what they need is crucial, but we need to make sure helpers and volunteers are still taking precautions to protect our most vulnerable Vermonters. Common sense practices can go a long way while Vermonters take care of each other.\n\nThe Vermont Department of Health recommends any volunteers bringing items to those who need to stay home:\n\n*   Keep a distance of 6 feet away.\n*   Avoid entering the person’s home.\n*   Wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n*   Wash your hands regularly.\n*   Avoid touching your face and cover your cough or sneeze with a tissue, then throw the tissue in the trash.\n*   Stop doing community support work immediately if you feel sick or find out you have had contact with someone who is sick.\n*   Keep a list of anyone you come into close contact with in case [contact tracing](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19#contacttracing) is required.\n*   Wear clean gloves when handling items that may be given to people with a weaker immune system, and when you are close to someone who may be sick.",
                 "date": "2020-08-11"
+            },
+            {
+                "question": "How can community helpers and volunteers keep from getting sick with COVID-19?",
+                "answerBody": "Making sure neighbors have what they need is crucial, but we need to make sure helpers and volunteers are still taking precautions to protect our most vulnerable Vermonters. Common sense practices can go a long way while Vermonters take care of each other.\n\nIf you are bringing items to a person who needs to stay home, the Health Department recommends that you:\n\n*   Keep a 6-foot distance from them.\n*   Avoid entering the person’s home.\n*   Wear a [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf).\n*   Wash your hands frequently.\n*   Avoid touching your face and cover your cough or sneeze into your elbow (even when wearing a mask). \n*   Stop doing community support work immediately if you feel sick or find out you have had contact with someone who is sick. \n*   Keep a list of anyone you come into close contact with in case [contact tracing](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19#contacttracing) is needed.\n*   Wear clean gloves when handling items that may be given to people with a weaker immune system and when you are close to someone who may be sick.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -2089,6 +2124,11 @@
                 "question": "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?",
                 "answerBody": "With the quickly changing situation, we continue to adjust reporting, looking for the best ways to communicate with the public. Information is updated daily on the on [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/COVID19-currentactivity).\n\nA [Weekly Summary of Vermont COVID-19 Data](https://www.healthvermont.gov/sites/default/files/documents/pdf/Weekly-Summary-of-Data.pdf) is also available that includes more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.\n\nWe need to assume that we are all at risk of infection and follow these general precautions: keep a 6-foot distance from people you don't live with, wear a cloth face mask or covering when you can't keep 6 feet apart, wash your hands often, and stay home if you are sick.",
                 "date": "2020-08-04"
+            },
+            {
+                "question": "Why is Vermont reporting people who have tested for COVID-19 in the way that it is?",
+                "answerBody": "With the quickly changing situation, we continue to adjust reporting, looking for the best ways to communicate with the public. Information is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard).\n\n[Weekly summaries of Vermont COVID-19 data](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries) include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.\n\nWe need to assume that we are all at risk of infection and follow these general precautions: keep a 6-foot distance from people you don't live with, wear a cloth face mask or covering when you can't keep 6 feet apart, wash your hands often, and stay home if you are sick.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -2277,6 +2317,11 @@
                 "question": "Can I get the virus from food?",
                 "answerBody": "Unlike foodborne gastrointestinal (GI) viruses that often make people sick from contaminated food, COVID-19 is a virus that causes respiratory illness. The COVID-19 virus is thought to spread mainly from person-to-person. Currently, there is **no evidence to show that COVID-19 is spread through food or food packaging**.  \n\nIt is important to always follow general food safety guidelines:\n\n* Wash your hands with soap and water for 20 seconds before preparing or eating food. \n\n* Throughout the day, wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom.\n\nIt may be possible that a person can get COVID-19 by touching a surface or object, like a package or container, that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nFind [shopping for food during the COVID-19 pandemic](https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers) guidance from the FDA and tips on how to [handle and prepare food safely](https://www.cdc.gov/foodsafety/) from the CDC. \n\nLearn from the CDC how to help prevent spread of the virus and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
                 "date": "2020-05-04"
+            },
+            {
+                "question": "Can I get the virus from food (including restaurant take-out, produce, refrigerated or packaged food) or drinking water?",
+                "answerBody": "According to the CDC, **currently there is no evidence that people can get COVID-19 by eating or handling food.**\n\nIt may be possible that people can get COVID-19 by touching a surface or object, such as a food package or dining ware that has the virus on it and then touching their own mouth, nose, or possibly their eyes. However, this is not thought to be the main way the virus spreads.\n\nThere is also no current evidence that people can get COVID-19 by drinking water. The COVID-19 virus has not been detected in drinking water. Conventional water treatment methods that use filtration and disinfection, such as those in most municipal drinking water systems, should remove or kill the virus that causes COVID-19.​\n\nFind [shopping for food during the COVID-19 pandemic](https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers) guidance from the FDA and tips on how to [handle and prepare food safely](https://www.cdc.gov/foodsafety/) from the CDC.\n\nLearn from the CDC how to help prevent spread of the virus and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -2293,6 +2338,11 @@
                 "question": "Can I get the virus from touching my mail or paper products?",
                 "answerBody": "According to the U.S. Postal Service, CDC, World Health Organization, and the U.S. Surgeon General, there is currently **no evidence that COVID-19 is being spread through the mail or paper products**.\n\nThe COVID-19 virus is thought to spread mainly from person-to-person. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nLearn from the CDC how to help prevent spread of the virus and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
                 "date": "2020-05-04"
+            },
+            {
+                "question": "Can I get the virus from touching my mail, packages or products?",
+                "answerBody": "According to CDC, although the virus can survive for a short period on some surfaces, **it is unlikely to be spread from domestic or international mail, products or packaging**.\n\nThe COVID-19 virus is thought to spread mainly from person-to-person. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.\n\nLearn from the CDC about [safe handling of deliveries and mail](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) and [how to protect yourself and others from getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -2502,6 +2552,11 @@
                 "question": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?",
                 "answerBody": "Employees with COVID-19 related concerns in the workplace can contact the Vermont Occupational Safety and Health Administration (VOSHA). Employees can submit a confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form), or call toll free at 1-800-287-2765.",
                 "date": "2020-05-01"
+            },
+            {
+                "question": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?",
+                "answerBody": "Employees with COVID-19 related concerns in the workplace can contact the Vermont Occupational Safety and Health Administration (VOSHA). You can submit a confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form), or call toll free at 1-800-287-2765.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -2675,6 +2730,11 @@
                 "question": "How many people have recovered from COVID-19 in Vermont?",
                 "answerBody": "The number of Vermonters who have recovered from COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). There is also information on this page for how the number of people recovered is reported.",
                 "date": "2020-05-06"
+            },
+            {
+                "question": "How many people have recovered from COVID-19 in Vermont?",
+                "answerBody": "The total number of people who have recovered from COVID-19 is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). Below the map, you can find information on how the data for total people recovered are reported.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -2991,6 +3051,11 @@
                 "question": "How many people who have tested positive for COVID-19 are in my town or county?",
                 "answerBody": "You can find the number of people who have tested positive for COVID-19 by county on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). This map is updated daily.\n\nBelow the data dashboard, there is a map showing the number of Vermonters who have tested positive for COVID-19 by the town where they live. Residents of long-term care facilities and inmates at correctional facilities are included in the town of their facility when they were tested. This map is updated weekly.\n\nWhen looking at the county numbers, please remember that low or no recent cases is not the same as “safer.” We know the virus is in our communities, and we should continue to follow health guidance to slow the spread of COVID-19 – no matter what county we live in or visit. The map reflects the number of people who had a positive test. There may be active cases in your county that haven’t been tested. \n\nA [Weekly Summary of Vermont COVID-19 Data](https://www.healthvermont.gov/sites/default/files/documents/pdf/Weekly-Summary-of-Data.pdf) is also available that includes more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
                 "date": "2020-07-15"
+            },
+            {
+                "question": "How many people who have tested positive for COVID-19 are in my town or county?",
+                "answerBody": "The number of people who have tested positive for COVID-19 by county is updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). \n\nThe number of Vermonters who have tested positive for COVID-19 by the town where they live is updated weekly on the [map of cases by town](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#town). \n\nWhen looking at the county or town numbers, please remember that low or no recent cases is not the same as “safer.” We know the virus is in our communities, and we should continue to follow health guidance to slow the spread of COVID-19 – no matter where we live in or visit. The maps reflect the number of people who had a positive test. There may be people in your county or town that have COVID-19 but have not been tested. \n\n[Weekly summaries of Vermont COVID-19 data](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries) include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -3100,6 +3165,11 @@
                 "question": "Can I donate unused personal protective equipment (PPE)?",
                 "answerBody": "Yes, you can donate unused, unopened N95, medical or surgical masks by simply dropping them off at your nearest [Vermont State Police Barracks](https://vsp.vermont.gov/stations).",
                 "date": "2020-04-28"
+            },
+            {
+                "question": "Can I donate unused personal protective equipment (PPE) or other medical-related supplies?",
+                "answerBody": "Yes, the State of Vermont is accepting donations of specific medical-related supplies, including:\n\n*   N95 masks\n*   Surgical masks\n*   Face shields\n*   Surgical gowns\n*   Thermometers\n*   Thermometer covers\n*   Gloves (nitrile or non-latex)\n*   Hand sanitizer\n\nFill out the [online COVID-19 Donation Form](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxqj0nbCzvaxFqgXM4elggOBUQ0VYOFpSTUU1MlhTUlE3OUIxODQzU1g3WC4u) to donate.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -3234,6 +3304,11 @@
                 "question": "How many people who have tested positive for or have symptoms of COVID-19 are in the hospitals?",
                 "answerBody": "You can find the number of people who are hospitalized and have tested positive for COVID-19 or are suspected to have COVID-19 (reported as hospitalized under investigation) on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). This map is updated daily.",
                 "date": "2020-04-27"
+            },
+            {
+                "question": "How many people who have tested positive for or have symptoms of COVID-19 are in the hospitals?",
+                "answerBody": "The number of people who are currently hospitalized with COVID-19 and the number of people who are suspected to have COVID-19 but have not yet been confirmed (reported as hospitalized under investigation) are updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). Below the map, you can find information on how the hospitalization data and data for people currently hospitalized are reported.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -3245,6 +3320,11 @@
                 "question": "What details can you share about people who have died from COVID-19?",
                 "answerBody": "Information on the deaths from COVID-19 in Vermont is available on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont).\n\nInformation on the [number of deaths from COVID-19 in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) is available from the CDC.",
                 "date": "2020-04-27"
+            },
+            {
+                "question": "What details can you share about people who have died from COVID-19?",
+                "answerBody": "The total number of deaths across the state and for each county are updated daily on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). Below the map, you can find information on how the data for deaths are reported.\n\nInformation on the [number of deaths from COVID-19 in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) is available from the CDC.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -3861,6 +3941,11 @@
                 "question": "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?",
                 "answerBody": "According to the CDC, at this time, there is no evidence that animals play a large role in spreading the virus that causes COVID-19, and no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets. Based on the limited information available at this time, the risk of animals spreading COVID-19 to people is considered to be low. A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. Find more information on [staying safe and healthy around animals including pets](https://www.cdc.gov/healthypets/index.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
                 "date": "2020-05-08"
+            },
+            {
+                "question": "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?",
+                "answerBody": "According to the CDC, at this time, there is no evidence that animals play a large role in spreading the virus that causes COVID-19, and no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets.\n\nBased on the limited information available to date, the risk of animals spreading COVID-19 to people is low. A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 pandemic.\n\nHowever, because animals can sometimes carry other germs that can make people sick, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands before and after interacting with them. Find more information on [staying safe and healthy around pets and animals](https://www.cdc.gov/healthypets/index.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -4261,6 +4346,11 @@
                 "question": "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?",
                 "answerBody": "People who have fully recovered from COVID-19 have antibodies in their blood plasma. This is the body’s immune response to the virus. Currently, plasma donations are only being done experimentally. It has not yet been confirmed by the scientific community. However, it could prove to be important in the future to treating serious cases of illness from COVID-19.\n\nThe Red Cross is looking for people who are fully recovered from COVID-19 and may be able to donate plasma. If you are fully recovered from a COVID-19 diagnosis that was confirmed by a lab test and would like to donate your plasma, [fill out the form on the Red Cross website](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html).",
                 "date": "2020-04-27"
+            },
+            {
+                "question": "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?",
+                "answerBody": "People who have fully recovered from COVID-19 have antibodies in their blood plasma. This is the body’s immune response to the virus. Plasma may be helpful to people sick with COVID-19. But currently, plasma donations are only being done experimentally. In the future, plasma could be used to treat serious cases of COVID-19. \n\nThe Red Cross is looking for people who are fully recovered from COVID-19 and may be able to donate plasma. If you are fully recovered from a COVID-19 diagnosis that was confirmed by a lab test and would like to donate your plasma, [fill out the form on the Red Cross website](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -4461,6 +4551,11 @@
                 "question": "I’m a health professional and would like to volunteer. How do I get a temporary license?",
                 "answerBody": "Health care professionals can quickly become temporarily licensed to provide care during the COVID-19 public health emergency. This includes people who were previously licensed, even if they are retired from practice and do not hold an active license in any state.\n\nThe new emergency measures grant a temporary license for health professionals who:\n * Are licensed and in good standing in other states\n * Were licensed in Vermont, but whose licenses lapsed in recent years\n\nThere are no fees of any kind to obtain a temporary emergency license.\n\nThe process for applying will depend on the applicant’s status. Some just need to submit information about who they are and where they will be practicing. Others will be required to apply for the license using a streamlined process.\n\nTo apply for a license or get more information about the process contact the licensing authority for your profession:\n * [Board of Medical Practice](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19) (medical doctors, physician assistants, and podiatrists) or 802-657-4223.\n * [Office of Professional Regulation](https://sos.vermont.gov/opr/about-opr/covid-19-response/) (other health care professions – including nurses and osteopathic physicians) or 802-828-1505.",
                 "date": "2020-04-27"
+            },
+            {
+                "question": "I’m a health professional and would like to volunteer. How do I get a temporary license?",
+                "answerBody": "If you are a health care professional, you can quickly become temporarily licensed to provide care during the COVID-19 pandemic. You can be granted a temporary license if you:\n\n*   Are licensed and in good standing in other states\n*   Were licensed in Vermont, but your license lapsed in recent years\n\nThere are no fees of any kind to obtain a temporary emergency license.\n\nTo apply for a license or get more information about the process, contact the licensing authority for your profession: \n\n*   [Board of Medical Practice](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19) (medical doctors, physician assistants, and podiatrists) or 802-657-4223.\n*   [Office of Professional Regulation](https://sos.vermont.gov/opr/about-opr/covid-19-response/) (other health care professions – including nurses and osteopathic physicians) or 802-828-1505.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -4881,6 +4976,11 @@
                 "question": "Why are race and ethnicity now included in reported data on COVID-19 cases?",
                 "answerBody": "The Health Department is now including data about race and ethnicity on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont). We recognized the need to include this information to help us understand how Vermonters were being affected by COVID-19, but in our earlier efforts to respond to the pandemic, race and ethnicity data were not always collected for each patient. A [Weekly Summary of Vermont COVID-19 Data](https://www.healthvermont.gov/sites/default/files/documents/pdf/Weekly-Summary-of-Data.pdf) is also available that includes more details on who has been impacted by COVID-19 in Vermont.\n\nHealth equity exists when all people have a fair and just opportunity to be healthy – especially those who have experienced socioeconomic disadvantage, historical injustice, and other systemic inequalities. Therefore, our epidemiology team collaborated with Vermont Information Technology Leaders (VITL) to cross-reference medical records to gain more robust race information about COVID-19 cases in Vermont.\n\nWe can use this data to help to prevent the spread of illness, improve care for patients, and present a more complete picture of how COVID-19 may be affecting everyone in Vermont.",
                 "date": "2020-07-15"
+            },
+            {
+                "question": "Why are race and ethnicity included in reported data on COVID-19 cases?",
+                "answerBody": "The Health Department includes data about race and ethnicity on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). We recognized the need to include this information to help us understand how Vermonters were being affected by COVID-19. In our earlier efforts to respond to the pandemic, race and ethnicity data were not always collected for each patient. [Weekly summaries of Vermont COVID-19 data](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries) are also available, and they include more details on who has been impacted by COVID-19 in Vermont.\n\nHealth equity exists when all people have a fair and just opportunity to be healthy – especially those who have experienced socioeconomic disadvantage, historical injustice, and other systemic inequalities. Therefore, our epidemiology team collaborated with Vermont Information Technology Leaders (VITL) to cross-reference medical records to gain more robust race information about COVID-19 cases in Vermont.\n\nWe can use this data to help to prevent the spread of illness, improve care for patients, and present a more complete picture of how COVID-19 may be affecting everyone in Vermont.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -5270,6 +5370,11 @@
                 "question": "What do employers need to do to reopen their business?",
                 "answerBody": "All businesses must follow mandatory health and safety requirements as they reopen.\n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on their [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including a step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).\n\nStagnant water in plumbing systems can lead to illness or cause disease. As offices, retail businesses, gyms and other buildings begin to reopen, they should follow [state guidance and recommendations](https://dec.vermont.gov/water/COVID-19-Response-and-Resources) before using the drinking water again. Read the CDC’s [Guidance for Reopening Buildings After Prolonged Shutdown or Reduced Operation](https://www.cdc.gov/coronavirus/2019-ncov/php/building-water-system.html) for more information.",
                 "date": "2020-05-21"
+            },
+            {
+                "question": "What do employers need to do to reopen their business?",
+                "answerBody": "All businesses must follow mandatory health and safety requirements as they reopen.\n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including a step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart) and [sector-specific guidance](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance).\n\nBecause stagnant water in plumbing systems can lead to illness or cause disease, offices, retail businesses, gyms and other buildings should follow [state guidance and recommendations](https://dec.vermont.gov/water/COVID-19-Response-and-Resources) as they reopen and before using the drinking water again. Read the CDC’s [Guidance for Reopening Buildings After Prolonged Shutdown or Reduced Operation](https://www.cdc.gov/coronavirus/2019-ncov/php/building-water-system.html) for more information.",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
@@ -6174,6 +6279,17 @@
                 "question": "How can I be safe from COVID-19 infection and prevent an overdose?",
                 "answerBody": "[Substance use may increase the risk of becoming seriously ill or dying from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/people-who-use-drugs/QA.html), but more evidence is needed. At the same time, an opioid overdose is an immediate risk to your life. Know that stimulants may also have fentanyl in them, an opioid. Below are some tips to help avoid an overdose or be better prepared if one happens and to reduce your risk of getting COVID-19.\n\n**If you are alone:**\n\n*   Call, text or send a Facebook or other type of message to someone you trust. Tell them you’re going to use and make a safety plan. For example, ask them to call you in a certain number of minutes. If they don’t hear from you, they should follow your plan. This could include coming over to check on you, calling a family member to check on you, or calling 911.\n*   Call [Never Use Alone](http://neverusealone.com/) at 800-484-3731 or message them on [Facebook](https://www.facebook.com/Neverusealone/). They’ll wait while you use and call for emergency services if you don’t respond after a certain period of time.\n*   Have Naloxone with you. Put it where someone checking on you will easily see it.\n*   Wash your hands or use hand sanitizer.\n\n**If you’re not alone:**\n\n*   Try to keep a 6-foot distance from the other people you’re with, unless you live with them. People who live in the same household don’t need to stay 6 feet apart.\n*   Anyone in the room should wear a face mask or covering if they are not using and not part of your household.\n*   Make sure someone you trust has naloxone on hand, and they aren’t using at the moment.\n*   Let them know when you are using so they can check in and give naloxone if needed.\n*   Wash your hands or use hand sanitizer.\n\n**Whenever and wherever you use, these tips can help prevent an overdose:**\n\n*   Use one drug at a time (don’t mix).\n*   Know your tolerance. Use less if you haven’t used in a while, or if you’ve been sick, lost weight, or if something else has lowered your tolerance.\n*   Test for fentanyl or assume there is fentanyl in your supply.\n*   Start low and go slow. You can use more later.\n*   Use in a lower risk way, like snorting instead of injecting or smoking.\n*   Consider getting on medication assisted treatment (methadone, bupe, suboxone, etc.).\n*   Call 802-565-LINK or go to [VTHelplink](https://vthelplink.org/app/account/opa_result) to find a treatment center.\n\n**About wearing face masks or coverings:**\n\nWearing a mask reduces the risk of transmission of COVID-19. However, substance use can impact your breathing and wearing a mask can make it worse. Plus, if you can’t take your own mask off (like if you’re nodding out), you shouldn’t wear one. When using substances with other people, particularly opioids, you may choose to stay 6 feet apart and not wear masks.\n\n**More information:**\n\n*   [Tips to prevent an opioid overdose](https://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/) (Harm Reduction Coalition)\n*   [Helping during an overdose and finding Naloxone](https://www.healthvermont.gov/emergency/injury/opioid-overdose-prevention) (Health Department)\n*   [Guidance for People Who Use Substances on COVID-19](https://yale.app.box.com/v/COVID19HarmReductionGuidance) (Yale)\n*   [Safer Drug Use During the COVID-19 Outbreak](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/?utm_source=all+IRETA+communications&utm_campaign=c611c175b0-EMAIL_CAMPAIGN_2020_03_16_01_32&utm_medium=email&utm_term=0_5cec8dc768-c611c175b0-137425257&mc_cid=c611c175b0&mc_eid=7bcfbcf675) (Harm Reduction Coalition)",
                 "date": "2020-08-18"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4733,
+        "revisions": [
+            {
+                "question": "What is the percent of people who tested positive for COVID-19 in Vermont?",
+                "answerBody": "You can find the percent of people who tested positive in Vermont each week in the [weekly data summary (page 7)](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
