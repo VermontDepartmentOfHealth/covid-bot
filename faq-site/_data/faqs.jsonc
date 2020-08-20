@@ -3481,7 +3481,7 @@
         },
         {
             "id": 4633,
-            "answer": "Your question is not read by a person, but answered by an automated chat bot. To talk to a real live person: \n\n* call [2-1-1](tel:211) or \n\n* email [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov).gov.\n\n",
+            "answer": "Your question is not read by a person, but answered by an automated chat bot. To talk to a real live person:\n\ncall [2-1-1](tel:211) or\n\nemail [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov).",
             "source": "ChitChat",
             "questions": [
                 "Am I talking to a person?",
@@ -5877,7 +5877,8 @@
                 "How long does a California traveler need to quarantine",
                 "If i am traveling by car to vermont",
                 "Traveling from Quebec",
-                "what are safe counties"
+                "what are safe counties",
+                "who can come to VT without quarantining"
             ],
             "metadata": [
                 {
@@ -6278,6 +6279,11 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
+                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,

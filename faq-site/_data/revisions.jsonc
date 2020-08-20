@@ -3507,6 +3507,11 @@
                 "question": "",
                 "answerBody": "Your question is not read by a person, but answered by an automated chat bot. To talk to a real live person: \n\n* call [2-1-1](tel:211) or \n\n* email [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov).gov.\n\n",
                 "date": "2020-08-11"
+            },
+            {
+                "question": "",
+                "answerBody": "Your question is not read by a person, but answered by an automated chat bot. To talk to a real live person:\n\ncall [2-1-1](tel:211) or\n\nemail [AHS.VDHPublicCommunication@Vermont.gov](mailto:AHS.VDHPublicCommunication@Vermont.gov).",
+                "date": "2020-08-20"
             }
         ],
         "deletedDate": null
