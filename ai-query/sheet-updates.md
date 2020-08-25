@@ -12,7 +12,7 @@ permalink: /sheet-updates/
 4. Go to `SOV-COVID-BOT` resource group
 5. Go to `SOV-COVID-BOT-ai` analytics
 6. Go to Logs
-   ![logs](https://i.imgur.com/KZoedub.png)
+   ![logs](/assets/log.png)
 7. Go to Query Explorer > Shared Queries > `All QAs`
    ![query explorer](https://i.imgur.com/0Gb2Tlg.png)
 8. Update `startDate` to approximate start date (plus some extra time for timezones)
