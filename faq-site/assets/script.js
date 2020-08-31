@@ -1,5 +1,19 @@
 // remove no-js if we're able to execute
-document.body.classList.remove("no-js")
+document.body.classList.remove("no-js");
+
+loadActiveFAQ()
+
+function loadActiveFAQ() {
+    // get fragment uri
+    var id = location.hash.replace('#', '')
+    var el = document.querySelector("[id='" + id + "'].faq")
+
+    if (!el) return
+
+    el.classList.add("active")
+    el.querySelector("details").open = true
+
+}
 
 var keywordInput = document.querySelector("#search");
 var searchArea = document.querySelector(".topics")
