@@ -285,6 +285,10 @@ summary.context h4 {
     display: inline;
 }
 
+.active.faq h4 {
+    background: #ffffcd;
+}
+
 
 /* permalink */
 
