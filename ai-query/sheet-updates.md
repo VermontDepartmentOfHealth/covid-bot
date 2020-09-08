@@ -5,6 +5,10 @@ permalink: /sheet-updates/
 
 # ChatBot Logs Update Instructions
 
+**NOTE**: Wait until operation finishes saving in between each step.  Otherwise, we risk failures and merge conflicts when trying to batch too much data to a shared excel workbook ![saving -> saved](/assets/saving-to-saved.png)
+
+## Reresh Triage Sheet
+
 1. Kick everyone out of sheet
 2. Download a copy of the sheet from [portal.office.com](http://office.com/launch/excel) for safe keeping
    1. File > Save As > Download a Copy
@@ -54,7 +58,7 @@ permalink: /sheet-updates/
 
            ![Data Validation](/assets/Data-Validation.png)
 
-        1. If you see a warning to apply data validation to missing cells, do that - that should apply the rules to any missing cells
+        3. If you see a warning to apply data validation to missing cells, do that - that should apply the rules to any missing cells
 
            ![extend data validation](/assets/extend-data-validation.png)
 
@@ -62,13 +66,34 @@ permalink: /sheet-updates/
 
     ![sort newest to oldest](/assets/sort-newest-to-oldest.png)
 
-22. Ensure the changes are successfully auto-saved
+21. Ensure the changes are successfully auto-saved
 
     ![saving -> saved](/assets/saving-to-saved.png)
 
-23. Let people know the sheet is available
+22. Let people know the sheet is available
 
 
 > **HINT**: If you're feeling a bit cramped for real estate in Azure, try collapsing the blades with the left chevrons
 >
 > ![Hide Menu](/assets/Hide-Menu.png)
+
+## Migrate to Warehouse
+
+Move records from `COVID-BOT-Triage.xlsx` to `COVID-BOT-Warehouse.xlsx`
+
+
+1. At the start of the month, remove the data from two months prior
+2. Move data from both worksheets:
+   * `Covid Bot Queries` and
+   * `Follow Up Prompts`
+3. Then delete all formula columns (typically orange headers), including the following:
+   * actual faq
+   * day
+   * training lookup rename match
+   * updated faq wording
+   * added?
+   * word count
+   * score range
+   * missing annotation?
+   * In Last Week
+4. Sort both sheets Newest to Oldest
