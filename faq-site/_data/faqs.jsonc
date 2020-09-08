@@ -6454,6 +6454,31 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 4738,
+            "answer": "**What if there is a case of COVID-19 in school?**\n\nThe Health Department quickly responds every time we receive a positive test result for COVID-19. A contact tracer calls the person who tested positive (or their parent) within 24 hours, asks them questions about their recent activities and who they’ve been in contact with during their infectious period, and gives instructions on staying home. The team contacts the school if the person was there while infectious. Schools do not need to take action if someone with COVID-19 was not at the school during their infectious period.\n\nThe Health Department will:\n\n*   Work closely with the school and ask about who had close contact (within 6 feet for at least 15 minutes) with the person with COVID-19 while they were infectious, like classmates and teachers. Information that identifies the individual will only be shared if consent was given.\n*   Reach out to all people with close contact and give them information about quarantine and testing.\n*   Discuss next steps with school administration, including whether to temporarily move to remote instruction.\n\nThe school will:\n\n*   Close off any areas where the person spent longer than 15 minutes (like a classroom, gym, or a cafeteria) then clean and disinfect the areas.\n*   Communicate with parents and staff about the situation, and encourage everyone to answer calls from the Health Department for contact tracing, if they get called. Contact tracers only call the people who our infectious disease experts determine have had close contact with a person with COVID-19 while they were infectious.\n*   Clean and disinfect frequently touched surfaces in the school.\n*   Make sure that anyone who tests positive for COVID-19 stays home from school (isolation) until they can return.\n*   Make sure that anyone who had close contact with someone with COVID-19 while they were infectious stays home from school (quarantine) until they can return. Someone under quarantine does not have COVID-19 and cannot pass it to others, but they may become infected within 14 days.\n\nLearn more about our response to COVID-19 cases [here](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).\n\n[See more resources](https://www.healthvermont.gov/response/coronavirus-covid-19/schools-colleges-child-care-programs) for school administrators, nurses and COVID coordinators, including [this quick reference guide](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-School-Case-Quick-Reference.pdf) for when someone with COVID-19 was at school while infectious.",
+            "source": "Editorial",
+            "questions": [
+                "What if there is a case of COVID-19 in school?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "families with children"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
         }
     ]
 }
