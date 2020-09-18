@@ -6807,6 +6807,11 @@
                 "question": "What if the county “color” changes while I’m traveling out of state?",
                 "answerBody": "If you are a Vermonter traveling out of state, the status of the county when you arrive there determines whether you need to quarantine. In other words, if you visit a county with a “green” status, even if the status changes to “yellow” or “red” during your visit, you do not need to quarantine upon your return to Vermont.\n\n[Go to the cross-state travel map](https://accd.vermont.gov/covid-19/restart/cross-state-travel).",
                 "date": "2020-08-31"
+            },
+            {
+                "question": "What if the county “color” changes before or during my travel?",
+                "answerBody": "If you are a visitor to Vermont, use the status, or color, of the county you’re coming from on the day you leave to determine if you need to quarantine.\n\nIf you are a Vermonter traveling out-of-state, use the status, or color, of the county on the day you leave Vermont to determine if you need to quarantine when you return.\n\nFor example, if a Vermonter travels on a Friday, and the county they visit is green on that Friday and changes to red before they return to Vermont, they do not need to quarantine upon return because it was green when they left Vermont.\n\n[Go to the cross-state travel map](https://accd.vermont.gov/covid-19/restart/cross-state-travel).",
+                "date": "2020-09-18"
             }
         ],
         "deletedDate": null
