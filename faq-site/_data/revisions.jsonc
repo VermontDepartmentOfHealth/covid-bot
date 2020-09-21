@@ -909,7 +909,7 @@
                 "date": "2020-09-17"
             }
         ],
-        "deletedDate": null
+        "deletedDate": "2020-09-21"
     },
     {
         "id": 4554,
@@ -971,7 +971,7 @@
                 "date": "2020-08-31"
             }
         ],
-        "deletedDate": null
+        "deletedDate": "2020-09-21"
     },
     {
         "id": 4556,
@@ -997,7 +997,7 @@
                 "date": "2020-08-20"
             }
         ],
-        "deletedDate": null
+        "deletedDate": "2020-09-21"
     },
     {
         "id": 4557,
@@ -3275,6 +3275,11 @@
                 "question": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?",
                 "answerBody": "Lodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks, seasonal resorts and marinas – may accept overnight reservations from Vermont residents and [those who have met the quarantine requirement](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Travelers coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases do not need to quarantine.\n\nFind details and up-to-date information on [lodging, campgrounds and other accommodations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community and Development (ACCD) and find information about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) from the Health Department.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in and must provide a Vermont driver’s license or [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that they met the quarantine requirement or have traveled from an approved county with a low rate of active cases. Out-of-state guests are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) – for daily reminders from the Vermont Department of Health.\n\nIf you have a concern about lodging facilities that are violating the Be Smart, Stay Safe Order, fill out the Department of Public Safety's online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
                 "date": "2020-08-07"
+            },
+            {
+                "question": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?",
+                "answerBody": "Lodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks, seasonal resorts and marinas – may accept overnight reservations from Vermont residents and [those who have met the quarantine requirement](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Find details and up-to-date information on [lodging, campgrounds and other accommodations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community and Development (ACCD).\n\nTravelers coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases do not need to quarantine. Your [reservation may need to be cancelled](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs#may-i-make-a-reservation-if-the-county-i-am-in-is-not-green-or-i-plan-to-travel-to-vermont-from-an-area-not-on-the-existing-travel-map) depending on what the status, or color, is of the county your traveling from on your date of arrival. Find more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) from the Health Department and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs) from the ACCD.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in and must provide a Vermont driver’s license or [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that they met the quarantine requirement or have traveled from an approved county with a low rate of active cases. Out-of-state guests are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) – for daily reminders from the Vermont Department of Health.\n\nIf you have a concern about lodging facilities that are violating the Be Smart, Stay Safe Order, fill out the Department of Public Safety's online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
+                "date": "2020-09-21"
             }
         ],
         "deletedDate": null
@@ -6872,6 +6877,28 @@
                 "question": "Where can I find information on testing results for Vermont colleges and universities?",
                 "answerBody": "The Department of Financial Regulation’s [School Reopening web page](https://dfr.vermont.gov/about-us/covid-19/school-reopening) includes links to each Vermont college and university that is currently maintaining a public dashboard or otherwise publicly maintaining information regarding their COVID-19 testing results.",
                 "date": "2020-09-17"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4741,
+        "revisions": [
+            {
+                "question": "How many cases of COVID-19 are in Vermont K-12 schools?",
+                "answerBody": "You can find a [school-by-school listing of COVID-19 cases](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Transmission-Schools.pdf) in Vermont K-12 schools. The list will be updated on Mondays with data through the previous Friday.",
+                "date": "2020-09-21"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4742,
+        "revisions": [
+            {
+                "question": "Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?",
+                "answerBody": "We recommend that you reach out to the school administration or the supervisory union administration – such as the principal, superintendent or independent school head – with your information and concerns. [Find the list of superintendents](https://www.vtvsa.org/-superintendents).\n\nThe Health Department has worked closely with the Agency of Education to develop [safety and health guidance](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance) and to support schools with implementing them so that we can continue to do as well as the State has during the pandemic.",
+                "date": "2020-09-21"
             }
         ],
         "deletedDate": null

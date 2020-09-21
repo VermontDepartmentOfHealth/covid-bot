@@ -263,11 +263,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4553,
-                        "displayText": "What should schools, child care and summer programs in Vermont do?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -744,47 +739,6 @@
             }
         },
         {
-            "id": 4553,
-            "answer": "**What should schools and child care programs in Vermont do?**\n\nSchools will reopen on September 8. The Agency of Education and the Health Department created a guidance document for school administrators and personnel as they plan and implement the reopening of schools for the 2020-21 school year. Read [A Strong and Healthy Start: Safety and Health Guidance for Vermont Schools](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance) and [A Strong and Healthy Start: Social, Emotional and Mental Health Supports During COVID-19](https://education.vermont.gov/documents/guidance-strong-healthy-start-social-emotional-mental-health-supports-during-covid19).\n\nFind more [COVID-19 guidance for Vermont schools](https://education.vermont.gov/news/covid-19-guidance-vermont-schools) from the Agency of Education.\n\nChild care providers may also open, following health and safety precautions outlined in the [Health Guidance for Child Care and Out-of-School-Time Camps/Care](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf). Find answers to frequently asked questions about [health and safety guidance for child care and summer programs](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-Childcare-Summer-Program-Guidance-FAQ.pdf).\n\nFind more [resources and information for schools and child care programs](https://www.healthvermont.gov/COVID19-schools) from the Health Department.\n\n**School administrators and child care providers who you learn of a positive case at their school or child care** can contact the Health Department's Infectious Disease Epidemiology team. Call 802-863-7240 (Mon - Fri 7:45 a.m. - 4:30 p.m, choose Option 3, outside those hours, choose Option 7).\n\nFind out what to do [guide when someone was infectious at your school](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-School-Case-Quick-Reference.pdf) and [what happens at the Health Department when someone tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).",
-            "source": "KB-COVID",
-            "questions": [
-                "What should I do at my day care?",
-                "how long are daycares closed",
-                "Childcare closures",
-                "special education",
-                "overnight camps",
-                "child care",
-                "childcare programs",
-                "school",
-                "teach local children",
-                "summer camp",
-                "child in daycare",
-                "school children",
-                "What should schools and child care programs in Vermont do?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, schools"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "schools, colleges and child care programs"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
             "id": 4554,
             "answer": "**What should pregnant or breastfeeding people do?**\n\nBased on what we know at this time, pregnant people might be at an increased risk for severe illness from COVID-19 compared to non-pregnant people. Additionally, there may be an increased risk of adverse pregnancy outcomes, such as preterm birth, among pregnant people with COVID-19. Therefore, if you are pregnant, be mindful about reducing your risk of getting sick.\n\nLearn more from CDC about [COVID-19 and pregnancy and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces#families).",
             "source": "KB-COVID",
@@ -804,76 +758,6 @@
                 "prompts": [
                     {
                         "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4555,
-            "answer": "**What should colleges and universities in Vermont do?**\n\nColleges and universities must follow the [Mandatory Guidance for College and University Campus Learning](https://accd.vermont.gov/content/restart-plan-college-and-university-campus-learning) published by the Agency of Commerce and Community Development, the Health Department, and the Vermont Department of Public Safety.\n\nCheck the [guidance inventory for COVID-19 support](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Inventory-Colleges-Universities.pdf), which will be updated as necessary. The inventory lists sources of guidance and resources that will be helpful to post-secondary institutions in developing their plans for on-campus learning.",
-            "source": "KB-COVID",
-            "questions": [
-                "What should colleges and universities in Vermont do?",
-                "Can I pick up my stuff from college?",
-                "Will colleges hold summer school onsite?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, schools"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "schools, colleges and child care programs"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4556,
-            "answer": "**What should colleges and universities who are planning student foreign travel do?**\n\nPlease read the [guidance for institutions of higher education with students participating in international travel or study abroad programs](https://www.cdc.gov/coronavirus/2019-ncov/community/student-foreign-travel.html) from the CDC.",
-            "source": "KB-COVID",
-            "questions": [
-                "QnaId4556"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "travel"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "international"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4718,
-                        "displayText": "I have a different question on the topic of travel."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
@@ -2827,7 +2711,7 @@
         },
         {
             "id": 4616,
-            "answer": "**Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?**\n\nLodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks, seasonal resorts and marinas – may accept overnight reservations from Vermont residents and [those who have met the quarantine requirement](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Travelers coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases do not need to quarantine.\n\nFind details and up-to-date information on [lodging, campgrounds and other accommodations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community and Development (ACCD) and find information about [traveling to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) from the Health Department.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in and must provide a Vermont driver’s license or [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that they met the quarantine requirement or have traveled from an approved county with a low rate of active cases. Out-of-state guests are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) – for daily reminders from the Vermont Department of Health.\n\nIf you have a concern about lodging facilities that are violating the Be Smart, Stay Safe Order, fill out the Department of Public Safety's online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
+            "answer": "**Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?**\n\nLodging facilities – hotels, motels, bed and breakfasts, inns, short-term rentals (for example, VRBO, Homeaway, Airbnb, etc.), and all public and private camping facilities, RV parks, seasonal resorts and marinas – may accept overnight reservations from Vermont residents and [those who have met the quarantine requirement](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Find details and up-to-date information on [lodging, campgrounds and other accommodations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community and Development (ACCD).\n\nTravelers coming from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases do not need to quarantine. Your [reservation may need to be cancelled](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs#may-i-make-a-reservation-if-the-county-i-am-in-is-not-green-or-i-plan-to-travel-to-vermont-from-an-area-not-on-the-existing-travel-map) depending on what the status, or color, is of the county your traveling from on your date of arrival. Find more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) from the Health Department and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs) from the ACCD.\n\nAll guests must complete a [health questionnaire](https://accd.vermont.gov/content/pre-screening-health-survey-employees-and-visitors-entering-state-vermont-facilities) upon check-in and must provide a Vermont driver’s license or [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that they met the quarantine requirement or have traveled from an approved county with a low rate of active cases. Out-of-state guests are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) – a free, automated and secure reminder system to check for [common symptoms of COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19) – for daily reminders from the Vermont Department of Health.\n\nIf you have a concern about lodging facilities that are violating the Be Smart, Stay Safe Order, fill out the Department of Public Safety's online [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
             "source": "Editorial",
             "questions": [
                 "Hotel",
@@ -2856,11 +2740,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "lodging"
+                    "value": "travel"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -3121,10 +3001,6 @@
                 {
                     "name": "category",
                     "value": "businesses, organizations, schools"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "lodging"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5274,11 +5150,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "families with children"
                 },
                 {
                     "name": "subcategory",
-                    "value": "schools, colleges and child care programs"
+                    "value": "school"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5900,11 +5776,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4556,
-                        "displayText": "What should colleges and universities who are planning student foreign travel do?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4568,
                         "displayText": "I traveled internationally or by cruise ship. Do I need to quarantine?"
                     },
@@ -6102,6 +5973,10 @@
                 {
                     "name": "category",
                     "value": "families with children"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "school"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6392,6 +6267,10 @@
                 {
                     "name": "category",
                     "value": "families with children"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "school"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6427,6 +6306,10 @@
                 {
                     "name": "category",
                     "value": "families with children"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "school"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6466,6 +6349,64 @@
                 {
                     "name": "subcategory",
                     "value": "reporting"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4741,
+            "answer": "**How many cases of COVID-19 are in Vermont K-12 schools?**\n\nYou can find a [school-by-school listing of COVID-19 cases](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Transmission-Schools.pdf) in Vermont K-12 schools. The list will be updated on Mondays with data through the previous Friday.",
+            "source": "Editorial",
+            "questions": [
+                "How many cases of COVID-19 are in Vermont K-12 schools?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "people with covid-19 in vermont"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "reporting"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4742,
+            "answer": "**Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?**\n\nWe recommend that you reach out to the school administration or the supervisory union administration – such as the principal, superintendent or independent school head – with your information and concerns. [Find the list of superintendents](https://www.vtvsa.org/-superintendents).\n\nThe Health Department has worked closely with the Agency of Education to develop [safety and health guidance](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance) and to support schools with implementing them so that we can continue to do as well as the State has during the pandemic.",
+            "source": "Editorial",
+            "questions": [
+                "Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "families with children"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "school"
                 }
             ],
             "alternateQuestionClusters": [],
