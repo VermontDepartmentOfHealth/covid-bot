@@ -18,7 +18,8 @@
             "context": {
                 "isContextOnly": false,
                 "prompts": []
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4534,
@@ -96,7 +97,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4535,
@@ -154,7 +156,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4536,
@@ -185,7 +188,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4537,
@@ -228,11 +232,12 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4538,
-            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. However, a few children have developed [multisystem inflammatory syndrome (MIS-C)](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n*   **Stay home if you are sick** and avoid people who are sick.\n*   **Wear a face mask or covering**.\n*   **Keep a 6-foot distance from others** who are not part of your household.\n*   **Avoid crowded indoor spaces.**\n*   **Wash hands often** using soap and water (or hand sanitizer with at least 60% alcohol).\n*   **Socialize with household members or other trusted households** that are also taking health and safety precautions.\n*   **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks).\n*   **Wash items** including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nVermonters can get together with friends and family. We encourage you to keep groups small when possible to limit any possible exposure to the virus and to keep it from spreading, and to follow health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces#families) and information from the CDC on [caring for young children](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).",
+            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. However, a few children have developed [multisystem inflammatory syndrome (MIS-C)](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.\n\n*   **Stay home if you are sick** and avoid people who are sick.\n*   **Wear a face mask or covering**.\n*   **Keep a 6-foot distance from others** who are not part of your household.\n*   **Avoid crowded indoor spaces.**\n*   **Wash hands often** using soap and water (or hand sanitizer with at least 60% alcohol).\n*   **Socialize with household members or other trusted households** that are also taking health and safety precautions.\n*   **Clean and disinfect high-touch surfaces daily** in household common areas (like tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks).\n*   **Wash items** including washable plush toys, according to the manufacturer’s instructions. If possible, wash items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from a person who is sick can be washed with other people’s items.\n\nVermonters can get together with friends and family. We encourage you to keep groups small when possible to limit any possible exposure to the virus and to keep it from spreading, and to follow health and safety precautions. Learn how to [safely connect with friends and family](https://www.healthvermont.gov/sites/default/files/documents/pdf/Safely_Connect_with_Friends_and_Family_FINAL.pdf).\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces#families) and information from the CDC on [caring for young children](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nYou can find information about cases across age groups along with other COVID-19 data on the [Current Activity in Vermont data dashboard](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#dashboard). More detailed information is in the [weekly summaries of Vermont COVID-19 data](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries), which include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
             "source": "KB-COVID",
             "questions": [
                 "Can kids get Covid-19?",
@@ -267,7 +272,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4539,
@@ -309,7 +315,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4540,
@@ -381,7 +388,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4541,
@@ -429,7 +437,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4542,
@@ -463,7 +472,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4543,
@@ -501,7 +511,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4544,
@@ -537,7 +548,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4545,
@@ -601,7 +613,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4547,
@@ -653,7 +666,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4548,
@@ -687,7 +701,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4549,
@@ -736,7 +751,8 @@
                         "displayText": "What is a PCR test?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4554,
@@ -762,7 +778,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4557,
@@ -782,7 +799,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -795,7 +812,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4558,
@@ -813,7 +831,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -826,7 +844,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4559,
@@ -887,7 +906,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4560,
@@ -954,7 +974,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4564,
@@ -988,7 +1009,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4565,
@@ -1022,7 +1044,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4567,
@@ -1057,7 +1080,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4568,
@@ -1106,7 +1130,8 @@
                         "displayText": "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4569,
@@ -1179,7 +1204,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4570,
@@ -1214,7 +1240,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4571,
@@ -1263,7 +1290,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4572,
@@ -1292,7 +1320,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4573,
@@ -1321,7 +1350,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4575,
@@ -1377,7 +1407,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4576,
@@ -1413,7 +1444,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4577,
@@ -1486,7 +1518,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4578,
@@ -1525,7 +1558,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4580,
@@ -1557,7 +1591,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4581,
@@ -1573,7 +1608,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 },
                 {
                     "name": "subcategory",
@@ -1595,7 +1630,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4583,
@@ -1626,7 +1662,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4584,
@@ -1672,7 +1709,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4585,
@@ -1703,7 +1741,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4586,
@@ -1736,7 +1775,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4587,
@@ -1792,7 +1832,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4588,
@@ -1828,7 +1869,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4589,
@@ -1861,7 +1903,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4590,
@@ -1899,7 +1942,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4591,
@@ -1965,7 +2009,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4592,
@@ -1986,7 +2031,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -2009,7 +2054,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4593,
@@ -2056,7 +2102,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4594,
@@ -2101,7 +2148,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4596,
@@ -2144,7 +2192,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4597,
@@ -2195,7 +2244,8 @@
                         "displayText": "Are face masks or coverings required in Vermont?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4600,
@@ -2225,7 +2275,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4601,
@@ -2290,7 +2341,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4602,
@@ -2328,7 +2380,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4603,
@@ -2378,7 +2431,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4604,
@@ -2406,14 +2460,14 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4605,
-            "answer": "**What should health care workers do?**\n\nThe Health Department has a dedicated [webpage for health care professionals](https://www.healthvermont.gov/COVID19-providers). It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. If an asymptomatic patient who is currently in quarantine would like to end their quarantine on Day 7 or later based upon a negative test result, health care providers can test them in their office or refer them to a pop-up testing site.",
+            "answer": "**What should health care providers and workers do?**\n\nThe Health Department has a dedicated [webpage for health care professionals](https://www.healthvermont.gov/COVID19-providers). It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. If an asymptomatic patient who is currently in quarantine would like to end their quarantine on Day 7 or later based upon a negative test result, health care providers can test them in their office or refer them to a pop-up testing site.",
             "source": "Editorial",
             "questions": [
-                "What should health care workers do?",
                 "What should assisted living workers do?",
                 "Should assisted living workers have PPE?",
                 "Should assisted living workers have masks?",
@@ -2422,12 +2476,13 @@
                 "guidelines for health care services",
                 "nurse",
                 "healthcare providers",
-                "what do staff need to wear when doing testing"
+                "what do staff need to wear when doing testing",
+                "What should health care providers and workers do?"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 },
                 {
                     "name": "subcategory",
@@ -2449,7 +2504,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4607,
@@ -2481,7 +2537,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4608,
@@ -2512,7 +2569,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4609,
@@ -2544,7 +2602,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4610,
@@ -2578,7 +2637,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4611,
@@ -2613,7 +2673,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4612,
@@ -2639,7 +2700,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4614,
@@ -2668,7 +2730,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4615,
@@ -2707,7 +2770,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4616,
@@ -2768,7 +2832,8 @@
                         "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4617,
@@ -2836,7 +2901,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4618,
@@ -2909,7 +2975,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4619,
@@ -2955,7 +3022,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4621,
@@ -2987,7 +3055,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4622,
@@ -3000,7 +3069,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -3018,7 +3087,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4625,
@@ -3072,7 +3142,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4626,
@@ -3108,7 +3179,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4628,
@@ -3142,7 +3214,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4629,
@@ -3195,7 +3268,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4630,
@@ -3247,7 +3321,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -3270,7 +3344,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4632,
@@ -3317,7 +3392,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4633,
@@ -3348,7 +3424,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4634,
@@ -3387,11 +3464,12 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4637,
-            "answer": "**Do I need to quarantine if I'm traveling for an essential purpose (like work in a neighboring state or parental shared custody)?**\n\nIf you are traveling for essential purposes, you do not need to quarantine. Essential travel includes travel for personal safety, medical care, care of others, parental shared custody, for food, beverage or medicine, or for work.\n\nIf you live near a border and regularly travel to and from a neighboring state, you may make day trips to that state for work, health care, and other essential needs like groceries or visitation for parental shared custody, without quarantining.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you travel out of state for leisure and to a location that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine for 14 days in Vermont upon return. This includes day trips. Find up-to-date information about [travel and COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).\n\nYou have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. \n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
+            "answer": "**Do I need to quarantine if I'm traveling for an essential purpose (like work in a neighboring state or parental shared custody)?**\n\nIf you are traveling for essential purposes, you do not need to quarantine. Essential travel includes travel for personal safety, medical care, care of others, parental shared custody, for food, beverage or medicine, to attend preK-12 school if commuting daily, or [for work](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs#can-i-travel-to-and-from-vermont-for-work).\n\nIf you live near a border and regularly travel to and from a neighboring state, you may make day trips to that state for work, health care, to attend preK-12 school, and other essential needs like groceries or visitation for parental shared custody, without quarantining.\n\nHowever, if you come in close contact with someone sick with COVID-19, you should self-quarantine for 14 days, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you travel out of state for leisure and to a location that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine for 14 days in Vermont upon return. This includes day trips. Find up-to-date information about [travel and COVID-19](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).\n\nYou have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "QnaId4637"
@@ -3427,7 +3505,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4638,
@@ -3496,7 +3575,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4639,
@@ -3584,7 +3664,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4640,
@@ -3614,7 +3695,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4641,
@@ -3651,7 +3733,8 @@
                         "displayText": "Are face masks required in Vermont?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4642,
@@ -3696,7 +3779,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4643,
@@ -3768,7 +3852,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4644,
@@ -3799,7 +3884,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4646,
@@ -3851,7 +3937,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4647,
@@ -3895,7 +3982,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4648,
@@ -3924,7 +4012,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4649,
@@ -3963,7 +4052,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4652,
@@ -3992,7 +4082,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4653,
@@ -4026,7 +4117,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4654,
@@ -4077,7 +4169,8 @@
                         "displayText": "What is a PCR test?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4656,
@@ -4136,7 +4229,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4657,
@@ -4165,7 +4259,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4658,
@@ -4179,7 +4274,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -4197,7 +4292,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4659,
@@ -4227,7 +4323,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4661,
@@ -4263,7 +4360,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4662,
@@ -4310,7 +4408,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4664,
@@ -4335,7 +4434,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4665,
@@ -4380,7 +4480,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4666,
@@ -4416,7 +4517,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4667,
@@ -4445,7 +4547,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4669,
@@ -4486,7 +4589,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4670,
@@ -4511,7 +4615,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4671,
@@ -4549,7 +4654,8 @@
                         "displayText": "What is serologic, or antibody, testing?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4672,
@@ -4589,7 +4695,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4673,
@@ -4620,7 +4727,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4675,
@@ -4650,7 +4758,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4676,
@@ -4684,7 +4793,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4677,
@@ -4716,7 +4826,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4678,
@@ -4744,7 +4855,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4679,
@@ -4781,7 +4893,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4680,
@@ -4818,7 +4931,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 },
                 {
                     "name": "sort",
@@ -4850,7 +4963,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4681,
@@ -4862,7 +4976,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -4875,7 +4989,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4682,
@@ -4901,7 +5016,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4688,
@@ -4933,7 +5049,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4690,
@@ -4976,7 +5093,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4691,
@@ -5007,7 +5125,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4692,
@@ -5046,7 +5165,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4693,
@@ -5081,7 +5201,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4695,
@@ -5093,7 +5214,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "businesses, organizations, schools"
+                    "value": "businesses, organizations, health care and other facilities"
                 },
                 {
                     "name": "subcategory",
@@ -5110,7 +5231,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4697,
@@ -5135,7 +5257,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4701,
@@ -5172,7 +5295,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4702,
@@ -5208,7 +5332,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4703,
@@ -5240,7 +5365,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4704,
@@ -5284,7 +5410,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4706,
@@ -5313,7 +5440,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4707,
@@ -5349,11 +5477,12 @@
                         "displayText": "Are face masks or coverings required in Vermont?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4709,
-            "answer": "**Do I need to quarantine if I make a short trip (day trip)?**\n\nIf you live near a border and regularly travel to and from a neighboring state, you may make day trips to Vermont for work, health care, and other essential needs like groceries or visitation for parental shared custody without quarantining.\n\nIf you are traveling for leisure and you go on a day trip that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine in Vermont for 14 days upon return. You have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
+            "answer": "**Do I need to quarantine if I make a short trip (day trip)?**\n\nIf you live near a border and regularly travel to and from a neighboring state, you may make day trips to Vermont for work, health care, to attend preK-12 school, and other essential needs like groceries or visitation for parental shared custody without quarantining.\n\nIf you are traveling for leisure and you go on a day trip that is **not** in an [approved county with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel), you must quarantine in Vermont for 14 days upon return. You have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).",
             "source": "Editorial",
             "questions": [
                 "QnaId4709"
@@ -5379,7 +5508,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4713,
@@ -5418,7 +5548,8 @@
                         "displayText": "What is a PCR test?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4714,
@@ -5447,7 +5578,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4717,
@@ -5477,7 +5609,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4718,
@@ -5685,7 +5818,8 @@
                         "displayText": "I was NOT asking about travel."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4719,
@@ -5750,7 +5884,8 @@
                         "displayText": "My question is not covered by these options."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4720,
@@ -5800,7 +5935,8 @@
                         "displayText": "My question is not covered by these options."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4721,
@@ -5825,7 +5961,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4723,
@@ -5864,7 +6001,8 @@
                         "displayText": "Are face masks or coverings required in Vermont?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4724,
@@ -5893,7 +6031,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4725,
@@ -5924,9 +6063,15 @@
                         "displayOrder": 0,
                         "qnaId": 4656,
                         "displayText": "What should businesses protect workers and customers?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4743,
+                        "displayText": "When can a person return to work if they have a symptom or multiple symptoms of COVID-19?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4726,
@@ -5960,7 +6105,8 @@
                         "displayText": "What is the correct way to wear a face mask or covering?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4727,
@@ -5989,7 +6135,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4728,
@@ -6023,7 +6170,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4729,
@@ -6048,7 +6196,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4730,
@@ -6078,7 +6227,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4731,
@@ -6103,7 +6253,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4732,
@@ -6132,7 +6283,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4733,
@@ -6161,7 +6313,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4734,
@@ -6190,7 +6343,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4735,
@@ -6225,7 +6379,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4737,
@@ -6254,7 +6409,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4738,
@@ -6293,7 +6449,8 @@
                         "displayText": "My child is returning to school. What do I need to know?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4739,
@@ -6332,7 +6489,8 @@
                         "displayText": "Is it safe to send my children back to school or child care?"
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4740,
@@ -6361,7 +6519,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4741,
@@ -6390,7 +6549,8 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
             "id": 4742,
@@ -6419,7 +6579,39 @@
                         "displayText": "This did NOT answer my question."
                     }
                 ]
-            }
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+        },
+        {
+            "id": 4743,
+            "answer": "**When can a person return to work if they have a symptom or multiple symptoms of COVID-19?**\n\n**If you are sick with any** [**symptoms of COVID-19**](https://apps.health.vermont.gov/COVID/faq/#4534)**,**\n\nTalk with your health care provider to determine if:\n\n*   your symptoms are due to COVID-19 or some other reason\n*   you should or should not go to public places or work\n\n**If COVID-19 is suspected**, your health care provider can refer you for testing. Stay home while you are waiting for your test results. If you test positive, a Health Department contact tracer will reach out to walk you through what to do next.\n\nYou will be advised to stay home from work and other activities until:\n\n*   fever has resolved for at least 24 hours without the use of fever-reducing medications, and other symptoms (like cough or shortness of breath) have improved – AND –\n*   at least 10 days have passed since symptoms first appeared.\n\nIf you are sick due to **something other than COVID-19**, you should stay out of work until:\n\n*   you have been without fever for 24 hours without using fever-reducing medications (if you had a fever) – AND –\n*   any other symptoms have resolved or are improving.",
+            "source": "Editorial",
+            "questions": [
+                "When can a person return to work if they have a symptom or multiple symptoms of COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "work and employees"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4725,
+                        "displayText": "Do I need a negative COVID-19 test result to return to work safely?"
+                    }
+                ]
+            },
+            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         }
     ]
 }
