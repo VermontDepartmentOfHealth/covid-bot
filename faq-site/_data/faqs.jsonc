@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestampUTC": "2020-10-14T20:30:36.723+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:41:27.823+00:00"
         },
         {
             "id": 4534,
@@ -233,7 +233,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-12T17:20:07.082+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T18:58:55.415+00:00"
         },
         {
             "id": 4538,
@@ -389,7 +389,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T18:59:34.872+00:00"
         },
         {
             "id": 4541,
@@ -1049,7 +1049,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19. According to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or travel with someone who is sick. Read the CDC’s [considerations for travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html) if you are thinking of traveling away from your local community.\n\nVermonters may travel to [certain counties with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel). If you make your trip in a personal vehicle (including a rental vehicle or private plane), you do not need to quarantine upon return to Vermont. If you travel out of state to a location other than those counties with low rates of active cases, you must quarantine in Vermont for 14 days upon return. This includes day trips.\n\nYou have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. \n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states, and the situation is constantly changing. Travel increases your chances of getting and spreading COVID-19.\n\nAccording to the CDC, staying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or if you have been around someone with COVID-19. Don’t travel with someone who is sick. Read about [travel during the COVID-19 pandemic](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html) if you are thinking of traveling away from your local community.\n\nVermonters may travel to [certain counties with low rates of active cases](https://accd.vermont.gov/covid-19/restart/cross-state-travel). If you make your trip in a personal vehicle (including a rental vehicle or private plane), you do not need to quarantine upon return to Vermont. Learn about [what to do if the county “color” changes](https://apps.health.vermont.gov/COVID/faq/#4735) during your travel.\n\nIf you travel out of state to a location other than those counties with low rates of active cases, you must quarantine in Vermont for 14 days upon return. This includes day trips.\n\nYou have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4567"
@@ -1081,7 +1081,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:33:47.374+00:00"
         },
         {
             "id": 4568,
@@ -1835,7 +1835,7 @@
         },
         {
             "id": 4588,
-            "answer": "**How do I wash or sanitize my hands to keep from getting sick?**\n\nThe CDC recommends [washing your hands often](https://www.cdc.gov/handwashing/when-how-handwashing.html) with soap and water for 20 seconds, including immediately after removing gloves and after contact with someone who is sick. If soap and water are not available, use an alcohol-based hand sanitizer that contains at least 60% alcohol. Always wash your hands with soap and water if they look dirty.",
+            "answer": "**How do I wash or sanitize my hands to keep from getting sick?**\n\nThe CDC recommends [washing your hands often](https://www.cdc.gov/handwashing/when-how-handwashing.html) with soap and water for 20 seconds. It’s especially important to wash your hands:\n\n*   Before touching your eyes, nose, or mouth because that’s how germs enter our bodies\n*   Before eating or preparing food\n*   After blowing your nose, coughing or sneezing\n*   After you have been in a public place and touched an item or surface that may be frequently touched by other people (such as door handles, tables, gas pumps, shopping carts, or electronic cashier registers/screens, etc.)\n*   After using the restroom\n*   After handling your mask\n*   After changing a diaper\n*   After caring for someone sick\n*   After touching animals or pets\n\nIf soap and water are not available, use an alcohol-based hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry. Always wash your hands with soap and water if they look dirty.",
             "source": "Editorial",
             "questions": [
                 "Should I use antibacterial soap?",
@@ -1868,7 +1868,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:25:46.312+00:00"
         },
         {
             "id": 4589,
@@ -2240,10 +2240,15 @@
                         "displayOrder": 0,
                         "qnaId": 4540,
                         "displayText": "Are face masks or coverings required in Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4747,
+                        "displayText": "Is it safe to wear gaiters instead of masks?"
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T18:58:55.415+00:00"
         },
         {
             "id": 4600,
@@ -2503,7 +2508,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:00:16.684+00:00"
         },
         {
             "id": 4607,
@@ -2605,7 +2610,7 @@
         },
         {
             "id": 4610,
-            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nThe Vermont Department of Health has launched VTHelplink, a new, single source clearinghouse for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients. \n\nThe [VTHelplink website](https://vthelplink.org/) has information resources and an [online screening tool](https://vthelplink.org/app/account/findhelp) to help Vermonters learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (for example, residential treatment) and population (for example, people who are pregnant). \n\n**Here’s how you can reach VTHelplink:** \n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year. \n\n**Visit [vthelplink.org](https://vthelplink.org/)**.",
+            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nVT Helplink is a resource for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients.\n\nThe [VTHelplink website](https://vthelplink.org/) has information resources and an [online screening tool](https://vthelplink.org/app/account/findhelp) to help Vermonters learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (for example, residential treatment) and population (for example, people who are pregnant).\n\n**Here’s how you can reach VTHelplink:**\n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year.\n\n**Visit** [**vthelplink.org**](https://vthelplink.org/).",
             "source": "Editorial",
             "questions": [
                 " substance use disorder information on treatment and recovery?"
@@ -2636,7 +2641,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:41:27.823+00:00"
         },
         {
             "id": 4611,
@@ -2672,7 +2677,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:41:27.823+00:00"
         },
         {
             "id": 4612,
@@ -2978,7 +2983,7 @@
         },
         {
             "id": 4619,
-            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the State’s response to COVID-19. We currently have a contact tracing team in place, but these are other ways you can help.\n\n**People with medical or other health care backgrounds** are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corps units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills.\n\nSign up with the [Vermont Medical Reserve Corps](https://www.vermont.gov/volunteer) if you:\n\n*   Are a licensed and certified health care professional\n*   Have health, mental health, or other types of clinical or professional experience\n*   Have health care administrative experience, such as with medical data entry or language translators\n*   Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Physicians, physician assistants and podiatrists can learn more on the [Board of Medical Practice website](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19). Other medical professionals, including nurses and osteopathic physicians, can learn more on the [Office of Professional Regulation's website](https://sos.vermont.gov/opr/about-opr/covid-19-response/).\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\n**Vermonters** can also:\n\n*   Donate blood with the [American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n*   [Support your local Foodbank](https://www.vtfoodbank.org/) by volunteering or donating online, or you can text GIVEHEALTH to 85511. \n*   Donate or volunteer with community organizations or emergency supply efforts.\n*   Help your neighbors – older adults and people of any age who have underlying medical conditions should stay close to home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance.\n\nWhen volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the State’s response to COVID-19. We currently have a contact tracing team in place, but these are other ways you can help.\n\n**People with medical or other health care backgrounds** are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corps units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills.\n\nSign up with the [Vermont Medical Reserve Corps](https://www.vermont.gov/volunteer) if you:\n\n*   Are a licensed and certified health care professional\n*   Have health, mental health, or other types of clinical or professional experience\n*   Have health care administrative experience, such as with medical data entry or language translators\n*   Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Learn more about [getting a temporary license](https://apps.health.vermont.gov/COVID/faq/#4657) if you are a health professional.\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\n**Vermonters** can also:\n\n*   Donate blood with the [American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n*   [Support your local Foodbank](https://www.vtfoodbank.org/) by volunteering or donating online, or you can text GIVEHEALTH to 85511.\n*   Donate or volunteer with community organizations or emergency supply efforts.\n*   Help your neighbors – older adults and people of any age who have underlying medical conditions should stay close to home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance.\n\nWhen volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
             "source": "Editorial",
             "questions": [
                 "Can I volunteer to help with the State’s response to COVID-19?",
@@ -3021,7 +3026,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:26:57.099+00:00"
         },
         {
             "id": 4622,
@@ -3693,10 +3698,15 @@
                         "displayOrder": 0,
                         "qnaId": 4540,
                         "displayText": "Are face masks required in Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4747,
+                        "displayText": "Is it safe to wear gaiters instead of masks?"
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:00:16.684+00:00"
         },
         {
             "id": 4642,
@@ -4222,7 +4232,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:26:57.099+00:00"
         },
         {
             "id": 4658,
@@ -4440,10 +4450,15 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4747,
+                        "displayText": "Is it safe to wear gaiters instead of masks?"
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:00:16.684+00:00"
         },
         {
             "id": 4666,
@@ -4694,11 +4709,12 @@
         },
         {
             "id": 4675,
-            "answer": "**I don't have a house or a home, how can I stay safe?**\n\nThere is temporary housing available for people experiencing homelessness who are suspected to have or tested positive for COVID-19 and don’t require hospitalization. Call the Vermont Economic Services Division at 802-479-6151 Monday through Friday between 8:00 a.m. and 4:30 p.m. After hours, you can call 2-1-1.",
+            "answer": "**Is there temporary housing available if I might have or have tested positive for COVID-19?**\n\nThere is temporary housing available – commonly referred to as the motel voucher program – for people experiencing homelessness who are suspected to have or tested positive for COVID-19 and don’t require hospitalization.\n\nCall the [Vermont Economic Services Division](https://dcf.vermont.gov/esd/covid19) at 1-800-479-6151 Monday through Thursday from 8 a.m. to 6 p.m. and Friday from 8 a.m. to 4:15 p.m. After hours, you can call 2-1-1.\n\nIf you need to isolate or quarantine due to COVID-19 and don’t have a suitable home environment, there is temporary housing available. Learn more about [isolation/quarantine and recovery housing sites](https://humanservices.vermont.gov/help-and-resources/covid-19-information).",
             "source": "Editorial",
             "questions": [
                 "I don't have a house or a home, how can I stay safe?",
-                "homeless"
+                "homeless",
+                "Is there temporary housing available if I might have or have tested positive for COVID-19?"
             ],
             "metadata": [
                 {
@@ -4721,11 +4737,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:39:22.074+00:00"
         },
         {
             "id": 4676,
-            "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes, services have been changed to limit in-person contact. Some services may not be available like walk-in HIV/Hepatitis C testing. Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
+            "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes! Services have been changed to limit the risk of getting COVID-19. Also, some services may not be available like walk-in HIV/Hepatitis C testing. See the [list of services](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs#services) that are being offered at each program. \n\nFind a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you. \n\nYou can also call VT Helplink for free, confidential alcohol and drug support and referrals at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
             "questions": [
                 "syringe service ",
@@ -4756,11 +4772,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:36:43.587+00:00"
         },
         {
             "id": 4677,
-            "answer": "**How do I practice safer drug use?**\n\nThe Harm Reduction Coalition has [tips for safer drug use during the COVID-19 pandemic](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs). Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you.\n\nCall VT Helplink for free, confidential alcohol and drug support and referral services at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
+            "answer": "**How can I be safer when using drugs?**\n\nSyringe service programs have supplies and information to help keep you safe. Their services are anonymous and free. Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you and give them a call.\n\nFor more information, read the Harm Reduction Coalition’s [guidance for people who use drugs and harm reduction programs](https://harmreduction.org/blog/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/). \n\nYou can also call VT Helplink for free, confidential alcohol and drug support and referrals at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
             "questions": [
                 "How do I practice safer drug use?",
@@ -4789,7 +4805,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:40:25.434+00:00"
         },
         {
             "id": 4678,
@@ -5128,7 +5144,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-12T17:29:53.916+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:33:47.374+00:00"
         },
         {
             "id": 4693,
@@ -5740,7 +5756,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-14T20:18:41.266+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:33:47.374+00:00"
         },
         {
             "id": 4719,
@@ -6179,7 +6195,7 @@
         },
         {
             "id": 4732,
-            "answer": "**How can I be safe from COVID-19 infection and prevent an overdose?**\n\n[Substance use may increase the risk of becoming seriously ill or dying from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/people-who-use-drugs/QA.html), but more evidence is needed. At the same time, an opioid overdose is an immediate risk to your life. Know that stimulants may also have fentanyl in them, an opioid. Below are some tips to help avoid an overdose or be better prepared if one happens and to reduce your risk of getting COVID-19.\n\n**If you are alone:**\n\n*   Call, text or send a Facebook or other type of message to someone you trust. Tell them you’re going to use and make a safety plan. For example, ask them to call you in a certain number of minutes. If they don’t hear from you, they should follow your plan. This could include coming over to check on you, calling a family member to check on you, or calling 911.\n*   Call [Never Use Alone](http://neverusealone.com/) at 800-648-3570 or message them on [Facebook](https://www.facebook.com/Neverusealone/). They’ll wait while you use and call for emergency services if you don’t respond after a certain period of time.\n*   Have Naloxone with you. Put it where someone checking on you will easily see it.\n*   Wash your hands or use hand sanitizer.\n\n**If you’re not alone:**\n\n*   Try to keep a 6-foot distance from the other people you’re with, unless you live with them. People who live in the same household don’t need to stay 6 feet apart.\n*   Anyone in the room should wear a face mask or covering if they are not using and not part of your household.\n*   Make sure someone you trust has naloxone on hand, and they aren’t using at the moment.\n*   Let them know when you are using so they can check in and give naloxone if needed.\n*   Wash your hands or use hand sanitizer.\n\n**Whenever and wherever you use, these tips can help prevent an overdose:**\n\n*   Use one drug at a time (don’t mix).\n*   Know your tolerance. Use less if you haven’t used in a while, or if you’ve been sick, lost weight, or if something else has lowered your tolerance.\n*   Test for fentanyl or assume there is fentanyl in your supply.\n*   Start low and go slow. You can use more later.\n*   Use in a lower risk way, like snorting instead of injecting or smoking.\n*   Consider getting on medication assisted treatment (methadone, bupe, suboxone, etc.).\n*   Call 802-565-LINK or go to [VTHelplink](https://vthelplink.org/app/account/opa_result) to find a treatment center.\n\n**About wearing face masks or coverings:**\n\nWearing a mask reduces the risk of transmission of COVID-19. However, substance use can impact your breathing and wearing a mask can make it worse. Plus, if you can’t take your own mask off (like if you’re nodding out), you shouldn’t wear one. When using substances with other people, particularly opioids, you may choose to stay 6 feet apart and not wear masks.\n\n**More information:**\n\n*   [Tips to prevent an opioid overdose](https://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/) (Harm Reduction Coalition)\n*   [Helping during an overdose and finding Naloxone](https://www.healthvermont.gov/emergency/injury/opioid-overdose-prevention) (Health Department)\n*   [Guidance for People Who Use Substances on COVID-19](https://yale.app.box.com/v/COVID19HarmReductionGuidance) (Yale)\n*   [Safer Drug Use During the COVID-19 Outbreak](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/?utm_source=all+IRETA+communications&utm_campaign=c611c175b0-EMAIL_CAMPAIGN_2020_03_16_01_32&utm_medium=email&utm_term=0_5cec8dc768-c611c175b0-137425257&mc_cid=c611c175b0&mc_eid=7bcfbcf675) (Harm Reduction Coalition)",
+            "answer": "**How can I be safe from COVID-19 infection and prevent an overdose?**\n\n[Substance use may increase the risk of becoming seriously ill or dying from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/people-who-use-drugs/QA.html), but more evidence is needed. At the same time, an opioid overdose is an immediate risk to your life. Know that stimulants may also have fentanyl in them, an opioid. Below are some tips to help avoid an overdose or be better prepared if one happens and to reduce your risk of getting COVID-19.\n\n**If you are alone:**\n\n*   Call, text or send a Facebook or other type of message to someone you trust. Tell them you’re going to use and make a safety plan. For example, ask them to call you in a certain number of minutes. If they don’t hear from you, they should follow your plan. This could include coming over to check on you, calling a family member to check on you, or calling 911.\n*   Call [Never Use Alone](http://neverusealone.com/) at 800-648-3570 or message them on [Facebook](https://www.facebook.com/Neverusealone/). They’ll wait while you use and call for emergency services if you don’t respond after a certain period of time.\n*   Have Naloxone with you. Put it where someone checking on you will easily see it.\n*   Wash your hands or use hand sanitizer.\n\n**If you’re not alone:**\n\n*   Try to keep a 6-foot distance from the other people you’re with, unless you live with them. People who live in the same household don’t need to stay 6 feet apart.\n*   Anyone in the room should wear a face mask or covering if they are not using and not part of your household.\n*   Make sure someone you trust has naloxone on hand, and they aren’t using at the moment.\n*   Let them know when you are using so they can check in and give naloxone if needed.\n*   Wash your hands or use hand sanitizer.\n\n**Whenever and wherever you use, these tips can help prevent an overdose:**\n\n*   Use one drug at a time (don’t mix).\n*   Know your tolerance. Use less if you haven’t used in a while, or if you’ve been sick, lost weight, or if something else has lowered your tolerance.\n*   Test for fentanyl or assume there is fentanyl in your supply.\n*   Start low and go slow. You can use more later.\n*   Use in a lower risk way, like snorting instead of injecting or smoking.\n*   Consider getting on medication-assisted treatment (methadone, bupe, suboxone, etc.).\n*   Call 802-565-LINK or go to [VTHelplink](https://vthelplink.org/app/account/opa_result) to find a treatment center.\n\n**About wearing face masks or coverings:**\n\nWearing a mask reduces the risk of transmission of COVID-19. However, substance use can impact your breathing and wearing a mask can make it worse. Plus, if you can’t take your own mask off (like if you’re nodding out), you shouldn’t wear one. When using substances with other people, particularly opioids, you may choose to stay 6 feet apart and not wear masks.\n\n**More information:**\n\n*   [Tips to prevent an opioid overdose](https://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/) (Harm Reduction Coalition)\n*   [Helping during an overdose and finding Naloxone](https://www.healthvermont.gov/emergency/injury/opioid-overdose-prevention) (Health Department)\n*   [Guidance for People Who Use Substances on COVID-19](https://yale.app.box.com/v/COVID19HarmReductionGuidance) (Yale)\n*   [Safer Drug Use During the COVID-19 Outbreak](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/?utm_source=all+IRETA+communications&utm_campaign=c611c175b0-EMAIL_CAMPAIGN_2020_03_16_01_32&utm_medium=email&utm_term=0_5cec8dc768-c611c175b0-137425257&mc_cid=c611c175b0&mc_eid=7bcfbcf675) (Harm Reduction Coalition)\n*   Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you. They can help you make a plan and give you naloxone.",
             "source": "Editorial",
             "questions": [
                 "How can I be safe from COVID-19 infection and prevent an overdose?"
@@ -6205,7 +6221,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:38:21.498+00:00"
         },
         {
             "id": 4733,
@@ -6648,7 +6664,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-07T19:05:20.338+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-19T19:00:16.684+00:00"
         },
         {
             "id": 4748,
@@ -6705,6 +6721,36 @@
                 ]
             },
             "lastUpdatedTimestampUTC": "2020-10-14T20:30:36.723+00:00"
+        },
+        {
+            "id": 4750,
+            "answer": "**What is an outbreak of COVID-19?**\n\nOutbreaks have different definitions depending on the setting in which they occur, including community, educational, congregate living or workplace settings. They can be two or more cases that are epidemiologically connected.\n\nLearn more about what an outbreak means, when they are considered resolved, how many have happened in each type of setting, plus find more data on outbreaks that have happened in Vermont in our [Weekly Data Summary](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries).",
+            "source": "Editorial",
+            "questions": [
+                "What is an outbreak of COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "people with covid-19 in vermont"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "reporting"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestampUTC": "2020-10-19T19:29:49.608+00:00"
         }
     ]
 }
