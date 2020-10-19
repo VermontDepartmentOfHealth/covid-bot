@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestampUTC": "2020-10-12T17:48:24.328+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:30:36.723+00:00"
         },
         {
             "id": 4534,
@@ -438,7 +438,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-12T17:35:46.252+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:15:14.775+00:00"
         },
         {
             "id": 4542,
@@ -817,7 +817,7 @@
         },
         {
             "id": 4558,
-            "answer": "**What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?**\n\nFacilities may offer limited visitation outside with residents. Check with the facility first before planning a visit.\n\nLong-term care facilities can now ease some restrictions based on new phased guidance from the Department of Aging and Independent Living (DAIL). The guidance creates a framework for long-term care facilities to determine how to ease the restrictions on communal activities, non-essential personnel entering the building, trips outside the building and visitation. Check with the long-term care facility to find out what they are currently allowing.\n\nMedically necessary personnel and visitors for residents receiving end-of-life care are allowed inside. Read the [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO%2001-20%20Declaration%20of%20State%20of%20Emergency%20in%20Response%20to%20COVID-19%20and%20National%20Guard%20Call-Out.pdf).\n\nThe Health Department recommends that all health care personnel in long-term care facilities and other congregate settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nResidents and staff of group living facilities and new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period first.\n\nSenior Centers may reopen with guidance from the Health Department and DAIL. Adult Day programs remain closed.\n\nThere is guidance ­on preventing the spread of COVID-19 for [managers and owners of senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf), which includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more guidance and information for [long-term care and group living settings](https:/www.healthvermont.gov/COVID19-longtermcare).",
+            "answer": "**What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?**\n\nFacilities may offer visitation with residents. Check with the facility first before planning a visit.\n\nLong-term care facilities can ease some restrictions based on phased guidance from the Department of Aging and Independent Living (DAIL). The guidance creates a framework for long-term care facilities to determine how to ease the restrictions on communal activities, non-essential personnel entering the building, trips outside the building and visitation. Check with the long-term care facility to find out what they are currently allowing.\n\nMedically necessary personnel and visitors for residents receiving end-of-life care are allowed inside. Read the [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO%2001-20%20Declaration%20of%20State%20of%20Emergency%20in%20Response%20to%20COVID-19%20and%20National%20Guard%20Call-Out.pdf).\n\nThe Health Department recommends that all health care personnel in long-term care facilities and other congregate care settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nResidents and staff of congregate care settings and new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period. Testing out of quarantine after day 7 is not an option unless alternate guidance is provided by the Health Department.\n\nSenior centers and adult day centers may reopen with guidance from the Health Department and DAIL.\n\nThere is guidance ­on preventing the spread of COVID-19 for [managers and owners of senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf), which includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more guidance and information for [long-term care and group living settings](https:/www.healthvermont.gov/COVID19-longtermcare).",
             "source": "KB-COVID",
             "questions": [
                 "What should people in long-term care facilities or group homes do?",
@@ -845,7 +845,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-12T17:21:04.35+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:23:07.541+00:00"
         },
         {
             "id": 4559,
@@ -1777,7 +1777,7 @@
         },
         {
             "id": 4587,
-            "answer": "**What is Vermont doing?**\n\nOn September 11, Governor Phil Scott extended Vermont’s State of Emergency through October 15 to help ensure Vermont has all the necessary resources to respond to this evolving public health emergency. Find details on all [executive orders](https://governor.vermont.gov/document-types/executive-orders).\n\nThe strategies continue to be updated based on guidance from federal and state public health officials. Find a [summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response).",
+            "answer": "**What is Vermont doing about the COVID-19 pandemic?**\n\nGovernor Phil Scott declared a State of Emergency to respond to the COVID-19 pandemic to help ensure Vermont has all the necessary resources to respond to this evolving public health emergency. Find details on all [executive orders](https://governor.vermont.gov/document-types/executive-orders).\n\nThe strategies continue to be updated based on guidance from federal and state public health officials. Find a [summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response).",
             "source": "Editorial",
             "questions": [
                 "What is Vermont doing?",
@@ -1797,7 +1797,8 @@
                 "When can retail businesses open?",
                 "What is the plan?",
                 "Whats closed in Vermont",
-                "Quarantine still in effect?"
+                "Quarantine still in effect?",
+                "What is Vermont doing about the COVID-19 pandemic?"
             ],
             "metadata": [
                 {
@@ -1830,7 +1831,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:19:37.53+00:00"
         },
         {
             "id": 4588,
@@ -2007,7 +2008,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-07T19:41:04.795+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:19:37.53+00:00"
         },
         {
             "id": 4592,
@@ -2246,7 +2247,7 @@
         },
         {
             "id": 4600,
-            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, play a significant role in spreading the COVID-19 virus.",
+            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, play a significant role in spreading the COVID-19 virus.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) and answers to [frequently asked questions about pets and animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Are pets from a shelter safe to adopt?"
@@ -2273,7 +2274,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:15:14.775+00:00"
         },
         {
             "id": 4601,
@@ -3023,39 +3024,6 @@
             "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
         },
         {
-            "id": 4621,
-            "answer": "**Can I donate unused personal protective equipment (PPE) or other medical-related supplies?**\n\nYes, the State of Vermont is accepting donations of specific medical-related supplies, including:\n\n*   N95 masks\n*   Surgical masks\n*   Face shields\n*   Surgical gowns\n*   Thermometers\n*   Thermometer covers\n*   Gloves (nitrile or non-latex)\n*   Hand sanitizer\n\nFill out the [online COVID-19 Donation Form](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxqj0nbCzvaxFqgXM4elggOBUQ0VYOFpSTUU1MlhTUlE3OUIxODQzU1g3WC4u) to donate.",
-            "source": "Editorial",
-            "questions": [
-                "Where can PPE be donated?",
-                "Where can masks be donated?",
-                "N-95",
-                "Can I donate unused personal protective equipment (PPE) or other medical-related supplies?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "caring for yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "volunteering"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
-        },
-        {
             "id": 4622,
             "answer": "**What do owners of lodging facilities need to do?**\n\nLodging operations, short-term rentals, campgrounds and marinas may accept overnight reservations from Vermont residents and [those who have met the quarantine requirement](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont).\n\nLodging operators should recommend that all out-of-state guests [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once arriving in Vermont to get two weeks of daily symptom check reminders. Guests from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases do not need to quarantine. All other travelers coming to Vermont must quarantine. They have the option to quarantine at a lodging facility for 14 days if they travel by plane, train, bus or other means of transportation.\n\nFind details on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance for [lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) and for [campgrounds, RV parks, and seasonal resorts](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#campgrounds-rv-parks-seasonal-resorts). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face coverings over their nose and mouth when in the presence of others.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces) from the Health Department.\n\nFind out [what to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf) from the Health Department.\n\nThe Vermont State Police and local law enforcement will monitor lodging providers for compliance and work with the Attorney General’s Office on additional compliance measures if needed. Learn about [guidance on enforcement of the Be Smart, Stay Safe Order](https://vsp.vermont.gov/covid19/stayhome_enforcement) from the Vermont Department of Public Safety.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
@@ -3266,7 +3234,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-07T19:10:16.823+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:19:37.53+00:00"
         },
         {
             "id": 4630,
@@ -3667,7 +3635,7 @@
         },
         {
             "id": 4640,
-            "answer": "**What should families do if they are not able to get formula, diapers, or other baby necessities?**\n\nFamilies can call Help Me Grow-VT at 2-1-1 ext. 6 to be directed to services in their area that may be able to assist with formula, diapers, or other necessities.\n\nVermont WIC provides healthy foods, nutrition education, and breastfeeding support to pregnant and postpartum Vermonters and caregivers of infants and children under 5. Vermont WIC is open and invites new and returning families to join. If your family financial circumstances have changed due to a job loss or reduced hours, you could be eligible for WIC.\n\nWIC has made a few changes to keep families and staff safe during the COVID-19 pandemic. All appointments are being done by phone and breastfeeding classes are offered online.\n\n[Apply for WIC online](https://www.healthvermont.gov/family/wic) or text VTWIC to 855-11. You can also [connect with WIC in your area](https://www.healthvermont.gov/local).\n\nFood banks and food shelves may be resources for families not eligible for WIC. Find more [information on food access](https://www.hungerfreevt.org/coronavirus) from Hunger Free Vermont.\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces#families).",
+            "answer": "**What should families do if they are not able to get formula, diapers, or other baby necessities?**\n\nFamilies can call Help Me Grow-VT at 2-1-1 ext. 6 to be directed to services in their area that may be able to assist with formula, diapers, or other necessities.\n\nVermont WIC provides healthy foods, nutrition education, and breastfeeding support to pregnant and postpartum Vermonters and caregivers of infants and children under 5. Vermont WIC is open and invites new and returning families to join. If your family's financial circumstances have changed due to a job loss or reduced hours, you could be eligible for WIC.\n\nWIC has made a few changes to keep families and staff safe during the COVID-19 pandemic. All appointments are being done by phone and breastfeeding classes are offered online.\n\n[Apply for WIC online](https://www.healthvermont.gov/applytowic) or text VTWIC to 855-11. You can also [connect with WIC in your area](https://www.healthvermont.gov/local).\n\nFood banks and food shelves may be resources for families not eligible for WIC. Find more [information on food access](https://www.hungerfreevt.org/coronavirus) from Hunger Free Vermont.\n\nFind more [resources for families with children](https://www.healthvermont.gov/response/coronavirus-covid-19/communities-and-workplaces#families).",
             "source": "Editorial",
             "questions": [
                 "What should families do if they are not able to get formula, diapers, or other baby necessities?",
@@ -3690,7 +3658,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:13:43.906+00:00"
         },
         {
             "id": 4641,
@@ -4407,10 +4375,10 @@
         },
         {
             "id": 4664,
-            "answer": "**Does sunlight kill the COVID-19 virus?**\n\nCurrently, the World Health Organization says there is no evidence that sunlight kills the COVID-19 virus.",
+            "answer": "**Can sunlight disinfect surfaces?**\n\nWe don’t know yet. According to the CDC, early scientific data suggest the COVID-19 virus can be killed by the sun’s ultraviolet (UV) light. However, the ability of the sun’s UV light to kill the virus on surfaces needs more research. Factors — such as cloudiness, latitude (distance from the equator), time of day, and amount of time exposed to the sun’s UV light — determine how effectively the virus is killed.",
             "source": "Editorial",
             "questions": [
-                "Does sunlight kill the COVID-19 virus?"
+                "Does sunlight disinfect surfaces?"
             ],
             "metadata": [
                 {
@@ -4429,7 +4397,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:01:39.371+00:00"
         },
         {
             "id": 4665,
@@ -5252,7 +5220,7 @@
         },
         {
             "id": 4701,
-            "answer": "**What should returning and new college students do?**\n\nCheck the Health Department’s webpage for [what to do if you are visiting or returning to Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont). Get the latest travel and quarantine guidance, learn about testing options during quarantine, and find out how to safely connect with friends and family.\n\nStudents from [certain approved counties](https://accd.vermont.gov/covid-19/restart/cross-state-travel) with low rates of active cases do not need to quarantine.\n\nAll students are strongly encouraged to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once arriving in Vermont to get two weeks of daily symptom check reminders.\n\nCollege students returning to Burlington can also use the city’s [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine). The program includes a move-in care package of fresh local goods, a mask, and hygiene supplies.\n\nColleges and universities must follow the [Mandatory Guidance for College and University Campus Learning](https://accd.vermont.gov/content/restart-plan-college-and-university-campus-learning). For specific questions about what you need to do, please contact your college or university.\n\nFind out [what happens at the Health Department when someone tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).",
+            "answer": "**What should returning and new college students do?**\n\nColleges and universities must follow the [Mandatory Guidance for College and University Campus Learning](https://accd.vermont.gov/content/restart-plan-college-and-university-campus-learning). Please contact your college or university directly for information about arriving on campus, testing and health guidance.\n\nThe City of Burlington has a [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine). The program includes a move-in care package of fresh local goods, a mask, and hygiene supplies.\n\nParents or other visitors can find information on [traveling to Vermont and quarantine](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont), information on [how to drop off someone at college](https://apps.health.vermont.gov/COVID/faq/#4731), and answers to [frequently asked questions about travel](https://accd.vermont.gov/covid-19/restart/cross-state-travel/faqs).\n\nFind out [what happens at the Health Department when someone tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).",
             "source": "Editorial",
             "questions": [
                 "What should returning and new college students do?",
@@ -5286,7 +5254,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:14:28.763+00:00"
         },
         {
             "id": 4703,
@@ -5772,7 +5740,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "2020-10-02T15:25:40.628+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:18:41.266+00:00"
         },
         {
             "id": 4719,
@@ -6093,7 +6061,7 @@
         },
         {
             "id": 4728,
-            "answer": "**Can I travel to or from Canada?**\n\nCheck the [U.S. Customs Border Protection](https://www.cbp.gov/travel/us-citizens/canada-mexico-travel?_ga=2.105518275.1193923997.1596629372-1210430946.1596629372) website and the [Canadian Border Services Agency](https://www.cbsa-asfc.gc.ca/menu-eng.html?utm_source=search.usa.gov&utm_medium=search.usa.gov&utm_term=undefined&utm_content=undefined&utm_campaign=(not%20set)&gclid=undefined&dclid=undefined&GAID=1210430946.1596629372) for current information about travel to or from Canada.",
+            "answer": "**Can I travel to or from Canada?**\n\nCheck the [U.S. Customs Border Protection](https://www.cbp.gov/travel/us-citizens/canada-mexico-travel) website and the [Canadian Border Services Agency](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) for current information about travel to or from Canada.",
             "source": "Editorial",
             "questions": [
                 "QnaId4728"
@@ -6124,7 +6092,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestampUTC": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestampUTC": "2020-10-14T20:18:41.266+00:00"
         },
         {
             "id": 4729,
@@ -6681,6 +6649,62 @@
                 ]
             },
             "lastUpdatedTimestampUTC": "2020-10-07T19:05:20.338+00:00"
+        },
+        {
+            "id": 4748,
+            "answer": "**How can I tell if I’m sick with COVID-19 or something else?**\n\nSometimes you may be having symptoms of COVID-19 but are sick with something else. Talk to your health care provider about your symptoms and whether you should be tested for COVID-19. You can also check your symptoms on this [chart of COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community/schools-childcare/COVID19-symptoms-tablegraphic-v1.pdf) with the [CDC's self-checker tool](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).",
+            "source": "Editorial",
+            "questions": [
+                "How can I tell if I’m sick with COVID-19 or something else? "
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "symptoms and sickness"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "symptoms"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestampUTC": "2020-10-14T19:51:42.927+00:00"
+        },
+        {
+            "id": 4749,
+            "answer": "**Is it safe to celebrate Halloween this year? Can my family go trick-or-treating?**\n\nHalloween may look a little different this year, but we can still find ways to celebrate safely. Please be sure to stay home if you or anyone in your family is sick. \n\nMaking these three things a part of your Halloween plans will make everyone safer:\n\n**6-foot Spaces**\n\nKeep a safe 6-foot distance between your family and other people who don’t live in your household. Bring a flashlight so you’re visible in the dark. You can get creative if you’re giving out candy. Some ideas are to have bags ready to grab on your front steps, or slide the treats down a candy slide.\n\n**Masks on Faces**\n\nMake sure you and your family are wearing a face mask or covering when you go out. Find a fun way to make it part of your costume. But **don’t** wear a costume mask over your face mask, which could make it harder to breathe.\n\n**Uncrowded Places**\n\nKeep your group small, and consider skipping crowded [indoor parties](https://apps.health.vermont.gov/COVID/faq/#4746). If you’re trick-or-treating and one street or neighborhood seems too busy, skip to the next one.",
+            "source": "Editorial",
+            "questions": [
+                "Is it safe to celebrate Halloween this year? Can my family go trick-or-treating?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "how to protect yourself"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestampUTC": "2020-10-14T20:30:36.723+00:00"
         }
     ]
 }
