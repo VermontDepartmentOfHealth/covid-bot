@@ -3,9 +3,15 @@
         "name": "Symptoms and Sickness",
         "subs": [
             "Symptoms",
-            "Sickness",
-            "Isolation, Quarantine and Self-observation"
+            "Sickness"
         ]
+    },
+    { "name": "Isolation, Quarantine and Self-observation",
+        "subs": [
+            "Isolation",
+            "Quarantine",
+            "Self-observation"
+        ] 
     },
     { "name": "How it Spreads" },
     { "name": "How to Protect Yourself" },

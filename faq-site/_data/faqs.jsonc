@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:48:01.883+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:10:29.085+00:00"
         },
         {
             "id": 4534,
@@ -526,11 +526,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "quarantine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -549,7 +549,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T15:20:24.849+00:00"
         },
         {
             "id": 4545,
@@ -618,7 +618,7 @@
         },
         {
             "id": 4547,
-            "answer": "**When will I receive my test results?**\n\nTest results will be available typically within 1 to 3 business days.\n\nHow you receive results varies depending on where you were tested.\n\nIf you were tested at a **Health Department popup testing site** (for people without symptoms), and you asked to receive your results by:\n\n*   email, you will receive an email when your test results are ready, which is usually within 3 business days. The email will prompt you to log in and get your results online where you may also print your results letter.\n*   mail, you will get a letter within 7 business days of being tested.\n\nThe Health Department only uses a PCR test. We cannot guarantee that you will receive your results in less than 3 business days. We also cannot accommodate special requests for receiving test results. [Find the list of Health Department test sites](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19#popup).\n\nIf you got **tested anywhere else**, the Health Department cannot provide your results. Please contact your health care provider if they ordered the test, or the facility that conducted the test.\n\nIf you were tested **before an inpatient or outpatient procedure**, you will receive your test results before your procedure from the health care provider who is doing the procedure.\n\n**If you received a positive result**, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.",
+            "answer": "**When will I receive my test results?**\n\nTest results will be available typically within 1 to 3 business days.\n\nHow you receive results varies depending on where you were tested.\n\nIf you were tested at a **Health Department popup testing site** (for people without symptoms), and you asked to receive your results by:\n\n*   email, you will receive an email when your test results are ready, which is usually within 3 business days. The email will prompt you to log in and get your results online where you may also print your results letter.\n*   mail, you will get a letter within 7 business days of being tested.\n\nThe Health Department only uses a PCR test. We cannot guarantee that you will receive your results in less than 3 business days. We also cannot accommodate special requests for receiving test results. Find the list of [Health Department test sites](https://www.healthvermont.gov/response/coronavirus-covid-19/testing-covid-19#popup) and read about [understanding your test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-UnderstandingYourResults.final_.pdf).\n\nIf you got **tested anywhere else**, the Health Department cannot provide your results. Please contact your health care provider if they ordered the test, or the facility that conducted the test. Find out what to do while you’re [waiting for your test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nIf you were tested **before an inpatient or outpatient procedure**, you will receive your test results before your procedure from the health care provider who is doing the procedure.\n\n**If you received a positive result**, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.",
             "source": "KB-COVID",
             "questions": [
                 "How long after I get tested will I know if I'm sick?",
@@ -667,7 +667,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-23T19:40:46.907+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:10:29.085+00:00"
         },
         {
             "id": 4549,
@@ -940,7 +940,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-26T19:51:33.271+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:05:04.536+00:00"
         },
         {
             "id": 4564,
@@ -1170,7 +1170,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-23T19:30:09.946+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:05:04.536+00:00"
         },
         {
             "id": 4570,
@@ -2248,7 +2248,7 @@
         },
         {
             "id": 4601,
-            "answer": "**When have I recovered from COVID-19 so that I can stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation when they have recovered, which means they have met the following conditions:\n\n[**If you had symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider:\n\n*   you have had no fever for at least 24 hours without the use of medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n[**If you did not have any symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png), you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nMost people do not need a test to determine when they can be around others again. However, if your health care provider recommends testing, they will let you know when you can resume being around others based on your test results.\n\nAfter stopping home isolation, continue to follow the prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask when you’re outside and can’t keep 6 feet apart or anytime you’re inside with people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/response/coronavirus-covid-19/preventing-covid-19).",
+            "answer": "**When have I recovered from COVID-19 so that I can stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation when they have recovered, which means they have met the following conditions:\n\n[**If you had symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider):\n\n*   you have had no fever for at least 24 hours without the use of medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n[**If you did not have any symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png), you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nMost people do not need a test to determine when they can be around others again. However, if your health care provider recommends testing, they will let you know when you can resume being around others based on your test results.\n\nAfter stopping home isolation, continue to follow the prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask when you’re outside and can’t keep 6 feet apart or anytime you’re inside with people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/response/coronavirus-covid-19/preventing-covid-19).",
             "source": "Editorial",
             "questions": [
                 "How long after being ill with Covid-19 does someone need to stay quarantined?",
@@ -2277,11 +2277,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "isolation"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -2310,7 +2310,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-23T19:30:09.946+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:00:50.087+00:00"
         },
         {
             "id": 4602,
@@ -2739,7 +2739,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:30:36.433+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T15:18:55.243+00:00"
         },
         {
             "id": 4616,
@@ -2874,13 +2874,10 @@
         },
         {
             "id": 4618,
-            "answer": "**What is isolation, quarantine and self-observation?**\n\n**Isolation** is for people who are sick with COVID-19.\n\n**Quarantine** is used to keep someone who might have been exposed to COVID-19 away from others. It is for people with no symptoms who are returning to Vermont from certain out-of-state locations or people who were in [close contact with someone sick with COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine.html). Quarantine helps prevent the spread of disease before a person knows they are sick or if they are infected with the virus and don’t have symptoms.\n\nQuarantine means staying at a home or dwelling for 14 days since the day they were potentially exposed to COVID-19 before doing any activities outside of the home, like grocery shopping or getting together with friends or family. People in quarantine should separate themselves from others and check themselves for symptoms.\n\nWe strongly encourage anyone in quarantine to sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\n**Self-observation** is for other Vermonters who don’t have symptoms of COVID-19.\n\nLearn more about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont.",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from others. It is for people with no symptoms who are returning to Vermont from certain out-of-state locations or people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19. Quarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms. Learn more about the [timeline for close contacts,](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png) from when they have may have been exposed to when they can end quarantine.\n\nQuarantine means staying at a home or dwelling for 14 days since the day they were potentially exposed to COVID-19 before doing any activities outside of the home, like grocery shopping or getting together with friends or family. People in quarantine should separate themselves from others and check themselves for symptoms.\n\nWe strongly encourage anyone in quarantine to sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Learn more:** \n\n*   [What is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) \n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
-                "What is isolation, quarantine and self-observation?",
-                "what does isolation mean?",
                 "what does quarantine mean?",
-                "what does self-observation mean?",
                 "If you are on 14 quarantine, can you do curb side pick up?",
                 "directly exposed to the virus",
                 "should everyone quarantine?",
@@ -2890,23 +2887,22 @@
                 "Quarantine",
                 "quaranting",
                 "14 day quarantine",
-                "self isolate",
-                "self-isolate",
                 "quarentine guidelines",
                 "During quarantine, can you",
                 "how to quarentine",
                 "Can I go grocery shopping while quarantined ",
                 "When is quarantining necessary",
-                "if you are near someone with covid"
+                "if you are near someone with covid",
+                "What is quarantine?"
             ],
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "quarantine"
                 },
                 {
                     "name": "sort",
@@ -2944,7 +2940,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-26T19:55:43.798+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:05:04.536+00:00"
         },
         {
             "id": 4619,
@@ -3204,7 +3200,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-14T20:19:37.53+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:05:04.536+00:00"
         },
         {
             "id": 4630,
@@ -3601,7 +3597,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-26T19:55:43.798+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:00:50.087+00:00"
         },
         {
             "id": 4640,
@@ -3920,7 +3916,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:10:29.085+00:00"
         },
         {
             "id": 4648,
@@ -4020,7 +4016,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-23T19:08:00.933+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:00:50.087+00:00"
         },
         {
             "id": 4653,
@@ -5081,11 +5077,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "quarantine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5109,7 +5105,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:41:35.074+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T15:20:24.849+00:00"
         },
         {
             "id": 4693,
@@ -5280,11 +5276,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "quarantine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5313,7 +5309,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-26T19:55:03.658+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T15:18:55.243+00:00"
         },
         {
             "id": 4706,
@@ -5468,11 +5464,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "quarantine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5486,7 +5482,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T15:15:33.146+00:00"
         },
         {
             "id": 4717,
@@ -5726,7 +5722,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:41:35.074+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T20:05:04.536+00:00"
         },
         {
             "id": 4719,
@@ -5921,11 +5917,11 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "symptoms and sickness"
+                    "value": "isolation, quarantine and self-observation"
                 },
                 {
                     "name": "subcategory",
-                    "value": "isolation, quarantine and self-observation"
+                    "value": "quarantine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -5939,7 +5935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:14:12.943+00:00"
+            "lastUpdatedTimestamp": "2020-11-02T15:19:23.574+00:00"
         },
         {
             "id": 4725,
@@ -6667,32 +6663,6 @@
             "lastUpdatedTimestamp": "2020-10-14T19:51:42.927+00:00"
         },
         {
-            "id": 4749,
-            "answer": "**Is it safe to celebrate Halloween this year? Can my family go trick-or-treating?**\n\nHalloween may look a little different this year, but we can still find ways to celebrate safely. Please be sure to stay home if you or anyone in your family is sick.\n\nMaking these three things a part of your Halloween plans will make everyone safer:\n\n**6-foot Spaces**\n\nKeep a safe 6-foot distance between your family and other people who don’t live in your household. Bring a flashlight so you’re visible in the dark. You can get creative if you’re giving out candy. Some ideas are to have bags ready to grab on your front steps, or slide the treats down a candy slide.\n\n**Masks on Faces**\n\nMake sure you and your family are wearing a face mask or covering when you go out. Find a fun way to make it part of your costume. But **don’t** wear a costume mask over your face mask, which could make it harder to breathe.\n\n**Uncrowded Places**\n\nKeep your group small, and consider skipping crowded [indoor parties](https://apps.health.vermont.gov/COVID/faq/#4746). If you’re trick-or-treating and one street or neighborhood seems too busy, skip to the next one.\n\nFind more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt) and more tips on how to safely [trick or treat and do other Halloween activities](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/halloween.html) from the CDC.",
-            "source": "Editorial",
-            "questions": [
-                "Is it safe to celebrate Halloween this year? Can my family go trick-or-treating?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2020-10-23T19:29:26.371+00:00"
-        },
-        {
             "id": 4750,
             "answer": "**What is an outbreak of COVID-19?**\n\nOutbreaks have different definitions depending on the setting in which they occur, including community, educational, congregate living or workplace settings. They can be two or more cases that are epidemiologically connected.\n\nLearn more about what an outbreak means, when they are considered resolved, how many have happened in each type of setting, plus find more data on outbreaks that have happened in Vermont in our [Weekly Data Summary](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont#datasummaries).",
             "source": "Editorial",
@@ -6855,6 +6825,70 @@
                 ]
             },
             "lastUpdatedTimestamp": "2020-10-29T19:27:02.106+00:00"
+        },
+        {
+            "id": 4756,
+            "answer": "**What is isolation?**\n\nIsolation is when people with COVID-19 stay home, and away from other people, [until they have recovered](https://apps.health.vermont.gov/COVID/faq/#4601), to prevent further spread. Learn about the timeline for people with COVID-19 ([with symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png) and [without symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png)) from being exposed to being released from isolation. \n\nIf you test positive for COVID-19, the Health Department's team of expert contact tracers will call you to provide guidance and information on staying home. They will also ask you about your [close contacts](https://apps.health.vermont.gov/COVID/faq/#4575). Contact tracers call your close contacts to make sure they know to [stay home and quarantine](https://apps-test.health.vermont.gov/COVID/faq/index.html#4618) to prevent further spread. Learn more about the [timeline for close contacts,](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png) from when they have may have been exposed, to when they can end quarantine.\n\nLearn more about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) and [what to do if you have COVID-19.](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf)",
+            "source": "Editorial",
+            "questions": [
+                "What is isolation?",
+                "self isolate",
+                "self-isolate",
+                "what does isolation mean?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "isolation, quarantine and self-observation"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "isolation"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2020-11-02T20:07:33.782+00:00"
+        },
+        {
+            "id": 4757,
+            "answer": "**What is self-observation?**\n\nSelf-observation is for other Vermonters who don’t have symptoms of COVID-19. Follow these prevention steps to keep from getting or spreading COVID-19:\n\nThese are things you can do to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask when you’re outside and can’t keep 6 feet apart or anytime you’re inside with people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/response/coronavirus-covid-19/preventing-covid-19) and about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).",
+            "source": "Editorial",
+            "questions": [
+                "What is self-observation?",
+                "what does self-observation mean?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "isolation, quarantine and self-observation"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "self-observation"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2020-11-02T20:09:11.744+00:00"
         }
     ]
 }
