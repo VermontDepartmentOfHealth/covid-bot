@@ -39,9 +39,10 @@
       "request": "launch",
       "name": "Publish KB",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\cli\\publishKB.js",
+      "program": "${workspaceFolder}\\cli\\_index.js",
       "args": [
-        "--environment",
+        "--",
+        "publish-kb",
         "test"
       ]
     },
