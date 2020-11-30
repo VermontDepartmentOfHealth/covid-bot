@@ -19,11 +19,11 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:22:08.876+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00"
         },
         {
             "id": 4534,
-            "answer": "**What are the symptoms of COVID-19?**\n\nPeople with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may start 2 to 14 days after exposure to the virus. Not everyone infected with the COVID-19 virus has symptoms. People with these symptoms may have COVID-19:\n\n*   Fever (100.4°F or greater)\n*   Cough\n*   Shortness of breath or difficulty breathing\n*   Chills\n*   Fatigue\n*   Muscle or body aches\n*   Headache\n*   New loss of taste or smell\n*   Sore throat\n*   Congestion or runny nose\n*   Nausea or vomiting\n*   Diarrhea\n\nThis list does not include all possible symptoms. The CDC will continue to update the list of symptoms as more is learned. You can check your symptoms with the [CDC's self-checker tool](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html#).\n\n**Not everyone with COVID-19 has a fever. Even mild symptoms** (like a sore throat or dry cough) could be signs of COVID-19. All Vermonters, even with mild symptoms, are encouraged to contact their health care provider to get tested. Your provider will test you at their office or refer you for testing nearby. Stay home while waiting for your result.\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nLearn more about what to do [if you have COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19).",
+            "answer": "**What are the symptoms of COVID-19?**\n\nPeople with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may start 2 to 14 days after exposure to the virus. Not everyone infected with the COVID-19 virus has symptoms. People with these symptoms may have COVID-19:\n\n*   Fever (100.4°F or greater)\n*   Cough\n*   Shortness of breath or difficulty breathing\n*   Chills\n*   Fatigue\n*   Muscle or body aches\n*   Headache\n*   New loss of taste or smell\n*   Sore throat\n*   Congestion or runny nose\n*   Nausea or vomiting\n*   Diarrhea\n\nThis list does not include all possible symptoms. The CDC will continue to update the list of symptoms as more is learned. You can check your symptoms with the [CDC's self-checker tool](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html#).\n\n**Not everyone with COVID-19 has a fever. Even mild symptoms** (like a headache or dry cough) could be signs of COVID-19. All Vermonters, even with mild symptoms, are encouraged to contact their health care provider to get tested. Your provider will test you at their office or refer you for testing nearby. Stay home while waiting for your result.\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nLearn more about what to do [if you have COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19).",
             "source": "KB-COVID",
             "questions": [
                 "What are the symptoms of COVID-19?",
@@ -98,7 +98,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:24:05.467+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:15:25.474+00:00"
         },
         {
             "id": 4535,
@@ -157,7 +157,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:22:58.437+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:14:45.64+00:00"
         },
         {
             "id": 4536,
@@ -233,7 +233,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:23:05.244+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:57:32.882+00:00"
         },
         {
             "id": 4538,
@@ -438,11 +438,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-14T20:15:14.775+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00"
         },
         {
             "id": 4542,
-            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nWe are still learning about this virus, but it appears that it can spread from people to animals in some situations. If you are sick with COVID-19 (either suspected or confirmed by a test), avoid contact with pets and other animals, just like you would around other people.\n\n*   When possible, have another member of your household care for your pets while you are sick.\n*   Avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food, and sleeping in the same bed.\n*   If you must care for your pet or be around animals while you are sick, wear a face mask or covering and wash your hands before and after you interact with them.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) and answers to [frequently asked questions about COVID-19 and animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals) from the CDC.\n\nFind more information on [preparing for your pet](http://www.cdc.gov/healthypets/emergencies/pet-disaster-prep-kit.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Should I avoid contact with pets or other animals if I am sick with COVID-19?**\n\nWe are still learning about this virus, but it appears that it can spread from people to animals in some situations. If you are sick with COVID-19 (either suspected or confirmed by a test), avoid contact with pets and other animals, just like you would around other people.\n\n*   When possible, have another member of your household care for your pets while you are sick.\n*   Avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food, and sleeping in the same bed.\n*   If you must care for your pet or be around animals while you are sick, wear a face mask or covering and wash your hands before and after you interact with them.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "KB-COVID",
             "questions": [
                 "Can I give it to my pet?",
@@ -473,7 +473,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-12T17:35:46.252+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00"
         },
         {
             "id": 4543,
@@ -614,7 +614,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:22:08.876+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:14:45.64+00:00"
         },
         {
             "id": 4547,
@@ -935,7 +935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:34:12.933+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:25:12.074+00:00"
         },
         {
             "id": 4564,
@@ -974,7 +974,7 @@
         },
         {
             "id": 4565,
-            "answer": "**Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you are planning on traveling internationally, check the current [list of Travel Advisories by country](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) from the U.S. Department of State, and visit travel.state.gov for detailed information on safe international travel.\n\nVisit the [CDC’s travel page](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html) for [travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html) and [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).\n\nThe CDC recommends no one travel on cruise ships, including river cruises, worldwide, especially people with an increased risk of serious illness. That’s because the risk of COVID-19 on cruise ships is high. Learn more about [cruise ships and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nYou must follow travel restrictions and quarantine requirements for the countries you plan to visit.\n\nFollow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. When you return to Vermont, you must quarantine for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.",
+            "answer": "**Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you are planning on traveling internationally, check the current [list of Travel Advisories by country](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) from the U.S. Department of State, and visit travel.state.gov for detailed information on safe international travel.\n\nVisit the [CDC’s travel page](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html) for [travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html) and [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).\n\nThe CDC recommends no one travel on cruise ships, including river cruises, worldwide, especially people with an increased risk of serious illness. That’s because the risk of COVID-19 on cruise ships is high. Learn more about [cruise ships and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nYou must follow travel restrictions and quarantine requirements for the countries you plan to visit.\n\nFollow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. When you return to Vermont, you must quarantine for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4565"
@@ -1005,11 +1005,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:06:52.73+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:47:51.544+00:00"
         },
         {
             "id": 4567,
-            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states and are rising. Travel increases your chances of getting and spreading COVID-19. All [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nStaying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or if you have been around someone with COVID-19. Don’t travel with someone who is sick. Read about [travel during the COVID-19 pandemic](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html) if you are thinking of traveling away from your local community.\n\nIf you travel out of Vermont whether for a day trip or longer, you must quarantine in Vermont for 14 days when you return. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you are visiting outside Vermont for a longer period, and you will travel back to Vermont in a personal vehicle (including a rental vehicle or private plane), you may complete either a 14-day quarantine or if you have not had any symptoms of COVID-19, a 7-day quarantine followed by a negative PCR test in the state where you are visiting. Continue to quarantine from when you receive your test result until you travel to Vermont. You may then enter Vermont without further quarantine restrictions.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**Is it okay to travel within the United States? Do I need to quarantine when I return?**\n\nCOVID-19 cases and deaths have been reported in all 50 states and are rising. Travel increases your chances of getting and spreading COVID-19. All [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nStaying home is the best way to protect yourself and others from getting sick. Don’t travel if you are sick or if you have been around someone with COVID-19. Don’t travel with someone who is sick. Read about [travel during the COVID-19 pandemic](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html) if you are thinking of traveling away from your local community.\n\nIf you travel out of Vermont whether for a day trip or longer, you must quarantine in Vermont for 14 days when you return. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you are visiting outside Vermont for a longer period, and you will travel back to Vermont in a personal vehicle (including a rental vehicle or private plane), you may complete either a 14-day quarantine or if you have not had any symptoms of COVID-19, a 7-day quarantine followed by a negative PCR test in the state where you are visiting. Continue to quarantine from when you receive your test result until you travel to Vermont. You may then enter Vermont without further quarantine restrictions.\n\nCheck the Health Department’s webpage for [what to do when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4567"
@@ -1041,11 +1041,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:04:46.622+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:44:41.977+00:00"
         },
         {
             "id": 4568,
-            "answer": "**I traveled internationally or by cruise ship. Do I or my household members need to quarantine?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, follow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. When you return to Vermont, you must quarantine for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nOther members of your household who did not travel do not need to quarantine, but should observe themselves for symptoms for 14 days.\n\nLearn about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).\n\nIf you or your household members develop [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), contact your health care provider right away. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFind more information from the CDC about:\n\n*   [Returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html)\n*   [Travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html)\n*   [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html)",
+            "answer": "**I traveled internationally or by cruise ship. Do I or my household members need to quarantine?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, follow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. When you return to Vermont, you must quarantine for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nOther members of your household who did not travel do not need to quarantine, but should observe themselves for symptoms for 14 days.\n\nLearn about [isolation, quarantine and self-observation](https://apps.health.vermont.gov/COVID/faq/#isolation-quarantine-and-selfobservation).\n\nIf you or your household members develop [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), contact your health care provider right away. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFind more information from the CDC about:\n\n*   [Returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html)\n*   [Travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html)\n*   [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html)",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4568"
@@ -1091,11 +1091,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:06:27.384+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:47:10.073+00:00"
         },
         {
             "id": 4569,
-            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), call your health care provider to find out if you should be tested. **Not everyone with COVID-19 has a fever. Even mild symptoms **(like a sore throat or dry cough)could be signs of COVID-19. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n*   Stay home except to get medical care.\n*   Separate yourself from other people.\n*   Monitor your symptoms.\n*   Call ahead before visiting your doctor.\n*   Wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you’re around people and pets.\n*   Cover your coughs and sneezes with your sleeve or a tissue, then throw the tissue in the trash.\n*   Wash your hands often. Use an alcohol-based sanitizer if soap and water aren't available.\n*   Avoid sharing personal household items.\n*   Clean all high-touch surfaces in your home daily.\n\nFind more details on [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html) from the CDC.\n\nFind out [what to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf).",
+            "answer": "**What should I do if I feel sick and think I may have COVID-19?**\n\nIf you are having [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), call your health care provider to find out if you should be tested. **Not everyone with COVID-19 has a fever. Even mild symptoms** (like a headache or dry cough) could be signs of COVID-19. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n*   Stay home except to get medical care.\n*   Separate yourself from other people.\n*   Monitor your symptoms.\n*   Call ahead before visiting your doctor.\n*   Wear a [cloth face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you’re around people and pets.\n*   Cover your coughs and sneezes with your sleeve or a tissue, then throw the tissue in the trash.\n*   Wash your hands often. Use an alcohol-based sanitizer if soap and water aren't available.\n*   Avoid sharing personal household items.\n*   Clean all high-touch surfaces in your home daily.\n\nFind more details on [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html) from the CDC.\n\nFind out [what to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf).",
             "source": "KB-COVID",
             "questions": [
                 "I think I have Covid-19",
@@ -1165,11 +1165,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:33:08.563+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:15:25.474+00:00"
         },
         {
             "id": 4570,
-            "answer": "**What types of disinfectants should I be using to clean?**\n\nFind tips from the CDC on how to [clean and disinfect your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) routinely and when someone is sick.\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n*   Wear protective gear (such as gloves and eye protection)\n*   Use them in a well-ventilated area\n*   Follow the directions on the label\n*   Use no more than the amount recommended on the label\n*   Use water at room temperature for dilution (unless the label says a different temperature)\n*   Don’t mix chemicals\n*   Label diluted cleaning products\n*   Store them out of reach of children and pets\n\nYou should never eat, drink, breathe or inject these products into your body or apply directly to your skin as they can cause serious harm. Do not wipe or bathe pets with these products or any other products that are not approved for animal use.\n\nIf you feel sick after using disinfectants, you can chat with the [New England Poison Control Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
+            "answer": "**What types of disinfectants should I be using to clean?**\n\nFind tips from the CDC on how to [clean and disinfect your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) routinely and when someone is sick.\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n*   Wear protective gear (such as gloves and eye protection).\n*   Use them in a well-ventilated area.\n*   Follow the directions on the label.\n*   Use no more than the amount recommended on the label.\n*   Use water at room temperature for dilution (unless the label says a different temperature).\n*   Don’t mix chemicals.\n*   Label diluted cleaning products.\n*   Store them out of reach of children and pets.\n\nYou should never eat, drink, breathe or inject these products into your body or apply directly to your skin as they can cause serious harm. Do not wipe or bathe pets with these products or any other products that are not approved for animal use.\n\nIf you feel sick after using disinfectants, you can chat with the [New England Poison Control Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
             "source": "KB-COVID",
             "questions": [
                 "What types of disinfectants should I be using to clean?",
@@ -1201,7 +1201,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:55:15.971+00:00"
         },
         {
             "id": 4571,
@@ -1251,7 +1251,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:24:05.467+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:15:25.474+00:00"
         },
         {
             "id": 4572,
@@ -1368,11 +1368,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:34:12.933+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:47:10.073+00:00"
         },
         {
             "id": 4576,
-            "answer": "**Can the COVID-19 virus spread through pools and hot tubs?**\n\nThere is no evidence that the virus can spread to people through the use of pools, hot tubs or water playgrounds. Proper operation and disinfection of the water (for example, with chlorine and bromine) should kill the virus.\n\nWhen you’re at a pool or hot tub, follow these steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask any time you’re not in the water and can’t keep 6 feet apart from people you don’t live with.\n\nLearn more about [healthy swimming](https://www.cdc.gov/healthywater/swimming/swimmers/index.html), find information for [residential pool or hot tub owners](https://www.cdc.gov/healthywater/swimming/residential/index.html), and find more frequently asked questions about [pools, hot tubs and water playgrounds](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pools,-Hot-Tubs,-and-Water-Playgrounds) from the CDC.",
+            "answer": "**Can the COVID-19 virus spread through pools and hot tubs?**\n\nThere is no evidence that the virus can spread to people through the water in pools, hot tubs or water playgrounds. Proper operation and disinfection of the water (for example, with chlorine and bromine) should kill the virus.\n\nWhen you’re at a pool or hot tub, follow these steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask any time you’re not in the water and can’t keep 6 feet apart from people you don’t live with.\n\nLearn more about [healthy swimming](https://www.cdc.gov/healthywater/swimming/swimmers/index.html), find information for [residential pool or hot tub owners](https://www.cdc.gov/healthywater/swimming/residential/index.html), and find more frequently asked questions about [pools, hot tubs and water playgrounds](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pools,-Hot-Tubs,-and-Water-Playgrounds) from the CDC.",
             "source": "KB-COVID",
             "questions": [
                 "Can the COVID-19 virus spread through pools and hot tubs?",
@@ -1405,7 +1405,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-23T19:11:21.254+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:16:06.34+00:00"
         },
         {
             "id": 4577,
@@ -1479,7 +1479,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:45:31.575+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:22:21.306+00:00"
         },
         {
             "id": 4578,
@@ -1584,38 +1584,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2020-10-29T19:46:10.89+00:00"
-        },
-        {
-            "id": 4583,
-            "answer": "**I’m young. Can I continue to socialize?**\n\nWhatever your age, staying home is still the best way to lower your risk of COVID-19, but many of us are eager to take small steps to safely see our friends and family. \n\nEven though the risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions, young people can also get sick. The virus can spread even if a person does not have any symptoms. \n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt) and learn more about [getting together with friends and family](https://apps.health.vermont.gov/COVID/faq/#4690).",
-            "source": "Editorial",
-            "questions": [
-                "I’m young. Can I continue to socialize?",
-                "I'm young. Is it safe for me to go out?",
-                "I'm not old. Can I continue to socialize?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "social or physical distancing"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2020-10-23T19:33:12.335+00:00"
         },
         {
             "id": 4584,
@@ -1786,7 +1754,7 @@
         },
         {
             "id": 4588,
-            "answer": "**How do I wash or sanitize my hands to keep from getting sick?**\n\nThe CDC recommends [washing your hands often](https://www.cdc.gov/handwashing/when-how-handwashing.html) with soap and water for 20 seconds. It’s especially important to wash your hands:\n\n*   Before touching your eyes, nose, or mouth because that’s how germs enter our bodies\n*   Before eating or preparing food\n*   After blowing your nose, coughing or sneezing\n*   After you have been in a public place and touched an item or surface that may be frequently touched by other people (such as door handles, tables, gas pumps, shopping carts, or electronic cashier registers/screens, etc.)\n*   After using the restroom\n*   After handling your mask\n*   After changing a diaper\n*   After caring for someone sick\n*   After touching animals or pets\n\nIf soap and water are not available, use an alcohol-based hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry. Always wash your hands with soap and water if they look dirty.",
+            "answer": "**How do I wash or sanitize my hands to keep from getting sick?**\n\nThe CDC recommends [washing your hands often](https://www.cdc.gov/handwashing/when-how-handwashing.html) with soap and water for 20 seconds. To prevent the spread of germs during the COVID-19 pandemic, it’s especially important to wash your hands before and after:\n\n*   Touching your eyes, nose or mouth\n*   Eating or preparing food\n*   Blowing your nose, coughing or sneezing\n*   Touching your mask\n*   Entering and leaving a public place\n*   Touching an item or surface that may be frequently touched by other people (such as door handles, tables, gas pumps, shopping carts, or electronic cashier registers/screens, etc.)\n*   Caring for someone who is sick\n\nIf soap and water are not available, use an alcohol-based hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry. Always wash your hands with soap and water if they look dirty.",
             "source": "Editorial",
             "questions": [
                 "Should I use antibacterial soap?",
@@ -1819,11 +1787,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:25:46.312+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:19:25.081+00:00"
         },
         {
             "id": 4589,
-            "answer": "**Where can I find additional resources?**\n\n*   Go to the [Vermont Department of Health's COVID-19 website](http://www.healthvermont.gov/COVID-19)\n*   Read the [CDC’s COVID-19 Frequently Asked Questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics)\n*   Go to the [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19)\n*   Call the Vermont Department of Health call center at (802) 863-7240 to talk to a person\n*   Call 2-1-1 (If you are having trouble calling from a cell phone – turn off your WiFi, then call again.)\n*   If your question still isn’t answered, email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).",
+            "answer": "**Where can I find additional resources?**\n\n*   Go to the [Vermont Department of Health's COVID-19 website](http://www.healthvermont.gov/COVID-19)\n*   Read the [CDC’s COVID-19 Frequently Asked Questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics)\n*   Go to the [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19)\n*   Call the Vermont Department of Health call center at 802-863-7240 to talk to a person\n*   Call 2-1-1 (If you are having trouble calling from a cell phone – turn off your WiFi, then call again.)\n*   If your question still isn’t answered, email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).\n\nGet the latest news and updates on the Health Department's COVID-19 response. Sign up for our [Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19).",
             "source": "Editorial",
             "questions": [
                 "Where can I find additional resources?",
@@ -1853,7 +1821,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-12T17:42:00.68+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:57:32.882+00:00"
         },
         {
             "id": 4591,
@@ -2013,7 +1981,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-05T20:17:45.706+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:57:32.882+00:00"
         },
         {
             "id": 4594,
@@ -2063,7 +2031,7 @@
         },
         {
             "id": 4596,
-            "answer": "**Is it safe to go grocery shopping?**\n\nCurrently, there is no evidence to show that the COVID-19 virus is spread through food or food packaging. Follow these precautions to help keep the virus from spreading and to protect yourself while you shop:\n\n*   Stay home if you are sick. Ask a family member, friend or neighbor to help you get your groceries, or have food or groceries delivered.\n*   Wear a face mask or covering while you’re in the store.\n*   Keep a 6-foot distance from people you don't live with whenever possible. Follow any arrows on the floor or other signage that directs how people should move through the store.\n*   Use hand sanitizer with at least 60% alcohol after you leave the store. Wash your hands with soap and water when you return home and after you put away your groceries.\n\nRead more about [shopping for food during the COVID-19 pandemic](https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers) guidance from the Food and Drug Administration.",
+            "answer": "**Is it safe to go grocery shopping?**\n\nCurrently, there is no evidence to show that the COVID-19 virus is spread through food or food packaging. Follow these precautions to help keep the virus from spreading and to protect yourself while you shop:\n\n*   Stay home if you are sick. Ask a family member, friend or neighbor to help you get your groceries, or have food or groceries delivered.\n*   Wear a face mask or covering while you’re in the store.\n*   Keep a 6-foot distance from people you don't live with whenever possible. Follow any arrows on the floor or other signage that directs how people should move through the store.\n*   Use hand sanitizer with at least 60% alcohol after you leave the store. Wash your hands with soap and water when you return home and after you put away your groceries.\n\nRead more about [shopping for food during the COVID-19 pandemic](https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers) from the Food and Drug Administration.",
             "source": "Editorial",
             "questions": [
                 "Is it safe to go grocery shopping?",
@@ -2103,7 +2071,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:21:06.482+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:57:32.882+00:00"
         },
         {
             "id": 4597,
@@ -2164,7 +2132,7 @@
         },
         {
             "id": 4600,
-            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, play a significant role in spreading the COVID-19 virus.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) and answers to [frequently asked questions about pets and animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, play a significant role in spreading the COVID-19 virus.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Are pets from a shelter safe to adopt?"
@@ -2191,7 +2159,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-14T20:15:14.775+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:02:31.72+00:00"
         },
         {
             "id": 4601,
@@ -2257,7 +2225,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:33:08.563+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:15:25.474+00:00"
         },
         {
             "id": 4602,
@@ -2424,12 +2392,13 @@
         },
         {
             "id": 4607,
-            "answer": "**How is the Be Smart, Stay Safe Order enforced?**\n\nEnforcement of the Governor’s executive order — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — will be mainly done through education and voluntary compliance. \n\n*   Law enforcement officers may be reminding people of the Order if they see or are told about groups gathering or businesses operating in violation of the Order.\n*   The Order does not close roads, does not establish roadblocks or checkpoints, and does not require people to show their identification. \n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate. Traffic is expected to increase as restrictions are eased. \n*   There will not be motor vehicle stops or people detained for questioning about their travel\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Be Smart, Stay Safe Order or people who are not quarantining as required, call your local law enforcement agency.",
+            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification. \n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate. \n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Governor’s orders or people who are not quarantining as required, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
             "source": "Editorial",
             "questions": [
                 "what is the fine for non compliance",
                 "Does the Be Smart, Stay Safe Order mean I can be arrested or will need special papers if I leave my home?",
-                "How is the Be Smart, Stay Safe Order enforced?"
+                "How is the Be Smart, Stay Safe Order enforced?",
+                "How are the Governor’s executive orders being enforced?"
             ],
             "metadata": [
                 {
@@ -2448,7 +2417,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:23:38.469+00:00"
         },
         {
             "id": 4608,
@@ -2681,7 +2650,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:26:11.117+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:43:46.852+00:00"
         },
         {
             "id": 4616,
@@ -2743,7 +2712,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:08:39.061+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:43:46.852+00:00"
         },
         {
             "id": 4617,
@@ -2881,7 +2850,7 @@
         },
         {
             "id": 4619,
-            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the State’s response to COVID-19. We currently have a contact tracing team in place, but these are other ways you can help.\n\n**People with medical or other health care backgrounds** are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corps units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills.\n\nSign up with the [Vermont Medical Reserve Corps](https://www.vermont.gov/volunteer) if you:\n\n*   Are a licensed and certified health care professional\n*   Have health, mental health, or other types of clinical or professional experience\n*   Have health care administrative experience, such as with medical data entry or language translators\n*   Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Learn more about [getting a temporary license](https://apps.health.vermont.gov/COVID/faq/#4657) if you are a health professional.\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\n**Vermonters** can also:\n\n*   Donate blood with the [American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n*   [Support your local Foodbank](https://www.vtfoodbank.org/) by volunteering or donating online, or you can text GIVEHEALTH to 85511.\n*   Donate or volunteer with community organizations or emergency supply efforts.\n*   Help your neighbors – older adults and people of any age who have underlying medical conditions should stay close to home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance.\n\nWhen volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
+            "answer": "**Can I volunteer to help with the State’s response to COVID-19?**\n\nYes, people with medical and health care skills and those with other needed skills can sign up for volunteer assistance to support the State’s response to COVID-19. We currently have a contact tracing team in place, but these are other ways you can help.\n\n**People with medical or other health care backgrounds** are needed to support the health care providers responding to the COVID-19 pandemic. Vermont’s Medical Reserve Corps units are community-based groups of volunteers who supplement local emergency and public health resources with their existing skills.\n\nSign up with the [Vermont Medical Reserve Corps](https://oncallforvt.org/medical-reserve-corps/) if you:\n\n*   Are a licensed and certified health care professional\n*   Have health, mental health, or other types of clinical or professional experience\n*   Have health care administrative experience, such as with medical data entry or language translators\n*   Have worked with displaced individuals, such as homeless shelter programs\n\nVermont has eased licensing requirements for the purposes of aiding this emergency response. Learn more about [getting a temporary license](https://apps.health.vermont.gov/COVID/faq/#4657) if you are a health professional.\n\n**Other individuals who have needed skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.), can sign up at [vermont.gov/volunteer](https://www.vermont.gov/volunteer) and indicate their expertise and availability.\n\n**Vermonters** can also:\n\n*   Donate blood with the [American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n*   [Support your local Foodbank](https://www.vtfoodbank.org/) by volunteering or donating online, or you can text GIVEHEALTH to 85511.\n*   Donate or volunteer with community organizations or emergency supply efforts.\n*   Help your neighbors – older adults and people of any age who have underlying medical conditions should stay close to home as much as possible. Go shopping for a neighbor or someone else in need, keep an older neighbor company by phone or at a safe distance.\n\nWhen volunteering please follow the [guidelines on being a good neighbor](https://vem.vermont.gov/neighborly).",
             "source": "Editorial",
             "questions": [
                 "Can I volunteer to help with the State’s response to COVID-19?",
@@ -2924,7 +2893,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-09T18:58:11.083+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:41:51.619+00:00"
         },
         {
             "id": 4622,
@@ -3315,7 +3284,7 @@
         },
         {
             "id": 4638,
-            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty are important for our minds and bodies.\n\nBusinesses, non-profit and government entities that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact are open under certain health and safety requirements. These include, but are not limited to, state parks, municipal parks, recreation associations, pools, beaches, play structures or playgrounds, trail networks, golf courses, big game check stations and guided expeditions.\n\nFind up-to-date [information on outdoor recreation](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-and-fitness), [ski resorts](https://accd.vermont.gov/content/vermont-ski-resort-covid-19-winter-operations-guidance), and [campgrounds](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations) from the Agency of Commerce and Community Development (ACCD).\n\nSports with no contact or low contact and team sports are allowed with certain occupancy limits and health and safety precautions. Players, coaches, officials, staff and spectators are required to wear face masks or coverings whenever they can’t stay at least 6 feet away from others. Find up-to-date information on [sports and organized sports](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports) (including practices, games and tournaments) from the ACCD.\n\nWe can safely continue to enjoy outdoor activities with these measures:\n\n*   **Stay close to home**. Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n*   **Take health and safety precautions.** Keep from getting or spreading COVID-19 by staying at least 6 feet away from people you don’t live with, washing or sanitizing your hands often, and staying home when you are sick.\n*   **Bring a mask with you.** You are required to put on a [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) if you are not able to stay at least 6 feet away from people you don’t live with.\n*   **Be cautious and choose low-risk activities to avoid injury**. This will help lower the burden on our hospitals and health care system.\n*   **Respect signs for closed areas, trails and land**. Check [Trail Finder](http://www.trailfinder.info/) to see if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n*   **Choose low- or no-contact sports**, for example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but signage should be posted prohibiting contact games. Do not share sports equipment with people you don’t live with.\n*   **Check for ticks and wear an EPA-registered tick repellent**. When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart to prevent tick bites](https://www.healthvermont.gov/BeTickSmart).\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/covid-19-related-information).\n\nFind more [tips on preventing COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) and learn more about [getting together with friends and family](https://apps.health.vermont.gov/COVID/faq/#4690).\n\nRead the CDC’s frequently asked questions about [youth sports programs](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/youth-sports-faq.html).",
+            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty are important for our minds and bodies. \n\n[Businesses, facilities and organizations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-businesses-facilities-and-organizations) that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact are open under certain health and safety requirements. These include, but are not limited to, state parks, municipal parks, recreation associations, pools, beaches, play structures or playgrounds, trail networks, golf courses, big game check stations and guided expeditions.\n\nIndoor and outdoor social gatherings are prohibited, but you can do outdoor fitness activities with one other person from another household. However, both of you must stay at least 6 feet away from each other and wear a mask at all times. For example, you can bike, hike, walk or run with one of your neighbors.\n\nFind up-to-date information from the Agency of Commerce and Community Development (ACCD) on:\n\n*   [outdoor recreation and fitness](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-and-fitness)\n*   [sports and organized sports](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports)\n*   [ski resorts](https://accd.vermont.gov/content/vermont-ski-resort-covid-19-winter-operations-guidance)\n*   [campgrounds](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations)\n\nHere’s how we can safely continue to enjoy outdoor activities:\n\n*   **Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n*   **Bring a mask with you.** You are required to put on a [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) whenever you cannot stay at least 6 feet away from people you don’t live with.\n*   **Take health and safety precautions.** Stay at least 6 feet away from people you don’t live with, wash or sanitize your hands often, and stay home if you are sick.\n*   **Choose low- or no-contact sports,** for example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but contact games are not allowed. Do not share sports equipment with people you don’t live with.\n*   **Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system.\n*   **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to see if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n*   **Check for ticks and wear an EPA-registered tick repellent.** When you’re out walking or spending time in your backyard, remember that ticks are active this time of year. Find out how to [Be Tick Smart and prevent tick bites](https://www.healthvermont.gov/BeTickSmart).\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/covid-19-related-information).\n\nFind more [tips on preventing COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) and learn more about [getting together with friends and family](https://apps.health.vermont.gov/COVID/faq/#4690).",
             "source": "Editorial",
             "questions": [
                 "travel to another place in Vermont for recreation?",
@@ -3381,7 +3350,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:45:31.575+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:22:21.306+00:00"
         },
         {
             "id": 4639,
@@ -3544,7 +3513,7 @@
         },
         {
             "id": 4642,
-            "answer": "**Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?**\n\nAccording to the CDC and based on the limited information available to date, the risk of animals spreading COVID-19 to people is low. There is no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets. \n\nHowever, because animals can sometimes carry other germs that can make people sick, it’s always a good idea to practice [healthy habits](https://www.cdc.gov/healthypets/publications/stay-healthy-pets.html) around pets and other animals, such as washing your hands before and after interacting with them. \n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) and answers to [frequently asked questions about pets and animals](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?**\n\nAccording to the CDC and based on the limited information available to date, the risk of animals spreading COVID-19 to people is low. There is no evidence that the COVID-19 virus can spread to people from the skin, fur or hair of pets.\n\nHowever, because animals can sometimes carry other germs that can make people sick, it’s always a good idea to practice [healthy habits](https://www.cdc.gov/healthypets/publications/stay-healthy-pets.html) around pets and other animals, such as washing your hands before and after interacting with them.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Pets",
@@ -3586,7 +3555,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-12T17:34:52.382+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:03:06.64+00:00"
         },
         {
             "id": 4643,
@@ -3663,7 +3632,7 @@
         },
         {
             "id": 4644,
-            "answer": "**Are there resources available to help with distance learning?**\n\nThe Vermont Agency of Education and Vermont PBS have extended their partnership to support in-person, hybrid and distance learning models.\n\nVermont teachers, families and students have continued [access to free educational resources](https://www.vermontpbs.org/distancelearning/) via television broadcast along with digital streaming and resources. It is available on all cable systems and for free over-the-air through a digital antenna without the need for a cable subscription or broadband internet access.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov/covid19-continuity-of-learning/information-for-parents) from the Agency of Education.",
+            "answer": "**Are there resources available to help with distance learning?**\n\nThe Vermont Agency of Education and Vermont PBS have expanded their partnership to support in-person, hybrid and distance learning models.\n\nVermont teachers, families and students have continued [access to free educational resources](https://www.vermontpbs.org/distancelearning/) via television broadcast along with digital streaming and resources. It is available on all cable systems and for free over-the-air through a digital antenna without the need for a cable subscription or broadband internet access.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov/covid19-continuity-of-learning/information-for-parents) from the Agency of Education.",
             "source": "Editorial",
             "questions": [
                 "Are there resources available to help with home schooling?",
@@ -3691,11 +3660,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:02:00.655+00:00"
         },
         {
             "id": 4646,
-            "answer": "**How can I report a person or business who is violating the Be Smart, Stay Safe Order?**\n\nEnforcement of the Governor’s executive order — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — will be done mainly through education and voluntary compliance.\n\n*   For concerns about businesses or lodging facilities that are violating the Be Smart, Stay Safe Order, use the Department of Public Safety’s [non-compliance complaint form](http://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).\n*   For concerns or complaints about restaurants, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For employees to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [safety complaint form](https://labor.vermont.gov/form/safety-complaint-form).\n*   For complaints regarding individuals who are failing to self-quarantine as required, please call your local law-enforcement agency.",
+            "answer": "**How can I report a person or business who is violating the Governor's executive orders?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses or lodging establishments** that are violating the Governor’s orders, use the Department of Public Safety’s [online reporting tool](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u). \n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form). \n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
             "source": "Editorial",
             "questions": [
                 "businesses not in compliance to the covid-19 order",
@@ -3710,7 +3679,6 @@
                 "can I report someone who tests positive for not quarantining?",
                 "How do I report on neighbors traveling in and out of state with out quarantine",
                 "Now they won’t isolate.",
-                "How can I report a person or business who is violating the Be Smart, Stay Safe Order?",
                 "not wearing mask",
                 "refuses to wear",
                 "How do I file a complaint",
@@ -3720,7 +3688,8 @@
                 "How do I report a business that is not following regulations",
                 "staff do not wear masks",
                 "not following required Covid-19 regulations",
-                "enforce"
+                "enforce",
+                "How can I report a person or business who is violating the Governor's executive orders?"
             ],
             "metadata": [
                 {
@@ -3744,7 +3713,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:47:06.364+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:25:12.074+00:00"
         },
         {
             "id": 4648,
@@ -3774,7 +3743,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:24:05.467+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:15:25.474+00:00"
         },
         {
             "id": 4649,
@@ -3995,7 +3964,7 @@
         },
         {
             "id": 4657,
-            "answer": "**I’m a health professional and would like to volunteer. How do I get a temporary license?**\n\nIf you are a health care professional, you can quickly become temporarily licensed to provide care during the COVID-19 pandemic. You can be granted a temporary license if you:\n\n*   Are licensed and in good standing in other states\n*   Were licensed in Vermont, but your license lapsed in recent years\n\nThere are no fees of any kind to obtain a temporary emergency license.\n\nTo apply for a license or get more information about the process, contact the licensing authority for your profession: \n\n*   [Board of Medical Practice](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19) (medical doctors, physician assistants, and podiatrists) or 802-657-4223.\n*   [Office of Professional Regulation](https://sos.vermont.gov/opr/about-opr/covid-19-response/) (other health care professions – including nurses and osteopathic physicians) or 802-828-1505.",
+            "answer": "**I’m a health professional and would like to volunteer. How do I get a temporary license?**\n\nIf you are a health care professional, you can quickly become temporarily licensed to provide care during the COVID-19 pandemic. You can be granted a temporary license if you:\n\n*   Are licensed and in good standing in other states\n*   Were licensed in Vermont, but your license lapsed in recent years\n\nThere are no fees of any kind to obtain a temporary emergency license.\n\nTo apply for a license or get more information about the process, contact the licensing authority for your profession:\n\n*   [Board of Medical Practice](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19) (medical doctors, physician assistants, and podiatrists) or 802-657-4223\n*   [Office of Professional Regulation](https://sos.vermont.gov/opr/about-opr/covid-19-response/) (other health care professions – including nurses and osteopathic physicians) or 802-828-1505",
             "source": "Editorial",
             "questions": [
                 "I’m a health professional and would like to volunteer. How do I get a temporary license?"
@@ -4021,7 +3990,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:26:57.099+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:56:05.311+00:00"
         },
         {
             "id": 4658,
@@ -4089,7 +4058,7 @@
         },
         {
             "id": 4661,
-            "answer": "**How can I safely run errands?**\n\nThe CDC has guidance on [how to safely run essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) to meet basic household needs, such as going grocery shopping, getting deliveries and take-out, banking, and getting gas.",
+            "answer": "**How can I safely run errands?**\n\nThe CDC has guidance on [how to safely run essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) to meet basic household needs, such as going grocery shopping, getting deliveries and take-out, banking, and getting gas.\n\nThe CDC also has tips on how to stay safe when scheduling [services or repairs inside your home](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/at-home/in-home-services.html).",
             "source": "Editorial",
             "questions": [
                 "How can I safely run errands for essential purposes?",
@@ -4122,11 +4091,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:18:35.757+00:00"
         },
         {
             "id": 4662,
-            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires quarantine. The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nAdditionally, as of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social, recreational and entertainment gatherings, and in public and private spaces. This means that visitors to Vermont can only socialize with the people they are traveling with. They cannot gather with Vermonters or with people from another traveling group. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are returning to your second or seasonal home in Vermont, you are required to [quarantine](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) before engaging in any activities, like grocery shopping or recreational activities. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle (including a rental vehicle or private plane) OR\n*   Quarantine at a Vermont lodging facility or home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. You must remain in quarantine until you travel to Vermont.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary (for example, for fuel, food or rest).\n\nWhen you stop, follow the general prevention steps: stay at least 6 feet away from people you don't live with, [wear a face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf), avoid crowded indoor spaces, and wash your hands often. Stay home and do not travel if you are sick.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**I have a second home or a seasonal home in Vermont. Can I come to Vermont?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires quarantine. The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nAdditionally, as of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social, recreational and entertainment gatherings, and in public and private spaces. This means that visitors to Vermont can only socialize with the people they are traveling with. They cannot gather with Vermonters or with people from another traveling group. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are returning to your second or seasonal home in Vermont, you are required to [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) before engaging in any activities, like grocery shopping or recreational activities. **Staying in and completing quarantine is extremely important to help keep people from spreading the virus when they may not know they have it.** We strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nYou can either:\n\n*   Quarantine in your home state for 14 days before coming to Vermont if you are driving in your personal vehicle (including a rental vehicle or private plane) OR\n*   Quarantine at a Vermont lodging facility or home for 14 days if you are traveling by plane, train, bus or other means of transportation.\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. You must remain in quarantine until you travel to Vermont.\n\nLimit your stops when traveling to Vermont, and only stop when absolutely necessary (for example, for fuel, food or rest).\n\nWhen you stop, follow the general prevention steps: stay at least 6 feet away from people you don't live with, [wear a face mask](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf), avoid crowded indoor spaces, and wash your hands often. Stay home and do not travel if you are sick.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
                 "QnaId4662",
@@ -4170,7 +4139,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:03:10.739+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:43:46.852+00:00"
         },
         {
             "id": 4664,
@@ -4494,7 +4463,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-12T17:34:52.382+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:03:06.64+00:00"
         },
         {
             "id": 4675,
@@ -4731,7 +4700,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:08:39.061+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:16:06.34+00:00"
         },
         {
             "id": 4681,
@@ -4871,7 +4840,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:45:31.575+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:22:21.306+00:00"
         },
         {
             "id": 4691,
@@ -4943,7 +4912,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:22:08.876+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:47:10.073+00:00"
         },
         {
             "id": 4693,
@@ -5009,7 +4978,7 @@
         },
         {
             "id": 4697,
-            "answer": "**What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?**\n\nAccording to the CDC, [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/mis-c/) is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. We do not yet know what causes MIS-C. However, we know that many children with MIS-C had the COVID-19 virus, or had been around someone with COVID-19. MIS-C can be serious, even deadly, but most children who were diagnosed with this condition have gotten better with medical care.\n\nMIS-C is rare, and it remains unknown whether multisystem inflammatory syndrome only occurs in children or if it also can occur in adults.\n\nLearn more about [Multisystem Inflammatory Disease and COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf) from the Vermont Department of Health.",
+            "answer": "**What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?**\n\nAccording to the CDC, [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/mis-c/) is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. We do not yet know what causes MIS-C. However, we know that many children with MIS-C had the COVID-19 virus, or had been around someone with COVID-19. Children with MIS-C may have a fever and various symptoms, including abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or feeling extra tired. MIS-C can be serious, even deadly, but most children who were diagnosed with this condition have gotten better with medical care.\n\nMIS-C is rare, and it remains unknown whether multisystem inflammatory syndrome only occurs in children or if it also can occur in adults.\n\nLearn more about [Multisystem Inflammatory Disease and COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf) from the Health Department.",
             "source": "Editorial",
             "questions": [
                 "What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?"
@@ -5031,7 +5000,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:59:05.944+00:00"
         },
         {
             "id": 4703,
@@ -5522,7 +5491,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:26:11.117+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:48:45.852+00:00"
         },
         {
             "id": 4719,
@@ -5838,7 +5807,7 @@
         },
         {
             "id": 4728,
-            "answer": "**Can I travel to or from Canada?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nCheck CDC’s [travel notices for Canada](https://wwwnc.cdc.gov/travel/notices/warning/coronavirus-canada) and read Canada’s [entry restrictions](https://www.cbsa-asfc.gc.ca/services/covid/non-canadians-canadiens-eng.html#s1) for current information about travel to or from Canada.\n\nFollow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. When you return to Vermont, you must quarantine for 14 days. You have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. Quarantining after international travel is the best practice. However, travelers to and from Canada for essential purposes are exempt from the quarantine requirement.",
+            "answer": "**Can I travel to or from Canada?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nCheck CDC’s [travel notices for Canada](https://wwwnc.cdc.gov/travel/notices/warning/coronavirus-canada) and read Canada’s [entry restrictions](https://www.cbsa-asfc.gc.ca/services/covid/non-canadians-canadiens-eng.html#s1) for current information about travel to or from Canada.\n\nFollow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. When you return to Vermont, you must quarantine for 14 days. You have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. Quarantining after international travel is the best practice. However, travelers to and from Canada for essential purposes are exempt from the quarantine requirement.",
             "source": "Editorial",
             "questions": [
                 "QnaId4728"
@@ -5869,7 +5838,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:05:21.814+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:45:48.043+00:00"
         },
         {
             "id": 4729,
@@ -5899,7 +5868,7 @@
         },
         {
             "id": 4730,
-            "answer": "**If I go on vacation, do I need to quarantine before I return to work?**\n\nIf you travel out of Vermont, you need to quarantine for 14 days, either before you come back to Vermont or when you return to Vermont. This applies to both employees living in Vermont and employees who live in a neighboring state and commute to Vermont for work.\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nYour employer may provide [sick or vacation time](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#if-an-employee-goes-on-vacation-and-vermont-guidance-requires-that-employee-to-quarantine-upon-return-from-the-vacation-does-their-employer-need-to-provide-sick-time) for you to complete your quarantine.\n\nFind more information on [returning to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
+            "answer": "**If I go on vacation, do I need to quarantine before I return to work?**\n\nIf you travel out of Vermont, you need to [quarantine for 14 days](https://apps.health.vermont.gov/COVID/faq/#4618), either before you come back to Vermont or when you return to Vermont. This applies to both employees living in Vermont and employees who live in a neighboring state and commute to Vermont for work.\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nYour employer may provide [sick or vacation time](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#if-an-employee-goes-on-vacation-and-vermont-guidance-requires-that-employee-to-quarantine-upon-return-from-the-vacation-does-their-employer-need-to-provide-sick-time) for you to complete your quarantine.\n\nFind more information on [returning to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
             "source": "Editorial",
             "questions": [
                 "If I go on vacation, do I need to quarantine before I return to work?"
@@ -5926,7 +5895,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:07:30.906+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:48:45.852+00:00"
         },
         {
             "id": 4731,
@@ -6046,7 +6015,7 @@
         },
         {
             "id": 4737,
-            "answer": "**I want to travel to Vermont from a foreign country. Is that allowed?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you are not a U.S. citizen, check the CDC’s travel page for [advisories for travelers who are prohibited from entering the U.S](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html).\n\nOnce you arrive in Vermont, you must [quarantine for 14 days](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont). If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind out about [travel from Canada](https://apps.health.vermont.gov/COVID/faq/#4728).",
+            "answer": "**I want to travel to Vermont from a foreign country. Is that allowed?**\n\nAll [travel to and from Vermont](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) now requires [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618). The only exception is [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you are not a U.S. citizen, check the CDC’s travel page for [advisories for travelers who are prohibited from entering the U.S](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html).\n\nOnce you arrive in Vermont, you must [quarantine for 14 days](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont). If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind out about [travel from Canada](https://apps.health.vermont.gov/COVID/faq/#4728).",
             "source": "Editorial",
             "questions": [
                 "QnaId4737"
@@ -6072,7 +6041,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:05:58.834+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:46:21.452+00:00"
         },
         {
             "id": 4738,
@@ -6505,7 +6474,7 @@
         },
         {
             "id": 4754,
-            "answer": "**How can I celebrate the holidays safely?**\n\nWe know how hard it is to stay home for the holidays this year, apart from family and friends we usually celebrate with. But as cases of COVID-19 surge in Vermont, we need to do everything we can to stop the spread.\n\nHere’s what you need to know:\n\n*   You are not allowed to gather with people you don’t live with. This includes gathering both inside and outside, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n*   Visitors to Vermont cannot gather with Vermonters in their home or elsewhere. \n*   The Health Department strongly advises against travel right now, even within Vermont. All travel to and from Vermont requires quarantine (unless it’s considered [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637)). \n\nIf you do gather with another household for the holidays or any other time, you should quarantine. Quarantine means staying home and away from other people for 14 days. \n\nWe advise you to get tested as soon as possible after the gathering and then again on day 7. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. You have the same option if you traveled. \n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. The more there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, this holiday season will look different and we need to do everything we can to keep each other safe.\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations and small gatherings](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)\n*   [Celebrating Thanksgiving](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/thanksgiving.html)",
+            "answer": "**How can I celebrate the holidays safely?**\n\nWe know how hard it is to stay home for the holidays this year, apart from family and friends we usually celebrate with. But as cases of COVID-19 surge in Vermont, we need to do everything we can to stop the spread.\n\nHere’s what you need to know:\n\n*   You are not allowed to gather with people you don’t live with. This includes gathering both inside and outside, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n*   Visitors to Vermont cannot gather with Vermonters in their home or elsewhere.\n*   The Health Department strongly advises against travel right now, even within Vermont. All travel to and from Vermont requires quarantine (unless it’s considered [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637)).\n\nIf you do gather with another household for the holidays or any other time, you should quarantine. Quarantine means staying home and away from other people for 14 days.\n\nWe advise you to get tested as soon as possible after the gathering and then again on day 7. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. You have the same option if you traveled.\n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. Imagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. The more layers there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, this holiday season will look different and we need to do everything we can to keep each other safe.\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations and small gatherings](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
             "source": "Editorial",
             "questions": [
                 "How can I celebrate the holidays safely?"
@@ -6527,11 +6496,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:35:13.177+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:17:41.2+00:00"
         },
         {
             "id": 4755,
-            "answer": "**What do I do if I’m diagnosed with COVID-19?**\n\nMost people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n**Isolate at home**\n\n*   **Stay home,** except to get medical care. Call ahead before visiting your health care provider. Anyone who does not have a health care provider can call 2-1-1 to be connected to care or contact the nearest [federally qualified health center(link is external)](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n*   **Separate yourself** from other people and pets**.**\n*   **Monitor your symptoms.**\n*   **Wear a** [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you're around people and pets.\n*   **Cover your coughs and sneezes** with your sleeve or a tissue, then throw the tissue in the trash.\n*   **Wash your hands often.** Use an alcohol-based sanitizer if soap and water aren't available.\n*   **Avoid sharing** personal household items**.**\n*   **Clean all high-touch surfaces** in your home daily.\n*   **Get support from others.** Stay in touch with family and friends by phone, email or online platform.\n\nWe strongly encourage you to enroll in [Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d), a secure monitoring and reporting text-based system to help you monitor symptoms.\n\nSomeone from the Health Department will contact you to ask for your help with [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing). Contact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others. \n\n**Learn more:**\n\n*   [Caring for yourself at home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/caring-for-yourself-at-home.html) from the CDC\n*   [10 ways to manage respiratory symptoms at home](https://www.cdc.gov/coronavirus/2019-ncov/downloads/10Things.pdf) from the CDC\n*   [Information on breastfeeding if you have COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html) from the CDC\n*   [What is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf)",
+            "answer": "**What do I do if I’m diagnosed with COVID-19?**\n\nMost people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n**Isolate at home**\n\n*   **Stay home,** except to get medical care. Call ahead before visiting your health care provider. Anyone who does not have a health care provider can call 2-1-1 to be connected to care or contact the nearest [federally qualified health center(link is external)](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n*   **Separate yourself** from other people and pets**.**\n*   **Monitor your symptoms.**\n*   **Wear a** [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you're around people and pets.\n*   **Cover your coughs and sneezes** with your sleeve or a tissue, then throw the tissue in the trash.\n*   **Wash your hands often.** Use an alcohol-based sanitizer if soap and water aren't available.\n*   **Avoid sharing** personal household items**.**\n*   **Clean all high-touch surfaces** in your home daily.\n*   **Get support from others.** Stay in touch with family and friends by phone, email or online platform.\n\nWe strongly encourage you to enroll in [Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d), a secure monitoring and reporting text-based system to help you monitor symptoms.\n\nSomeone from the Health Department will contact you to ask for your help with [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing). Contact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others.\n\n**Learn more:**\n\n*   [Caring for yourself at home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/caring-for-yourself-at-home.html) from the CDC\n*   [10 ways to manage respiratory symptoms at home](https://www.cdc.gov/coronavirus/2019-ncov/downloads/10Things.pdf) from the CDC\n*   [Information on breastfeeding if you have COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html) from the CDC\n*   [What is isolation, quarantine and self-observation](https://apps.health.vermont.gov/COVID/faq/#isolation-quarantine-and-selfobservation)\n*   [What to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf)",
             "source": "Editorial",
             "questions": [
                 "What do I do if I’m diagnosed with COVID-19?"
@@ -6557,7 +6526,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:28:07.85+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:40:09.43+00:00"
         },
         {
             "id": 4756,
@@ -6716,6 +6685,10 @@
                 {
                     "name": "category",
                     "value": "be smart, stay safe order"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6729,7 +6702,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:38:52.755+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:37:12.594+00:00"
         },
         {
             "id": 4762,
