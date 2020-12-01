@@ -14,7 +14,7 @@ permalink: /faq-site/
 
 - Install [Node.js & NPM](https://nodejs.org/en/download/)
 - Run `npm install` in the project directory to install local dependencies
-- Run `npm run serve` to run a local dev environment
+- Run `npm run serve` to run in a local dev environment
 - Access dev copy of the site at [localhost:8080](http://localhost:8080)
 
 ### Environment Variables
