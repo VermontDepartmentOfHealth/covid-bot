@@ -38,7 +38,7 @@ OcpApimSubscriptionKey=***
 environment=prod
 ```
 
-Choose which environment file to use by setting an environemtn variable named `AZURE_ENVIRONMENT` before running.  You can set the value in the following locations:
+Choose which environment file to use by setting an environment variable named `AZURE_ENVIRONMENT` before running.  You can set the value in the following locations:
 
 * **Debug** - `.vscode/launch.json`
 * **Run** - `package.json` > `scripts`
