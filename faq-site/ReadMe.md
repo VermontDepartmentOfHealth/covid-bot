@@ -27,7 +27,7 @@ Create the environment files for any supported environment:
 * `.env.test`
 * `.env.prod`
 
-Which contents like this, but replace with actual keys:
+Which has content like this, but replace with actual keys:
 
 ```ini
 RuntimeEndpoint=https://***.azurewebsites.net
