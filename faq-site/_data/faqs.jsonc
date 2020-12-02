@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T15:21:28.671+00:00"
         },
         {
             "id": 4534,
@@ -614,7 +614,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:14:45.64+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:54:06.106+00:00"
         },
         {
             "id": 4547,
@@ -662,7 +662,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:22:08.876+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:54:06.106+00:00"
         },
         {
             "id": 4549,
@@ -1483,7 +1483,7 @@
         },
         {
             "id": 4578,
-            "answer": "**How is a sample collected for COVID-19 testing? What is the test like?**\n\nUsually, a health care provider collects samples (specimens) from you in one of two ways:\n\n1.  The health care provider collects a sample using a nasopharyngeal or NP swab. This is when a long, dry swab is inserted through one nostril and is rubbed against the back of your nose and throat.\n2.  The health care provider collects a sample using a nasal swab. This is when a short, dry swab is used to collect a sample from the front of your nose. This type of test is used at the Health Department’s [pop-up testing sites](https://www.healthvermont.gov/covid-19/testing/what-expect). It is also used for certain priority groups, including children.",
+            "answer": "**How is a sample collected for COVID-19 testing? What is the test like?**\n\nUsually, samples (specimens) are collected from you in one of two ways:\n\n1.  Nasal swab - this is a short, dry swab that is used to collect a sample from the front of your nose. This type of test is used at the [Health Department’s testing sites](https://www.healthvermont.gov/covid-19/testing/where-get-tested). It is also used for certain priority groups, including children.\n2.  Nasopharyngeal or NP swab – this is a long, dry swab that is inserted through one nostril and is rubbed against the back of your nose and throat.",
             "source": "Editorial",
             "questions": [
                 "How does a health care provider collect samples for COVID-19 testing?",
@@ -1516,7 +1516,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:31:01.235+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:54:56.647+00:00"
         },
         {
             "id": 4580,
@@ -3559,7 +3559,7 @@
         },
         {
             "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). If you think you should be tested for COVID-19, talk with your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department **recommends testing** for people who:\n\n*   have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms).\n*   have had [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) (within 6 feet for a total of 15 minutes or more over a 24-hour period) with someone who tested positive for COVID-19.\n*   have recently been at a social gathering with someone from another household (other than recreating with one masked person outside).\n*   were referred by their health care provider for testing for another reason.\n\nFind more information about [testing and testing locations](https://www.healthvermont.gov/covid-19/testing/where-get-tested) including frequently asked [questions about pop-up testing](https://www.healthvermont.gov/covid-19/testing/what-expect).\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and what to do while you’re [waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).",
+            "answer": "**Where can I get tested for COVID-19?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). If you think you should be tested for COVID-19, talk with your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department **recommends testing** for people who:\n\n*   have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms).\n*   have had [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) (within 6 feet for a total of 15 minutes or more over a 24-hour period) with someone who tested positive for COVID-19.\n*   have recently been at a social gathering with someone from another household (other than recreating with one masked person outside).\n*   were referred by their health care provider for testing for another reason.\n\nThere are a variety of testing options available to you: your primary care provider, pharmacies and Health Department test sites (which includes CIC Health). Find a [testing location](https://www.healthvermont.gov/covid-19/testing/where-get-tested) and answers to frequently asked [questions about pop-up testing](https://www.healthvermont.gov/covid-19/testing/what-expect).\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and what to do while you’re [waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).",
             "source": "Editorial",
             "questions": [
                 "Where can I get tested for COVID-19?",
@@ -3628,7 +3628,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:22:08.876+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:54:06.106+00:00"
         },
         {
             "id": 4644,
@@ -3900,7 +3900,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:22:08.876+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:57:20.459+00:00"
         },
         {
             "id": 4656,
@@ -4390,7 +4390,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:35:11.147+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:57:20.459+00:00"
         },
         {
             "id": 4672,
@@ -4912,7 +4912,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:47:10.073+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:54:06.106+00:00"
         },
         {
             "id": 4693,
@@ -5180,7 +5180,7 @@
         },
         {
             "id": 4713,
-            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a newer type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than PCR tests (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nThough antigen tests may be available in Vermont, the Health Department only recommends antigen testing in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n\nWhen used appropriately to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nWe are monitoring how these antigen tests evolve and how results can best be used. Right now, people who test positive from antigen tests are not considered to have a lab-confirmed case of COVID-19 and are not included in our total number of cases. However, we consider these cases “presumptive positives” and recommend they follow the same guidelines as a positive case to stay home (self-isolate). We also conduct [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) and recommend a PCR test to confirm the positive result.\n\nAntigen tests are different from antibody (serologic) tests, which identify people who have previously been infected with the coronavirus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
+            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nThough antigen tests may be available in Vermont, the Health Department only recommends antigen testing in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n\nWhen used appropriately to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
             "source": "Editorial",
             "questions": [
                 "What is an antigen test?",
@@ -5221,7 +5221,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:35:11.147+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:57:20.459+00:00"
         },
         {
             "id": 4714,
@@ -6823,6 +6823,36 @@
                 ]
             },
             "lastUpdatedTimestamp": "2020-11-20T20:22:24.052+00:00"
+        },
+        {
+            "id": 4767,
+            "answer": "**What is a “probable case”?**\n\nA case is considered “probable” if the person:\n\n*   tested positive on an antigen test **and** has symptoms of COVID-19 **or** epidemiologic evidence, **or**\n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19.\n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.\n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).\n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. People who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on a follow-up PCR test, they are only included once in the total case count.\n\nThe Health Department began including probable cases in case counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. The impact on the total case count is minimal. At this time, about 120 cases, or 2.8%, of total cases are probable cases. Right now, this change does not impact hospitalization or testing data.\n\nRead the full [CSTE definition of probable case](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/).",
+            "source": "Editorial",
+            "questions": [
+                "What is a “probable case”? "
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "people with covid-19 in vermont"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "case numbers"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2020-12-02T15:21:28.671+00:00"
         }
     ]
 }
