@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:14:23.235+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:38:01.332+00:00"
         },
         {
             "id": 4534,
@@ -237,7 +237,7 @@
         },
         {
             "id": 4538,
-            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. However, a few children have developed [multisystem inflammatory syndrome (MIS-C)](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can teach your children to do the same things everyone can do to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nSocializing for children is important for their development and wellbeing. There are [ways children can socialize](https://apps.health.vermont.gov/COVID/faq/#4584) but still stay safe and keep from getting and spreading COVID-19.\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children) and information from the CDC for [children, teens and young adults](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/caring-for-children.html).\n\nYou can find information about cases across age groups along with other COVID-19 data on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard). More detailed information is in the [Weekly Data Summaries](https://www.healthvermont.gov/covid-19/current-activity/weekly-data-summary), which include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
+            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nNo. Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. However, a few children have developed [multisystem inflammatory syndrome (MIS-C)](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can teach your children to do the same things everyone can do to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nSocializing for children is important for their development and wellbeing. There are [ways children can socialize](https://apps.health.vermont.gov/COVID/faq/#4584) but still stay safe and keep from getting and spreading COVID-19.\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children) and information from the CDC for [children, teens and young adults](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/caring-for-children.html).\n\nYou can find information about cases across age groups along with other COVID-19 data on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard). More detailed information is in the [Weekly Data Summaries](https://www.healthvermont.gov/covid-19/current-activity/weekly-data-summary), which include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
             "source": "KB-COVID",
             "questions": [
                 "Can kids get Covid-19?",
@@ -273,7 +273,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:12:35.735+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:38:01.332+00:00"
         },
         {
             "id": 4539,
@@ -777,7 +777,7 @@
         },
         {
             "id": 4558,
-            "answer": "**What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?**\n\nFacilities may offer visitation with residents. Check with the facility first before planning a visit.\n\nLong-term care facilities can ease some restrictions based on phased guidance from the Department of Aging and Independent Living (DAIL). The guidance creates a framework for long-term care facilities to determine how to ease the restrictions on communal activities, non-essential personnel entering the building, trips outside the building and visitation. Check with the long-term care facility to find out what they are currently allowing.\n\nMedically necessary personnel and visitors for residents receiving end-of-life care are allowed inside. Read the [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO%2001-20%20Declaration%20of%20State%20of%20Emergency%20in%20Response%20to%20COVID-19%20and%20National%20Guard%20Call-Out.pdf).\n\nThe Health Department recommends that all health care personnel in long-term care facilities and other congregate care settings where health care is provided wear face masks, regardless of the presence of COVID-19 in the facility.\n\nResidents and staff of congregate care settings and new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period. Testing out of quarantine after day 7 is not an option unless alternate guidance is provided by the Health Department.\n\nSee the reopening guidance from DAIL regarding senior centers and adult day centers.\n\nThere is guidance ­on preventing the spread of COVID-19 for [managers and owners of senior living communities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf), which includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more guidance and information for [long-term care and group living settings](https://www.healthvermont.gov/covid-19/health-care-professionals/long-term-care-and-group-living-settings).",
+            "answer": "**What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?**\n\nFacilities may offer **visitation** with residents. Check with the facility first before planning a visit. Medically necessary personnel and visitors for residents receiving end-of-life care are allowed inside. Read the [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO%2001-20%20Declaration%20of%20State%20of%20Emergency%20in%20Response%20to%20COVID-19%20and%20National%20Guard%20Call-Out.pdf).\n\nLong-term care facilities are following guidance from the [Department of Aging and Independent Living](https://dail.vermont.gov/novel-coronavirus-information/restart-vermont) (DAIL).Check with the long-term care facility to find out what **restrictions** are in place. \n\nThe Health Department recommends [**surveillance testing**](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-LTCFSurveillanceTesting.pdf) at long-term care facilities to identify people with COVID-19 and to help stop outbreaks in long-term care facilities.\n\nThe Health Department recommends that all health care personnel in long-term care facilities and other congregate care settings where health care is provided wear face **masks**, regardless of the presence of COVID-19 in the facility.\n\nCOVID-19 activity in the community may affect how facilities and providers make decisions about testing, operations and personal protective equipment (PPE). Find information for health care providers, nursing homes and other long-term care facilities to make decisions based on measures of [**community-level burden**](https://www.healthvermont.gov/covid-19/health-care-professionals/community-thresholds-decision-making).\n\nResidents and staff of congregate care settings and new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day **quarantine** period. Testing out of quarantine after day 7 is not an option unless alternate guidance is provided by the Health Department.\n\nSee the reopening guidance from DAIL regarding **senior centers and adult day centers**. \n\nThere is guidance ­on preventing the spread of COVID-19 for [managers and owners of **senior living** **communities**](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Senior-Living-final.pdf), which includes making a plan, preparing common spaces and communicating with residents/staff, in addition to outlining the role of the Health Department.\n\nFind more guidance and information for [long-term care and group living settings](https://www.healthvermont.gov/covid-19/health-care-professionals/long-term-care-and-group-living-settings).",
             "source": "KB-COVID",
             "questions": [
                 "What should people in long-term care facilities or group homes do?",
@@ -805,7 +805,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:49:36.762+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:35:38.795+00:00"
         },
         {
             "id": 4559,
@@ -935,7 +935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:02:35.238+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:14:43.773+00:00"
         },
         {
             "id": 4564,
@@ -1165,7 +1165,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T19:57:10.955+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:14:43.773+00:00"
         },
         {
             "id": 4570,
@@ -1479,7 +1479,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:12:35.735+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:38:01.332+00:00"
         },
         {
             "id": 4578,
@@ -1587,7 +1587,7 @@
         },
         {
             "id": 4584,
-            "answer": "**How can children stay safe and prevent the spread of COVID-19?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social, recreational and entertainment gatherings, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nYou can prevent the spread of COVID-19 by following these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19):\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask (children over 2 who are able) when you’re outside and can’t keep 6 feet apart or anytime you’re inside with people you don’t live with.\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nGathering in groups or “pods” related to education or child care that are already formed can continue. Gathering in pods related to social activity, informal play groups, play dates, or sleepovers are not allowed at this time. New pods of any kind are discouraged. Find more guidance related to [limits on multi-household social gatherings](https://education.vermont.gov/sites/aoe/files/documents/edu-guidance-for-schools-related-to-limits-on-multi-household-social-gatherings.pdf).\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
+            "answer": "**How can children stay safe and prevent the spread of COVID-19?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social, recreational and entertainment gatherings, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nYou can prevent the spread of COVID-19 by following these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19):\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask (children over 2 who are able) anytime you are around people you don’t live with.\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nGathering in groups or “pods” related to education or child care that are already formed can continue. Gathering in pods related to social activity, informal playgroups, playdates, or sleepovers are not allowed at this time. New pods of any kind are discouraged. Find more guidance related to [limits on multi-household social gatherings](https://education.vermont.gov/sites/aoe/files/documents/edu-guidance-for-schools-related-to-limits-on-multi-household-social-gatherings.pdf) and more [frequently asked questions from the Agency of Education](https://education.vermont.gov/documents/faq-guidance-for-schools-related-to-limits-on-multi-household-gatherings).\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
@@ -1603,6 +1603,10 @@
                 {
                     "name": "category",
                     "value": "families with children"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -1631,7 +1635,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:12:35.735+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:38:01.332+00:00"
         },
         {
             "id": 4585,
@@ -1667,7 +1671,7 @@
         },
         {
             "id": 4586,
-            "answer": "**How can I prepare at home?**\n\n*   **Plan ways to care** for those in your home who might be [at greater risk](https://apps.health.vermont.gov/COVID/faq/#4559), like older adults and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need.\n*   **Choose a room in your home** that can be used to [separate sick household members](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html) from those who are healthy**.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n*   **Make sure you have enough groceries and other supplies** for 14 days in case you get sick and need to quarantine. Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n*   **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially older adults and those who have underlying medical conditions, or who live alone.\n*   **Take care of the** [**emotional health**](https://apps.health.vermont.gov/COVID/faq/#4604) of your household members**.** Pandemics can be stressful for adults and children. Talk with your children about the pandemic, try to stay calm, and reassure them that they are safe.\n*   **Keep a daily list of people you are in** [**close contact**](https://apps.health.vermont.gov/COVID/faq/#4575) **with**. As the state continues to reopen, consider keeping a contact journal. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nThese are things we can all do to protect ourselves and the people around us from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nThe CDC also has guidance for [households living in close quarters](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html), like people who share a small apartment or people who live in the same household with large or extended families",
+            "answer": "**How can I prepare at home?**\n\n*   **Plan ways to care** for those in your home who might be [at greater risk](https://apps.health.vermont.gov/COVID/faq/#4559), like older adults and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need.\n*   **Choose a room in your home** that can be used to [separate sick household members](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html) from those who are healthy**.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n*   **Make sure you have enough groceries and other supplies** for 14 days in case you get sick and need to quarantine. Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n*   **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially older adults and those who have underlying medical conditions, or who live alone.\n*   **Take care of the** [**emotional health**](https://apps.health.vermont.gov/COVID/faq/#4604) of your household members**.** Pandemics can be stressful for adults and children. Talk with your children about the pandemic, try to stay calm, and reassure them that they are safe.\n*   **Keep a daily list of people you are in** [**close contact**](https://apps.health.vermont.gov/COVID/faq/#4575) **with**. As the state continues to reopen, consider keeping a contact journal. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nLearn more from the CDC about what you can do to [keep COVID-19 outside your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/protect-your-home.html), and if it gets in your home, what you can do to keep it from spreading.\n\nThese are things we can all do to protect ourselves and the people around us from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nThe CDC also has guidance for [households living in close quarters](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html), like people who share a small apartment or people who live in the same household with large or extended families",
             "source": "Editorial",
             "questions": [
                 "How can I prepare at home?",
@@ -1697,7 +1701,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:07:05.089+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:19:19.088+00:00"
         },
         {
             "id": 4587,
@@ -2319,7 +2323,7 @@
         },
         {
             "id": 4604,
-            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during a pandemic. Taking care of yourself, your friends, and your family can help you cope with stress. Coping with stress in a healthy way will make you, the people you care about, and your community stronger.\n\n*   Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n*   Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n*   Make time to unwind. Try to do some other activities you enjoy.\n*   Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress), including resources for local help, self-care, Vermont teens, suicide prevention, domestic violence, and grieving the loss of a loved one.   \n\n**Need support right now?**\n\n*   Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/)\n*   Text VT to 741741\n*   Call 2-1-1 or 1-866-652-4636\n*   Contact the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) or call 1-800-273-8255\n*   Pathways Vermont peer support line, call or text 833-VT-TALKS (833-888-2557)\n*   For multilingual support, call 800-985-5990 or text TalkWithUs to 66746",
+            "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during a pandemic. Taking care of yourself, your friends, and your family can help you cope with stress. Coping with stress in a healthy way will make you, the people you care about, and your community stronger.\n\n*   Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n*   Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n*   Make time to unwind. Try to do some other activities you enjoy.\n*   Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress), including resources for local help, self-care, Vermont teens, suicide prevention, domestic violence, and grieving the loss of a loved one.\n\nIf you or someone you know is in crisis or needs emotional support, help is available 24/7: \n\n*   Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/).\n*   Text VT to 741741 to talk with someone at the [Crisis Text Line](https://www.crisistextline.org/).\n*   Call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. For more information, visit [healthvermont.gov/suicide](http://healthvermont.gov/suicide).\n*   Get connected to Alcohol and Drug Support Services at [VT Helplink](http://www.vthelplink.org/).\n*   Call or text the [Pathways Vermont](https://www.pathwaysvermont.org/) peer support line at 833-VT-TALKS (833-888-2557).\n*   Get self-help tips and connect to mental health services at [COVID Support VT](http://covidsupportvt.org/).\n*   For multilingual support, call 800-985-5990 or text TalkWithUs to 66746.",
             "source": "Editorial",
             "questions": [
                 "How can I take care of myself, my family, or friends with the stress from COVID-19?",
@@ -2344,11 +2348,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:28:34.217+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:22:12.507+00:00"
         },
         {
             "id": 4605,
-            "answer": "**What should health care providers and workers do?**\n\nThe Health Department has [guidance and information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals). It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. Asymptomatic people who are looking to end quarantine early are encouraged to contact their health care provider to arrange a test on or after day 7 of quarantine. Health care providers can test them in their office or refer them to a centralized testing site. Find more [testing information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals).",
+            "answer": "**What should health care providers and workers do?**\n\nThe Health Department has [guidance and information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals). It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. Asymptomatic people who are looking to end quarantine early are encouraged to contact their health care provider to arrange a test on or after day 7 of quarantine. Health care providers can test them in their office or refer them to a centralized testing site. Find more [testing information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals).\n\nCOVID-19 activity in the community may affect how facilities and providers make decisions about testing, operations and personal protective equipment (PPE). Find information for health care providers, nursing homes and other long-term care facilities to make decisions based on measures of [community-level burden](https://www.healthvermont.gov/covid-19/health-care-professionals/community-thresholds-decision-making).",
             "source": "Editorial",
             "questions": [
                 "What should assisted living workers do?",
@@ -2388,7 +2392,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-09T18:58:11.083+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:36:18.885+00:00"
         },
         {
             "id": 4607,
@@ -2712,11 +2716,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:09:47.972+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:33:59.76+00:00"
         },
         {
             "id": 4617,
-            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nThe number of people who have tested positive for COVID-19 by county is updated daily on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard). \n\nThe number of Vermonters who have tested positive for COVID-19 by the town where they live is updated weekly on the [map of cases by town](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities). \n\nWhen looking at the county or town numbers, please remember that low or no recent cases is not the same as “safer.” We know the virus is in our communities, and we should continue to follow health guidance to slow the spread of COVID-19 – no matter where we live in or visit. The maps reflect the number of people who had a positive test. There may be people in your county or town that have COVID-19 but have not been tested. \n\n[Weekly Data Summaries](https://www.healthvermont.gov/covid-19/current-activity/weekly-data-summary) include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
+            "answer": "**How many people who have tested positive for COVID-19 are in my town or county?**\n\nThe number of people who have tested positive for COVID-19 by county is updated daily on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard). There are also more frequently asked questions about the data above the dashboard.\n\nThe number of Vermonters who have tested positive for COVID-19 by the town where they live is updated weekly on the [map of cases by town](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities). There are also more frequently asked questions about the data above the map.\n\nWhen looking at the county or town numbers, please remember that having low or no recent cases is not the same as “safer.” We know the virus is in our communities, and we should continue to follow health guidance to slow the spread of COVID-19 – no matter where we live or where we visit. The data reflect the number of people who had a positive test. There may be people in your county or town that have COVID-19 but have not been tested.\n\n[Weekly Data Summaries](https://www.healthvermont.gov/covid-19/current-activity/weekly-data-summary) include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
             "source": "Editorial",
             "questions": [
                 "How many active cases are there in Vermont?",
@@ -2781,11 +2785,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:33:39.676+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:25:29.405+00:00"
         },
         {
             "id": 4618,
-            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering)\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms. \n\nWe strongly encourage anyone in quarantine to sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Learn more:** \n\n*   [What is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) \n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourseld for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering)\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nWe strongly encourage anyone in quarantine to sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
                 "what does quarantine mean?",
@@ -2846,7 +2850,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:09:47.972+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:14:43.773+00:00"
         },
         {
             "id": 4619,
@@ -2893,7 +2897,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:41:51.619+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:36:18.885+00:00"
         },
         {
             "id": 4622,
@@ -3350,7 +3354,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:08:40.706+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:33:59.76+00:00"
         },
         {
             "id": 4639,
@@ -3439,7 +3443,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:09:47.972+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:33:59.76+00:00"
         },
         {
             "id": 4640,
@@ -3628,7 +3632,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:11:29.869+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:25:29.405+00:00"
         },
         {
             "id": 4644,
@@ -3747,7 +3751,7 @@
         },
         {
             "id": 4649,
-            "answer": "**What protections are in place for long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?**\n\nThe Health Department has contacted all long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities proactively to review strategies to prevent COVID-19 infection and develop plans to respond immediately if an infection is identified. We complete an in-depth assessment by phone and provide guidance about personal protective equipment and other infection prevention and control recommendations. We continue to stay in touch for any technical assistance needs and additional questions.\n\nIf a case of COVID-19 is associated with a long-term care facility, an epidemiology team is quickly activated. They contact the facility to provide recommendations and infection control support. The team begins [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) to determine the source of the infection and how it may be spreading. They ask questions and collect information to help identify anyone the patient had close contact with. (Close contact means being closer than 6 feet apart for a long time [while the person was infectious](https://apps.health.vermont.gov/COVID/faq/#4734).) The team communicates with close contacts to ensure isolation and quarantine guidelines are being followed, which will differ depending on the type of setting.\n\nVermont is taking additional measures to slow the spread of COVID-19 in certain types of group living facilities. This includes nursing homes, corrections facilities, residential homes for those with disabilities, residential treatment centers, assisted living facilities, state psychiatric care facilities, and homeless shelters. If a staff member or resident tests positive for COVID-19, universal testing of all staff and residents is offered at these facilities. Staff and residents may decline testing, and facilities may decline universal testing. Additionally, when a person tests positive at a skilled nursing facility, sequential testing (additional testing on following days) is offered to those who tested negative during the universal testing.\n\nResidents and staff of group living facilities and new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period first.",
+            "answer": "**What protections are in place for long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?**\n\nThe Health Department has contacted all long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities proactively to review strategies to prevent COVID-19 infection and develop plans to respond immediately if an infection is identified. We complete an in-depth assessment by phone and provide guidance about personal protective equipment and other infection prevention and control recommendations. We continue to stay in touch for any technical assistance needs and additional questions.\n\nIf a case of COVID-19 is associated with a long-term care facility, an epidemiology team is quickly activated. They contact the facility to provide recommendations and infection control support. The team begins [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) to determine the source of the infection and how it may be spreading. They ask questions and collect information to help identify anyone the patient had close contact with. (Close contact means being closer than 6 feet apart for a long time [while the person was infectious](https://apps.health.vermont.gov/COVID/faq/#4734).) The team communicates with close contacts to ensure isolation and quarantine guidelines are being followed, which will differ depending on the type of setting.\n\nVermont is taking additional measures to slow the spread of COVID-19 in certain types of group living facilities. This includes nursing homes, corrections facilities, residential homes for those with disabilities, residential treatment centers, assisted living facilities, state psychiatric care facilities, and homeless shelters. If a staff member or resident tests positive for COVID-19, universal testing of all staff and residents is offered at these facilities. Staff and residents may decline testing, and facilities may decline universal testing. Additionally, when a person tests positive at a skilled nursing facility, sequential testing (additional testing on following days) is offered to those who tested negative during the universal testing.\n\nThe Health Department also recommends [surveillance testing](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-LTCFSurveillanceTesting.pdf) at long-term care facilities to identify people with COVID-19 and to help stop outbreaks in long-term care facilities.\n\nResidents and staff of group living facilities and new admissions to nursing homes, assisted living residences, and residential care homes must complete the full 14-day quarantine period first.",
             "source": "Editorial",
             "questions": [
                 "What is the Health Department doing about long-term care facilities, nursing homes, assisted living facilities, and senior housing facilities?",
@@ -3783,7 +3787,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-09T18:55:24.373+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:33:14.936+00:00"
         },
         {
             "id": 4652,
@@ -3848,7 +3852,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-09T18:55:24.373+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:33:14.936+00:00"
         },
         {
             "id": 4654,
@@ -4634,7 +4638,7 @@
         },
         {
             "id": 4680,
-            "answer": "**Is the state reopened? Which businesses are open now?**\n\nVermont is continuing a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back.\n\nFind current information on the health and safety requirements for [businesses, non-profit and government operations that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) and [frequently asked questions](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#faqs) from the Agency of Commerce and Community Development (ACCD). \n\nBusinesses can find a [step-by-step guide to reopening](https://accd.vermont.gov/covid-19/business/restart) and up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) from the ACCD.\n\nFind the most recent [Governor’s Executive Orders](https://governor.vermont.gov/document-types/executive-orders) for more information.",
+            "answer": "**Is the state reopened? Which businesses are open now?**\n\nVermont is continuing a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back.\n\nFind current information on the health and safety requirements for [businesses, non-profit and government operations that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#phased-restart) and [frequently asked questions](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#faqs) from the Agency of Commerce and Community Development (ACCD).\n\nBusinesses can find a [step-by-step guide to reopening](https://accd.vermont.gov/covid-19/business/restart) and up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) from the ACCD.\n\nFind the most recent [Governor’s Executive Orders](https://governor.vermont.gov/document-types/executive-orders) for more information.",
             "source": "Editorial",
             "questions": [
                 "When will we reopen",
@@ -4700,7 +4704,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:09:47.972+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:33:59.76+00:00"
         },
         {
             "id": 4681,
@@ -4753,7 +4757,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:02:35.238+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:25:29.405+00:00"
         },
         {
             "id": 4688,
@@ -4840,7 +4844,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:09:15.502+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:30:46.561+00:00"
         },
         {
             "id": 4691,
@@ -5004,7 +5008,7 @@
         },
         {
             "id": 4703,
-            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for common symptoms of COVID-19. People visiting or returning to Vermont are strongly encouraged to sign up to get daily reminders by email, text or phone asking if they are experiencing any [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms).\n\nSara Alert sends daily reminders until they automatically stop after two weeks since the day you report arriving in Vermont. If you are going to be in Vermont for at least two weeks, it’s important to stay enrolled for the entire monitoring period to help our public health response to COVID-19.\n\nIf symptoms are reported, a member of our team will reach out to provide guidance and next steps. Sara Alert is **not** a contact tracing system. It is not GPS-based, so it does not monitor someone's movements or track their location.\n\nHere are some reasons why you should sign up for Sara Alert:\n\n*   You get fast, easy, and free reminders to check yourself for symptoms.\n*   You get quick access to the Health Department for guidance and information if you develop symptoms.\n*   It helps our public health teams contain the spread of COVID-19.\n\nIf you are currently enrolled in Sara Alert and have questions about your messages, email the Travel Team at [ahs.vdhcovid19returntravelerinquiries@vermont.gov](mailto:ahs.vdhcovid19returntravelerinquiries@vermont.gov) or call 802-863-7240 (option 6).\n\n[Sign up for Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).",
+            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for common symptoms of COVID-19. Sara Alert is for:\n\n*   People who test positive for COVID-19\n*   Close contacts of people with COVID-19\n*   People visiting or returning to Vermont \n\nOnce you sign up, Sara Alert sends daily reminders until they automatically stop after two weeks. You can choose to receive messages by email, text or phone. If you report symptoms, the Health Department will reach out to provide guidance and next steps. \n\nSara Alert is **not **a contact tracing system. It is not GPS-based, so it does not monitor your movements or track your location. \n\nHere are some reasons why you should sign up for Sara Alert:\n\n*   You get fast, easy, and free reminders to check yourself for symptoms.\n*   You get quick access to the Health Department for guidance and information if you develop symptoms.\n*   It helps our public health teams contain the spread of COVID-19.\n\nIf you are a **close contact of someone who has COVID-19**, you will be given the link to sign up for Sara Alert when you are notified.\n\nIf you are **visiting Vermont or recently returned to Vermont**, [learn more about Sara Alert and sign up](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert). Visitors or returning travelers who are currently enrolled in Sara Alert who have questions about their messages can [email the Travel Team](mailto:ahs.vdhcovid19returntravelerinquiries@vermont.gov) or call 802-863-7240 (option 6).",
             "source": "Editorial",
             "questions": [
                 "What is Sara Alert?",
@@ -5033,7 +5037,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-05T20:17:08.474+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:14:05.499+00:00"
         },
         {
             "id": 4704,
@@ -5496,7 +5500,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:09:47.972+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:25:29.405+00:00"
         },
         {
             "id": 4719,
@@ -6711,7 +6715,7 @@
         },
         {
             "id": 4762,
-            "answer": "**I am in isolation because I tested positive for COVID-19, but I can't avoid close contact with someone I take care of. Do they need to quarantine?**\n\nYes. In situations where you have COVID-19 (for example, you’re a parent) and you **cannot** avoid close contact with those you take care of (for example, your children), then the people you take care of should stay home and away from other people while you are sick. They should also quarantine for 14 days **after** you are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601). Learn more about [living with someone who has COVID-19 and cannot avoid close contact (Scenario 4)](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine.html).",
+            "answer": "**I am in isolation because I tested positive for COVID-19, but I can't avoid close contact with someone I take care of. Do they need to quarantine?**\n\nYes. In situations where you have COVID-19 (for example, you’re a parent) and you **cannot** avoid close contact with those you take care of (for example, your children), then the people you take care of should stay home and away from other people while you are sick. They should also quarantine for 14 days **after** you are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601). Learn more about when a child’s [parent or caregiver is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/parents-caregivers.html) and find tips on what to do [when a household member is sick with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
             "source": "Editorial",
             "questions": [
                 "I am in isolation because I tested positive for COVID-19, but I can't avoid close contact with someone I take care of. Do they need to quarantine?"
@@ -6737,11 +6741,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:15:32.402+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:16:05.813+00:00"
         },
         {
             "id": 4763,
-            "answer": "**I am in quarantine, but I can’t avoid close contact with someone I take care of. Do they need to quarantine?**\n\nIn situations where close contact **cannot** be avoided, close contacts of the person under quarantine do not also need to quarantine. For example, if a person depends on someone who is under quarantine for care and basic needs, and close contact cannot be avoided, the person who receives care may continue with activities outside of the home. For example, they may continue to go to work, school, child care, the grocery store, etc.\n\nAs much as possible, continue to practice these prevention steps. Stay at least 6 feet from the person who is under quarantine. People who are under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with others in the household who are not under quarantine. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from others to prevent further spread. Quarantine means staying at a home or dwelling for 14 days since the day they were potentially exposed, before doing any activities outside of the home. People in quarantine should separate themselves from others and check themselves for symptoms.",
+            "answer": "**I am in quarantine, but I can’t avoid close contact with someone I take care of. Do they need to quarantine?**\n\nIn situations where close contact **cannot** be avoided, close contacts of the person under quarantine do not also need to quarantine. For example, if a person depends on someone who is under quarantine for care and basic needs, and close contact cannot be avoided, the person who receives care may continue with activities outside of the home. For example, they may continue to go to work, school, child care, the grocery store, etc.\n\nAs much as possible, continue to practice these prevention steps:\n\n*   Stay at least 6 feet from the person who is under quarantine. \n*   People who are under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with others in the household who are not under quarantine. \n*   Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days since the day you were potentially exposed. You should separate yourself from others and check yourself for symptoms.",
             "source": "Editorial",
             "questions": [
                 "I am in quarantine, but I can’t avoid close contact with someone I take care of. Do they need to quarantine? "
@@ -6767,11 +6771,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:17:40.402+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:17:07.354+00:00"
         },
         {
             "id": 4764,
-            "answer": "**I take care of someone who is in isolation because they tested positive for COVID-19, but I can’t avoid close contact with them. Do I need to quarantine?**\n\nYes. In situations where you **cannot** avoid close contact with someone with COVID-19, you should stay home and away from other people while the person you are caring for is sick. You should also quarantine for 14 days **after** they are able to end home isolation. Learn more about [living with someone who has COVID-19 and cannot avoid close contact (Scenario 4)](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine.html).",
+            "answer": "**I take care of someone who is in isolation because they tested positive for COVID-19, but I can’t avoid close contact with them. Do I need to quarantine?**\n\nYes. In situations where you **cannot** avoid close contact with someone with COVID-19, you should stay home and away from other people while the person you are caring for is sick. You should also quarantine for 14 days **after** they are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601). Find tips on what to do [when a household member is sick with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
             "source": "Editorial",
             "questions": [
                 "I take care of someone who is in isolation because they tested positive for COVID-19, but I can’t avoid close contact with them. Do I need to quarantine?"
@@ -6797,11 +6801,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:19:25.644+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:17:59.123+00:00"
         },
         {
             "id": 4765,
-            "answer": "**I take care of someone who is in quarantine, but I can’t avoid close contact with them. Do I need to quarantine?**\n\nIn situations where close contact **cannot** be avoided, close contacts of the person under quarantine do not also need to quarantine. For example, if someone under quarantine depends on another person for care and basic needs, and close contact cannot be avoided, the caregiver may continue with activities outside of the home. For example, the caregiver may continue to go to work, school, child care, the grocery store, etc.\n\nAs much as possible, continue to practice these prevention steps. Stay at least 6 feet from the person who is under quarantine. People who are under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with others in the household who are not under quarantine. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from others to prevent further spread. Quarantine means staying at a home or dwelling for 14 days since the day they were potentially exposed, before doing any activities outside of the home. People in quarantine should separate themselves from others and check themselves for symptoms.",
+            "answer": "**I take care of someone who is in quarantine, but I can’t avoid close contact with them. Do I need to quarantine?**\n\nIn situations where close contact **cannot** be avoided, close contacts of the person under quarantine do not also need to quarantine. For example, if someone under quarantine depends on another person for care and basic needs, and close contact cannot be avoided, the caregiver may continue with activities outside of the home. For example, the caregiver may continue to go to work, school, child care, the grocery store, etc.\n\nAs much as possible, continue to practice these prevention steps:\n\n*   Stay at least 6 feet from the person who is under quarantine. \n*   People who are under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with others in the household who are not under quarantine. \n*   Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days since the day you were potentially exposed. You should separate yourself from others and check yourself for symptoms.",
             "source": "Editorial",
             "questions": [
                 "I take care of someone who is in quarantine, but I can’t avoid close contact with them. Do I need to quarantine?"
@@ -6827,7 +6831,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:22:24.052+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:18:38.808+00:00"
         },
         {
             "id": 4767,
@@ -6858,6 +6862,32 @@
                 ]
             },
             "lastUpdatedTimestamp": "2020-12-02T15:21:28.671+00:00"
+        },
+        {
+            "id": 4768,
+            "answer": "**What is a household?**\n\nThe CDC defines a household as:\n\n*   Anyone who currently lives in and shares common spaces in your housing unit (house or apartment) is part of your household.\n*   Households can include family members and people who aren’t related to you, like roommates.\n*   People who don’t currently live with you (for example, college students who return home from school on breaks) are part of different households.",
+            "source": "Editorial",
+            "questions": [
+                "What is a household?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "be smart, stay safe order"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2020-12-07T19:21:03.581+00:00"
         }
     ]
 }
