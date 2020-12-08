@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:38:01.332+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:25:41.814+00:00"
         },
         {
             "id": 4534,
@@ -743,7 +743,7 @@
         },
         {
             "id": 4557,
-            "answer": "**What should community-based and faith-based organizations do?**\n\nReligious facilities and places of worship can operate under certain [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#religious-facilities-and-places-of-worship) from the Agency of Commerce and Community Development (ACCD). Read about other [considerations for communities of faith](https://www.cdc.gov/coronavirus/2019-ncov/community/faith-based.html) from the CDC.",
+            "answer": "**What should faith-based organizations do?**\n\nReligious facilities and places of worship can operate under certain [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#religious-facilities-and-places-of-worship) from the Agency of Commerce and Community Development (ACCD). Read about other [considerations for communities of faith](https://www.cdc.gov/coronavirus/2019-ncov/community/faith-based.html) from the CDC.",
             "source": "KB-COVID",
             "questions": [
                 "when is the church open",
@@ -754,7 +754,7 @@
                 "churches allowed to operate",
                 "masks in church",
                 "houses of worship",
-                "What should community-based and faith-based organizations do?"
+                "What should faith-based organizations do?"
             ],
             "metadata": [
                 {
@@ -773,7 +773,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:45:45.314+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:25:41.814+00:00"
         },
         {
             "id": 4558,
@@ -871,7 +871,7 @@
         },
         {
             "id": 4560,
-            "answer": "**What do I do if I think I had close contact with someone who has COVID-19?**\n\nWhen someone tests positive for COVID-19, the Health Department works with them to identify their close contacts. Generally, these are people you were within 6 feet of, for a total of 15 minutes or more over a 24-hour period, during the [time they were infectious](https://apps.health.vermont.gov/COVID/faq/#4734) (contagious).\n\n**If you are identified as a close contact,** you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a [certain amount of time](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png). They will ask you to watch for symptoms and ask if you need any help while staying home.\n\n**If you are** _**not**_ **identified as a close contact**, then you will not be called. While contact tracers work to identify all close contacts, all might not be identified. If you think that you might be a close contact but didn't get a call, you may take precautions by quarantining for 14 days since the last day you were in contact with that person, and get tested on day 7 or after if you have not had any symptoms.\n\nIf you are not a close contact of a person who tested positive, you can continue to follow the prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nLearn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.",
+            "answer": "**What do I do if I think I had close contact with someone who has COVID-19?**\n\nWhen someone tests positive for COVID-19, the Health Department works with them to identify their close contacts. Generally, these are people you were within 6 feet of, for a total of 15 minutes or more over a 24-hour period, during the [time they were infectious](https://apps.health.vermont.gov/COVID/faq/#4734) (contagious).\n\n**If you are identified as a close contact,** you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a [certain amount of time](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png). They will ask you to watch for symptoms and ask if you need any help while staying home.\n\nIf you receive a text message from 89361, this is a notification from the Health Department that [you are a close contact](https://www.healthvermont.gov/covid-19/symptoms-sickness/you-are-close-contact-someone-covid-19) of someone who tested positive for COVID-19. Soon you will receive a call from a Health Department Contact Tracer. \n\n**If you are** _**not**_ **identified as a close contact**, then you will not be called. While contact tracers work to identify all close contacts, all might not be identified. If you think that you might be a close contact but didn't get a call, you may take precautions by quarantining for 14 days since the last day you were in contact with that person, and get tested on day 7 or after if you have not had any symptoms.\n\nIf you are not a close contact of a person who tested positive, you can continue to follow the prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nLearn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.",
             "source": "KB-COVID",
             "questions": [
                 "What if I think I was exposed?",
@@ -935,7 +935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:14:43.773+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:20:40.354+00:00"
         },
         {
             "id": 4564,
@@ -1165,7 +1165,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:14:43.773+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:19:02.607+00:00"
         },
         {
             "id": 4570,
@@ -1315,7 +1315,7 @@
         },
         {
             "id": 4575,
-            "answer": "**What does close contact mean?**\n\nClose contact means being within 6 feet, for a total of 15 minutes or more over a 24-hour period, of someone who has tested positive for COVID-19 during their infectious period. The infectious period starts two days before any symptoms began – or for people with COVID-19 who don't have symptoms, two days before they got tested – and continues [until they are recovered](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nClose contact does not mean being more than 6 feet away in the same indoor environment for a short period of time, walking by, or briefly being in the same room with someone.\n\nHere are some examples:\n\n**Examples of close contacts:**\n\n*   You live in the same home.\n*   You are intimate partners.\n*   You rode in the same car while the person was infectious.\n*   You had dinner together while the person was infectious.\n\n**Examples of** _**not**_ **close contacts:**\n\n*   You were their cashier at the grocery store.\n*   You were their server at a restaurant.\n*   You are a pharmacist who gave the person medication.\n*   You were in front of the person in line at the store.\n*   You are a coworker who briefly walked by to ask a question.\n\n**If you are identified as a close contact**, you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a [certain amount of time](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png). They will ask you to watch for symptoms and ask if you need any help while staying home. Learn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont[.](https://www.healthvermont.gov/response/coronavirus-covid-19/about-coronavirus-disease-covid-19#contacttracing)\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.",
+            "answer": "**What does close contact mean?**\n\nClose contact means being within 6 feet, for a total of 15 minutes or more over a 24-hour period, of someone who has tested positive for COVID-19 during their infectious period. The infectious period starts two days before any symptoms began – or for people with COVID-19 who don't have symptoms, two days before they got tested – and continues [until they are recovered](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nClose contact does not mean being more than 6 feet away in the same indoor environment for a short period of time, walking by, or briefly being in the same room with someone.\n\nHere are some examples:\n\n**Examples of close contacts:**\n\n*   You live in the same home.\n*   You are intimate partners.\n*   You rode in the same car while the person was infectious.\n*   You had dinner together while the person was infectious.\n\n**Examples of** _**not**_ **close contacts:**\n\n*   You were their cashier at the grocery store.\n*   You were their server at a restaurant.\n*   You are a pharmacist who gave the person medication.\n*   You were in front of the person in line at the store.\n*   You are a coworker who briefly walked by to ask a question.\n\n**If you are identified as a close contact**, you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a [certain amount of time](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png). They will ask you to watch for symptoms and ask if you need any help while staying home.\n\nIf you receive a text message from 86361, this is a notification from the Health Department that [you are a close contact](https://www.healthvermont.gov/covid-19/symptoms-sickness/you-are-close-contact-someone-covid-19) of someone who tested positive for COVID-19. Soon you will receive a call from a Health Department Contact Tracer. Learn more about how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.",
             "source": "KB-COVID",
             "questions": [
                 "What does close contact mean?",
@@ -1368,7 +1368,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:02:35.238+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:20:40.354+00:00"
         },
         {
             "id": 4576,
@@ -2229,7 +2229,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T19:58:01.426+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:19:02.607+00:00"
         },
         {
             "id": 4602,
@@ -2789,7 +2789,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourseld for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering)\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nWe strongly encourage anyone in quarantine to sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourself for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering)\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nWe strongly encourage anyone in quarantine to sign up for [daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for people visiting or returning to Vermont and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
                 "what does quarantine mean?",
@@ -2850,7 +2850,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:14:43.773+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:13:18.783+00:00"
         },
         {
             "id": 4619,
@@ -3443,7 +3443,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:33:59.76+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:16:56.951+00:00"
         },
         {
             "id": 4640,
@@ -3964,7 +3964,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:03:25.307+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:20:40.354+00:00"
         },
         {
             "id": 4657,
@@ -4734,7 +4734,7 @@
         },
         {
             "id": 4682,
-            "answer": "**What is contact tracing?**\n\nContact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others. \n\n**If you test positive for COVID-19**, you will get a call from the Health Department. A trained public health worker, called a contact tracer, will give you guidance to stay home and away from other people until you recover. This stops the virus from spreading to other people. They will ask you questions about your symptoms, activities, and who you may have come into contact with during a specific period of time. This information is only used to prevent the spread of COVID-19.\n\n**If you are identified as a close contact,** you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a certain amount of time. They will ask you to watch for symptoms and ask if you need any help while staying home.\n\nLearn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.\n\n**It’s important to answer the call** and to answer questions as completely as possible to make sure everyone knows what steps to take to prevent further spread of the virus. Governor Scott’s [Executive Order](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%208%20TO%20AMENDED%20AND%20RESTATED%20EXECUTIVE%20ORDER%2001-20.pdf) calls on Vermonters to comply with all contact tracing requests.\n\nThe Health Department only uses a live person for contact tracing and never uses anything that sounds like a “robo” (computer-generated voice) call for this service. They will attempt to leave a message asking you to return a call from the Vermont Department of Health.\n\nAll restaurants and other businesses are keeping a 30-day log of employee and guest names and contact information in case contact tracing is needed.\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nCurrently, Vermont is not participating in the contact tracing notifications that are available on some cell phones. We are waiting to see how successful this service is in other states who are participating. If it’s proven to be effective, we will consider using it.\n\nLearn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.",
+            "answer": "**What is contact tracing?**\n\nContact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others.\n\n**If you test positive for COVID-19**, you will get a call from the Health Department. A trained public health worker, called a contact tracer, will give you guidance to stay home and away from other people until you recover. This stops the virus from spreading to other people. They will ask you questions about your symptoms, activities, and who you may have come into contact with during a specific period of time. This information is only used to prevent the spread of COVID-19.\n\n**If you are identified as a close contact,** you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a certain amount of time. They will ask you to watch for symptoms and ask if you need any help while staying home.\n\nIf you receive a text message from 89361, this is a notification from the Health Department that [you are a close contact](https://www.healthvermont.gov/covid-19/symptoms-sickness/you-are-close-contact-someone-covid-19) of someone who tested positive for COVID-19. Soon you will receive a call from a Health Department Contact Tracer.\n\n**It’s important to answer the call** and to answer questions as completely as possible to make sure everyone knows what steps to take to prevent further spread of the virus. Governor Scott’s [Executive Order](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%208%20TO%20AMENDED%20AND%20RESTATED%20EXECUTIVE%20ORDER%2001-20.pdf) calls on Vermonters to comply with all contact tracing requests.\n\nAll restaurants and other businesses are keeping a 30-day log of employee and guest names and contact information in case contact tracing is needed.\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nCurrently, Vermont is not participating in the contact tracing notifications that are available on some cell phones. We are waiting to see how successful this service is in other states who are participating. If it’s proven to be effective, we will consider using it.\n\nLearn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.",
             "source": "Editorial",
             "questions": [
                 "What is contact tracing?",
@@ -4757,7 +4757,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:25:29.405+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:23:55.78+00:00"
         },
         {
             "id": 4688,
@@ -4880,7 +4880,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under quarantine who has had no symptoms during the first seven days of quarantine has the option to be tested. The test must be a PCR test. Talk to your health care provider to find out where to get tested.\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFor travelers who are [completing quarantine in their home state](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), your home state may offer testing for people without symptoms. Continue to quarantine until you travel to Vermont.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\nFor anyone coming into Vermont, day 1 is the day after you arrive in Vermont.\n\nIf you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away. [Sign up to receive daily symptom check reminders](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d).\n\nYou will be contacted if you are you are a [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) of someone who tested positive for COVID-19. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). Learn more about [how contact tracing works](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) and see [scenarios from the CDC to determine when you can end quarantine](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine.html) and be around others.\n\nStudies have found most people will develop symptoms by day 7. This is why there is the option for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nAnyone currently under [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) who has had no symptoms during the first seven days of quarantine has the option to be tested. The test must be a PCR test. Talk to your health care provider to find out where to get tested.\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFor travelers who are [completing quarantine in their home state](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), your home state may offer testing for people without symptoms. Continue to quarantine until you travel to Vermont.\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\nIf you develop symptoms at any point during your quarantine, contact your health care provider and the Health Department right away.\n\nStudies have found most people will develop symptoms by day 7. This is [why there is the option](https://apps.health.vermont.gov/COVID/faq/#4714) for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
@@ -4901,11 +4901,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "How is Vermont deciding when it is safe to reopen?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4601,
                         "displayText": "When can I stop self-isolating (home isolation)?"
                     },
@@ -4916,7 +4911,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:11:29.869+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:16:56.951+00:00"
         },
         {
             "id": 4693,
@@ -5008,7 +5003,7 @@
         },
         {
             "id": 4703,
-            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for common symptoms of COVID-19. Sara Alert is for:\n\n*   People who test positive for COVID-19\n*   Close contacts of people with COVID-19\n*   People visiting or returning to Vermont \n\nOnce you sign up, Sara Alert sends daily reminders until they automatically stop after two weeks. You can choose to receive messages by email, text or phone. If you report symptoms, the Health Department will reach out to provide guidance and next steps. \n\nSara Alert is **not **a contact tracing system. It is not GPS-based, so it does not monitor your movements or track your location. \n\nHere are some reasons why you should sign up for Sara Alert:\n\n*   You get fast, easy, and free reminders to check yourself for symptoms.\n*   You get quick access to the Health Department for guidance and information if you develop symptoms.\n*   It helps our public health teams contain the spread of COVID-19.\n\nIf you are a **close contact of someone who has COVID-19**, you will be given the link to sign up for Sara Alert when you are notified.\n\nIf you are **visiting Vermont or recently returned to Vermont**, [learn more about Sara Alert and sign up](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert). Visitors or returning travelers who are currently enrolled in Sara Alert who have questions about their messages can [email the Travel Team](mailto:ahs.vdhcovid19returntravelerinquiries@vermont.gov) or call 802-863-7240 (option 6).",
+            "answer": "**What is Sara Alert?**\n\nSara Alert is a free, automated and secure reminder system to check for common symptoms of COVID-19. Sara Alert is for:\n\n*   People who test positive for COVID-19\n*   Close contacts of people with COVID-19\n*   People visiting or returning to Vermont\n\nOnce you sign up, Sara Alert sends daily reminders until they automatically stop after two weeks. You can choose to receive messages by email, text or phone. If you report symptoms, the Health Department will reach out to provide guidance and next steps.\n\nSara Alert is **not** a contact tracing system. It is not GPS-based, so it does not monitor your movements or track your location.\n\nHere are some reasons why you should sign up for Sara Alert:\n\n*   You get fast, easy, and free reminders to check yourself for symptoms.\n*   You get quick access to the Health Department for guidance and information if you develop symptoms.\n*   It helps our public health teams contain the spread of COVID-19.\n\nIf you are a **close contact of someone who has COVID-19**, you will be given the link to sign up for [Sara Alert](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing#saraalert) when you are notified.\n\nIf you are **visiting Vermont or recently returned to Vermont**, [learn more about Sara Alert and sign up](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert). Visitors or returning travelers who are currently enrolled in Sara Alert who have questions about their messages can [email the Travel Team](mailto:ahs.vdhcovid19returntravelerinquiries@vermont.gov) or call 802-863-7240 (option 6).",
             "source": "Editorial",
             "questions": [
                 "What is Sara Alert?",
@@ -5037,7 +5032,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:14:05.499+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:12:56.599+00:00"
         },
         {
             "id": 4704,
@@ -5500,7 +5495,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:25:29.405+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:13:18.783+00:00"
         },
         {
             "id": 4719,
@@ -6509,7 +6504,7 @@
         },
         {
             "id": 4755,
-            "answer": "**What do I do if I’m diagnosed with COVID-19?**\n\nMost people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n**Isolate at home**\n\n*   **Stay home,** except to get medical care. Call ahead before visiting your health care provider. Anyone who does not have a health care provider can call 2-1-1 to be connected to care or contact the nearest [federally qualified health center(link is external)](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n*   **Separate yourself** from other people and pets**.**\n*   **Monitor your symptoms.**\n*   **Wear a** [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you're around people and pets.\n*   **Cover your coughs and sneezes** with your sleeve or a tissue, then throw the tissue in the trash.\n*   **Wash your hands often.** Use an alcohol-based sanitizer if soap and water aren't available.\n*   **Avoid sharing** personal household items**.**\n*   **Clean all high-touch surfaces** in your home daily.\n*   **Get support from others.** Stay in touch with family and friends by phone, email or online platform.\n\nWe strongly encourage you to enroll in [Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d), a secure monitoring and reporting text-based system to help you monitor symptoms.\n\nSomeone from the Health Department will contact you to ask for your help with [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing). Contact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others.\n\n**Learn more:**\n\n*   [Caring for yourself at home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/caring-for-yourself-at-home.html) from the CDC\n*   [10 ways to manage respiratory symptoms at home](https://www.cdc.gov/coronavirus/2019-ncov/downloads/10Things.pdf) from the CDC\n*   [Information on breastfeeding if you have COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html) from the CDC\n*   [What is isolation, quarantine and self-observation](https://apps.health.vermont.gov/COVID/faq/#isolation-quarantine-and-selfobservation)\n*   [What to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf)",
+            "answer": "**What do I do if I’m diagnosed with COVID-19?**\n\nMost people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n**Isolate at home**\n\n*   **Stay home,** except to get medical care. Call ahead before visiting your health care provider. Anyone who does not have a health care provider can call 2-1-1 to be connected to care or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n*   **Separate yourself** from other people and pets**.**\n*   **Monitor your symptoms.**\n*   **Wear a** [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you're around people and pets.\n*   **Cover your coughs and sneezes** with your sleeve or a tissue, then throw the tissue in the trash.\n*   **Wash your hands often.** Use an alcohol-based sanitizer if soap and water aren't available.\n*   **Avoid sharing** personal household items**.**\n*   **Clean all high-touch surfaces** in your home daily.\n*   **Get support from others.** Stay in touch with family and friends by phone, email or online platform.\n\nSomeone from the Health Department will contact you to ask for your help with [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing). Contact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others.\n\n**Learn more:**\n\n*   [Caring for yourself at home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/caring-for-yourself-at-home.html) from the CDC\n*   [10 ways to manage respiratory symptoms at home](https://www.cdc.gov/coronavirus/2019-ncov/downloads/10Things.pdf) from the CDC\n*   [Information on breastfeeding if you have COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html) from the CDC\n*   [What is isolation, quarantine and self-observation](https://apps.health.vermont.gov/COVID/faq/#isolation-quarantine-and-selfobservation)\n*   [What to do if you are diagnosed with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf)",
             "source": "Editorial",
             "questions": [
                 "What do I do if I’m diagnosed with COVID-19?"
@@ -6535,7 +6530,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:40:09.43+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:22:40.505+00:00"
         },
         {
             "id": 4756,
@@ -6862,32 +6857,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2020-12-02T15:21:28.671+00:00"
-        },
-        {
-            "id": 4768,
-            "answer": "**What is a household?**\n\nThe CDC defines a household as:\n\n*   Anyone who currently lives in and shares common spaces in your housing unit (house or apartment) is part of your household.\n*   Households can include family members and people who aren’t related to you, like roommates.\n*   People who don’t currently live with you (for example, college students who return home from school on breaks) are part of different households.",
-            "source": "Editorial",
-            "questions": [
-                "What is a household?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "be smart, stay safe order"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2020-12-07T19:21:03.581+00:00"
         }
     ]
 }
