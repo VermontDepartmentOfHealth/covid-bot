@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-12-23T18:33:58.731+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:29:21.562+00:00"
         },
         {
             "id": 4534,
@@ -2318,7 +2318,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-16T22:19:04.464+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
         },
         {
             "id": 4604,
@@ -2489,10 +2489,11 @@
         },
         {
             "id": 4610,
-            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nVT Helplink is a resource for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients.\n\nThe [VTHelplink website](https://vthelplink.org/) has information resources and an [online screening tool](https://vthelplink.org/app/account/findhelp) to help Vermonters learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (for example, residential treatment) and population (for example, people who are pregnant).\n\n**Here’s how you can reach VTHelplink:**\n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year.\n\n**Visit** [**vthelplink.org**](https://vthelplink.org/).",
+            "answer": "**Where do people living with a substance use disorder go for information on treatment and recovery services?**\n\nVT Helplink is a resource for Vermonters to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n\nVTHelplink features a call center of trained staff and clinicians. Callers can get information, referrals, resources and educational materials on substance use for themselves, family and friends, or on behalf of clients.\n\nThe [VTHelplink website](https://vthelplink.org/) has information resources and an [online screening tool](https://vthelplink.org/app/account/findhelp) to help Vermonters learn about treatment options that meet their needs. People can also securely chat online with call center staff through the website.\n\nThe system also includes an appointment board designed to increase accessibility of treatment appointments by tracking availability by level of service (for example, residential treatment) and population (for example, people who are pregnant).\n\n**Here’s how you can reach VTHelplink:**\n\n**Dial 802-565-LINK (5465)**. The call center is open 8:00 a.m. to 10:00 p.m. weekdays, and 8:00 a.m to 6:00 p.m. weekends and holidays, 365 days per year.\n\n**Visit** [**vthelplink.org**](https://vthelplink.org/).\n\nYou can also find information on how to decrease the spread of COVID-19 among people who [attend in-person recovery meetings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Recovery-Group-Guidance.pdf) that are independent of Recovery Centers.",
             "source": "Editorial",
             "questions": [
-                " substance use disorder information on treatment and recovery?"
+                " substance use disorder information on treatment and recovery?",
+                "Where do people living with a substance use disorder go for information on treatment and recovery services?"
             ],
             "metadata": [
                 {
@@ -2509,18 +2510,13 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4611,
-                        "displayText": "How many people have recovered from COVID-19 in Vermont?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:41:27.823+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:29:21.562+00:00"
         },
         {
             "id": 4611,
@@ -2556,7 +2552,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:38:14.351+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:29:21.562+00:00"
         },
         {
             "id": 4612,
@@ -2653,7 +2649,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-22T20:22:26.051+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:16:41.768+00:00"
         },
         {
             "id": 4616,
@@ -2849,7 +2845,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-23T16:38:29.389+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:16:41.768+00:00"
         },
         {
             "id": 4619,
@@ -3717,7 +3713,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:11:54.667+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
         },
         {
             "id": 4648,
@@ -3908,7 +3904,7 @@
         },
         {
             "id": 4656,
-            "answer": "**What should businesses do to protect workers and customers?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance and mandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nMore resources are available from the Health Department:\n\n*   [Health guidance and resources for businesses and employees](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What should businesses do to protect workers and customers?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance and mandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nMore resources are available from the Health Department:\n\n*   [Health guidance and resources for businesses and employees](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [Checklist for Employers: COVID-19 in the Workplace](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-in-the-Workplace-Checklist-for-Employers.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
             "questions": [
                 "Outdoor seating for restaurants",
@@ -3964,7 +3960,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T20:42:37.114+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
         },
         {
             "id": 4657,
@@ -4704,7 +4700,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:23:33.163+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
         },
         {
             "id": 4681,
@@ -4730,7 +4726,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T21:13:06.684+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
         },
         {
             "id": 4682,
@@ -5036,7 +5032,7 @@
         },
         {
             "id": 4704,
-            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. This means that visitors to Vermont can only socialize with the people they live with. They cannot gather with Vermonters or with people from another household. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nOnce gatherings are allowed again, if you are hosting travelers under quarantine in your home or lodging, you do not also need to quarantine. That means you can go to school, work, or the grocery store. However, you need to stay at least 6 feet from the people who are under quarantine. People under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with the people who are hosting them. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).",
+            "answer": "**Do I need to quarantine if out-of-state visitors are staying in my home?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. This means that visitors to Vermont can only socialize with the people they live with. They cannot gather with Vermonters or with people from another household. (Note: from December 23, 2020 through January 2, 2021 you can gather with only one other trusted household). [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nOnce gatherings are allowed again, if you are hosting travelers under quarantine in your home or lodging, you do not also need to quarantine. That means you can go to school, work, or the grocery store. However, you need to stay at least 6 feet from the people who are under quarantine. People under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with the people who are hosting them. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).",
             "source": "Editorial",
             "questions": [
                 "Do I need to quarantine if out-of-state visitors are staying in my home?"
@@ -5077,7 +5073,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-22T19:59:53.727+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:16:41.768+00:00"
         },
         {
             "id": 4706,
@@ -5495,7 +5491,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-23T16:38:29.389+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:16:41.768+00:00"
         },
         {
             "id": 4719,
@@ -5903,10 +5899,10 @@
         },
         {
             "id": 4731,
-            "answer": "**I need to pick up a student at college. Do I need to quarantine?**\n\nYes. If you are coming to Vermont to pick up a college student, you have two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) OR\n2.  You do the pick-up while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student load at the curb only.\n*   Wear a face mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.\n*   You may stay overnight at a lodging property in Vermont only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n\n**If you are a Vermonter** picking up a student from an out-of-state college, you and the student will need to [quarantine for 14 days](https://apps.health.vermont.gov/COVID/faq/#4758) when you come back to Vermont. If the student has not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), they have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end quarantine with a negative test result.  We strongly encourage the student to get a test after seven days.\n\nCheck with the school before you travel to find out if there are any pick-up restrictions or rules.",
+            "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nYes. If you are coming to Vermont to drop off a college student, you have two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) OR\n2.  You do the drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a face mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.\n*   You may stay overnight at a lodging property in Vermont only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n\n**If you are a Vermonter** dropping off a student from an out-of-state college, you and the student will need to [quarantine for 14 days](https://apps.health.vermont.gov/COVID/faq/#4758) when you come back to Vermont. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end quarantine with a negative test result. \n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
             "source": "Editorial",
             "questions": [
-                "I need to pick up a student at college. Do I need to quarantine?"
+                "I need to drop off a student at college. Do I need to quarantine?"
             ],
             "metadata": [
                 {
@@ -5925,7 +5921,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-16T22:18:06.367+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:26:47.054+00:00"
         },
         {
             "id": 4732,
@@ -6600,10 +6596,10 @@
         },
         {
             "id": 4758,
-            "answer": "**What does my college student need to do when they come home?**\n\nStudents attending an out-of-state college and anyone who [picks them up at college](https://apps.health.vermont.gov/COVID/faq/#4731) will need to quarantine for 14 days when they come home to Vermont. Students attending a Vermont college will also need to quarantine when they return home.\n\nIf your college student has not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), they have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end quarantine with a negative test result. We strongly encourage college students to get a test after seven days.\n\nQuarantine means that you need to stay home and apart from the people you live with for 14 days. You will need to:\n\n*   Stay at least 6 feet from people you live with,\n*   Wear a mask in common spaces,\n*   Use a separate bathroom,\n*   Eat separately, and\n*   Otherwise not be in close contact with the people you live with.\n\nWe understand that this will be difficult when you share a home with others, especially during the Thanksgiving holiday. But it is extremely important to stay in and complete quarantine to help keep from spreading the virus when you may not know you have it.\n\nFor the **people who are living with someone who is under quarantine**, you do not also need to quarantine. That means you can go to school, work, or the grocery store. However, you need to stay at least 6 feet from the people who are under quarantine. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.\n\nLearn more about [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) and tips about [quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
+            "answer": "**What should returning and new college students do?**\n\nColleges and universities must follow the [Mandatory Guidance for College and University Campus Learning](https://accd.vermont.gov/content/restart-plan-college-and-university-campus-learning). Please contact your college or university directly for information about arriving on campus, testing and health guidance.\n\nThe City of Burlington has a [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine). The program includes a move-in care package of fresh local goods, a mask, and hygiene supplies.\n\nParents or other visitors can find information on [traveling to Vermont and quarantine](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), information on [how to drop off someone at college](https://apps.health.vermont.gov/COVID/faq/#4731), and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).\n\nFind out [what happens at the Health Department when someone tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).\n\nFind tips for how to [enjoy safer sex and reduce the risk of spreading COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Safer-Sex-Tips.pdf) and more [resources for college students](https://www.healthvermont.gov/covid-19/your-community/colleges-and-universities).",
             "source": "Editorial",
             "questions": [
-                "What does my college student need to do when they come home?"
+                "What should returning and new college students do?"
             ],
             "metadata": [
                 {
@@ -6626,7 +6622,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-16T22:07:43.909+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:24:10.14+00:00"
         },
         {
             "id": 4759,
