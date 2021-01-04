@@ -9428,7 +9428,7 @@
                 "date": "2020-12-23"
             }
         ],
-        "deletedDate": null
+        "deletedDate": "2021-01-04"
     },
     {
         "id": 4755,
@@ -9709,6 +9709,11 @@
                 "question": "What is a “probable case”?",
                 "answerBody": "A case is considered “probable” if the person:\n\n*   tested positive on an antigen test **and** has symptoms of COVID-19 **or** epidemiologic evidence, **or**\n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19.\n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.\n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).\n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. People who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on a follow-up PCR test, they are only included once in the total case count.\n\nThe Health Department began including probable cases in case counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. The impact on the total case count is minimal. At this time, about 120 cases, or 2.8%, of total cases are probable cases. Right now, this change does not impact hospitalization or testing data.\n\nRead the full [CSTE definition of probable case](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/).",
                 "date": "2020-12-02"
+            },
+            {
+                "question": "What is a “probable case”?",
+                "answerBody": "A case is considered “probable” if the person: \n\n*   tested positive on an antigen test **and** has symptoms of COVID-19 **or** epidemiologic evidence,** or** \n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19. \n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.  \n\nAs of January 4, deaths among probable cases are included in the number of COVID-19 deaths in Vermont. A death among a probable case is a person who:\n\n*   meets the probable case definition and has COVID-19 listed as a cause or contributing condition on their death certificate **or**\n*   has COVID-19 listed as a cause or contributing condition on their death certificate. \n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).  \n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. People who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on a follow-up PCR test, they are only included once in the total case count. \n\nThe Health Department began including probable cases and deaths in counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. Right now, this change does not impact hospitalization or testing data.",
+                "date": "2021-01-04"
             }
         ],
         "deletedDate": null
@@ -9812,6 +9817,11 @@
                 "question": "What do I do if my COVID-19 test is inconclusive?",
                 "answerBody": "If you receive a test result that is “inconclusive” or “indeterminate,” the Health Department encourages you to get retested. You are also encouraged to stay home away from others while you’re waiting for your result. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).",
                 "date": "2020-12-21"
+            },
+            {
+                "question": "What do I do if my COVID-19 test is inconclusive?",
+                "answerBody": "An “inconclusive” or “indeterminate” result means the test was neither positive nor negative. If you receive a test result that is “inconclusive” or “indeterminate,” the Health Department encourages you to get retested. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).",
+                "date": "2021-01-04"
             }
         ],
         "deletedDate": null

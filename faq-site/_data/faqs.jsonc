@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:22:52.2+00:00"
+            "lastUpdatedTimestamp": "2021-01-04T18:51:32.933+00:00"
         },
         {
             "id": 4534,
@@ -4832,11 +4832,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4754,
-                        "displayText": "s it safe to travel for the holidays?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4761,
                         "displayText": "Why are social gatherings prohibited right now?"
                     }
@@ -6426,32 +6421,6 @@
             "lastUpdatedTimestamp": "2020-11-24T20:31:57.735+00:00"
         },
         {
-            "id": 4754,
-            "answer": "**How can I celebrate the holidays safely?**\n\nWe know how hard it is to stay home for the holidays this year, apart from family and friends we usually celebrate with. But as cases of COVID-19 surge in Vermont, we need to do everything we can to stop the spread.\n\nHere’s what you need to know:\n\n*   For the period from December 23 through January 2, one household may gather with only one other trusted household. That is a maximum of two households gathering during this period.\n*   Staying home and with people you live with is still the lowest risk.\n*   If you do gather, the Health Department strongly encourages getting tested 7 days afterward. \n*   If you gather with anyone from out of state, everyone in both households must quarantine after the gathering. Quarantine means staying home and away from other people for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n*   The Health Department strongly advises against travel right now, even within Vermont. All travel to and from Vermont requires quarantine (unless it’s considered [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637)). \n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. Imagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. The more layers there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, this holiday season will look different and we need to do everything we can to keep each other safe.\n\nFind information for [communities of faith](https://www.healthvermont.gov/covid-19/your-community/communities-faith).\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations and small gatherings](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
-            "source": "Editorial",
-            "questions": [
-                "How can I celebrate the holidays safely?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2020-12-23T16:39:44.674+00:00"
-        },
-        {
             "id": 4755,
             "answer": "**What do I do if I test positive for COVID-19?**\n\nMost people with mild illness can recover at home. While there is no specific treatment for COVID-19, you should get plenty of rest, drink plenty of fluids, and take fever-reducing medication if needed.\n\nIf you or a family member are sick, follow these steps to care for yourself and to help protect other people in your home and your community:\n\n**Isolate at home**\n\n*   **Stay home,** except to get medical care. Call ahead before visiting your health care provider. Anyone who does not have a health care provider can call 2-1-1 to be connected to care or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n*   **Separate yourself** from other people and pets**.**\n*   **Monitor your symptoms.**\n*   **Wear a** [face mask or covering](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf) when you're around people and pets.\n*   **Cover your coughs and sneezes** with your sleeve or a tissue, then throw the tissue in the trash.\n*   **Wash your hands often.** Use an alcohol-based sanitizer if soap and water aren't available.\n*   **Avoid sharing** personal household items**.**\n*   **Clean all high-touch surfaces** in your home daily.\n*   **Get support from others.** Stay in touch with family and friends by phone, email or online platform.\n\nSomeone from the Health Department will contact you to ask for your help with [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing). Contact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others.\n\n**Learn more:**\n\n*   [Caring for yourself at home](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/caring-for-yourself-at-home.html) from the CDC\n*   [10 ways to manage respiratory symptoms at home](https://www.cdc.gov/coronavirus/2019-ncov/downloads/10Things.pdf) from the CDC\n*   [Information on breastfeeding if you have COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html) from the CDC\n*   [What is isolation, quarantine and self-observation](https://apps.health.vermont.gov/COVID/faq/#isolation-quarantine-and-selfobservation)\n*   [What to do if you test positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-diagnosed-with-COVID-19_final.pdf)",
             "source": "Editorial",
@@ -6781,7 +6750,7 @@
         },
         {
             "id": 4767,
-            "answer": "**What is a “probable case”?**\n\nA case is considered “probable” if the person:\n\n*   tested positive on an antigen test **and** has symptoms of COVID-19 **or** epidemiologic evidence, **or**\n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19.\n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.\n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).\n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. People who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on a follow-up PCR test, they are only included once in the total case count.\n\nThe Health Department began including probable cases in case counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. The impact on the total case count is minimal. At this time, about 120 cases, or 2.8%, of total cases are probable cases. Right now, this change does not impact hospitalization or testing data.\n\nRead the full [CSTE definition of probable case](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/).",
+            "answer": "**What is a “probable case”?**\n\nA case is considered “probable” if the person: \n\n*   tested positive on an antigen test **and** has symptoms of COVID-19 **or** epidemiologic evidence,** or** \n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19. \n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.  \n\nAs of January 4, deaths among probable cases are included in the number of COVID-19 deaths in Vermont. A death among a probable case is a person who:\n\n*   meets the probable case definition and has COVID-19 listed as a cause or contributing condition on their death certificate **or**\n*   has COVID-19 listed as a cause or contributing condition on their death certificate. \n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).  \n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. People who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on a follow-up PCR test, they are only included once in the total case count. \n\nThe Health Department began including probable cases and deaths in counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. Right now, this change does not impact hospitalization or testing data.",
             "source": "Editorial",
             "questions": [
                 "What is a “probable case”? "
@@ -6807,7 +6776,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-02T15:21:28.671+00:00"
+            "lastUpdatedTimestamp": "2021-01-04T18:51:32.933+00:00"
         },
         {
             "id": 4769,
@@ -6989,7 +6958,7 @@
         },
         {
             "id": 4775,
-            "answer": "**What do I do if my COVID-19 test is inconclusive?**\n\nIf you receive a test result that is “inconclusive” or “indeterminate,” the Health Department encourages you to get retested. You are also encouraged to stay home away from others while you’re waiting for your result. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).",
+            "answer": "**What do I do if my COVID-19 test is inconclusive?**\n\nAn “inconclusive” or “indeterminate” result means the test was neither positive nor negative. If you receive a test result that is “inconclusive” or “indeterminate,” the Health Department encourages you to get retested. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).",
             "source": "Editorial",
             "questions": [
                 "What do I do if my COVID-19 test is inconclusive?"
@@ -7011,7 +6980,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-21T19:59:10.624+00:00"
+            "lastUpdatedTimestamp": "2021-01-04T18:49:12.863+00:00"
         },
         {
             "id": 4776,
