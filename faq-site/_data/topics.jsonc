@@ -6,6 +6,9 @@
             "Sickness"
         ]
     },
+    { "name": "Vaccine" },
+    { "name": "Testing" },
+    { "name": "Travel" },
     { "name": "Isolation, Quarantine and Self-observation",
         "subs": [
             "Isolation",
@@ -15,15 +18,13 @@
     },
     { "name": "How it Spreads" },
     { "name": "How to Protect Yourself" },
-    { "name": "Be Smart, Stay Safe Order" },
     { "name": "Caring for Yourself and Others" },
-    { "name": "Testing" },
-    { "name": "People with COVID-19 in Vermont" },
+    { "name": "Be Smart, Stay Safe Order" },
+    { "name": "Vermont COVID-19 Data" },
     { "name": "Families with Children" },
-    { "name": "Pets and Other Animals" },
-    { "name": "Travel" },
     { "name": "Work and Employees" },
-    { "name": "State's Response" },
     { "name": "Businesses, Organizations, Health Care and Other Facilities" },
+    { "name": "State's Response" },
+    { "name": "Pets and Other Animals" },
     { "name": "Additional Resources" }
 ]

@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:54:13.112+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00"
         },
         {
             "id": 4534,
@@ -149,10 +149,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
                     "value": "vaccine"
                 }
             ],
@@ -167,7 +163,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:45:39.613+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:24:55.689+00:00"
         },
         {
             "id": 4537,
@@ -462,7 +458,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -485,7 +481,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:33:14.972+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00"
         },
         {
             "id": 4544,
@@ -522,11 +518,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:33:14.972+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00"
         },
         {
             "id": 4545,
-            "answer": "**Should I be tested for COVID-19?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). There are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites.\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), do not go to a testing site. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on going to a social gathering with people you don't live with (other than recreating with one masked person outside). You should get tested before the gathering, right after, and again on day 7.\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nThere is no cost to individuals for the COVID-19 test.\n\nFind out [where to get tested](https://www.healthvermont.gov/covid-19/testing/where-get-tested) and [what to expect](https://www.healthvermont.gov/covid-19/testing/what-expect) at a Health Department testing site.\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard).",
+            "answer": "**Should I be tested for COVID-19? Where can I get tested?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). There are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), do not go to a testing site. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on going to a social gathering with people you don't live with (other than recreating with one masked person outside). You should get tested before the gathering, right after, and again on day 7.\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nThere is no cost to individuals for a PCR test for COVID-19.\n\nSearch for a [testing location](https://www.healthvermont.gov/covid-19/testing/where-get-tested) and [what to expect](https://www.healthvermont.gov/covid-19/testing/what-expect) at a Health Department testing site.\n\nFind out [what to do if you are sick](https://apps.health.vermont.gov/COVID/faq/#4569) and what to do while you’re [waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard).",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -549,7 +545,25 @@
                 "Testing available",
                 "covid-19 testing",
                 "can you take a test here?",
-                "Should I be tested for COVID-19?"
+                "Should I be tested for COVID-19? Where can I get tested?",
+                "is there a testing site in my town?",
+                "where can I be tested?",
+                "\n\nCovid-19 testing locations",
+                "Where can I get tested?",
+                "\n\nWhere can I get tested for covid?",
+                "I need a test",
+                "Where can I go to get a sample collected for testing?",
+                "Where can I go to get tested?",
+                "How do you get tested for COVID-19?",
+                "Where can I go to be tested for the corona virus?",
+                "Where is COVID-19 testing done?",
+                "Testing near me",
+                "Testing in southern VT",
+                "Can I get a Covid test?",
+                "Where is testing?",
+                "Coronavirus testing sites",
+                "where are the test sites in Vermont",
+                "pop-up testing"
             ],
             "metadata": [
                 {
@@ -567,11 +581,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4692,
                         "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
                     },
@@ -584,10 +593,15 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4654,
+                        "displayText": "What is serologic, or antibody, testing?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T18:51:52.453+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00"
         },
         {
             "id": 4547,
@@ -635,7 +649,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-21T20:11:45.032+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00"
         },
         {
             "id": 4549,
@@ -926,7 +940,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -944,7 +958,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:32:50.402+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:10.756+00:00"
         },
         {
             "id": 4565,
@@ -1192,11 +1206,6 @@
                         "displayOrder": 0,
                         "qnaId": 4545,
                         "displayText": "Can I be tested for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
                     },
                     {
                         "displayOrder": 0,
@@ -1489,7 +1498,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -1503,7 +1512,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:34:28.498+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00"
         },
         {
             "id": 4581,
@@ -2495,7 +2504,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -2513,7 +2522,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:51:26.159+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:36:17.926+00:00"
         },
         {
             "id": 4612,
@@ -2708,7 +2717,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -2726,11 +2735,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4718,
                         "displayText": "I have a different question on the topic of travel"
                     },
@@ -2741,7 +2745,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T20:35:28.234+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00"
         },
         {
             "id": 4618,
@@ -2908,7 +2912,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -2921,11 +2925,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4580,
                         "displayText": "Can you tell me more information about a patient with COVID-19?"
                     },
@@ -2936,7 +2935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:34:28.498+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00"
         },
         {
             "id": 4626,
@@ -2959,7 +2958,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vt"
+                    "value": "vermont covid-19 data"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -2973,7 +2972,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:32:27.177+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:31:44.486+00:00"
         },
         {
             "id": 4628,
@@ -3515,79 +3514,6 @@
             "lastUpdatedTimestamp": "2020-11-30T21:03:06.64+00:00"
         },
         {
-            "id": 4643,
-            "answer": "**Where can I get tested for COVID-19?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). There are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), do not go to a testing site. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on going to a social gathering with people you don't live with (other than recreating with one masked person outside). You should get tested before the gathering, right after, and again on day 7.\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nSearch for a [testing location](https://www.healthvermont.gov/covid-19/testing/where-get-tested) and learn about [what to expect](https://www.healthvermont.gov/covid-19/testing/what-expect) at a Health Department testing site.\n\nFind out [what to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html) from the CDC and what to do while you’re [waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).",
-            "source": "Editorial",
-            "questions": [
-                "Where can I get tested for COVID-19?",
-                "is there a testing site in my town?",
-                "where can I be tested?",
-                "Covid-19 testing locations",
-                "Where can I get tested?",
-                "Where can I get tested for covid?",
-                "How can I get tested?",
-                "I need a test",
-                "Where can I go to get a sample collected for testing?",
-                "Where can I go to get tested?",
-                "How do you get tested for COVID-19?",
-                "Where can I go to be tested for the corona virus?",
-                "Where is COVID-19 testing done?",
-                "Testing near me",
-                "\n\nTesting in southern VT",
-                "Where is testing?",
-                "Can I get a Covid test?",
-                "Coronavirus testing sites",
-                "where are the test sites in Vermont",
-                "pop-up testing"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "testing"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "testing locations"
-                },
-                {
-                    "name": "sort",
-                    "value": "1"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Can I be tested for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4547,
-                        "displayText": "How long is the turnaround for testing?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4654,
-                        "displayText": "What is serologic, or antibody, testing?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00"
-        },
-        {
             "id": 4644,
             "answer": "**Are there resources available to help with distance learning?**\n\nThe Vermont Agency of Education and Vermont PBS have expanded their partnership to support in-person, hybrid and distance learning models.\n\nVermont teachers, families and students have continued [access to free educational resources](https://www.vermontpbs.org/distancelearning/) via television broadcast along with digital streaming and resources. It is available on all cable systems and for free over-the-air through a digital antenna without the need for a cable subscription or broadband internet access.\n\nFind additional [strategies and resources for educators and families](https://education.vermont.gov/covid19-continuity-of-learning/information-for-parents) from the Agency of Education.",
             "source": "Editorial",
@@ -3820,7 +3746,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-21T20:11:45.032+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00"
         },
         {
             "id": 4656,
@@ -4185,7 +4111,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -4203,7 +4129,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T20:36:05.218+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:37:37.184+00:00"
         },
         {
             "id": 4669,
@@ -4275,7 +4201,7 @@
         },
         {
             "id": 4671,
-            "answer": "**What is a PCR test?**\n\nA PCR test is the most common type of COVID-19 test used today. PCR stands for polymerase chain reaction. The test identifies people who are currently infected with the COVID-19 virus.\n\nPCR tests are generally the most reliable tests. Samples are analyzed at a lab, which usually takes up to a few days. A PCR test is used at Health Department testing sites.\n\n[Data on COVID-19 activity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) reported by the Health Department includes only PCR tests.\n\nThe PCR test used by the Vermont Department of Health Laboratory has a sensitivity rate of 95%, which means the test correctly gives a positive result 95% of the time. Sensitivity rates may be different at other labs.\n\nGet more information about the [COVID-19 tests that are currently available](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration.",
+            "answer": "**What is a PCR test?**\n\nA PCR test is the most common type of COVID-19 test used today. It is sometimes referred to as an RT-PCR test. PCR stands for polymerase chain reaction. The test identifies people who are currently infected with the COVID-19 virus.\n\nPCR tests are generally the most reliable tests. Samples are analyzed at a lab, which usually takes up to a few days. A PCR test is used at Health Department testing sites.\n\n[Data on COVID-19 activity](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont) reported by the Health Department includes only PCR tests.\n\nThe PCR test used by the Vermont Department of Health Laboratory has a sensitivity rate of 95%, which means the test correctly gives a positive result 95% of the time. Sensitivity rates may be different at other labs.\n\nGet more information about the [COVID-19 tests that are currently available](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration.",
             "source": "Editorial",
             "questions": [
                 "How accurate is the test for COVID-19?",
@@ -4310,7 +4236,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T20:34:11.001+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00"
         },
         {
             "id": 4672,
@@ -4641,7 +4567,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:41:32.168+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00"
         },
         {
             "id": 4688,
@@ -4744,11 +4670,6 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4643,
-                        "displayText": "Where can I get tested for COVID-19?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
@@ -4795,7 +4716,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:33:38.324+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00"
         },
         {
             "id": 4693,
@@ -5374,7 +5295,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T20:04:02.421+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00"
         },
         {
             "id": 4719,
@@ -5787,7 +5708,7 @@
         },
         {
             "id": 4731,
-            "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nYes. If you are coming to Vermont to drop off a college student, you have two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) OR\n2.  You do the drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a face mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.\n*   You may stay overnight at a lodging property in Vermont only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n\n**If you are a Vermonter** dropping off a student at an out-of-state college, you will need to [quarantine for 14 days](https://apps.health.vermont.gov/COVID/faq/#4758) when you come back to Vermont. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end quarantine with a negative test result.\n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
+            "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nYes. If you are coming to Vermont to drop off a college student, you have two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) OR\n2.  You do the drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a face mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.\n*   You may stay overnight at a lodging property in Vermont only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
             "source": "Editorial",
             "questions": [
                 "I need to drop off a student at college. Do I need to quarantine?"
@@ -5809,7 +5730,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:37:37.885+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:29:54.414+00:00"
         },
         {
             "id": 4732,
@@ -5851,7 +5772,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -5869,7 +5790,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:37:45.724+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:34:38.082+00:00"
         },
         {
             "id": 4734,
@@ -5976,7 +5897,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -5994,7 +5915,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:37:11.897+00:00"
         },
         {
             "id": 4741,
@@ -6006,7 +5927,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -6024,7 +5945,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:32:11.087+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:35:29.219+00:00"
         },
         {
             "id": 4742,
@@ -6239,7 +6160,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -6257,7 +6178,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:36:33.537+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:36:43.445+00:00"
         },
         {
             "id": 4751,
@@ -6649,7 +6570,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -6667,7 +6588,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:33:32.805+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:34:06.832+00:00"
         },
         {
             "id": 4769,
@@ -6681,10 +6602,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
                     "value": "vaccine"
                 }
             ],
@@ -6699,7 +6616,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:46:10.459+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:25:21.678+00:00"
         },
         {
             "id": 4770,
@@ -6737,7 +6654,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -6755,7 +6672,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:30:54.351+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:35:08.053+00:00"
         },
         {
             "id": 4772,
@@ -6767,7 +6684,7 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "people with covid-19 in vermont"
+                    "value": "vermont covid-19 data"
                 },
                 {
                     "name": "subcategory",
@@ -6785,7 +6702,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-14T19:50:06.66+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:35:51.153+00:00"
         },
         {
             "id": 4773,
@@ -6823,10 +6740,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
                     "value": "vaccine"
                 },
                 {
@@ -6845,7 +6758,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:46:42.938+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:23:47.224+00:00"
         },
         {
             "id": 4775,
@@ -6875,7 +6788,7 @@
         },
         {
             "id": 4776,
-            "answer": "**How many people have been vaccinated in Vermont?**\n\nYou can find information about Vermont’s COVID-19 vaccination progress on the [COVID-19 Vaccine Dashboard](https://www.healthvermont.gov/covid-19/vaccine/covid-19-vaccine-dashboard), including how many people got their first dose and how many people completed both doses. The dashboard will be updated every Wednesday by noon.",
+            "answer": "**How many people have been vaccinated in Vermont?**\n\nYou can find information about Vermont’s COVID-19 vaccination progress on the [COVID-19 Vaccine Dashboard](https://www.healthvermont.gov/covid-19/vaccine/covid-19-vaccine-dashboard), including how many people got their first dose and how many people completed both doses. The dashboard will be updated every day.",
             "source": "Editorial",
             "questions": [
                 "How many people have been vaccinated in Vermont?"
@@ -6883,10 +6796,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
                     "value": "vaccine"
                 }
             ],
@@ -6901,11 +6810,11 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:44:50.262+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:24:34.45+00:00"
         },
         {
             "id": 4777,
-            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, they emerge and start infecting people. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.\n\nAccording to the CDC, multiple COVID-19 variants are circulating globally. In the United Kingdom (UK), a new variant has emerged with an unusually large number of mutations. It has since been detected in numerous countries around the world, including the United States and Canada.\n\nIn South Africa, another one has emerged independently of the one detected in the UK. Both of them seem to spread more easily and quickly than others. Currently, **there is no evidence that either of these variants causes more severe illness or increased risk of death**.\n\nInformation about the new COVID-19 variants is rapidly emerging. Scientists are working to learn more about how easily they might spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, they emerge and persist. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.\n\nAccording to the CDC, multiple COVID-19 variants are circulating globally. In the United Kingdom (UK), a new variant has emerged with an unusually large number of mutations. It has since been detected in numerous countries around the world, including the United States and Canada. \n\nIn South Africa, another one has emerged independently of the one detected in the UK. Both of these variants seem to spread more easily and quickly than others. \n\nAnother variant recently emerged in Nigeria, which the CDC is also monitoring.\n\nCurrently, **there is no evidence that these variants cause more severe illness or increased risk of death**.\n\nInformation about the new COVID-19 variants is rapidly emerging. Scientists are working to learn more about how easily they might spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?"
@@ -6927,7 +6836,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:03:28.623+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:33:49.281+00:00"
         },
         {
             "id": 4778,
@@ -6965,10 +6874,6 @@
             "metadata": [
                 {
                     "name": "category",
-                    "value": "how to protect yourself"
-                },
-                {
-                    "name": "subcategory",
                     "value": "vaccine"
                 }
             ],
@@ -6983,7 +6888,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:54:13.112+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:24:10.713+00:00"
         }
     ]
 }
