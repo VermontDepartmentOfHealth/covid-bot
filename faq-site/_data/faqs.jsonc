@@ -19,7 +19,8 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T20:04:11.806+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4534,
@@ -93,11 +94,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T18:51:52.453+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T18:51:52.453+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4535,
-            "answer": "**What is the difference between COVID-19 and the flu?**\n\nInfluenza (flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses. COVID-19 is caused by infection with a new coronavirus (called SARS-CoV-2) and flu is caused by infection with influenza viruses.\n\nBecause some of the symptoms of flu and COVID-19 are similar, it may be hard to tell the difference between them based on symptoms alone, and testing may be needed to help confirm a diagnosis. Flu and COVID-19 share many characteristics, but there are some key differences between the two:\n\n*   COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people.\n*   It can take longer before people show symptoms of COVID-19, and people can be contagious with the COVID-19 virus for longer.\n\nDoctors and scientists are working to estimate the death rate of COVID-19, but currently, it is thought to be substantially higher (possibly 10 times or more) than that of most strains of the flu.\n\nFind more information about the [differences and similarities between flu and COVID-19](https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm) from the CDC.\n\nIt’s more important than ever to get your flu shot this year, when flu viruses and the new coronavirus may be spreading at the same time. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).\n\nFind out more about what Vermont is doing to [prepare for a COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/vermont-covid-19-vaccine-planning).\n\nThere are things you can do to keep from getting or spreading the flu and COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).",
+            "answer": "**What is the difference between COVID-19 and the flu?**\n\nInfluenza (flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses. COVID-19 is caused by infection with a new coronavirus (called SARS-CoV-2) and flu is caused by infection with influenza viruses.\n\nBecause some of the symptoms of flu and COVID-19 are similar, it may be hard to tell the difference between them based on symptoms alone, and testing may be needed to help confirm a diagnosis. Flu and COVID-19 share many characteristics, but there are some key differences between the two:\n\n*   COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people.\n*   It can take longer before people show symptoms of COVID-19, and people can be contagious with the COVID-19 virus for longer.\n\nDoctors and scientists are working to estimate the death rate of COVID-19, but currently, it is thought to be substantially higher (possibly 10 times or more) than that of most strains of the flu.\n\nFind more information about the [differences and similarities between flu and COVID-19](https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm) from the CDC.\n\nIt’s more important than ever to get your flu shot this year, when flu viruses and the new coronavirus may be spreading at the same time. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).\n\nFind out more [about COVID-19 vaccines in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThere are things you can do to keep from getting or spreading the flu and COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).",
             "source": "KB-COVID",
             "questions": [
                 "What is covid19?",
@@ -137,7 +139,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T18:51:52.453+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:35:41.883+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4536,
@@ -163,7 +166,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:24:55.689+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:24:55.689+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4537,
@@ -207,7 +211,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:35:41.883+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4538,
@@ -247,7 +252,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4539,
@@ -290,7 +296,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T19:51:42.51+00:00"
+            "lastUpdatedTimestamp": "2020-12-17T19:51:42.51+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4540,
@@ -363,7 +370,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4541,
@@ -407,7 +415,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4542,
@@ -442,7 +451,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4543,
@@ -481,7 +491,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4544,
@@ -518,7 +529,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4545,
@@ -601,7 +613,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4547,
@@ -649,7 +662,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4549,
@@ -699,11 +713,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4554,
-            "answer": "**What should pregnant or breastfeeding people do?**\n\nBased on what we know at this time, pregnant people might be at an increased risk for severe illness from COVID-19 compared to non-pregnant people. Additionally, there may be an increased risk of adverse pregnancy outcomes, such as preterm birth, among pregnant people with COVID-19. Therefore, if you are pregnant, be mindful about reducing your risk of getting sick.\n\nWe don’t know for sure if mothers with COVID-19 can spread the virus to babies through their breast milk, but the current evidence suggests that this isn’t likely.\n\nLearn more from the CDC about [COVID-19 and pregnancy and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children).",
+            "answer": "**What should pregnant or breastfeeding people do?**\n\nBased on what we know at this time, pregnant people are at an increased risk for severe illness from COVID-19 and death, compared to non-pregnant people. Additionally, pregnant people with COVID-19 might be at increased risk of other adverse outcomes, such as preterm birth (delivering the baby earlier than 37 weeks). Therefore, it is especially important for pregnant people, and those who live with them, to protect themselves from getting COVID-19.\n\nWe don’t know for sure if people with COVID-19 can spread the virus to babies through their breast milk, but the current evidence suggests that this isn’t likely.\n\nLearn more from the CDC about [COVID-19 and pregnancy and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children).",
             "source": "KB-COVID",
             "questions": [
                 "What should pregnant or breastfeeding people do?",
@@ -726,7 +741,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-09T18:47:27.211+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:50:56.947+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4557,
@@ -761,7 +777,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-14T19:55:19.544+00:00"
+            "lastUpdatedTimestamp": "2020-12-14T19:55:19.544+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4558,
@@ -793,7 +810,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:09:37.85+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:09:37.85+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4559,
@@ -855,7 +873,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:27:16.951+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:27:16.951+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4560,
@@ -923,7 +942,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:41:32.168+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:41:32.168+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4564,
@@ -958,7 +978,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:10.756+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:10.756+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4565,
@@ -993,7 +1014,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:42:32.757+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:42:32.757+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4567,
@@ -1029,7 +1051,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:39:09.187+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:39:09.187+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4568,
@@ -1079,7 +1102,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:42:32.757+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:42:32.757+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4569,
@@ -1138,7 +1162,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T18:51:52.453+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:35:41.883+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4570,
@@ -1174,7 +1199,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:55:15.971+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:55:15.971+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4571,
@@ -1219,7 +1245,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4572,
@@ -1249,7 +1276,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4573,
@@ -1279,7 +1307,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-06T19:19:31.533+00:00"
+            "lastUpdatedTimestamp": "2020-11-06T19:19:31.533+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4575,
@@ -1336,7 +1365,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:41:32.168+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:41:32.168+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4576,
@@ -1373,7 +1403,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:28:16.801+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:28:16.801+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4577,
@@ -1447,7 +1478,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4578,
@@ -1484,7 +1516,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-21T20:13:06.915+00:00"
+            "lastUpdatedTimestamp": "2020-12-21T20:13:06.915+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4580,
@@ -1512,7 +1545,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4581,
@@ -1551,7 +1585,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:46:10.89+00:00"
+            "lastUpdatedTimestamp": "2020-10-29T19:46:10.89+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4584,
@@ -1603,7 +1638,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4585,
@@ -1635,11 +1671,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:30:24.755+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:30:24.755+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4586,
-            "answer": "**How can I prepare at home?**\n\n*   **Plan ways to care** for those in your home who might be [at greater risk](https://apps.health.vermont.gov/COVID/faq/#4559), like older adults and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need.\n*   **Choose a room in your home** that can be used to [separate sick household members](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html) from those who are healthy**.** Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n*   **Make sure you have enough groceries and other supplies** for 14 days in case you get sick and need to quarantine. Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n*   **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially older adults and those who have underlying medical conditions, or who live alone.\n*   **Take care of the** [**emotional health**](https://apps.health.vermont.gov/COVID/faq/#4604) of your household members**.** Pandemics can be stressful for adults and children. Talk with your children about the pandemic, try to stay calm, and reassure them that they are safe.\n*   **Keep a daily list of people you are in** [**close contact**](https://apps.health.vermont.gov/COVID/faq/#4575) **with**. As the state continues to reopen, consider keeping a contact journal. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nLearn more from the CDC about what you can do to [keep COVID-19 outside your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/protect-your-home.html), and if it gets in your home, what you can do to keep it from spreading.\n\nThese are things we can all do to protect ourselves and the people around us from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.  At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nThe CDC also has guidance for [households living in close quarters](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html), like people who share a small apartment or people who live in the same household with large or extended families",
+            "answer": "**How can I prepare at home?**\n\nHere are some things you can do:\n\n*   **Plan ways to care** for those in your home who might be [at greater risk](https://apps.health.vermont.gov/COVID/faq/#4559), like older adults and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need.\n*   **Choose a room in your home** that can be used to [separate sick household members](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html) from those who are healthy. Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n*   **Make sure you have enough groceries and other supplies** for 14 daysin case you get sick and need to quarantine. Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n*   **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially older adults and those who have underlying medical conditions, or who live alone.\n*   **Take care of the** [**emotional health**](https://apps.health.vermont.gov/COVID/faq/#4604) of your household members. Pandemics can be stressful for adults and children. Talk with your children about the pandemic, try to stay calm, and reassure them that they are safe.\n*   **Keep a daily list of people you are in** [**close contact**](https://apps.health.vermont.gov/COVID/faq/#4575) **with**. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nLearn more from the CDC about what you can do to [protect your home from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/protect-your-home.html).\n\nThese are things we can all do to protect ourselves and the people around us from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nThe CDC also has guidance for [households living in close quarters](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html), like people who share a small apartment or people who live in the same household with large or extended families",
             "source": "Editorial",
             "questions": [
                 "How can I prepare at home?",
@@ -1669,7 +1706,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:13:05.39+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T20:04:11.806+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4587,
@@ -1722,7 +1760,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-16T22:22:00.551+00:00"
+            "lastUpdatedTimestamp": "2020-11-16T22:22:00.551+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4588,
@@ -1759,7 +1798,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:19:25.081+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:19:25.081+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4589,
@@ -1793,7 +1833,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T20:54:08.348+00:00"
+            "lastUpdatedTimestamp": "2020-12-17T20:54:08.348+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4591,
@@ -1860,7 +1901,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:50:01.92+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:50:01.92+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4592,
@@ -1905,7 +1947,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-16T22:22:00.551+00:00"
+            "lastUpdatedTimestamp": "2020-11-16T22:22:00.551+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4593,
@@ -1953,7 +1996,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4594,
@@ -1999,7 +2043,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4596,
@@ -2043,7 +2088,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:27:16.951+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:27:16.951+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4597,
@@ -2101,7 +2147,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:06:29.138+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:06:29.138+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4600,
@@ -2132,7 +2179,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:02:31.72+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:02:31.72+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4601,
@@ -2193,7 +2241,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:39:10.571+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:39:10.571+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4602,
@@ -2237,7 +2286,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:51:26.159+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:51:26.159+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4603,
@@ -2288,7 +2338,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4604,
@@ -2317,11 +2368,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-07T19:22:12.507+00:00"
+            "lastUpdatedTimestamp": "2020-12-07T19:22:12.507+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4605,
-            "answer": "**What should health care providers and workers do?**\n\nThe Health Department has [guidance and information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals). It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings. You can also find the most current [COVID-19 vaccine](https://www.healthvermont.gov/covid-19/health-care-professionals/vaccine-information-health-care-professionals) information and guidance.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. Asymptomatic people who are looking to end quarantine early are encouraged to contact their health care provider to arrange a test on or after day 7 of quarantine. Health care providers can test them in their office or refer them to a centralized testing site. Find more [testing information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals).\n\nCOVID-19 activity in the community may affect how facilities and providers make decisions about testing, operations and personal protective equipment (PPE). Find information for health care providers, nursing homes and other long-term care facilities to make decisions based on measures of [community-level burden](https://www.healthvermont.gov/covid-19/health-care-professionals/community-thresholds-decision-making).",
+            "answer": "**What should health care providers and workers do?**\n\nThe Health Department has [guidance and information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals). It includes current guidance, health alerts, and resources for protecting patients and health care workers in different settings. You can also find the most current [COVID-19 vaccine](https://www.healthvermont.gov/covid-19/health-care-professionals/vaccine-information-health-care-professionals) information and guidance.\n\nReport all suspected cases of COVID-19 immediately to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. Asymptomatic people who are looking to end quarantine early are encouraged to contact their health care provider to arrange a test on or after day 7 of quarantine. Health care providers can test them in their office or refer them to a centralized testing site. Find more [testing information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals).\n\nCOVID-19 activity in the community may affect how facilities and providers make decisions about testing, operations and personal protective equipment (PPE). Find information for health care providers, nursing homes and other long-term care facilities to make decisions based on measures of [community-level burden](https://www.healthvermont.gov/covid-19/health-care-professionals/community-thresholds-decision-making).",
             "source": "Editorial",
             "questions": [
                 "What should assisted living workers do?",
@@ -2361,7 +2413,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:25:58.212+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:51:34.61+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4607,
@@ -2390,7 +2443,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:23:38.469+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:23:38.469+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4608,
@@ -2422,7 +2476,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-07T19:05:53.066+00:00"
+            "lastUpdatedTimestamp": "2020-10-07T19:05:53.066+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4609,
@@ -2455,7 +2510,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:10:44.402+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:10:44.402+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4610,
@@ -2486,7 +2542,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:46:20.048+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:46:20.048+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4611,
@@ -2522,7 +2579,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:36:17.926+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:36:17.926+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4612,
@@ -2549,7 +2607,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4614,
@@ -2579,7 +2638,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-23T20:39:31.006+00:00"
+            "lastUpdatedTimestamp": "2020-10-23T20:39:31.006+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4615,
@@ -2619,7 +2679,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T20:02:49.049+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T20:02:49.049+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4616,
@@ -2681,7 +2742,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:43:40.742+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:43:40.742+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4617,
@@ -2745,7 +2807,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4618,
@@ -2810,7 +2873,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:39:10.571+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:39:10.571+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4619,
@@ -2858,7 +2922,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-14T19:45:57.701+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:51:34.61+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4622,
@@ -2890,7 +2955,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:43:40.742+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:43:40.742+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4625,
@@ -2935,7 +3001,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4626,
@@ -2972,7 +3039,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:31:44.486+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:31:44.486+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4628,
@@ -3007,7 +3075,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-12T17:43:04.712+00:00"
+            "lastUpdatedTimestamp": "2020-10-12T17:43:04.712+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4630,
@@ -3078,7 +3147,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:45:33.652+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:45:33.652+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4632,
@@ -3127,7 +3197,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-12T17:43:04.712+00:00"
+            "lastUpdatedTimestamp": "2020-10-12T17:43:04.712+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4633,
@@ -3159,7 +3230,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4634,
@@ -3199,7 +3271,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4637,
@@ -3240,7 +3313,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:47:06.364+00:00"
+            "lastUpdatedTimestamp": "2020-11-20T20:47:06.364+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4638,
@@ -3310,7 +3384,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:54:09.946+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:54:09.946+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4639,
@@ -3399,7 +3474,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:56:03.288+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:56:03.288+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4640,
@@ -3426,7 +3502,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-09T18:46:46.4+00:00"
+            "lastUpdatedTimestamp": "2020-11-09T18:46:46.4+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4641,
@@ -3470,7 +3547,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:11:33.216+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:11:33.216+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4642,
@@ -3511,7 +3589,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:03:06.64+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:03:06.64+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4644,
@@ -3543,7 +3622,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:02:00.655+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T21:02:00.655+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4646,
@@ -3596,7 +3676,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4648,
@@ -3631,7 +3712,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4649,
@@ -3664,7 +3746,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:09:37.85+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:09:37.85+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4652,
@@ -3694,7 +3777,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:57:11.84+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:57:11.84+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4654,
@@ -3746,7 +3830,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4656,
@@ -3806,7 +3891,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4657,
@@ -3836,7 +3922,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-14T19:45:57.701+00:00"
+            "lastUpdatedTimestamp": "2020-12-14T19:45:57.701+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4658,
@@ -3869,7 +3956,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4659,
@@ -3900,7 +3988,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-29T19:48:01.883+00:00"
+            "lastUpdatedTimestamp": "2020-10-29T19:48:01.883+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4661,
@@ -3937,7 +4026,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:18:35.757+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:18:35.757+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4662,
@@ -3985,7 +4075,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:36:35.422+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:36:35.422+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4664,
@@ -4011,7 +4102,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-14T20:01:39.371+00:00"
+            "lastUpdatedTimestamp": "2020-10-14T20:01:39.371+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4665,
@@ -4062,7 +4154,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:06:29.138+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:06:29.138+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4666,
@@ -4099,7 +4192,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-22T20:11:38.977+00:00"
+            "lastUpdatedTimestamp": "2020-12-22T20:11:38.977+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4667,
@@ -4129,7 +4223,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:37:37.184+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:37:37.184+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4669,
@@ -4171,7 +4266,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:36:03.452+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:36:03.452+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4670,
@@ -4197,7 +4293,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:29:16.287+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:29:16.287+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4671,
@@ -4236,7 +4333,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4672,
@@ -4277,7 +4375,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4675,
@@ -4309,7 +4408,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:39:22.074+00:00"
+            "lastUpdatedTimestamp": "2020-10-19T19:39:22.074+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4676,
@@ -4344,7 +4444,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:36:43.587+00:00"
+            "lastUpdatedTimestamp": "2020-10-19T19:36:43.587+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4677,
@@ -4377,7 +4478,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:40:25.434+00:00"
+            "lastUpdatedTimestamp": "2020-10-19T19:40:25.434+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4678,
@@ -4406,7 +4508,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4679,
@@ -4444,7 +4547,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4680,
@@ -4514,7 +4618,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:28:16.801+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:28:16.801+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4681,
@@ -4540,7 +4645,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:45:33.652+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:45:33.652+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4682,
@@ -4567,7 +4673,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4688,
@@ -4600,7 +4707,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-07T19:29:05.368+00:00"
+            "lastUpdatedTimestamp": "2020-10-07T19:29:05.368+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4690,
@@ -4649,7 +4757,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:54:09.946+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:54:09.946+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4691,
@@ -4676,7 +4785,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4692,
@@ -4716,7 +4826,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4693,
@@ -4752,7 +4863,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:27:19.995+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:27:19.995+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4695,
@@ -4778,7 +4890,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T20:32:56.621+00:00"
+            "lastUpdatedTimestamp": "2020-11-20T20:32:56.621+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4697,
@@ -4804,7 +4917,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:08.998+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:56:08.998+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4703,
@@ -4837,7 +4951,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-08T20:12:56.599+00:00"
+            "lastUpdatedTimestamp": "2020-12-08T20:12:56.599+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4704,
@@ -4877,7 +4992,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T20:02:49.049+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T20:02:49.049+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4706,
@@ -4907,7 +5023,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T19:44:38.993+00:00"
+            "lastUpdatedTimestamp": "2020-12-17T19:44:38.993+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4707,
@@ -4944,7 +5061,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4709,
@@ -4975,7 +5093,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T20:40:55.34+00:00"
+            "lastUpdatedTimestamp": "2020-12-17T20:40:55.34+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4713,
@@ -5020,7 +5139,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-02T14:57:20.459+00:00"
+            "lastUpdatedTimestamp": "2020-12-02T14:57:20.459+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4714,
@@ -5055,7 +5175,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:33:38.324+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:33:38.324+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4717,
@@ -5086,7 +5207,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-26T19:59:19.426+00:00"
+            "lastUpdatedTimestamp": "2020-10-26T19:59:19.426+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4718,
@@ -5295,7 +5417,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4719,
@@ -5356,7 +5479,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4720,
@@ -5407,7 +5531,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4721,
@@ -5433,7 +5558,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4723,
@@ -5473,7 +5599,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4724,
@@ -5508,7 +5635,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T20:05:29.356+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T20:05:29.356+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4725,
@@ -5547,7 +5675,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4726,
@@ -5582,7 +5711,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:04:19.788+00:00"
+            "lastUpdatedTimestamp": "2020-12-03T20:04:19.788+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4727,
@@ -5612,7 +5742,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:34:27.154+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:34:27.154+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4728,
@@ -5647,7 +5778,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:39:46.71+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:39:46.71+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4729,
@@ -5673,7 +5805,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-12T19:05:53.854+00:00"
+            "lastUpdatedTimestamp": "2020-11-12T19:05:53.854+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4730,
@@ -5704,11 +5837,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:48:45.852+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:48:45.852+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4731,
-            "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nYes. If you are coming to Vermont to drop off a college student, you have two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) OR\n2.  You do the drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a face mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.\n*   You may stay overnight at a lodging property in Vermont only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
+            "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nIf you are dropping off a college student at a Vermont college or at an out-of-state college, there are two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine) OR  \n2.  You do a “contactless” drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with. \n*   You may stay overnight at a lodging property only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities. \n*   If you are coming to Vermont and staying with family and friends at their home, you must quarantine during your entire stay. This means you need to stay at least 6 feet from the people who are hosting you, wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with the people who are hosting you.\n\nYou may have one additional person with you during drop-off, but they must also follow these quarantine options.\n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
             "source": "Editorial",
             "questions": [
                 "I need to drop off a student at college. Do I need to quarantine?"
@@ -5730,7 +5864,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:29:54.414+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:37:06.285+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4732,
@@ -5760,7 +5895,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:38:21.498+00:00"
+            "lastUpdatedTimestamp": "2020-10-19T19:38:21.498+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4733,
@@ -5790,7 +5926,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:34:38.082+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:34:38.082+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4734,
@@ -5820,7 +5957,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:23:34.056+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:23:34.056+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4737,
@@ -5850,7 +5988,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:46:21.452+00:00"
+            "lastUpdatedTimestamp": "2020-11-30T20:46:21.452+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4738,
@@ -5885,7 +6024,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:34:27.154+00:00"
+            "lastUpdatedTimestamp": "2020-12-29T20:34:27.154+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4740,
@@ -5915,7 +6055,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:37:11.897+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:37:11.897+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4741,
@@ -5945,7 +6086,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:35:29.219+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:35:29.219+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4742,
@@ -5975,7 +6117,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00"
+            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4743,
@@ -6006,7 +6149,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4744,
@@ -6032,7 +6176,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:14:23.235+00:00"
+            "lastUpdatedTimestamp": "2020-12-03T20:14:23.235+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4745,
@@ -6062,7 +6207,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T19:49:27.597+00:00"
+            "lastUpdatedTimestamp": "2020-11-20T19:49:27.597+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4746,
@@ -6088,7 +6234,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:25:59.563+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:25:59.563+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4747,
@@ -6118,7 +6265,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:11:33.216+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:11:33.216+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4748,
@@ -6148,7 +6296,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T19:48:15.64+00:00"
+            "lastUpdatedTimestamp": "2020-11-20T19:48:15.64+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4750,
@@ -6178,7 +6327,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:36:43.445+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:36:43.445+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4751,
@@ -6204,7 +6354,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:10:08.74+00:00"
+            "lastUpdatedTimestamp": "2020-12-10T16:10:08.74+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4753,
@@ -6230,7 +6381,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T20:31:57.735+00:00"
+            "lastUpdatedTimestamp": "2020-11-24T20:31:57.735+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4755,
@@ -6262,7 +6414,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-21T19:52:30.984+00:00"
+            "lastUpdatedTimestamp": "2020-12-21T19:52:30.984+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4756,
@@ -6295,11 +6448,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T19:46:15.81+00:00"
+            "lastUpdatedTimestamp": "2020-12-17T19:46:15.81+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4757,
-            "answer": "**What is self-observation?**\n\nSelf-observation is for other Vermonters who don’t have symptoms of COVID-19. Follow these prevention steps to keep from getting or spreading COVID-19:\n\nThese are things you can do to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) and about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).",
+            "answer": "**What is self-observation?**\n\nSelf-observation is for Vermonters who don’t have symptoms of COVID-19. Follow these [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf).",
             "source": "Editorial",
             "questions": [
                 "What is self-observation?",
@@ -6326,7 +6480,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:07:54.436+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:37:45.91+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4758,
@@ -6356,7 +6511,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-28T19:24:10.14+00:00"
+            "lastUpdatedTimestamp": "2020-12-28T19:24:10.14+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4759,
@@ -6382,7 +6538,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-22T20:21:56.582+00:00"
+            "lastUpdatedTimestamp": "2020-12-22T20:21:56.582+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4760,
@@ -6408,7 +6565,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-24T21:08:44.326+00:00"
+            "lastUpdatedTimestamp": "2020-11-24T21:08:44.326+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4761,
@@ -6438,7 +6596,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:50:01.92+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T19:50:01.92+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4762,
@@ -6468,7 +6627,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:29:10.486+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:29:10.486+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4763,
@@ -6498,7 +6658,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T18:53:02.232+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T18:53:02.232+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4764,
@@ -6528,7 +6689,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:32:13.229+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T20:32:13.229+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4765,
@@ -6558,7 +6720,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T18:53:59.279+00:00"
+            "lastUpdatedTimestamp": "2021-01-07T18:53:59.279+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4767,
@@ -6588,11 +6751,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:34:06.832+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:34:06.832+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4769,
-            "answer": "**When will the COVID-19 vaccine be available? Can I get on a list?**\n\nBased on what we know now, it is likely that the initial supply of COVID-19 vaccine will be limited, and will be distributed to states in phases, with early vaccine going to certain groups of people. We are using demographic data (for example, people in high-risk jobs, people in different age groups, and people with underlying health issues) to determine the first phases of vaccine distribution.\n\n**The Health Department will not be preparing a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nShots will be available by appointment, to avoid lines and to make sure there is enough physical distancing between people.\n\nFind out more [about COVID-19 vaccine in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including more frequently asked questions.\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
+            "answer": "**When will the COVID-19 vaccine be available? Can I get on a list?**\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who can get the vaccine now and who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
             "source": "Editorial",
             "questions": [
                 "When will the COVID-19 vaccine be available? Can I get on a list?",
@@ -6616,7 +6780,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:25:21.678+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:36:25.482+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4770,
@@ -6642,7 +6807,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:57:11.84+00:00"
+            "lastUpdatedTimestamp": "2021-01-05T19:57:11.84+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4771,
@@ -6672,7 +6838,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:35:08.053+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:35:08.053+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4772,
@@ -6702,11 +6869,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:35:51.153+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:35:51.153+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4773,
-            "answer": "**How can I stay up to date on the latest COVID-19 guidance and information?**\n\nThe most current comprehensive guidance and information is on the Health Department’s COVID-19 website and the Agency of Commerce and Community Development’s (ACCD’s) COVID-19 Recovery Center. You can [sign up for the Health Department’s Weekly COVID-19 E-Newsletter](https://lp.constantcontactpages.com/su/sFxLaby/covid19) to get the latest news.\n\nYou can also [sign up to get notifications from VT-ALERT](http://www.vtalert.gov/). VT-ALERT sends important updates to the Governor’s Executive Orders and other related COVID-19 announcements that will directly impact Vermonters. You can get notifications by email, text, phone and the Everbridge mobile app. You can also specify geographic areas (for example, the town or county where you live or work). Once you register for VT-ALERT, select the alerts you would like to get. COVID-19 information is listed under “Health Alerts”. If you are already subscribed, you can update your subscriptions after you log in.",
+            "answer": "**How can I stay up to date on the latest COVID-19 guidance and information?**\n\nThe most current comprehensive guidance and information is on the [Health Department’s COVID-19 website](https://www.healthvermont.gov/covid-19) and the [Agency of Commerce and Community Development’s (ACCD’s) COVID-19 Recovery Center](https://accd.vermont.gov/covid-19). You can [sign up for the Health Department’s Weekly COVID-19 E-Newsletter](https://lp.constantcontactpages.com/su/sFxLaby/covid19) to get the latest news.\n\nYou can also [sign up to get notifications from VT-ALERT](http://www.vtalert.gov/). VT-ALERT sends important updates to the Governor’s Executive Orders and other related COVID-19 announcements that will directly impact Vermonters. You can get notifications by email, text, phone and the Everbridge mobile app. You can also specify geographic areas (for example, the town or county where you live or work). Once you register for VT-ALERT, select the alerts you would like to get. COVID-19 information is listed under “Health Alerts”. If you are already subscribed, you can update your subscriptions after you log in.",
             "source": "Editorial",
             "questions": [
                 "How can I stay up to date on the latest COVID-19 guidance and information?"
@@ -6728,7 +6896,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-14T19:51:28.974+00:00"
+            "lastUpdatedTimestamp": "2021-01-13T19:52:27.566+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4774,
@@ -6758,7 +6927,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:23:47.224+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:23:47.224+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4775,
@@ -6784,7 +6954,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-04T18:49:12.863+00:00"
+            "lastUpdatedTimestamp": "2021-01-04T18:49:12.863+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4776,
@@ -6810,7 +6981,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:24:34.45+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:24:34.45+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4777,
@@ -6836,7 +7008,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:33:49.281+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T17:33:49.281+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4778,
@@ -6862,7 +7035,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:22:52.2+00:00"
+            "lastUpdatedTimestamp": "2020-12-31T19:22:52.2+00:00",
+            "isDocumentText": false
         },
         {
             "id": 4780,
@@ -6888,7 +7062,8 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:24:10.713+00:00"
+            "lastUpdatedTimestamp": "2021-01-12T18:24:10.713+00:00",
+            "isDocumentText": false
         }
     ]
 }
