@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-13T20:04:11.806+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:21:32.975+00:00",
             "isDocumentText": false
         },
         {
@@ -102,11 +102,11 @@
             "answer": "**What is the difference between COVID-19 and the flu?**\n\nInfluenza (flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses. COVID-19 is caused by infection with a new coronavirus (called SARS-CoV-2) and flu is caused by infection with influenza viruses.\n\nBecause some of the symptoms of flu and COVID-19 are similar, it may be hard to tell the difference between them based on symptoms alone, and testing may be needed to help confirm a diagnosis. Flu and COVID-19 share many characteristics, but there are some key differences between the two:\n\n*   COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people.\n*   It can take longer before people show symptoms of COVID-19, and people can be contagious with the COVID-19 virus for longer.\n\nDoctors and scientists are working to estimate the death rate of COVID-19, but currently, it is thought to be substantially higher (possibly 10 times or more) than that of most strains of the flu.\n\nFind more information about the [differences and similarities between flu and COVID-19](https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm) from the CDC.\n\nIt’s more important than ever to get your flu shot this year, when flu viruses and the new coronavirus may be spreading at the same time. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).\n\nFind out more [about COVID-19 vaccines in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThere are things you can do to keep from getting or spreading the flu and COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).",
             "source": "KB-COVID",
             "questions": [
-                "What is covid19?",
                 "difference between this and the flu?",
-                " same as the flu?",
                 "worse than the flu?",
-                "common cold?"
+                "common cold?",
+                "same as the flu?",
+                "What is the difference between COVID-19 and the flu?"
             ],
             "metadata": [
                 {
@@ -139,7 +139,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:35:41.883+00:00",
+            "lastUpdatedTimestamp": "2021-01-14T15:00:45.121+00:00",
             "isDocumentText": false
         },
         {
@@ -211,7 +211,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:35:41.883+00:00",
+            "lastUpdatedTimestamp": "2021-01-14T15:00:45.121+00:00",
             "isDocumentText": false
         },
         {
@@ -534,7 +534,7 @@
         },
         {
             "id": 4545,
-            "answer": "**Should I be tested for COVID-19? Where can I get tested?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). There are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), do not go to a testing site. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on going to a social gathering with people you don't live with (other than recreating with one masked person outside). You should get tested before the gathering, right after, and again on day 7.\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nThere is no cost to individuals for a PCR test for COVID-19.\n\nSearch for a [testing location](https://www.healthvermont.gov/covid-19/testing/where-get-tested) and [what to expect](https://www.healthvermont.gov/covid-19/testing/what-expect) at a Health Department testing site.\n\nFind out [what to do if you are sick](https://apps.health.vermont.gov/COVID/faq/#4569) and what to do while you’re [waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard).",
+            "answer": "**Should I be tested for COVID-19? Where can I get tested?**\n\nThe best way to protect yourself from COVID-19 is to follow a few key [prevention tips](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19). There are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), do not go to a testing site. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on going to a social gathering with people you don't live with (other than recreating with one masked person outside). You should get tested before the gathering, right after, and again on day 7.\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nThere is no cost to individuals for a PCR test for COVID-19.\n\nHealth Department testing sites use nasal swabs. This is a self-administered test, which means that you use a short, dry swab to collect a sample from the front of your nose. \n\nSearch for a [testing location](https://www.healthvermont.gov/covid-19/testing/where-get-tested) and [what to expect](https://www.healthvermont.gov/covid-19/testing/what-expect) at a Health Department testing site.\n\nFind out [what to do if you are sick](https://apps.health.vermont.gov/COVID/faq/#4569) and what to do while you’re [waiting for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nThe number of Vermonters who were tested for COVID-19 is updated daily on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard).",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -613,7 +613,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:10:51.201+00:00",
             "isDocumentText": false
         },
         {
@@ -662,7 +662,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:10:51.201+00:00",
             "isDocumentText": false
         },
         {
@@ -1162,7 +1162,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:35:41.883+00:00",
+            "lastUpdatedTimestamp": "2021-01-14T15:00:45.121+00:00",
             "isDocumentText": false
         },
         {
@@ -3080,7 +3080,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What should businesses and non-profits do?**\n\nThe Agency of Commerce and Community Development (ACCD) has current information and resources on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including:\n\n*   A step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) and mandatory health and safety requirements. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What should businesses and non-profits do?**\n\nThe Agency of Commerce and Community Development (ACCD) has current information and resources on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including:\n\n*   A step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) and mandatory health and safety requirements. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department, including [Winter Indoor Air Guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Winter-Indoor-Air-Guidance.pdf).\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
             "source": "Editorial",
             "questions": [
                 "Stay at home restriction",
@@ -3147,7 +3147,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:45:33.652+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:12:39.216+00:00",
             "isDocumentText": false
         },
         {
@@ -3830,7 +3830,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:29:33.853+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:10:51.201+00:00",
             "isDocumentText": false
         },
         {
@@ -4645,7 +4645,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:45:33.652+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:12:39.216+00:00",
             "isDocumentText": false
         },
         {
@@ -4826,7 +4826,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:28:46.03+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:10:51.201+00:00",
             "isDocumentText": false
         },
         {
@@ -4895,7 +4895,7 @@
         },
         {
             "id": 4697,
-            "answer": "**What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?**\n\nAccording to the CDC, [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/mis-c/) is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. We do not yet know what causes MIS-C. Children with MIS-C may have a fever and various symptoms, including abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or feeling extra tired. However, many children with MIS-C had the COVID-19 virus, or had been around someone with COVID-19. MIS-C can be serious, even deadly, but most children who were diagnosed with this condition have gotten better with medical care.\n\nMIS-C is rare, and it remains unknown whether multisystem inflammatory syndrome only occurs in children or if it also can occur in adults.",
+            "answer": "**What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?**\n\nAccording to the CDC, [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/mis-c/) is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. We do not yet know what causes MIS-C. Children with MIS-C may have a fever and various symptoms, including abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or feeling extra tired. However, many children with MIS-C had the COVID-19 virus, or had been around someone with COVID-19. MIS-C can be serious, even deadly, but most children who were diagnosed with this condition have gotten better with medical care.\n\nMIS-C is rare, and it remains unknown whether multisystem inflammatory syndrome only occurs in children or if it also can occur in adults.\n\nLearn more about [Multisystem Inflammatory Disease and COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf) from the Health Department.",
             "source": "Editorial",
             "questions": [
                 "What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?"
@@ -4917,7 +4917,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:08.998+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:12:05.4+00:00",
             "isDocumentText": false
         },
         {
@@ -6212,7 +6212,7 @@
         },
         {
             "id": 4746,
-            "answer": "**How does being indoors with the windows closed affect my risk of getting COVID-19?**\n\nBecause of the nature of how the virus spreads and how it survives, being indoors increases your risk of getting or spreading COVID-19.\n\nThe virus that causes COVID-19 is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537) from person to person, by respiratory droplets when people with COVID-19 cough, sneeze, sing, talk, or breathe.\n\nIt is possible for COVID-19 to be transmitted under certain circumstances when very small respiratory droplets remain airborne. These small particles can infect someone who is more than 6 feet away. This airborne transmission is uncommon, but can happen when inside a building without proper ventilation that has allowed a buildup of respiratory droplets or particles.\n\nIn general, the more people there are in an indoor environment, the more there is a need for ventilation with outdoor air.\n\nThere is going to be some level of risk if you are indoors with people you don’t live with. The level of risk can depend on multiple things, including:\n\n*   **How big the space is** – Larger rooms or areas that allow enough space for everyone to keep a 6-foot distance from others are less of a risk than small rooms or areas that can easily get crowded.\n*   **How many people are in the room or area** – A small number of people reduces your risk compared to many people who are not able to keep a 6-foot distance from others.\n*   **How much ventilation there is** – Open windows and doors for ventilation with outdoor air. If it is too cold outside to open windows, then setting up a fan to pull air out of the room can reduce your risk. However, using a fan to blow air into or around the room or using ceiling fans is not recommended since they could keep the virus in the air for longer.\n*   **How humid the room or area is** - Coronaviruses thrive when the relative humidity is below 40%, which usually happens when buildings are heated during the fall and winter. If you can, run a humidifier to maintain a relative humidity of at least 40% in the room or area where people are gathering.\n*   **What the people are doing in the room or area** – Places where people can continuously wear a mask (for example, a family gathering without food or drink or a library) are less of a risk than places where people might take their masks off (for example, dinner at a friend’s house or a restaurant).\n\nThese are things you can do to keep from getting or spreading COVID-19 any time you are in an indoor environment, whether you are at home or in another building:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more:**\n\n*   [How to increase ventilation in your home](https://www.epa.gov/coronavirus/indoor-air-homes-and-coronavirus-covid-19) from the EPA\n*   [FAQs about indoor air and COVID-19](https://www.epa.gov/coronavirus/frequent-questions-about-indoor-air-and-coronavirus-covid-19) from the EPA\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings) from the CDC\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event) from the CDC",
+            "answer": "**How does being indoors with the windows closed affect my risk of getting COVID-19?**\n\nBecause of the nature of how the virus spreads and how it survives, being indoors increases your risk of getting or spreading COVID-19.\n\nThe virus that causes COVID-19 is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537) from person to person, by respiratory droplets when people with COVID-19 cough, sneeze, sing, talk, or breathe.\n\nIt is possible for COVID-19 to be transmitted under certain circumstances when very small respiratory droplets remain airborne. These small particles can infect someone who is more than 6 feet away. This airborne transmission is uncommon, but can happen when inside a building without proper ventilation that has allowed a buildup of respiratory droplets or particles.\n\nIn general, the more people there are in an indoor environment, the more there is a need for ventilation with outdoor air.\n\nThere is going to be some level of risk if you are indoors with people you don’t live with. The level of risk can depend on multiple things, including:\n\n*   **How big the space is** – Larger rooms or areas that allow enough space for everyone to keep a 6-foot distance from others are less of a risk than small rooms or areas that can easily get crowded.\n*   **How many people are in the room or area** – A small number of people reduces your risk compared to many people who are not able to keep a 6-foot distance from others.\n*   **How much ventilation there is** – Open windows and doors for ventilation with outdoor air. If it is too cold outside to open windows, then setting up a fan to pull air out of the room can reduce your risk. However, using a fan to blow air into or around the room or using ceiling fans is not recommended since they could keep the virus in the air for longer.\n*   **How humid the room or area is** - Coronaviruses thrive when the relative humidity is below 40%, which usually happens when buildings are heated during the fall and winter. If you can, run a humidifier to maintain a relative humidity of at least 40% in the room or area where people are gathering.\n*   **What the people are doing in the room or area** – Places where people can continuously wear a mask (for example, a family gathering without food or drink or a library) are less of a risk than places where people might take their masks off (for example, dinner at a friend’s house or a restaurant).\n\nThese are things you can do to keep from getting or spreading COVID-19 any time you are in an indoor environment, whether you are at home or in another building:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more:**\n\n*   [How to increase ventilation in your home](https://www.epa.gov/coronavirus/indoor-air-homes-and-coronavirus-covid-19) from the EPA\n*   [FAQs about indoor air and COVID-19](https://www.epa.gov/coronavirus/frequent-questions-about-indoor-air-and-coronavirus-covid-19) from the EPA\n*   [Improving ventilation in your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/Improving-Ventilation-Home.html) from the CDC\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings) from the CDC\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event) from the CDC",
             "source": "Editorial",
             "questions": [
                 "How does being indoors with the windows closed affect my risk of getting COVID-19?"
@@ -6234,7 +6234,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:25:59.563+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:11:21.896+00:00",
             "isDocumentText": false
         },
         {
@@ -6756,7 +6756,7 @@
         },
         {
             "id": 4769,
-            "answer": "**When will the COVID-19 vaccine be available? Can I get on a list?**\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who can get the vaccine now and who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
+            "answer": "**Am I eligible to get the COVID-19 vaccine? Can I get on a list?**\n\nThe next phase of vaccination will only be open to **people in Vermont who are 75 years and older**.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who can get the vaccine now and who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
             "source": "Editorial",
             "questions": [
                 "When will the COVID-19 vaccine be available? Can I get on a list?",
@@ -6780,7 +6780,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:36:25.482+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:08:30.662+00:00",
             "isDocumentText": false
         },
         {
@@ -6901,7 +6901,7 @@
         },
         {
             "id": 4774,
-            "answer": "**Where can I find the most current information about the COVID-19 vaccine in Vermont?**\n\nThe COVID-19 vaccine is now here in Vermont, and hospitals have begun vaccinations.\n\nIf you’re looking for the latest information about who can get the vaccine now, where and when people will be vaccinated, visit [healthvermont.gov/covid19-vaccines](http://healthvermont.gov/covid19-vaccines). Check back often, as we update this web page with new information. And [sign up for our Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19) to stay up to date.\n\nWhile we wait for the vaccine to become more widely available to Vermonters, we all must continue to keep up our [prevention practices](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), which are still the best protection from getting and spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
+            "answer": "**Where can I find the most current information about the COVID-19 vaccine in Vermont?**\n\nStay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly. And [sign up for our Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19) to stay up to date.\n\nWhile we wait for the vaccine to become more widely available to Vermonters, we all must continue to keep up our [prevention practices](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), which are still the best protection from getting and spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
             "source": "Editorial",
             "questions": [
                 "Where can I find the most current information about the COVID-19 vaccine in Vermont?"
@@ -6910,10 +6910,6 @@
                 {
                     "name": "category",
                     "value": "vaccine"
-                },
-                {
-                    "name": "sort",
-                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6927,7 +6923,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:23:47.224+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:09:59.415+00:00",
             "isDocumentText": false
         },
         {
@@ -7040,7 +7036,7 @@
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYou do not need to provide proof of Vermont residency to get a COVID-19 vaccine. If someone is in Vermont and is eligible for a vaccine, they can get the vaccine. You will be asked to register for an appointment and provide your name and address.\n\nFind out [who is eligible to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYou will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nFind out [who is eligible to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?"
@@ -7062,7 +7058,38 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:24:10.713+00:00",
+            "lastUpdatedTimestamp": "2021-01-15T21:09:27.793+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4781,
+            "answer": "**When can I register to get the COVID-19 vaccine? How can I register?**\n\nThe next phase of vaccination will only be open to people in Vermont who are 75 years and older.\n\n**Starting January 25, people in Vermont who are 75 years and older can make an appointment to get a COVID-19** **vaccine**. Vaccine clinics will start on January 27. People can register for appointments online. If they are not able to register online, they can call a phone number.\n\nThe website and phone number will be announced on or before January 25. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how to register for an appointment.\n\nYou will not be able to make an appointment by calling any other Health Department phone number. Please do not call your health care provider or hospital for vaccine appointments.\n\nIf you have questions about getting the vaccine, talk to your health care provider.\n\nYou can stay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly.",
+            "source": "Editorial",
+            "questions": [
+                "When can I register to get the COVID-19 vaccine? How can I register?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-15T21:21:32.975+00:00",
             "isDocumentText": false
         }
     ]
