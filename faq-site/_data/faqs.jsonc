@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:21:32.975+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T21:23:24.242+00:00",
             "isDocumentText": false
         },
         {
@@ -144,10 +144,11 @@
         },
         {
             "id": 4536,
-            "answer": "**What is Vermont doing to plan for the COVID-19 vaccine?**\n\nThe Health Department is keeping a close watch on the vaccine development process and put science above all else when it comes to distributing any vaccine in Vermont. The vaccine must meet all Food and Drug Administration (FDA) safety standards, and be recommended by the Advisory Committee on Immunization Practices (ACIP), an independent national advisory committee. All newly developed vaccines will also be monitored continuously for safety. \n\nIn addition to putting safety first, the Health Department is committed to identifying priority groups to get the vaccine, ensuring equitable access to the vaccine, and sharing information with Vermonters as soon as it becomes available. \n\nFind out more about [COVID-19 vaccine planning in Vermont](https://www.healthvermont.gov/covid-19/vaccine/vermont-covid-19-vaccine-planning) and learn more [about the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including more frequently asked questions.\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
+            "answer": "**How will I know when I can get my vaccine?**\n\nIn Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. \n\nThe Health Department is not keeping a list of eligible people. As each group becomes eligible, we will announce when those people can register for appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
             "source": "KB-COVID",
             "questions": [
-                "When will a vaccine be available?"
+                "How will I know when I can get my vaccine?",
+                "how will I be notified"
             ],
             "metadata": [
                 {
@@ -166,7 +167,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:24:55.689+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T20:48:32.619+00:00",
             "isDocumentText": false
         },
         {
@@ -942,7 +943,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:41:32.168+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:37:39.383+00:00",
             "isDocumentText": false
         },
         {
@@ -1478,7 +1479,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:30:57.861+00:00",
             "isDocumentText": false
         },
         {
@@ -1600,7 +1601,11 @@
                 "visiting grandson",
                 "Can I visit grandchildren if we have all been in quarantine for 14 days?",
                 "How can children socialize while still preventing the spread of COVID-19?",
-                "How can children stay safe and prevent the spread of COVID-19?"
+                "How can children stay safe and prevent the spread of COVID-19?",
+                "childcare",
+                "child care",
+                "babysitter",
+                "babysitting"
             ],
             "metadata": [
                 {
@@ -1618,18 +1623,8 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4577,
-                        "displayText": "What does social distancing mean?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4638,
                         "displayText": "Are sports and outdoor activities allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4690,
-                        "displayText": "Can I get together with friends and family?"
                     },
                     {
                         "displayOrder": 0,
@@ -1638,7 +1633,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:56:35.876+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:30:57.861+00:00",
             "isDocumentText": false
         },
         {
@@ -3322,13 +3317,10 @@
             "source": "Editorial",
             "questions": [
                 "travel to another place in Vermont for recreation?",
-                "Ride in the car",
-                "Go for a ride in the car.",
                 "I like to go fly fishing alone is that ok?",
                 "Shooting ranges",
                 "Can I walk alone on the Beach?",
                 "Can I go for a drive?",
-                "Driving restrictions",
                 "Is going for a walk with neighbors practicing social distancing, considered essential activity?",
                 "outdoors",
                 "Exercise allowed",
@@ -3355,7 +3347,10 @@
                 "is soccer allowed",
                 "gymnastics",
                 "hockey",
-                "visit state parks"
+                "visit state parks",
+                "indoor recreational sports",
+                "outside sport event",
+                "recreational sports"
             ],
             "metadata": [
                 {
@@ -3369,11 +3364,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4577,
-                        "displayText": "What does social distancing mean?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4690,
                         "displayText": "Can I get together with friends and family?"
                     },
@@ -3384,7 +3374,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:54:09.946+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:30:57.861+00:00",
             "isDocumentText": false
         },
         {
@@ -3652,7 +3642,13 @@
                 "staff do not wear masks",
                 "not following required Covid-19 regulations",
                 "enforce",
-                "How can I report a person or business who is violating the Governor's executive orders?"
+                "How can I report a person or business who is violating the Governor's executive orders?",
+                "tip line",
+                "report a business",
+                "reporting gatherings",
+                "Report non-compliance of quarantining",
+                "Out of state visitors not quarantining",
+                "anonymous tipline"
             ],
             "metadata": [
                 {
@@ -3666,17 +3662,12 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4560,
-                        "displayText": "What do I do if I believe I had close contact with someone who has COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-28T19:27:28.567+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:37:39.383+00:00",
             "isDocumentText": false
         },
         {
@@ -3891,7 +3882,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T12:58:48.73+00:00",
             "isDocumentText": false
         },
         {
@@ -4654,7 +4645,9 @@
             "source": "Editorial",
             "questions": [
                 "What is contact tracing?",
-                "tracing"
+                "tracing",
+                "Text from health dept",
+                "What number should a text from the health department come from"
             ],
             "metadata": [
                 {
@@ -4673,7 +4666,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:58:17.728+00:00",
             "isDocumentText": false
         },
         {
@@ -4757,7 +4750,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:54:09.946+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:30:57.861+00:00",
             "isDocumentText": false
         },
         {
@@ -4997,10 +4990,12 @@
         },
         {
             "id": 4706,
-            "answer": "**Why is the Health Department measuring blood oxygen levels in people who test positive for COVID-19?**\n\nPeople diagnosed with COVID-19 may have below-normal levels of oxygen in their blood before they feel short of breath. Finding low oxygen levels early helps people know that they need to seek medical care sooner. This could make the disease less severe.\n\nThe Health Department has a new program that gives people who have tested positive for COVID-19 a free pulse oximeter to use at home. A pulse oximeter is a small device that clips onto your fingertip to measure your pulse and the oxygen levels in your body.\n\nA Health Department staff member will contact the person who has tested positive for COVID-19 within 48 hours of receiving their lab result. They will ask questions about their symptoms and if they have a pulse oximeter at home. If they do not have one, they will receive one within one to two days. They will then be asked to use it to monitor their oxygen levels throughout the day. The Health Department will continue to regularly contact them over the next couple of days to ask what their oxygen levels were and about any symptoms they may have.",
+            "answer": "**Why is the Health Department measuring blood oxygen levels in people who test positive for COVID-19?**\n\nPeople diagnosed with COVID-19 may have below-normal levels of oxygen in their blood before they feel short of breath. Finding low oxygen levels early helps people know that they need to seek medical care sooner. This could make the disease less severe.\n\nThe Health Department has a new program that gives people who have tested positive for COVID-19 a free pulse oximeter to use at home. A pulse oximeter is a small device that clips onto your fingertip to measure your pulse and the oxygen levels in your body.\n\nA Health Department staff member will contact the person who has tested positive for COVID-19 within 48 hours of receiving their lab result. They will ask questions about their symptoms and if they have a pulse oximeter at home. If they do not have one, they will receive one within one to two days, generally. They will then be asked to use it to monitor their oxygen levels throughout the day. The Health Department will continue to regularly contact them over the next several days to ask what their oxygen levels were and about any symptoms they may have.",
             "source": "Editorial",
             "questions": [
-                "Why is the Health Department measuring blood oxygen levels in people who test positive for COVID-19?"
+                "Why is the Health Department measuring blood oxygen levels in people who test positive for COVID-19?",
+                "pulse ox",
+                "pulse oximetry"
             ],
             "metadata": [
                 {
@@ -5023,7 +5018,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T19:44:38.993+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T20:29:58.044+00:00",
             "isDocumentText": false
         },
         {
@@ -5640,13 +5635,23 @@
         },
         {
             "id": 4725,
-            "answer": "**Do I need a negative COVID-19 test result to return to work safely?**\n\nProof of a negative test for COVID-19 should **not** be required to return to work if you have been diagnosed with COVID-19 or are under quarantine. Employers can keep employees safe by following [prevention guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) in their work place.\n\nIf you are under quarantine and have had no symptoms, you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine early. If your test is negative and you still have no symptoms, you can return to work.\n\nThe Health Department does **not** issue letters for employees to return to work either.\n\nEmployers should not require a negative test before an employee who had COVID-19 can return to work, because studies show that someone may continue to test positive long after they have recovered and are no longer contagious. Once someone meets the [criteria for ending isolation](https://apps.health.vermont.gov/COVID/faq/#4601), there is no longer a risk of them spreading the virus to others.\n\nThe best way to know when it’s safe for someone who tested positive for COVID-19 to return to work is to follow guidance based on the presence of symptoms, or the amount of time that has passed since the person was tested. This information is found in the [employer guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf), under “When can employees with COVID-19 return to work?”",
+            "answer": "**Do I need a negative COVID-19 test result to return to work safely?**\n\nProof of a negative test for COVID-19 should **not** be required to return to work if you have been diagnosed with COVID-19 or are under quarantine. Employers can keep employees safe by following [prevention guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) in their workplace.\n\nIf you are under quarantine and have had no symptoms, you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine early. If your test is negative and you still have no symptoms, you can return to work.\n\nThe Health Department does **not** issue letters for employees to return to work either.\n\nEmployers should not require a negative test before an employee who had COVID-19 can return to work, because studies show that someone may continue to test positive long after they have recovered and are no longer contagious. Once someone meets the [criteria for ending isolation](https://apps.health.vermont.gov/COVID/faq/#4601), there is no longer a risk of them spreading the virus to others.\n\nThe best way to know when it’s safe for someone who tested positive for COVID-19 to return to work is to follow the guidance based on the presence of symptoms, or the amount of time that has passed since the person was tested. This information is found in the [employer guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf), under “When can employees with COVID-19 return to work?”\n\nFind out [when you can return to work if you were sick with any symptoms of COVID-19](https://apps.health.vermont.gov/COVID/faq/#4743).",
             "source": "Editorial",
             "questions": [
                 "Do I need a negative COVID-19 test result to return to work safely?",
                 "can the Health Department provide documentation that I can go to work?",
                 "can you certify that I can go to work?",
-                "can the Health Department certify that I can go to work?"
+                "can the Health Department certify that I can go to work?",
+                "returning to work after testing positive",
+                "returning to work",
+                "returning to work after quarantine",
+                "safe to return to work",
+                "when can I return to work",
+                "when can I come back to work",
+                "back to work",
+                "employee return to work",
+                "note saying I can come back to work",
+                "When can someone go back to work after having covid-19"
             ],
             "metadata": [
                 {
@@ -5665,17 +5670,12 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4656,
-                        "displayText": "What should businesses protect workers and customers?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4743,
-                        "displayText": "When can a person return to work if they have a symptom or multiple symptoms of COVID-19?"
+                        "displayText": "When can I return to work if I had a symptom or multiple symptoms of COVID-19?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:03:19.917+00:00",
             "isDocumentText": false
         },
         {
@@ -5934,7 +5934,13 @@
             "answer": "**What does “infectious period” mean?**\n\nThe infectious period is the period of time when someone with COVID-19 has a high chance of spreading the virus to others, which means you were contagious. The infectious period starts two days before any symptoms began – or for people with COVID-19 who don't have symptoms, two days before they got tested – and continues [until they have recovered](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nPeople who had close interactions with the person with COVID-19 during this time are at risk and may be considered [close contacts](https://apps.health.vermont.gov/COVID/faq/#4575).",
             "source": "Editorial",
             "questions": [
-                "What does “infectious period” mean?"
+                "What does “infectious period” mean?",
+                "when is someone contagious",
+                "How long is someone contagious",
+                "How long prior to positive test are you contagious",
+                "when are you contagious after being exposed",
+                "How soon after exposure can I become contagious?",
+                "How long before symptoms am I contagious?"
             ],
             "metadata": [
                 {
@@ -5957,7 +5963,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:23:34.056+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:22:37.415+00:00",
             "isDocumentText": false
         },
         {
@@ -6149,7 +6155,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:37:47.103+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:03:19.917+00:00",
             "isDocumentText": false
         },
         {
@@ -6215,7 +6221,8 @@
             "answer": "**How does being indoors with the windows closed affect my risk of getting COVID-19?**\n\nBecause of the nature of how the virus spreads and how it survives, being indoors increases your risk of getting or spreading COVID-19.\n\nThe virus that causes COVID-19 is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537) from person to person, by respiratory droplets when people with COVID-19 cough, sneeze, sing, talk, or breathe.\n\nIt is possible for COVID-19 to be transmitted under certain circumstances when very small respiratory droplets remain airborne. These small particles can infect someone who is more than 6 feet away. This airborne transmission is uncommon, but can happen when inside a building without proper ventilation that has allowed a buildup of respiratory droplets or particles.\n\nIn general, the more people there are in an indoor environment, the more there is a need for ventilation with outdoor air.\n\nThere is going to be some level of risk if you are indoors with people you don’t live with. The level of risk can depend on multiple things, including:\n\n*   **How big the space is** – Larger rooms or areas that allow enough space for everyone to keep a 6-foot distance from others are less of a risk than small rooms or areas that can easily get crowded.\n*   **How many people are in the room or area** – A small number of people reduces your risk compared to many people who are not able to keep a 6-foot distance from others.\n*   **How much ventilation there is** – Open windows and doors for ventilation with outdoor air. If it is too cold outside to open windows, then setting up a fan to pull air out of the room can reduce your risk. However, using a fan to blow air into or around the room or using ceiling fans is not recommended since they could keep the virus in the air for longer.\n*   **How humid the room or area is** - Coronaviruses thrive when the relative humidity is below 40%, which usually happens when buildings are heated during the fall and winter. If you can, run a humidifier to maintain a relative humidity of at least 40% in the room or area where people are gathering.\n*   **What the people are doing in the room or area** – Places where people can continuously wear a mask (for example, a family gathering without food or drink or a library) are less of a risk than places where people might take their masks off (for example, dinner at a friend’s house or a restaurant).\n\nThese are things you can do to keep from getting or spreading COVID-19 any time you are in an indoor environment, whether you are at home or in another building:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more:**\n\n*   [How to increase ventilation in your home](https://www.epa.gov/coronavirus/indoor-air-homes-and-coronavirus-covid-19) from the EPA\n*   [FAQs about indoor air and COVID-19](https://www.epa.gov/coronavirus/frequent-questions-about-indoor-air-and-coronavirus-covid-19) from the EPA\n*   [Improving ventilation in your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/Improving-Ventilation-Home.html) from the CDC\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings) from the CDC\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event) from the CDC",
             "source": "Editorial",
             "questions": [
-                "How does being indoors with the windows closed affect my risk of getting COVID-19?"
+                "How does being indoors with the windows closed affect my risk of getting COVID-19?",
+                "indoor air quality"
             ],
             "metadata": [
                 {
@@ -6234,7 +6241,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:11:21.896+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:51:58.658+00:00",
             "isDocumentText": false
         },
         {
@@ -6519,7 +6526,8 @@
             "answer": "**Can I come to Vermont to ski or snowboard?**\n\nVermont ski areas will open this season under [mandatory health and safety guidelines](https://accd.vermont.gov/content/vermont-ski-resort-covid-19-winter-operations-guidance), which include limits on lift and lodge capacities. If you come to Vermont to ski or snowboard, you must attest that you completed Vermont’s quarantine requirements.\n\nThat means you must [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) for 14 days before coming to Vermont. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. You must remain in quarantine until you travel to Vermont.\n\nYou will also be required to give your contact information to the ski resort in case contact tracing is needed.\n\nYou are required to wear a mask when you are in a lodge and anytime you are in a public space. Try to avoid crowded places as much as possible and stay at least 6 feet away from people you didn’t travel with.\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. This means that visitors to Vermont can only socialize with the people they live with. They cannot gather with Vermonters or with people from another household. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nBe sure to check with the ski resort before you plan your trip to find out any other rules that the resort has.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
-                "Can I come to Vermont to ski or snowboard?"
+                "Can I come to Vermont to ski or snowboard?",
+                "travel to go skiing"
             ],
             "metadata": [
                 {
@@ -6538,7 +6546,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-22T20:21:56.582+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:53:06.599+00:00",
             "isDocumentText": false
         },
         {
@@ -6573,7 +6581,25 @@
             "answer": "**Why are social gatherings prohibited right now?**\n\nVermont has seen a surge in new COVID-19 cases. Data showed that social gatherings, both inside and outside, at homes, bars and social clubs, and among sports teams were driving outbreaks in Vermont. This is why there are restrictions on social gatherings at this time.\n\nThis is what you **cannot** do:\n\n*   You are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. For example, this means you cannot go over to a family member or friend’s house or go to a restaurant with someone you don’t live with.\n*   Visitors to Vermont cannot gather with Vermonters or with people from another household. This includes sharing lodging with another household. Travelers may not stay with a Vermont host or stay in a Vermont lodging establishment or short-term rental with another household. Even if they have completed quarantine, or intend to quarantine with another household, they may not gather with another household in Vermont.\n\nThis is what you **can** do:\n\n*   People who live alone may gather with people who live in one other household.\n*   People can take in and shelter those from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n*   You can do outdoor recreation and fitness activities with people you don’t live with, like biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   Visitors to Vermont can socialize only with the people they live with.\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.\n\nVermont data at this time does not point to dining at restaurants, gyms, or other close contact businesses as drivers of outbreaks, and current safety protocols at these businesses are working. This is why they are remaining open.\n\nWe must all do our part to slow the spread, ensure hospitals are not overwhelmed, help schools continue to offer in-person instruction, and keep as many Vermonters working as possible.\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested as soon as possible after the gathering and then again on day 7. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. \n\nWe know this is difficult, but hope that as Vermonters follow this guidance, and we can return to the low case numbers we had and ease restrictions once again.\n\nRead Governor Scott’s [Executive Order](https://governor.vermont.gov/content/addendum-8-amended-and-restated-executive-order-01-20-0).",
             "source": "Editorial",
             "questions": [
-                "Why are social gatherings prohibited right now?"
+                "Why are social gatherings prohibited right now?",
+                "current multi-household rules",
+                "mixing households",
+                "how many people may gather",
+                "current guidelines about gathering with other households",
+                "indoor gather",
+                "person who lives alone",
+                "gathering limitations",
+                "multi-household gathering",
+                "outdoor gatherings",
+                "single people",
+                "live alone",
+                "single person",
+                "single person household",
+                "current restrictions",
+                "boyfriend",
+                "girlfriend",
+                "household",
+                "What social activities can I do"
             ],
             "metadata": [
                 {
@@ -6596,7 +6622,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:50:01.92+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:19:06.439+00:00",
             "isDocumentText": false
         },
         {
@@ -6756,7 +6782,7 @@
         },
         {
             "id": 4769,
-            "answer": "**Am I eligible to get the COVID-19 vaccine? Can I get on a list?**\n\nThe next phase of vaccination will only be open to **people in Vermont who are 75 years and older**.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who can get the vaccine now and who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
+            "answer": "**Am I eligible to get the COVID-19 vaccine? Can I get on a list?**\n\nThe next phase of vaccination will only be open to **people in Vermont who are 75 years and older**.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
             "source": "Editorial",
             "questions": [
                 "When will the COVID-19 vaccine be available? Can I get on a list?",
@@ -6780,7 +6806,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:08:30.662+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T20:33:10.362+00:00",
             "isDocumentText": false
         },
         {
@@ -6931,7 +6957,10 @@
             "answer": "**What do I do if my COVID-19 test is inconclusive?**\n\nAn “inconclusive” or “indeterminate” result means the test was neither positive nor negative. If you receive a test result that is “inconclusive” or “indeterminate,” the Health Department encourages you to get retested. [Find out where to get tested](https://www.healthvermont.gov/covid-19/testing).",
             "source": "Editorial",
             "questions": [
-                "What do I do if my COVID-19 test is inconclusive?"
+                "What do I do if my COVID-19 test is inconclusive?",
+                "Inconclusive test result",
+                "Inconclusive result",
+                "why get retested for an inconclusive test result"
             ],
             "metadata": [
                 {
@@ -6950,7 +6979,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-04T18:49:12.863+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:06:43.75+00:00",
             "isDocumentText": false
         },
         {
@@ -7012,7 +7041,8 @@
             "answer": "**Does being vaccinated affect my COVID-19 test results?**\n\nNo. The COVID-19 vaccines that are available and the other vaccines currently in clinical trials in the United States will not cause you to test positive on **viral tests**. PCR and antigen tests are viral tests, and will tell you if you are currently infected with the COVID-19 virus.\n\nIf your body develops an immune response, which is what happens when you get vaccinated, there is a possibility you may test positive on some **antibody tests**. Antibody, or serologic, tests measure the body’s immune response to the virus and show that you may have some level of protection against the virus. Experts are currently looking at how getting the COVID-19 vaccine may affect antibody testing results.",
             "source": "Editorial",
             "questions": [
-                "Does being vaccinated affect my COVID-19 test results?"
+                "Does being vaccinated affect my COVID-19 test results?",
+                "If I had the first vaccine will my test results be positive?"
             ],
             "metadata": [
                 {
@@ -7031,15 +7061,23 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:22:52.2+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T13:56:29.968+00:00",
             "isDocumentText": false
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYou will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nFind out [who is eligible to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYou will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
             "source": "Editorial",
             "questions": [
-                "Do I have to be a Vermont resident to get the COVID-19 vaccine?"
+                "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
+                "legal resident of Vermont",
+                "out of state resident testing",
+                "nonresident residing in VT",
+                "Can a non-resident get vaccinated in Vermont?",
+                "Do I have to live in Vermont to get vaccinated?",
+                "vaccine for out of state",
+                "Nonresident vaccinations",
+                "residency eligibility for vaccine"
             ],
             "metadata": [
                 {
@@ -7058,7 +7096,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:09:27.793+00:00",
+            "lastUpdatedTimestamp": "2021-01-20T20:33:46.76+00:00",
             "isDocumentText": false
         },
         {
@@ -7090,6 +7128,278 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-01-15T21:21:32.975+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4782,
+            "answer": "**Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?**\n\n**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you have gotten the vaccine, **you must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). Also, **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
+            "source": "Editorial",
+            "questions": [
+                "Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?",
+                "quarantine and vaccine",
+                "travel and vaccine"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:36:23.085+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4783,
+            "answer": "**How much does the COVID-19 vaccine cost?**\n\nCOVID-19 vaccines are free. COVID-19 vaccines are provided to Vermonters at no cost, even if you don’t have health insurance. The provider that gives you your vaccine may charge an administrative fee to your insurance, but you are guaranteed a COVID-19 vaccine without paying a fee.",
+            "source": "Editorial",
+            "questions": [
+                "How much does the COVID-19 vaccine cost?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:46:10.858+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4784,
+            "answer": "**What are the ingredients in the COVID-19 vaccines?**\n\nThe ingredients in the Pfizer-BioNTech and Moderna COVID-19 vaccines are similar to what is found in other vaccines – both contain the mRNA protein, fats, salts, and sugars. They do not have any fetal tissue, animal products, eggs, gelatin, latex, or preservatives in them.\n\nLearn more about [which vaccines are available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
+            "source": "Editorial",
+            "questions": [
+                "What are the ingredients in the COVID-19 vaccines?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:50:09.866+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4785,
+            "answer": "**I need help getting to my vaccine appointment. Can someone come with me?**\n\nYes, you can have one other person come with you if you need physical assistance to get to your vaccine appointment. You will both have your temperatures taken and will be asked questions to determine if you have any current COVID-19 symptoms. If either of you do, then the symptomatic person won’t be allowed to go any further.\n\nYou will both need to wear masks during your appointment. If you do not have one, there will be masks available at the clinic. If you have trouble breathing, are unable to remove your mask by yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nAll vaccine clinics will be handicap accessible.",
+            "source": "Editorial",
+            "questions": [
+                "I need help getting to my vaccine appointment. Can someone come with me?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:52:23.813+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4786,
+            "answer": "**I am not able to leave my home. How can I get the vaccine?**\n\nWe are currently working on a plan to make sure people who are unable to leave their home can get a COVID-19 vaccine. We hope to work with emergency medical services agencies across Vermont to provide in-home vaccinations to people who need it.\n\nThese in-home vaccine visits haven’t started yet, and probably won’t be ready in the next phase of vaccine distribution, but we are working hard to make this possible and will put more information on our website as soon as possible.",
+            "source": "Editorial",
+            "questions": [
+                "I am not able to leave my home. How can I get the COVID-19 vaccine?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:55:42.46+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4787,
+            "answer": "**How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?**\n\nRegistering online will be the quickest way to make an appointment. If your loved one or someone you care for is 75 years or older, we ask that you help them register online. \n\nIf registering online is not an option, you will be able to make appointments over the phone. The phone number will be shared soon on our website and widely in the news.",
+            "source": "Editorial",
+            "questions": [
+                "How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:57:04.779+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4788,
+            "answer": "**Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?**\n\nNo. Only people who are 75 years and older may make an appointment starting January 25. Your spouse or partner will be able to get their vaccine as soon as their age grouping is eligible. People who are 70 years and older will be the next eligible age group.",
+            "source": "Editorial",
+            "questions": [
+                "Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T20:59:42.433+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4789,
+            "answer": "**What can I expect at my vaccine appointment?**\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a health screening questionnaire.\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  Someone will then watch you for 15 to 30 minutes so you can be watched for any side effects. \n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.",
+            "source": "Editorial",
+            "questions": [
+                "What can I expect at my vaccine appointment?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T21:10:51.994+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4790,
+            "answer": "**Can I make a vaccine appointment for someone else?**\n\nYes, you can make an appointment for your loved one or someone you care for who is 75 years or older, especially if they need help registering online. \n\nYou’ll need to create an account for them on the website first, then log in to make their appointment. You’ll need this information to schedule their appointment:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n*   Health insurance information (helpful but not required)\n\nIf the person getting the vaccine does not live in Vermont, they will be asked if they work in Vermont, get primary care in Vermont, or recently moved to Vermont. If none of these apply, they won’t be able to get vaccinated in Vermont, and should seek a vaccine in the state where they live. \n\nThen, you will answer some medical screening questions:\n\n1.  Have you ever had an immediate allergic reaction to any other vaccine or injectable therapy, an immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]), or an immediate allergic reaction of any severity to polysorbate?\n\n    If the answer is yes, this person cannot get any of the currently available COVID-19 vaccines. They should consider contacting their health care provider if they have questions.\n2.  Are you currently sick with COVID-19 or still in your isolation period following a COVID-19 infection?\n\n    If the answer is yes, the person cannot get a COVID-19 vaccine at this time, but can schedule an appointment at a later date. \n\n3.  Have you received another vaccine in the last 14 days? \n\n4.  Do you have a weakened immune system caused by something such as HIV infection or cancer or do you take immunosuppressive drugs or therapies? \n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n5.  Do you have a bleeding disorder or are you taking a blood thinner?\n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n6.  Are you pregnant? \n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n1.  Are you breastfeeding or lactating?\n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.",
+            "source": "Editorial",
+            "questions": [
+                "Can I make a vaccine appointment for someone else?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T21:12:17.918+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4791,
+            "answer": "**Where can people get vaccinated?**\n\nIn Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. \n\nFor each phase, we will offer vaccines at regional clinics set up by the state. Some vaccines will be available through our partner hospitals, providers, and pharmacies. Our goal will be to administer every available dose each week. We are also collaborating with community organizations and other partners to make sure people who are disproportionately affected by COVID-19, including Black, Indigenous and people of color, have equitable access to the vaccine.",
+            "source": "Editorial",
+            "questions": [
+                "Where can people get vaccinated?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-20T21:23:24.242+00:00",
             "isDocumentText": false
         }
     ]

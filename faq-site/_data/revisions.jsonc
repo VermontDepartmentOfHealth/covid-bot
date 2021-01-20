@@ -190,6 +190,11 @@
                 "question": "What is Vermont doing to plan for the COVID-19 vaccine?",
                 "answerBody": "The Health Department is keeping a close watch on the vaccine development process and put science above all else when it comes to distributing any vaccine in Vermont. The vaccine must meet all Food and Drug Administration (FDA) safety standards, and be recommended by the Advisory Committee on Immunization Practices (ACIP), an independent national advisory committee. All newly developed vaccines will also be monitored continuously for safety. \n\nIn addition to putting safety first, the Health Department is committed to identifying priority groups to get the vaccine, ensuring equitable access to the vaccine, and sharing information with Vermonters as soon as it becomes available. \n\nFind out more about [COVID-19 vaccine planning in Vermont](https://www.healthvermont.gov/covid-19/vaccine/vermont-covid-19-vaccine-planning) and learn more [about the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including more frequently asked questions.\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
                 "date": "2020-12-17"
+            },
+            {
+                "question": "How will I know when I can get my vaccine?",
+                "answerBody": "In Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. \n\nThe Health Department is not keeping a list of eligible people. As each group becomes eligible, we will announce when those people can register for appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
+                "date": "2021-01-20"
             }
         ],
         "deletedDate": null
@@ -8373,6 +8378,11 @@
                 "question": "Why is the Health Department measuring blood oxygen levels in people who test positive for COVID-19?",
                 "answerBody": "People diagnosed with COVID-19 may have below-normal levels of oxygen in their blood before they feel short of breath. Finding low oxygen levels early helps people know that they need to seek medical care sooner. This could make the disease less severe.\n\nThe Health Department has a new program that gives people who have tested positive for COVID-19 a free pulse oximeter to use at home. A pulse oximeter is a small device that clips onto your fingertip to measure your pulse and the oxygen levels in your body.\n\nA Health Department staff member will contact the person who has tested positive for COVID-19 within 48 hours of receiving their lab result. They will ask questions about their symptoms and if they have a pulse oximeter at home. If they do not have one, they will receive one within one to two days. They will then be asked to use it to monitor their oxygen levels throughout the day. The Health Department will continue to regularly contact them over the next couple of days to ask what their oxygen levels were and about any symptoms they may have.",
                 "date": "2020-12-17"
+            },
+            {
+                "question": "Why is the Health Department measuring blood oxygen levels in people who test positive for COVID-19?",
+                "answerBody": "People diagnosed with COVID-19 may have below-normal levels of oxygen in their blood before they feel short of breath. Finding low oxygen levels early helps people know that they need to seek medical care sooner. This could make the disease less severe.\n\nThe Health Department has a new program that gives people who have tested positive for COVID-19 a free pulse oximeter to use at home. A pulse oximeter is a small device that clips onto your fingertip to measure your pulse and the oxygen levels in your body.\n\nA Health Department staff member will contact the person who has tested positive for COVID-19 within 48 hours of receiving their lab result. They will ask questions about their symptoms and if they have a pulse oximeter at home. If they do not have one, they will receive one within one to two days, generally. They will then be asked to use it to monitor their oxygen levels throughout the day. The Health Department will continue to regularly contact them over the next several days to ask what their oxygen levels were and about any symptoms they may have.",
+                "date": "2021-01-20"
             }
         ],
         "deletedDate": null
@@ -8817,6 +8827,11 @@
                 "question": "Do I need a negative COVID-19 test result to return to work safely?",
                 "answerBody": "Proof of a negative test for COVID-19 should **not** be required to return to work if you have been diagnosed with COVID-19 or are under quarantine. Employers can keep employees safe by following [prevention guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) in their work place.\n\nIf you are under quarantine and have had no symptoms, you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine early. If your test is negative and you still have no symptoms, you can return to work.\n\nThe Health Department does **not** issue letters for employees to return to work either.\n\nEmployers should not require a negative test before an employee who had COVID-19 can return to work, because studies show that someone may continue to test positive long after they have recovered and are no longer contagious. Once someone meets the [criteria for ending isolation](https://apps.health.vermont.gov/COVID/faq/#4601), there is no longer a risk of them spreading the virus to others.\n\nThe best way to know when it’s safe for someone who tested positive for COVID-19 to return to work is to follow guidance based on the presence of symptoms, or the amount of time that has passed since the person was tested. This information is found in the [employer guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf), under “When can employees with COVID-19 return to work?”",
                 "date": "2021-01-07"
+            },
+            {
+                "question": "Do I need a negative COVID-19 test result to return to work safely?",
+                "answerBody": "Proof of a negative test for COVID-19 should **not** be required to return to work if you have been diagnosed with COVID-19 or are under quarantine. Employers can keep employees safe by following [prevention guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) in their workplace.\n\nIf you are under quarantine and have had no symptoms, you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine early. If your test is negative and you still have no symptoms, you can return to work.\n\nThe Health Department does **not** issue letters for employees to return to work either.\n\nEmployers should not require a negative test before an employee who had COVID-19 can return to work, because studies show that someone may continue to test positive long after they have recovered and are no longer contagious. Once someone meets the [criteria for ending isolation](https://apps.health.vermont.gov/COVID/faq/#4601), there is no longer a risk of them spreading the virus to others.\n\nThe best way to know when it’s safe for someone who tested positive for COVID-19 to return to work is to follow the guidance based on the presence of symptoms, or the amount of time that has passed since the person was tested. This information is found in the [employer guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf), under “When can employees with COVID-19 return to work?”\n\nFind out [when you can return to work if you were sick with any symptoms of COVID-19](https://apps.health.vermont.gov/COVID/faq/#4743).",
+                "date": "2021-01-20"
             }
         ],
         "deletedDate": null
@@ -9956,6 +9971,11 @@
                 "question": "Am I eligible to get the COVID-19 vaccine? Can I get on a list?",
                 "answerBody": "The next phase of vaccination will only be open to **people in Vermont who are 75 years and older**.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who can get the vaccine now and who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
                 "date": "2021-01-15"
+            },
+            {
+                "question": "Am I eligible to get the COVID-19 vaccine? Can I get on a list?",
+                "answerBody": "The next phase of vaccination will only be open to **people in Vermont who are 75 years and older**.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
+                "date": "2021-01-20"
             }
         ],
         "deletedDate": null
@@ -10101,6 +10121,11 @@
                 "question": "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
                 "answerBody": "You will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nFind out [who is eligible to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
                 "date": "2021-01-15"
+            },
+            {
+                "question": "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
+                "answerBody": "You will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
+                "date": "2021-01-20"
             }
         ],
         "deletedDate": null
@@ -10112,6 +10137,116 @@
                 "question": "When can I register to get the COVID-19 vaccine? How can I register?",
                 "answerBody": "The next phase of vaccination will only be open to people in Vermont who are 75 years and older.\n\n**Starting January 25, people in Vermont who are 75 years and older can make an appointment to get a COVID-19** **vaccine**. Vaccine clinics will start on January 27. People can register for appointments online. If they are not able to register online, they can call a phone number.\n\nThe website and phone number will be announced on or before January 25. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how to register for an appointment.\n\nYou will not be able to make an appointment by calling any other Health Department phone number. Please do not call your health care provider or hospital for vaccine appointments.\n\nIf you have questions about getting the vaccine, talk to your health care provider.\n\nYou can stay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly.",
                 "date": "2021-01-15"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4782,
+        "revisions": [
+            {
+                "question": "Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?",
+                "answerBody": "**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you have gotten the vaccine, **you must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). Also, **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4783,
+        "revisions": [
+            {
+                "question": "How much does the COVID-19 vaccine cost?",
+                "answerBody": "COVID-19 vaccines are free. COVID-19 vaccines are provided to Vermonters at no cost, even if you don’t have health insurance. The provider that gives you your vaccine may charge an administrative fee to your insurance, but you are guaranteed a COVID-19 vaccine without paying a fee.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4784,
+        "revisions": [
+            {
+                "question": "What are the ingredients in the COVID-19 vaccines?",
+                "answerBody": "The ingredients in the Pfizer-BioNTech and Moderna COVID-19 vaccines are similar to what is found in other vaccines – both contain the mRNA protein, fats, salts, and sugars. They do not have any fetal tissue, animal products, eggs, gelatin, latex, or preservatives in them.\n\nLearn more about [which vaccines are available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4785,
+        "revisions": [
+            {
+                "question": "I need help getting to my vaccine appointment. Can someone come with me?",
+                "answerBody": "Yes, you can have one other person come with you if you need physical assistance to get to your vaccine appointment. You will both have your temperatures taken and will be asked questions to determine if you have any current COVID-19 symptoms. If either of you do, then the symptomatic person won’t be allowed to go any further.\n\nYou will both need to wear masks during your appointment. If you do not have one, there will be masks available at the clinic. If you have trouble breathing, are unable to remove your mask by yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nAll vaccine clinics will be handicap accessible.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4786,
+        "revisions": [
+            {
+                "question": "I am not able to leave my home. How can I get the vaccine?",
+                "answerBody": "We are currently working on a plan to make sure people who are unable to leave their home can get a COVID-19 vaccine. We hope to work with emergency medical services agencies across Vermont to provide in-home vaccinations to people who need it.\n\nThese in-home vaccine visits haven’t started yet, and probably won’t be ready in the next phase of vaccine distribution, but we are working hard to make this possible and will put more information on our website as soon as possible.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4787,
+        "revisions": [
+            {
+                "question": "How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?",
+                "answerBody": "Registering online will be the quickest way to make an appointment. If your loved one or someone you care for is 75 years or older, we ask that you help them register online. \n\nIf registering online is not an option, you will be able to make appointments over the phone. The phone number will be shared soon on our website and widely in the news.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4788,
+        "revisions": [
+            {
+                "question": "Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?",
+                "answerBody": "No. Only people who are 75 years and older may make an appointment starting January 25. Your spouse or partner will be able to get their vaccine as soon as their age grouping is eligible. People who are 70 years and older will be the next eligible age group.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4789,
+        "revisions": [
+            {
+                "question": "What can I expect at my vaccine appointment?",
+                "answerBody": "You will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a health screening questionnaire.\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  Someone will then watch you for 15 to 30 minutes so you can be watched for any side effects. \n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4790,
+        "revisions": [
+            {
+                "question": "Can I make a vaccine appointment for someone else?",
+                "answerBody": "Yes, you can make an appointment for your loved one or someone you care for who is 75 years or older, especially if they need help registering online. \n\nYou’ll need to create an account for them on the website first, then log in to make their appointment. You’ll need this information to schedule their appointment:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n*   Health insurance information (helpful but not required)\n\nIf the person getting the vaccine does not live in Vermont, they will be asked if they work in Vermont, get primary care in Vermont, or recently moved to Vermont. If none of these apply, they won’t be able to get vaccinated in Vermont, and should seek a vaccine in the state where they live. \n\nThen, you will answer some medical screening questions:\n\n1.  Have you ever had an immediate allergic reaction to any other vaccine or injectable therapy, an immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]), or an immediate allergic reaction of any severity to polysorbate?\n\n    If the answer is yes, this person cannot get any of the currently available COVID-19 vaccines. They should consider contacting their health care provider if they have questions.\n2.  Are you currently sick with COVID-19 or still in your isolation period following a COVID-19 infection?\n\n    If the answer is yes, the person cannot get a COVID-19 vaccine at this time, but can schedule an appointment at a later date. \n\n3.  Have you received another vaccine in the last 14 days? \n\n4.  Do you have a weakened immune system caused by something such as HIV infection or cancer or do you take immunosuppressive drugs or therapies? \n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n5.  Do you have a bleeding disorder or are you taking a blood thinner?\n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n6.  Are you pregnant? \n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n1.  Are you breastfeeding or lactating?\n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.",
+                "date": "2021-01-20"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4791,
+        "revisions": [
+            {
+                "question": "Where can people get vaccinated?",
+                "answerBody": "In Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. \n\nFor each phase, we will offer vaccines at regional clinics set up by the state. Some vaccines will be available through our partner hospitals, providers, and pharmacies. Our goal will be to administer every available dose each week. We are also collaborating with community organizations and other partners to make sure people who are disproportionately affected by COVID-19, including Black, Indigenous and people of color, have equitable access to the vaccine.",
+                "date": "2021-01-20"
             }
         ],
         "deletedDate": null
