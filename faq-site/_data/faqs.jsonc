@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-20T21:23:24.242+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T21:00:22.585+00:00",
             "isDocumentText": false
         },
         {
@@ -148,12 +148,18 @@
             "source": "KB-COVID",
             "questions": [
                 "How will I know when I can get my vaccine?",
-                "how will I be notified"
+                "how will I be notified",
+                "How will I be notified when it's my turn?",
+                "How will I be notified when it's my turn to be vaccinated"
             ],
             "metadata": [
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -167,7 +173,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:48:32.619+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:45:45.578+00:00",
             "isDocumentText": false
         },
         {
@@ -619,7 +625,7 @@
         },
         {
             "id": 4547,
-            "answer": "**When will I receive my test results?**\n\nTest results will be available typically within 3 business days. Find out what to do while you’re [waiting for your test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nHow you receive results varies depending on where you were tested.\n\nIf you were tested at a **Health Department testing site** (for people without symptoms) and:\n\n*   you requested an electronic result, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result. You will not receive a letter.\n*   you requested a letter, you can expect to receive it within 7 business days. If you also provided an email address, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result.\n*   If you do not have a COVID-19 testing account (you attended the testing event as a walk-in) a patient ID was created for you and sent to the email you provided. You will need to use the link in the email to confirm your patient ID. Once you confirm the patient ID, you can [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) and view your test results once they are available, which will be within 3 business days.\n\nThe Health Department only uses a PCR test. We cannot guarantee that you will receive your results in less than 3 business days. We also cannot accommodate special requests for receiving test results. Find the list of [Health Department testing sites](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have a positive result, our contact tracing team will talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.\n\nIf you got **tested anywhere else**, the Health Department cannot provide your results. Please contact your health care provider if they ordered the test, or the facility that conducted the test.\n\nIf you were tested **before an inpatient or outpatient procedure**, you will receive your test results before your procedure from the health care provider who is doing the procedure.\n\n**If you received a positive result**, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.",
+            "answer": "**When will I receive my test results?**\n\nTest results will be available typically within 3 business days. Business days are Monday through Friday. If you were tested on a Wednesday, Thursday or Friday, your results may not be posted until the following week. Holidays are not considered business days. Find out what to do while you’re [waiting for your test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nHow you receive results varies depending on where you were tested.\n\nIf you were tested at a **Health Department testing site** (for people without symptoms) and:\n\n*   you requested an electronic result, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result. You will not receive a letter.\n*   you requested a letter, you can expect to receive it within 7 business days. If you also provided an email address, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result.\n*   If you do not have a COVID-19 testing account (you attended the testing event as a walk-in) a patient ID was created for you and sent to the email you provided. You will need to use the link in the email to confirm your patient ID. Once you confirm the patient ID, you can [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) and view your test results once they are available, which will be within 3 business days.\n\nThe Health Department only uses a PCR test. We cannot guarantee that you will receive your results in less than 3 business days. We also cannot accommodate special requests for receiving test results or rush results. Find the list of [Health Department testing sites](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have a positive result, our contact tracing team will talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.\n\nIf you got **tested anywhere else**, the Health Department cannot provide your results. Please contact your health care provider if they ordered the test, or the facility that conducted the test.\n\nIf you were tested **before an inpatient or outpatient procedure**, you will receive your test results before your procedure from the health care provider who is doing the procedure.\n\n**If you received a positive result**, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.",
             "source": "KB-COVID",
             "questions": [
                 "How long after I get tested will I know if I'm sick?",
@@ -663,7 +669,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:10:51.201+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:58:35.116+00:00",
             "isDocumentText": false
         },
         {
@@ -811,12 +817,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:09:37.85+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:23:03.262+00:00",
             "isDocumentText": false
         },
         {
             "id": 4559,
-            "answer": "**Are there any recommendations for older adults and people of any age with underlying medical conditions?**\n\nAccording to the CDC, the risk for severe illness from COVID-19 increases with age, with [older adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html) at highest risk, and is higher for people of any age with [certain underlying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fneed-extra-precautions%2Fgroups-at-higher-risk.html). Severe illness means that the person with COVID-19 may require hospitalization, intensive care, or a ventilator to help them breathe, or they may even die.\n\nIf you are in one of these groups, take these extra precautions in addition to the [COVID-19 prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19):\n\n*   Stay close to home as much as possible. Traveling out of state is not recommended since the virus is still widespread in neighboring states and across the country.\n*   Be aware of your surroundings. Choose outdoor settings over indoor settings. Pay attention to the size of the space, crowding, the number of people there, and if they are wearing face coverings and keeping a 6-foot distance.\n*   Choose activities that don’t require close contact. Minimize close contact while talking or doing anything that requires exertion, shouting or singing.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n\nIf you’re looking for the latest information about who can get the vaccine now, where and when people will be vaccinated, visit [healthvermont.gov/covid19-vaccines](http://healthvermont.gov/covid19-vaccines). Check back often, as we update this web page with new information. And [sign up for our Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19) to stay up to date.\n\nThe CDC recommends [other populations](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations.html) also take extra precautions, like pregnant people, people experiencing homelessness, and people with disabilities.",
+            "answer": "**Are there any recommendations for older adults and people of any age with underlying medical conditions?**\n\nFind information about [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont) and [frequently asked questions about vaccines](https://apps.health.vermont.gov/COVID/faq/#vaccine).\n\nAccording to the CDC, the risk for severe illness from COVID-19 increases with age, with [older adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html) at highest risk, and is higher for people of any age with [certain underlying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fneed-extra-precautions%2Fgroups-at-higher-risk.html). Severe illness means that the person with COVID-19 may require hospitalization, intensive care, or a ventilator to help them breathe, or they may even die.\n\nIf you are in one of these groups, take these extra precautions in addition to the [COVID-19 prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19):\n\n*   Stay close to home as much as possible. Traveling out of state is not recommended since the virus is still widespread in neighboring states and across the country.\n*   Be aware of your surroundings. Choose outdoor settings over indoor settings. Pay attention to the size of the space, crowding, the number of people there, and if they are wearing face coverings and keeping a 6-foot distance.\n*   Choose activities that don’t require close contact. Minimize close contact while talking or doing anything that requires exertion, shouting or singing.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n\nThe CDC recommends [other populations](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations.html) also take extra precautions, like pregnant people, people experiencing homelessness, and people with disabilities.",
             "source": "KB-COVID",
             "questions": [
                 "seniors",
@@ -835,12 +841,9 @@
                 "Who is vulnerable",
                 "Shingles",
                 "people over 65 ",
-                "people over 65",
                 "with health problems",
                 "work at 65",
                 "Are there any recommendations for older adults and people of any age with underlying medical conditions?",
-                "I'm 70 should I go back to work",
-                "I am 78 & have asthma",
                 "rules for senior citizens"
             ],
             "metadata": [
@@ -858,23 +861,18 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4558,
-                        "displayText": "What should people in long-term care facilities or group homes do?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4596,
-                        "displayText": "Is it safe to go grocery shopping?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4558,
+                        "displayText": "What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:27:16.951+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:23:03.262+00:00",
             "isDocumentText": false
         },
         {
@@ -943,7 +941,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T13:37:39.383+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:38:55.112+00:00",
             "isDocumentText": false
         },
         {
@@ -1163,7 +1161,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-14T15:00:45.121+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:38:55.112+00:00",
             "isDocumentText": false
         },
         {
@@ -1678,7 +1676,8 @@
                 "How should I prepare?",
                 "What should I be doing to prepare?",
                 "what can I do to protect myself and my family?",
-                "Everyday preventive measures "
+                "Everyday preventive measures ",
+                "precautions at home"
             ],
             "metadata": [
                 {
@@ -1701,7 +1700,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T20:04:11.806+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:32:17.517+00:00",
             "isDocumentText": false
         },
         {
@@ -2083,7 +2082,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:27:16.951+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:21:54.124+00:00",
             "isDocumentText": false
         },
         {
@@ -2826,7 +2825,8 @@
                 "Can I go grocery shopping while quarantined ",
                 "When is quarantining necessary",
                 "if you are near someone with covid",
-                "What is quarantine?"
+                "What is quarantine?",
+                "How long to quarantine"
             ],
             "metadata": [
                 {
@@ -2855,20 +2855,10 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4560,
-                        "displayText": "What do I do if I think I had close contact with someone who has COVID-19?"
-                    },
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4718,
-                        "displayText": "I have a different question on the topic of travel."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T19:39:10.571+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:38:55.112+00:00",
             "isDocumentText": false
         },
         {
@@ -3350,7 +3340,8 @@
                 "visit state parks",
                 "indoor recreational sports",
                 "outside sport event",
-                "recreational sports"
+                "recreational sports",
+                "sledding"
             ],
             "metadata": [
                 {
@@ -3374,7 +3365,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T13:30:57.861+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:30:38.297+00:00",
             "isDocumentText": false
         },
         {
@@ -4750,7 +4741,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T13:30:57.861+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:30:38.297+00:00",
             "isDocumentText": false
         },
         {
@@ -5412,7 +5403,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:57.193+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:38:55.112+00:00",
             "isDocumentText": false
         },
         {
@@ -6599,7 +6590,8 @@
                 "boyfriend",
                 "girlfriend",
                 "household",
-                "What social activities can I do"
+                "What social activities can I do",
+                "public gathering limitations"
             ],
             "metadata": [
                 {
@@ -6622,7 +6614,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T13:19:06.439+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:31:27.483+00:00",
             "isDocumentText": false
         },
         {
@@ -6793,6 +6785,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6806,7 +6802,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:33:10.362+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:10:01.729+00:00",
             "isDocumentText": false
         },
         {
@@ -6814,7 +6810,8 @@
             "answer": "**I had COVID-19, received a positive antibody test, or got a COVID-19 vaccine. Does that mean I am exempt from the travel quarantine or social gathering requirements?**\n\nThe Governor’s executive orders do not exempt people who had COVID-19, received a positive antibody test, or got the COVID-19 vaccine. This means that even if you had COVID-19, received a positive antibody test, or got a COVID-19 vaccine, **you must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). This also means that **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt is not yet known if [people who recover from COVID-19](https://apps.health.vermont.gov/COVID/faq/#4602) can get infected again. There are no confirmed reports to date of a person being reinfected with COVID-19 within three months of initial infection.\n\nAdditionally, if you have received a [positive antibody test](https://apps.health.vermont.gov/COVID/faq/#4654), that does not mean you have “proof of immunity” from COVID-19.\n\nIt is also not yet known if people who get a COVID-19 vaccine can still infect others with the virus. Find up-to-date information [about the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nCurrently, we recommend that everyone, including people who had COVID-19, received a positive antibody test, or got the COVID-19 vaccine continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.",
             "source": "Editorial",
             "questions": [
-                "I had COVID-19, received a positive antibody test, or got a COVID-19 vaccine. Does that mean I am exempt from the travel quarantine or social gathering requirements?"
+                "I had COVID-19, received a positive antibody test, or got a COVID-19 vaccine. Does that mean I am exempt from the travel quarantine or social gathering requirements?",
+                "Can I travel to Vermont if I'm vaccinated?"
             ],
             "metadata": [
                 {
@@ -6833,7 +6830,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:57:11.84+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:35:42.299+00:00",
             "isDocumentText": false
         },
         {
@@ -6930,12 +6927,17 @@
             "answer": "**Where can I find the most current information about the COVID-19 vaccine in Vermont?**\n\nStay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly. And [sign up for our Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19) to stay up to date.\n\nWhile we wait for the vaccine to become more widely available to Vermonters, we all must continue to keep up our [prevention practices](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), which are still the best protection from getting and spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nThe Health Department also strongly recommends that everyone age 6 months and older get their flu shot. The flu vaccine is available in your doctor’s office and at pharmacies around the state. This will help prevent the potential harm of getting the flu and COVID-19 – at the same time or in succession. [Learn more about the flu and find a flu shot](https://www.healthvermont.gov/immunizations-infectious-disease/influenza/prevention).",
             "source": "Editorial",
             "questions": [
-                "Where can I find the most current information about the COVID-19 vaccine in Vermont?"
+                "Where can I find the most current information about the COVID-19 vaccine in Vermont?",
+                "How do I sign up for vaccine alerts? "
             ],
             "metadata": [
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "sort",
+                    "value": "1"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -6949,7 +6951,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:09:59.415+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:36:55.366+00:00",
             "isDocumentText": false
         },
         {
@@ -6984,7 +6986,7 @@
         },
         {
             "id": 4776,
-            "answer": "**How many people have been vaccinated in Vermont?**\n\nYou can find information about Vermont’s COVID-19 vaccination progress on the [COVID-19 Vaccine Dashboard](https://www.healthvermont.gov/covid-19/vaccine/covid-19-vaccine-dashboard), including how many people got their first dose and how many people completed both doses. The dashboard will be updated every day.",
+            "answer": "**How many people have been vaccinated in Vermont?**\n\nYou can find information about Vermont’s COVID-19 vaccination progress on the [COVID-19 Vaccine Dashboard](https://www.healthvermont.gov/covid-19/vaccine/covid-19-vaccine-dashboard), including how many vaccine doses Vermont received from the federal government, how many people got their first dose, and how many people completed both doses. The dashboard is updated Tuesdays through Saturdays.",
             "source": "Editorial",
             "questions": [
                 "How many people have been vaccinated in Vermont?"
@@ -7006,12 +7008,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:24:34.45+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:03:06.54+00:00",
             "isDocumentText": false
         },
         {
             "id": 4777,
-            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, they emerge and persist. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.\n\nAccording to the CDC, multiple COVID-19 variants are circulating globally. In the United Kingdom (UK), a new variant has emerged with an unusually large number of mutations. It has since been detected in numerous countries around the world, including the United States and Canada. \n\nIn South Africa, another one has emerged independently of the one detected in the UK. Both of these variants seem to spread more easily and quickly than others. \n\nAnother variant recently emerged in Nigeria, which the CDC is also monitoring.\n\nCurrently, **there is no evidence that these variants cause more severe illness or increased risk of death**.\n\nInformation about the new COVID-19 variants is rapidly emerging. Scientists are working to learn more about how easily they might spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, they emerge and persist. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.\n\nAccording to the CDC, multiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. The UK variant, called B.1.1.7, has been detected in numerous countries around the world, including the United States and Canada.\n\nCurrently, **there is no evidence that these variants cause more severe illness or increased risk of death**. These variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19.\n\nInformation about the new COVID-19 variants is rapidly emerging. Scientists are working to learn more about how easily they might spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?"
@@ -7033,7 +7035,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T17:33:49.281+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:29:42.05+00:00",
             "isDocumentText": false
         },
         {
@@ -7066,7 +7068,7 @@
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYou will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIdentification is not required to make or go to a vaccine appointment.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
@@ -7083,6 +7085,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7096,7 +7102,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:33:46.76+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:11:47.859+00:00",
             "isDocumentText": false
         },
         {
@@ -7104,12 +7110,24 @@
             "answer": "**When can I register to get the COVID-19 vaccine? How can I register?**\n\nThe next phase of vaccination will only be open to people in Vermont who are 75 years and older.\n\n**Starting January 25, people in Vermont who are 75 years and older can make an appointment to get a COVID-19** **vaccine**. Vaccine clinics will start on January 27. People can register for appointments online. If they are not able to register online, they can call a phone number.\n\nThe website and phone number will be announced on or before January 25. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how to register for an appointment.\n\nYou will not be able to make an appointment by calling any other Health Department phone number. Please do not call your health care provider or hospital for vaccine appointments.\n\nIf you have questions about getting the vaccine, talk to your health care provider.\n\nYou can stay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly.",
             "source": "Editorial",
             "questions": [
-                "When can I register to get the COVID-19 vaccine? How can I register?"
+                "When can I register to get the COVID-19 vaccine? How can I register?",
+                "when can I get a vaccine",
+                "how do I get a covid vaccine?",
+                "how to get a vaccination",
+                "How do I sign up for vaccine?",
+                "is there a sign up for vaccines",
+                "vaccine available",
+                "register for a vaccine",
+                "registration for vaccine"
             ],
             "metadata": [
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
                 },
                 {
                     "name": "sort",
@@ -7127,7 +7145,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-15T21:21:32.975+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:43:43.34+00:00",
             "isDocumentText": false
         },
         {
@@ -7224,6 +7242,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7237,7 +7259,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:52:23.813+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:18:31.714+00:00",
             "isDocumentText": false
         },
         {
@@ -7251,6 +7273,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7264,7 +7290,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:55:42.46+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:17:52.903+00:00",
             "isDocumentText": false
         },
         {
@@ -7278,6 +7304,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7291,7 +7321,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:57:04.779+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:17:26.093+00:00",
             "isDocumentText": false
         },
         {
@@ -7305,6 +7335,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7318,7 +7352,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:59:42.433+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:10:36.097+00:00",
             "isDocumentText": false
         },
         {
@@ -7332,6 +7366,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7345,7 +7383,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T21:10:51.994+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:19:01.193+00:00",
             "isDocumentText": false
         },
         {
@@ -7359,6 +7397,10 @@
                 {
                     "name": "category",
                     "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -7372,7 +7414,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T21:12:17.918+00:00",
+            "lastUpdatedTimestamp": "2021-01-21T20:14:56.968+00:00",
             "isDocumentText": false
         },
         {
@@ -7400,6 +7442,176 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-01-20T21:23:24.242+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4792,
+            "answer": "**I have allergies. Should I get vaccinated?**\n\nIf you have had an **immediate allergic reaction** – even if it was not severe – to a vaccine or injectable therapy for another disease, ask your health care provider if you should get a COVID-19 vaccine. Your health care provider will help you decide if it is safe for you to get vaccinated.\n\nIf you have a **history of severe allergic reactions** that are **not** related to vaccines or injectable medications—such as food, pet, venom, environmental or latex allergies—you may get vaccinated.\n\nIf you have a **history of allergies to oral medications** or a family history of severe allergic reactions may also get vaccinated.\n\nIf you are **allergic to PEG or polysorbate**, you should **not** get an mRNA COVID-19 vaccine, like the Pfizer-BioNTech and Moderna vaccines.",
+            "source": "Editorial",
+            "questions": [
+                "I have allergies. Should I get vaccinated?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-21T20:04:27.616+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4793,
+            "answer": "**I am pregnant or breastfeeding. Should I get vaccinated?**\n\nBased on how mRNA vaccines work, experts believe they are unlikely to pose a specific risk for people who are pregnant. However, the actual risks of mRNA vaccines to the pregnant person and their fetus are unknown because these vaccines have not been studied in pregnant people. Pregnant people have a slightly [higher risk for poor outcomes](https://www.healthvermont.gov/covid-19/protect-yourself-others/people-higher-risk), as do their fetuses, with COVID-19 infection. Studies are on-going.\n\nIf you are pregnant and part of a group who is recommended to receive the vaccine (for example, health care personnel), you may choose to be vaccinated. The CDC and other professional organizations recommend that you consult with your health care provider.",
+            "source": "Editorial",
+            "questions": [
+                "I am pregnant or breastfeeding. Should I get vaccinated?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-21T20:06:36.54+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4794,
+            "answer": "**Should I be vaccinated if I have or had COVID-19?**\n\nIf you **had COVID-19 and are not** [**recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to defer for up to 90 days. Evidence suggests that getting infected again in 90 days after is uncommon. \n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated. \n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
+            "source": "Editorial",
+            "questions": [
+                "Should I be vaccinated if I have or had COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-21T20:07:41.904+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4795,
+            "answer": "**Should I get the vaccine if I have a medical condition?**\n\nIn clinical studies, COVID-19 vaccines were just as effective for people with and without medical conditions. In fact, people with some conditions are more likely to get very sick if they get COVID-19, so getting vaccinated could be even more important. If you are unsure if you should get the vaccine, talk to your health care provider about any conditions you have. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nLearn more about what you should do [if you have allergies](https://apps.health.vermont.gov/COVID/faq/#4792) or are [pregnant or breastfeeding](https://apps.health.vermont.gov/COVID/faq/#4793).",
+            "source": "Editorial",
+            "questions": [
+                "Should I get the vaccine if I have a medical condition?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-21T21:00:22.585+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4796,
+            "answer": "**When will the next group be eligible for a vaccine?**\n\nWe still have a very limited number of doses we receive each week. The number we receive each week can change. Vaccinations for those who are age 75 and older will begin on January 27 and include about 49,000 Vermonters. This will likely take about 6 weeks or more to complete. **Because this estimate is based on the number of doses we receive, it could change.**",
+            "source": "Editorial",
+            "questions": [
+                "When will the next group be eligible for a vaccine?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-21T20:52:28.369+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4797,
+            "answer": "**Do I need to bring identification to my vaccine appointment?**\n\nNo. Identification is not required to make or go to a vaccine appointment.\n\nWhen you sign up for your appointment, you will be asked to provide your:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n*   Health insurance information (helpful but not required)\n\nLearn more about if [you are not a Vermont resident](https://apps.health.vermont.gov/COVID/faq/#4780).",
+            "source": "Editorial",
+            "questions": [
+                "Do I need to bring identification to my vaccine appointment?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-01-21T20:16:45.692+00:00",
             "isDocumentText": false
         }
     ]
