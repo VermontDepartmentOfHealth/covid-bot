@@ -10285,7 +10285,7 @@
                 "date": "2021-01-21"
             }
         ],
-        "deletedDate": null
+        "deletedDate": "2021-01-22"
     },
     {
         "id": 4793,
@@ -10305,6 +10305,11 @@
                 "question": "Should I be vaccinated if I have or had COVID-19?",
                 "answerBody": "If you **had COVID-19 and are not** [**recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to defer for up to 90 days. Evidence suggests that getting infected again in 90 days after is uncommon. \n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated. \n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
                 "date": "2021-01-21"
+            },
+            {
+                "question": "Should I be vaccinated if I have or had COVID-19?",
+                "answerBody": "If you **had COVID-19 and** [**are recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to defer for up to 90 days. Evidence suggests that getting infected again in 90 days after is uncommon.\n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated.\n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
+                "date": "2021-01-22"
             }
         ],
         "deletedDate": null

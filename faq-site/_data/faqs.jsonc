@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-21T21:00:22.585+00:00",
+            "lastUpdatedTimestamp": "2021-01-22T14:43:04.547+00:00",
             "isDocumentText": false
         },
         {
@@ -7445,33 +7445,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4792,
-            "answer": "**I have allergies. Should I get vaccinated?**\n\nIf you have had an **immediate allergic reaction** – even if it was not severe – to a vaccine or injectable therapy for another disease, ask your health care provider if you should get a COVID-19 vaccine. Your health care provider will help you decide if it is safe for you to get vaccinated.\n\nIf you have a **history of severe allergic reactions** that are **not** related to vaccines or injectable medications—such as food, pet, venom, environmental or latex allergies—you may get vaccinated.\n\nIf you have a **history of allergies to oral medications** or a family history of severe allergic reactions may also get vaccinated.\n\nIf you are **allergic to PEG or polysorbate**, you should **not** get an mRNA COVID-19 vaccine, like the Pfizer-BioNTech and Moderna vaccines.",
-            "source": "Editorial",
-            "questions": [
-                "I have allergies. Should I get vaccinated?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-01-21T20:04:27.616+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4793,
             "answer": "**I am pregnant or breastfeeding. Should I get vaccinated?**\n\nBased on how mRNA vaccines work, experts believe they are unlikely to pose a specific risk for people who are pregnant. However, the actual risks of mRNA vaccines to the pregnant person and their fetus are unknown because these vaccines have not been studied in pregnant people. Pregnant people have a slightly [higher risk for poor outcomes](https://www.healthvermont.gov/covid-19/protect-yourself-others/people-higher-risk), as do their fetuses, with COVID-19 infection. Studies are on-going.\n\nIf you are pregnant and part of a group who is recommended to receive the vaccine (for example, health care personnel), you may choose to be vaccinated. The CDC and other professional organizations recommend that you consult with your health care provider.",
             "source": "Editorial",
@@ -7500,7 +7473,7 @@
         },
         {
             "id": 4794,
-            "answer": "**Should I be vaccinated if I have or had COVID-19?**\n\nIf you **had COVID-19 and are not** [**recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to defer for up to 90 days. Evidence suggests that getting infected again in 90 days after is uncommon. \n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated. \n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
+            "answer": "**Should I be vaccinated if I have or had COVID-19?**\n\nIf you **had COVID-19 and** [**are recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to defer for up to 90 days. Evidence suggests that getting infected again in 90 days after is uncommon.\n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated.\n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
             "source": "Editorial",
             "questions": [
                 "Should I be vaccinated if I have or had COVID-19?"
@@ -7522,7 +7495,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-21T20:07:41.904+00:00",
+            "lastUpdatedTimestamp": "2021-01-22T14:43:04.547+00:00",
             "isDocumentText": false
         },
         {
