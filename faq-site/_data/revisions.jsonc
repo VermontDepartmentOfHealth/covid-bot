@@ -195,6 +195,11 @@
                 "question": "How will I know when I can get my vaccine?",
                 "answerBody": "In Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. \n\nThe Health Department is not keeping a list of eligible people. As each group becomes eligible, we will announce when those people can register for appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "How will I know when I can get my vaccine?",
+                "answerBody": "In Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated.\n\nIn the current phase, people who are 75 years and older and live, work, or access primary health care in Vermont are eligible to get a vaccine. \n\nIn addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how people who are eligible can make an appointment.\n\nThe Health Department is not keeping a list of eligible people. As each group becomes eligible, we will announce when those people can register for appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -9986,6 +9991,11 @@
                 "question": "Am I eligible to get the COVID-19 vaccine? Can I get on a list?",
                 "answerBody": "The next phase of vaccination will only be open to **people in Vermont who are 75 years and older**.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "Am I eligible to get the COVID-19 vaccine? Can I get on a list?",
+                "answerBody": "**People who are 75 years and older and live, work, or access primary health care in Vermont** are now eligible to get a vaccine. [Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). \n\nIf you are eligible, talk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently.\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10151,6 +10161,11 @@
                 "question": "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
                 "answerBody": "Yes. You will need to provide your primary address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIdentification is not required to make or go to a vaccine appointment.\n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
                 "date": "2021-01-21"
+            },
+            {
+                "question": "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
+                "answerBody": "Yes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIdentification is not required to make or go to a vaccine appointment.\n\n**People who are 75 years and older and live, work, or access primary health care in Vermont** are now eligible to get a vaccine. [Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). \n\nFind out [who will be eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10162,6 +10177,11 @@
                 "question": "When can I register to get the COVID-19 vaccine? How can I register?",
                 "answerBody": "The next phase of vaccination will only be open to people in Vermont who are 75 years and older.\n\n**Starting January 25, people in Vermont who are 75 years and older can make an appointment to get a COVID-19** **vaccine**. Vaccine clinics will start on January 27. People can register for appointments online. If they are not able to register online, they can call a phone number.\n\nThe website and phone number will be announced on or before January 25. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how to register for an appointment.\n\nYou will not be able to make an appointment by calling any other Health Department phone number. Please do not call your health care provider or hospital for vaccine appointments.\n\nIf you have questions about getting the vaccine, talk to your health care provider.\n\nYou can stay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly.",
                 "date": "2021-01-15"
+            },
+            {
+                "question": "When can I register to get the COVID-19 vaccine? How do I sign up?",
+                "answerBody": "The current phase of vaccination is only for **people who are 75 years and older and live, work, or access primary health care in Vermont**. Appointments are required, and clinics won't be able to accept walk-ins.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). Please **double check to make sure your email address is correct** **when creating your account**. If you enter an incorrect email address, you will not receive a link to make your appointment.\n\nIf you are eligible, talk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently.\n\nYou can stay up to date on [COVID-19 vaccination in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont), including who can get the vaccine now and who will be eligible next. Check back often as we update this page regularly.",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10206,6 +10226,11 @@
                 "question": "I need help getting to my vaccine appointment. Can someone come with me?",
                 "answerBody": "Yes, you can have one other person come with you if you need physical assistance to get to your vaccine appointment. You will both have your temperatures taken and will be asked questions to determine if you have any current COVID-19 symptoms. If either of you do, then the symptomatic person won’t be allowed to go any further.\n\nYou will both need to wear masks during your appointment. If you do not have one, there will be masks available at the clinic. If you have trouble breathing, are unable to remove your mask by yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nAll vaccine clinics will be handicap accessible.",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "I need help getting to my vaccine appointment. Can someone come with me?",
+                "answerBody": "Yes, you can have one other person come with you if you need physical assistance to get to your vaccine appointment. You will both have your temperatures taken and will be asked questions to determine if you have any current COVID-19 symptoms. If either of you do, then the person who has symptoms won’t be allowed to go any further.\n\nYou will both need to wear masks during your appointment. If you do not have one, there will be masks available at the clinic. If you have trouble breathing, are unable to remove your mask by yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nAll vaccine clinics will be handicap accessible.",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10228,6 +10253,11 @@
                 "question": "How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?",
                 "answerBody": "Registering online will be the quickest way to make an appointment. If your loved one or someone you care for is 75 years or older, we ask that you help them register online. \n\nIf registering online is not an option, you will be able to make appointments over the phone. The phone number will be shared soon on our website and widely in the news.",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?",
+                "answerBody": "Registering online will be the quickest way to make an appointment. If your loved one or someone you care for is 75 years or older, we ask that you help them register online.\n\nIf registering online is not an option, you can call **855-722-7878** Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10239,6 +10269,11 @@
                 "question": "Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?",
                 "answerBody": "No. Only people who are 75 years and older may make an appointment starting January 25. Your spouse or partner will be able to get their vaccine as soon as their age grouping is eligible. People who are 70 years and older will be the next eligible age group.",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?",
+                "answerBody": "No. Only people who are 75 years and older and live, work, or access primary health care in Vermont may make an appointment. Your spouse or partner will be able to get their vaccine as soon as their age group is eligible. People who are 70 years and older will be the next eligible age group. \n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10250,6 +10285,11 @@
                 "question": "What can I expect at my vaccine appointment?",
                 "answerBody": "You will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a health screening questionnaire.\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  Someone will then watch you for 15 to 30 minutes so you can be watched for any side effects. \n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "What can I expect at my vaccine appointment?",
+                "answerBody": "You will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a health screening questionnaire.\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any side effects.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10261,6 +10301,11 @@
                 "question": "Can I make a vaccine appointment for someone else?",
                 "answerBody": "Yes, you can make an appointment for your loved one or someone you care for who is 75 years or older, especially if they need help registering online. \n\nYou’ll need to create an account for them on the website first, then log in to make their appointment. You’ll need this information to schedule their appointment:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n*   Health insurance information (helpful but not required)\n\nIf the person getting the vaccine does not live in Vermont, they will be asked if they work in Vermont, get primary care in Vermont, or recently moved to Vermont. If none of these apply, they won’t be able to get vaccinated in Vermont, and should seek a vaccine in the state where they live. \n\nThen, you will answer some medical screening questions:\n\n1.  Have you ever had an immediate allergic reaction to any other vaccine or injectable therapy, an immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]), or an immediate allergic reaction of any severity to polysorbate?\n\n    If the answer is yes, this person cannot get any of the currently available COVID-19 vaccines. They should consider contacting their health care provider if they have questions.\n2.  Are you currently sick with COVID-19 or still in your isolation period following a COVID-19 infection?\n\n    If the answer is yes, the person cannot get a COVID-19 vaccine at this time, but can schedule an appointment at a later date. \n\n3.  Have you received another vaccine in the last 14 days? \n\n4.  Do you have a weakened immune system caused by something such as HIV infection or cancer or do you take immunosuppressive drugs or therapies? \n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n5.  Do you have a bleeding disorder or are you taking a blood thinner?\n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n6.  Are you pregnant? \n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\n1.  Are you breastfeeding or lactating?\n\n    If yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.",
                 "date": "2021-01-20"
+            },
+            {
+                "question": "Can I make a vaccine appointment for someone else?",
+                "answerBody": "Yes, you can make an appointment for your loved one or someone you care for who is 75 years or older, especially if they need help registering online. If you are making an appointment online for a spouse or partner at the same time as your own, you will need to make the appointments individually. You can make an appointment for more than one person by phone. We will do our best to get the appointments as close together as possible, but they may not be at the same time.\n\nYou’ll need to create an account for them on the website first, then log in to make their appointment. Please **double check to make sure the email address is correct when creating an account**. If you enter an incorrect email address, you will not receive a link to make your appointment. You’ll need this information to schedule their appointment:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email address (if you have one)\n*   Phone number\n*   Health insurance information\n\nInsurance is not required, and there is no cost for getting the vaccine.\n\nIf the person getting the vaccine does not live in Vermont, they will be asked if they work in Vermont, get primary care in Vermont, or recently moved to Vermont. If none of these apply, they won’t be able to get vaccinated in Vermont, and should seek a vaccine in the state where they live.\n\nThen, you will answer some medical screening questions:\n\n1.  **Have you ever had an immediate allergic reaction to any other vaccine or injectable therapy, an immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]), or an immediate allergic reaction of any severity to polysorbate?** If the answer is yes, this person cannot get any of the currently available COVID-19 vaccines. They should consider contacting their health care provider if they have questions.\n2.  **Are you currently sick with COVID-19 or still in your isolation period following a COVID-19 infection?** If the answer is yes, the person cannot get a COVID-19 vaccine at this time, but can schedule an appointment at a later date.\n3.  **Have you received another vaccine in the last 14 days?**\n4.  **Do you have a weakened immune system caused by something such as HIV infection or cancer or do you take immunosuppressive drugs or therapies?** If the answer is yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n5.  **Do you have a bleeding disorder or are you taking a blood thinner?** If the answer is yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n6.  **Are you pregnant?** If the answer is yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n7.  **Are you breastfeeding or lactating?** If the answer is yes, the person can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n\nWatch a [video on how to make your appointment online](https://youtu.be/4baPyZvfiz4).",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
@@ -10343,6 +10388,94 @@
                 "question": "Do I need to bring identification to my vaccine appointment?",
                 "answerBody": "No. Identification is not required to make or go to a vaccine appointment.\n\nWhen you sign up for your appointment, you will be asked to provide your:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n*   Health insurance information (helpful but not required)\n\nLearn more about if [you are not a Vermont resident](https://apps.health.vermont.gov/COVID/faq/#4780).",
                 "date": "2021-01-21"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4798,
+        "revisions": [
+            {
+                "question": "What if need to cancel my vaccine appointment?",
+                "answerBody": "It is very important that you keep the appointment you made. Please do not make an appointment if you are not sure you will be able to keep it. Cancellations and unplanned no-shows could cause the vaccine to be spoiled.\n\nIf you need to cancel your appointment, please do as soon as possible. You will need to log in to your account and cancel it there.",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4799,
+        "revisions": [
+            {
+                "question": "I don’t have my own transportation. Can I get a ride to my vaccine appointment?",
+                "answerBody": "Yes. Free public transportation to vaccine clinics is available to Vermont residents who do not have their own transportation. Rides are coordinated by the Vermont Public Transportation Association. Volunteer drivers will use cars, vans or buses. All rides are ADA compliant and will accommodate people living with disabilities.\n\nIf you need a ride, call 833-387-7200. Please make a request **at least 48 hours before** your vaccine appointment. These rides are subject to the availability of transportation resources, so advance notice is necessary to make sure you will have a ride.\n\nRides are only available if you **are not sick with COVID-19** (with symptoms or without symptoms) or **are not a close contact** of someone who has COVID-19. If you **recently traveled**, you need to follow the current [travel quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine) before you can request a ride. If you fall into one of these categories, you can call 833-387-7200 to find out when you can use public transportation.",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4800,
+        "revisions": [
+            {
+                "question": "How do I know if my symptoms are from the vaccine or sickness from COVID-19?",
+                "answerBody": "It takes time for the vaccine to teach your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. This is one of the reasons it is so important to [continue prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, even after you’ve been vaccinated.\n\nIt may be hard to tell the difference between side effects from the vaccine and symptoms from sickness if you get infected with COVID-19 between vaccine doses. While everyone’s reaction may be different, vaccine side effects usually start within 12 to 24 hours after your vaccination. They should go away within a few days.\n\nIf symptoms get worse or last longer than a few days, contact your health care provider. They should be able to suggest next steps and maybe a COVID-19 test. Getting the vaccine [will not affect your COVID-19 test results](https://apps.health.vermont.gov/COVID/faq/#4778).",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4801,
+        "revisions": [
+            {
+                "question": "I’m in quarantine because I was exposed to someone who was positive for COVID-19. Should I still get the vaccine?",
+                "answerBody": "You should wait to get your vaccine until you are able to [end your quarantine](https://apps.health.vermont.gov/COVID/faq/#4618).",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4802,
+        "revisions": [
+            {
+                "question": "When do I need to get my second shot?",
+                "answerBody": "The COVID-19 vaccine is two shots, 21 or 28 days apart. Both vaccines require two doses. Doses of the Pfizer-BioNTech vaccine are given 21 days apart, and doses of the Moderna vaccine are given 28 days apart. For the vaccine to be the most effective and help prevent you from getting COVID-19, you should get your second shot as close to the recommended time interval. If you miss your second dose, please get it as soon as you can.",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4803,
+        "revisions": [
+            {
+                "question": "Which vaccine should I get?",
+                "answerBody": "Both the Pfizer-BioNTech and Moderna vaccines are more than 94% effective with similar side effects. Side effects are a normal way that your body builds immunity to COVID-19.\n\nWhich vaccine you get will most likely be based on which vaccine is available at your appointment. As time goes on, you may have a choice, especially if ongoing studies determine if one is better for certain people, like for children.\n\nFor your second dose, you should get the same vaccine as your first dose. When you are at your first vaccine appointment, someone will help you schedule an appointment to get your second dose of vaccine. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it.",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4804,
+        "revisions": [
+            {
+                "question": "Why can’t children and adolescents get the COVID-19 vaccine?",
+                "answerBody": "Children’s immune systems are different at different ages. They are also different from adults. This means that the vaccine studies need to be repeated with children. Both Pfizer-BioNTech and Moderna have started vaccine trials with children as young as age 12. If the trials are successful, there will be the usual review processes before the vaccines can be approved for emergency use and then produced for distribution. This process can take a while, especially for very young ages, which are usually tested last.\n\nThe [Pfizer-BioNTech vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) for people 16 years and older. The [Moderna vaccine is authorized](https://www.fda.gov/news-events/press-announcements/fda-takes-additional-action-fight-against-covid-19-issuing-emergency-use-authorization-second-covid) for people 18 years and older.",
+                "date": "2021-01-25"
+            }
+        ],
+        "deletedDate": null
+    },
+    {
+        "id": 4805,
+        "revisions": [
+            {
+                "question": "Can I make two appointments for COVID-19 vaccination at the same time, for example for both my parents or myself and my spouse?",
+                "answerBody": "If you are making an appointment **online**, you will need to make the appointments individually. You can either create an account for each person, or create a single account and add the other person as a “dependent” (follow the prompts in the registration system). [Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). Please **double check to make sure your email address is correct** **when creating your account**. If you enter an incorrect email address, you will not receive a link to make your appointment.\n\nIf you are making an appointment **by phone**, you can also make more than one appointment. We will do our best to get the appointments as close together as possible, but they may not be at the same time. Call **855-722-7878** Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.",
+                "date": "2021-01-25"
             }
         ],
         "deletedDate": null
