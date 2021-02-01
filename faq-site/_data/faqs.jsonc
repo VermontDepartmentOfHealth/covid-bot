@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-01-29T20:55:54.681+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:28:17.825+00:00",
             "isDocumentText": false
         },
         {
@@ -926,7 +926,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:59:28.112+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:21:17.049+00:00",
             "isDocumentText": false
         },
         {
@@ -2162,7 +2162,7 @@
         },
         {
             "id": 4601,
-            "answer": "**When have I recovered from COVID-19 so that I can stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation when they have recovered, which means they have met the following conditions:\n\n[**If you had symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider):\n\n*   you have had no fever for at least 24 hours without the use of medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n[**If you did not have any symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png), you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nMost people do not need a test to determine when they can be around others again. However, if your health care provider recommends testing, they will let you know when you can resume being around others based on your test results.\n\nAfter stopping home isolation, continue to follow the prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small.  At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).",
+            "answer": "**When am I considered to be recovered from COVID-19? When can I stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation when they have recovered, which means they have met the following conditions:\n\n[**If you had symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider):\n\n*   you have had no fever for at least 24 hours without the use of medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n[**If you did not have any symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png), you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nMost people do not need a test to determine when they can be around others again. However, if your health care provider recommends testing, they will let you know when you can resume being around others based on your test results.\n\nAfter stopping home isolation, continue to follow the prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).",
             "source": "Editorial",
             "questions": [
                 "How long after being ill with Covid-19 does someone need to stay quarantined?",
@@ -2177,7 +2177,8 @@
                 "If someone is positive for COVID-19 and has symptoms how long do they need to self-isolate?",
                 "how long to quarantine for positive results",
                 "When have I recovered from COVID-19 so that I can stop self-isolating (home isolation)?",
-                "when is someone considered recovered"
+                "when is someone considered recovered",
+                "When am I considered to be recovered from COVID-19? When can I stop self-isolating (home isolation)?"
             ],
             "metadata": [
                 {
@@ -2210,7 +2211,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T20:55:54.681+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:19:57.763+00:00",
             "isDocumentText": false
         },
         {
@@ -3735,7 +3736,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T18:36:03.244+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:19:57.763+00:00",
             "isDocumentText": false
         },
         {
@@ -5569,7 +5570,7 @@
         },
         {
             "id": 4724,
-            "answer": "**Do I need to quarantine if someone I had close contact with is under quarantine?**\n\nNo. You do not need to quarantine if you had close contact with someone who is under quarantine. That means you can go to school, work, or the grocery store.\n\n**If you are living with someone who is under quarantine**, stay at least 6 feet from them. People under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with others in the household who are not under quarantine. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.",
+            "answer": "**Do I need to quarantine if I live with someone or had close contact with someone who is under quarantine?**\n\nNo. You do not need to quarantine if you had close contact with someone who is under quarantine. That means you can go to school, work, or the grocery store.\n\n**If you are living with someone who is under quarantine**, stay at least 6 feet from them. People under quarantine should wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with others in the household who are not under quarantine. Be sure to disinfect commonly touched surfaces, and check yourself for symptoms for 14 days.",
             "source": "Editorial",
             "questions": [
                 "Do I need to quarantine if someone I had close contact with is under quarantine?",
@@ -5580,7 +5581,8 @@
                 "do i have to quarantine if someone else in my home is quarantining",
                 "Who in my home needs to quarantine if I test positive?",
                 "if someone in my family is showing symptoms do I have to quarantine",
-                "if i live with a positive test can i go to work"
+                "if i live with a positive test can i go to work",
+                "Do I need to quarantine if I live with someone or had close contact with someone who is under quarantine?"
             ],
             "metadata": [
                 {
@@ -5608,7 +5610,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:59:28.112+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:21:17.049+00:00",
             "isDocumentText": false
         },
         {
@@ -6860,7 +6862,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T18:59:26.548+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:19:57.763+00:00",
             "isDocumentText": false
         },
         {
@@ -7046,7 +7048,7 @@
         },
         {
             "id": 4777,
-            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, they emerge and persist. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.\n\nAccording to the CDC, multiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. The UK variant, called B.1.1.7, has been detected in numerous countries around the world, including the United States and Canada.\n\nCurrently, **there is no evidence that these variants cause more severe illness or increased risk of death**. These variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19.\n\nInformation about the new COVID-19 variants is rapidly emerging. Scientists are working to learn more about how easily they might spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, they emerge and persist. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.\n\nAccording to the CDC, multiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. \n\nThe UK variant, called B.1.1.7, has been detected in numerous countries around the world. This variant was first detected in the U.S. at the end of December 2020. In January 2021, experts in the UK reported that this variant may be associated with an increased risk of death compared to other variant viruses, but more studies are needed to confirm this finding. \n\nThese variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. An increase in the number of cases will put more strain on health care resources, lead to more hospitalizations, and potentially more deaths. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nInformation about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?"
@@ -7068,7 +7070,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-21T20:29:42.05+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:28:17.825+00:00",
             "isDocumentText": false
         },
         {
@@ -7193,7 +7195,7 @@
         },
         {
             "id": 4782,
-            "answer": "**I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?**\n\n**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you have gotten the vaccine, **you must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). Also, **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
+            "answer": "**I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?**\n\n**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you have gotten the vaccine:\n\n*   **You must quarantine** if you are a close contact of someone with COVID-19.\n*   **You must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine).\n*   **You are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
             "source": "Editorial",
             "questions": [
                 "Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?",
@@ -7218,7 +7220,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T20:40:56.805+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:16:16.983+00:00",
             "isDocumentText": false
         },
         {
@@ -7560,7 +7562,7 @@
         },
         {
             "id": 4794,
-            "answer": "**Should I be vaccinated if I have or had COVID-19?**\n\nIf you **had COVID-19 and** [**are recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to defer for up to 90 days. Evidence suggests that getting infected again in 90 days after is uncommon.\n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated.\n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
+            "answer": "**Should I be vaccinated if I have or had COVID-19?**\n\nIf you **had COVID-19 and** [**are recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to wait for up to 3 months. It is uncommon to get infected with COVID-19 again within the first 3 months of your initial infection.\n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated.\n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
             "source": "Editorial",
             "questions": [
                 "Should I be vaccinated if I have or had COVID-19?"
@@ -7582,7 +7584,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-22T14:43:04.547+00:00",
+            "lastUpdatedTimestamp": "2021-02-01T21:17:21.585+00:00",
             "isDocumentText": false
         },
         {
@@ -8177,6 +8179,37 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-01-29T18:24:40.939+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4815,
+            "answer": "**What happens if a vaccine clinic is canceled due to weather?**\n\nCheck your local news station or the [Health Department’s website](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) and social media ([Facebook](https://www.facebook.com/HealthVermont/), [Twitter](https://twitter.com/healthvermont), [Instagram](https://www.instagram.com/healthvermont/)) for any changes to Health Department vaccine clinic schedules due to weather.\n\nIf the **Health Department vaccine clinic** is not canceled but you’d like to reschedule your appointment because of the weather, call 855-722-7878.\n\nIf you registered to get your vaccine at **Kinney Drugs**, contact the store where your appointment is to find out if the clinic will be open or how to reschedule.\n\nNo matter what, you should always watch the weather and stay home if you don't feel safe traveling. There are enough vaccine appointments for everyone who is eligible – we will get you rescheduled if needed.",
+            "source": "Editorial",
+            "questions": [
+                "What happens if a vaccine clinic is canceled due to weather?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question"
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-02-01T21:19:06.648+00:00",
             "isDocumentText": false
         }
     ]
