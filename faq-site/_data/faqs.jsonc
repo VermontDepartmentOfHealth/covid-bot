@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:53:51.638+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
             "isDocumentText": false
         },
         {
@@ -494,10 +494,7 @@
                 "Can I get testing with no symptoms?",
                 "my doctor won’t refer me for a test",
                 "How can I get tested?",
-                "How do you decide who gets tested?",
                 "testing with no referrals",
-                "coronavirus screening",
-                "screening",
                 "Can I be tested for COVID-19?",
                 "Testing",
                 "Should I get tested?",
@@ -533,7 +530,8 @@
                 "What do I need to know about COVID-19 testing? Where can I get tested?",
                 "register for covid test",
                 "how can I schedule a test",
-                "when do I need a covid test"
+                "when do I need a covid test",
+                "Do I need to bring anything to my covid test"
             ],
             "metadata": [
                 {
@@ -561,7 +559,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T21:17:49.89+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:16:05.991+00:00",
             "isDocumentText": false
         },
         {
@@ -625,7 +623,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:50:02.987+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:16:05.991+00:00",
             "isDocumentText": false
         },
         {
@@ -834,7 +832,6 @@
             "source": "KB-COVID",
             "questions": [
                 "What if I think I was exposed?",
-                "Should I self isolate if I live with a person who has tested positive for covid-19?",
                 "Exposure",
                 "exposed",
                 "community exposure",
@@ -846,20 +843,18 @@
                 "secondary contact",
                 "third person contact",
                 "was around someone who was around someone",
-                "My husband tested positive",
-                "my wife tested positive",
-                "my mom tested positive",
-                "my dad tested positive",
-                "my son tested positive",
-                "my child tested positive",
-                "my daughter tested positive",
                 "I am a contact case",
                 "do close contacts of confirmed cases need to self-quarantine?",
                 "What do I do if I think I had close contact with someone who has COVID-19?",
                 "I was in a high-risk situation",
                 "What to do if I've been exposed",
                 "If I’ve been exposed, how long do I quarantine",
-                "I have been exposed to someone who tested positive for Covid 19.  Do I need to quarantine?"
+                "I have been exposed to someone who tested positive for Covid 19.  Do I need to quarantine?",
+                "potentially been exposed to covid",
+                "guidelines for coming into contact with someone with COVID-19",
+                "someone you were in contact with tested positive for covid 19",
+                "Exposed to person with covid",
+                "are around someone that has the virus"
             ],
             "metadata": [
                 {
@@ -892,7 +887,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:21:17.049+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
             "isDocumentText": false
         },
         {
@@ -1107,7 +1102,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T21:18:45.142+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
             "isDocumentText": false
         },
         {
@@ -1202,7 +1197,9 @@
                 "How long can the virus live on surfaces?",
                 "how long will COVID-19 survive on objects outside?",
                 "how long will COVID-19 survive on objects?",
-                "can the virus be tracked on surfaces"
+                "can the virus be tracked on surfaces",
+                "Can covid spread by sharing materials",
+                "virus live on skin"
             ],
             "metadata": [
                 {
@@ -1221,7 +1218,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:42:11.065+00:00",
             "isDocumentText": false
         },
         {
@@ -1264,7 +1261,8 @@
                 "What is direct contact",
                 "define close contact",
                 "please define close contact",
-                "is the 15 minutes cumulative or all at once?"
+                "is the 15 minutes cumulative or all at once?",
+                "What is considered close exposure"
             ],
             "metadata": [
                 {
@@ -1311,7 +1309,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T21:14:09.041+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
             "isDocumentText": false
         },
         {
@@ -2142,7 +2140,10 @@
                 "how long to quarantine for positive results",
                 "When have I recovered from COVID-19 so that I can stop self-isolating (home isolation)?",
                 "when is someone considered recovered",
-                "When am I considered to be recovered from COVID-19? When can I stop self-isolating (home isolation)?"
+                "When am I considered to be recovered from COVID-19? When can I stop self-isolating (home isolation)?",
+                "end quarantine after being diagnosed positive",
+                "when can I leave isolation",
+                "safe to be around people after you have had Covid"
             ],
             "metadata": [
                 {
@@ -2175,7 +2176,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:19:57.763+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
             "isDocumentText": false
         },
         {
@@ -2421,7 +2422,7 @@
                 "Is there a medicine I can take to prevent or treat COVID-19?",
                 "Is new treatment drug available in Vermont?",
                 "what is the treatment for covid-19?",
-                "Tylenol"
+                "Remdesivir"
             ],
             "metadata": [
                 {
@@ -2444,7 +2445,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-07T20:10:44.402+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T13:52:35.592+00:00",
             "isDocumentText": false
         },
         {
@@ -2676,7 +2677,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:12:32.668+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
             "isDocumentText": false
         },
         {
@@ -3264,7 +3265,8 @@
                 "recreational sports",
                 "sledding",
                 "school sports",
-                "Can I exercise with a friend outside"
+                "Can I exercise with a friend outside",
+                "running outside with friends\n\n "
             ],
             "metadata": [
                 {
@@ -3288,7 +3290,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:21:04.278+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:44:03.792+00:00",
             "isDocumentText": false
         },
         {
@@ -3561,7 +3563,9 @@
                 "reporting gatherings",
                 "Report non-compliance of quarantining",
                 "Out of state visitors not quarantining",
-                "anonymous tipline"
+                "anonymous tipline",
+                "how to report covid violation",
+                "What if I know someone is not quarantining?"
             ],
             "metadata": [
                 {
@@ -3580,7 +3584,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:37:37.78+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:43:21.266+00:00",
             "isDocumentText": false
         },
         {
@@ -3681,7 +3685,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:19:57.763+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:36:04.176+00:00",
             "isDocumentText": false
         },
         {
@@ -3734,7 +3738,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T21:09:41.125+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:18:37.49+00:00",
             "isDocumentText": false
         },
         {
@@ -3778,7 +3782,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:37:37.78+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
             "isDocumentText": false
         },
         {
@@ -4054,7 +4058,8 @@
                 "cancel wedding",
                 "refund wedding",
                 "wedding venue",
-                "Can we have our wedding ceremony?"
+                "Can we have our wedding ceremony?",
+                "Wedding covid"
             ],
             "metadata": [
                 {
@@ -4078,7 +4083,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T19:05:17.444+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:44:45.222+00:00",
             "isDocumentText": false
         },
         {
@@ -4123,7 +4128,10 @@
                 "look at real-estate",
                 "Can you rent a house in vermont",
                 "how do I move to Vermont?",
-                "Can I buy a home or sign a long-term lease (more than 30 days) for an apartment or house?"
+                "Can I buy a home or sign a long-term lease (more than 30 days) for an apartment or house?",
+                "What are realtors guidelines",
+                "Realtors",
+                "house showing"
             ],
             "metadata": [
                 {
@@ -4152,7 +4160,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:38:35.18+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
             "isDocumentText": false
         },
         {
@@ -4219,7 +4227,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T21:09:41.125+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:18:37.49+00:00",
             "isDocumentText": false
         },
         {
@@ -4558,7 +4566,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T21:14:09.041+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
             "isDocumentText": false
         },
         {
@@ -4642,7 +4650,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T19:05:17.444+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:44:03.792+00:00",
             "isDocumentText": false
         },
         {
@@ -4713,7 +4721,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:16:24.423+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:44:45.222+00:00",
             "isDocumentText": false
         },
         {
@@ -4994,11 +5002,9 @@
             "questions": [
                 "What is an antigen test?",
                 "is there a rapid (fast) test for COVID-19?",
-                "same day test",
-                "home test",
-                "will a rapid test be available",
-                "will we have a quick test available",
-                "Where can i get a rapid test done?"
+                "rapid test",
+                "antigen test",
+                "can I get a rapid test?"
             ],
             "metadata": [
                 {
@@ -5031,7 +5037,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T21:09:41.125+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:18:37.49+00:00",
             "isDocumentText": false
         },
         {
@@ -5510,15 +5516,17 @@
             "source": "Editorial",
             "questions": [
                 "Do I need to quarantine if someone I had close contact with is under quarantine?",
-                "If I test positive, does my family have to quarantine?",
                 "Family member in quarantine",
                 "spouse is quarantining",
                 "someone in my home is quarantining",
-                "do i have to quarantine if someone else in my home is quarantining",
-                "Who in my home needs to quarantine if I test positive?",
                 "if someone in my family is showing symptoms do I have to quarantine",
-                "if i live with a positive test can i go to work",
-                "Do I need to quarantine if I live with someone or had close contact with someone who is under quarantine?"
+                "Do I need to quarantine if I live with someone or had close contact with someone who is under quarantine?",
+                "quarantine if someone else in my home is quarantining",
+                "do I need to quarantine if someone in my house traveled outside of VT",
+                "Do close contacts of close contacts have to quarantine?",
+                "Does a family member of a close contact need to stay home?",
+                "If my spouse was exposed to Covid do I need to quarantine",
+                "do I have to quarantine while someone else quarantine"
             ],
             "metadata": [
                 {
@@ -5546,7 +5554,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:21:17.049+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:27:25.125+00:00",
             "isDocumentText": false
         },
         {
@@ -6273,7 +6281,9 @@
             "answer": "**How can we safely carpool?**\n\nIf possible, don’t carpool. This is because people will be within 6 feet of each other and in an enclosed space. If you need to carpool to work, school or child care, it’s best to:\n\n*   Wear masks at all times.\n*   Limit the number of people you carpool with.\n*   Carpool with the same people, ideally those who are following the [COVID-19 prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) in their day-to-day lives.\n*   Keep a log of who you and your family have carpooled with that includes dates, names of other riders, and the duration of the ride.\n*   Keep the windows or vents open for fresh air.\n*   Cover your coughs and sneezes.\n*   Clean and disinfect surfaces often.\n*   Wash or sanitize your hands before getting in and out of the car.\n\nDo not carpool if you are sick or have been in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone who has tested positive for COVID-19.\n\nRead the CDC’s [tips on carpooling safely](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community/organizations/carpooling-fs.pdf).",
             "source": "Editorial",
             "questions": [
-                "How can we safely carpool?"
+                "How can we safely carpool?",
+                "can i ride in a car with someone outside my household",
+                "ride in a car"
             ],
             "metadata": [
                 {
@@ -6292,7 +6302,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-10T16:10:08.74+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:32:15.577+00:00",
             "isDocumentText": false
         },
         {
@@ -6614,7 +6624,8 @@
             "source": "Editorial",
             "questions": [
                 "I am in quarantine, but I can’t avoid close contact with someone I take care of. Do they need to quarantine? ",
-                "Can my kid go to school if I am in quarantine?"
+                "Can my kid go to school if I am in quarantine?",
+                "Do children have to stay home if a parent is sick?"
             ],
             "metadata": [
                 {
@@ -6637,7 +6648,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:57:58.636+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:28:29.044+00:00",
             "isDocumentText": false
         },
         {
@@ -6746,7 +6757,8 @@
                 "who gets the leftover vaccines at end of day?",
                 "Can I sign up for a vaccine if someone is a no show?",
                 "Is there a wait list for no shows",
-                "Is there a wait list to be contacted at the end of the day for unused doses?"
+                "Is there a wait list to be contacted at the end of the day for unused doses?",
+                "Are there left over vaccines available at the end of scheduled times"
             ],
             "metadata": [
                 {
@@ -6769,7 +6781,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:15:44.916+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T13:51:45.783+00:00",
             "isDocumentText": false
         },
         {
@@ -6789,7 +6801,8 @@
                 "do I need to quarantine if I’m vaccinated for Covid?",
                 "Do I need to quarantine after I get my vaccination?",
                 "Is quarantine necessary after Covid vaccination?",
-                "I have received two doses of vaccination, when can I travel to Vermont"
+                "I have received two doses of vaccination, when can I travel to Vermont",
+                "requirements for out of state travelers that have recovered from covid"
             ],
             "metadata": [
                 {
@@ -6808,7 +6821,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:19:57.763+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:36:04.176+00:00",
             "isDocumentText": false
         },
         {
@@ -7003,7 +7016,8 @@
             "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them. \n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe B.1.1.7 variant, first identified in the United Kingdom, has now been detected in many U.S. states and we do expect to see it in Vermont as well. It is normal for viruses to mutate, but some of the variants recently found may require us to strengthen our prevention measures.\n\nThe Health Department is working to detect any potential variants of the virus — through genetic sequencing of certain specimens taken from various parts of the state.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
-                "What is known about the new variants of the COVID-19 virus?"
+                "What is known about the new variants of the COVID-19 virus?",
+                "Are there any covid mutations in vermont yet"
             ],
             "metadata": [
                 {
@@ -7022,7 +7036,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:02:30.617+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:34:40.236+00:00",
             "isDocumentText": false
         },
         {
@@ -7076,7 +7090,13 @@
                 "can i get vaccinated in vermont if i live in another state?",
                 "Are snowbirds able to get vaccinated?",
                 "proof of residency in Vermont",
-                "Non vermont residents"
+                "Non vermont residents",
+                "COVID 19 vaccination for out of state college student",
+                "What does it mean to live in Vermont?",
+                "I am a part-time resident of Vermont. Can I receive a Covid vaccine in Vermont?",
+                "can i receive vaccine in VT if I live there part time",
+                "seasonal home owner qualify for vaccine",
+                "Are second home owners eligible"
             ],
             "metadata": [
                 {
@@ -7099,7 +7119,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T20:46:35.873+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:03:44.012+00:00",
             "isDocumentText": false
         },
         {
@@ -7125,7 +7145,14 @@
                 "register for covid vaccine",
                 "How do people who work in health care setting make appointment for vaccine",
                 "Create an account",
-                "Link to create an account"
+                "Link to create an account",
+                "what ages can register",
+                "How do I create an account?",
+                "How to schedule vaccine",
+                "How can I register",
+                "how do I log into my covid portal",
+                "What site do I go to to preregistration?",
+                "can I register before it is time for my age group to schedule an appointment"
             ],
             "metadata": [
                 {
@@ -7152,7 +7179,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:14:25.25+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T13:51:14.21+00:00",
             "isDocumentText": false
         },
         {
@@ -7163,7 +7190,13 @@
                 "Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?",
                 "quarantine and vaccine",
                 "travel and vaccine",
-                "I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?"
+                "I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?",
+                "After I have both vaccine shots then can I travel freely?",
+                "After getting both shots can I still pass on Covid to others?",
+                "Can a vaccinated person transmit the virus?",
+                "do you need to quarantine if you have COVID 19 vaccine",
+                "do I need to quarantine if I’m vaccinated for Covid?",
+                "If you have received the COVID 19 vaccine what do you have to do when you enter vermont"
             ],
             "metadata": [
                 {
@@ -7182,7 +7215,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:16:16.983+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:13:13.403+00:00",
             "isDocumentText": false
         },
         {
@@ -7403,7 +7436,8 @@
                 "what questions will be sked on the Health Screening questionnaire?",
                 "what medical questions will they ask",
                 "what to bring to the vaccination appointment",
-                "Do I need to bring anything to the appointment?"
+                "Do I need to bring anything to the appointment?",
+                "Do I need to arrive early for my Covid vaccine appointment"
             ],
             "metadata": [
                 {
@@ -7426,7 +7460,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-02T21:05:24.879+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:07:42.034+00:00",
             "isDocumentText": false
         },
         {
@@ -7437,7 +7471,8 @@
                 "May I sign up for somebody else?",
                 "how do I sign up my wife",
                 "Scheduling for a dependent",
-                "Can I make a vaccine appointment for someone else? How do I sign someone up as a dependent?"
+                "Can I make a vaccine appointment for someone else? How do I sign someone up as a dependent?",
+                "can i sign up my mother for vaccine"
             ],
             "metadata": [
                 {
@@ -7460,7 +7495,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T20:01:04.71+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:05:45.837+00:00",
             "isDocumentText": false
         },
         {
@@ -7478,7 +7513,12 @@
                 "Where to get vaccine",
                 "Vaccination centers",
                 "what locations will vaccinations be given?",
-                "in what towns will the vaccine be given"
+                "in what towns will the vaccine be given",
+                "clinic locations",
+                "Where are the immunization clinics for covid-19 in southern Vermont?",
+                "where are covid-19 clinics being held?",
+                "covid vaccination sites",
+                "Where are the COVID 19 vaccination clinics located?"
             ],
             "metadata": [
                 {
@@ -7497,7 +7537,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:27:10.579+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T14:52:22.061+00:00",
             "isDocumentText": false
         },
         {
@@ -7532,7 +7572,12 @@
             "answer": "**Should I be vaccinated if I have or had COVID-19?**\n\nIf you **had COVID-19 and** [**are recovered**](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery), you may be vaccinated or choose to wait for up to 3 months. It is uncommon to get infected with COVID-19 again within the first 3 months of your initial infection.\n\nIf you **currently have COVID-19**, please wait until [you have recovered](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19#recovery) before being vaccinated.\n\nIf you had **monoclonal antibodies or convalescent plasma** as part of COVID-19 treatment, wait for at least 90 days before getting your vaccination to avoid interfering with your treatment.",
             "source": "Editorial",
             "questions": [
-                "Should I be vaccinated if I have or had COVID-19?"
+                "Should I be vaccinated if I have or had COVID-19?",
+                "I have covid. Do I need the vaccine",
+                "Do I need the Covid Vaccine if I have had Covid",
+                "how long after covid infection can a person receive the vaccine",
+                "can someone with covid be vaccinated",
+                "can the covid vaccine be given to someone that had covid already"
             ],
             "metadata": [
                 {
@@ -7551,7 +7596,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-01T21:17:21.585+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T14:50:41.163+00:00",
             "isDocumentText": false
         },
         {
@@ -7561,8 +7606,8 @@
             "questions": [
                 "Should I get the vaccine if I have a medical condition?",
                 "Should people with cancer get the vaccine?",
-                "I have food allergies. can I get the vaccine\n",
-                "If my daughter is allergic to Sulpha drugs, will she be able to get a vaccination?"
+                "If you taken a blood thinner can you get the COVID shot?",
+                "is high blood pressure considered a medical condition"
             ],
             "metadata": [
                 {
@@ -7581,7 +7626,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T16:58:03.403+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T17:49:04.696+00:00",
             "isDocumentText": false
         },
         {
@@ -7589,7 +7634,8 @@
             "answer": "**When will the next group be eligible for a vaccine?**\n\nWe still have a very limited number of doses we receive each week. The number we receive each week can change. Vaccinations for those who are age 75 and older will begin on January 27 and include about 49,000 Vermonters. This will likely take about 6 weeks or more to complete. **Because this estimate is based on the number of doses we receive, it could change.**",
             "source": "Editorial",
             "questions": [
-                "When will the next group be eligible for a vaccine?"
+                "When will the next group be eligible for a vaccine?",
+                "When is estimate for 70 to 74"
             ],
             "metadata": [
                 {
@@ -7612,7 +7658,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-21T20:52:28.369+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:01:39.931+00:00",
             "isDocumentText": false
         },
         {
@@ -7625,7 +7671,8 @@
                 "What type of ID is required when getting the vaccine?",
                 "Is any form of ID required when getting the vaccine?",
                 "what ID do I need",
-                "I don't have a current driver license, will I still be able to get my vaccine?"
+                "I don't have a current driver license, will I still be able to get my vaccine?",
+                "no valid driver's license"
             ],
             "metadata": [
                 {
@@ -7648,7 +7695,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-02T20:48:15.745+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T13:53:35.561+00:00",
             "isDocumentText": false
         },
         {
@@ -7659,7 +7706,8 @@
                 "How do I cancel a scheduled appointment",
                 "What if I need to cancel my vaccine appointment?",
                 "Can I change the location and time of my appointment?",
-                "can i change my appointment time "
+                "can i change my appointment time ",
+                "Can I reschedule in a month or two?"
             ],
             "metadata": [
                 {
@@ -7682,7 +7730,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:29:56.348+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:05:07.411+00:00",
             "isDocumentText": false
         },
         {
@@ -7690,7 +7738,8 @@
             "answer": "**I don’t have my own transportation. Can I get a ride to my vaccine appointment?**\n\nYes. Free public transportation to vaccine clinics is available to Vermont residents who do not have their own transportation. Rides are coordinated by the Vermont Public Transportation Association. Volunteer drivers will use cars, vans or buses. All rides are ADA compliant and will accommodate people living with disabilities.\n\nPlease make a request **at least 48 hours before** your vaccine appointment. These rides are subject to the availability of transportation resources, so advance notice is necessary to make sure you will have a ride.\n\nRides are only available if you **are not sick with COVID-19** (with symptoms or without symptoms) or **are not a close contact** of someone who has COVID-19. If you **recently traveled**, you need to follow the current [travel quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine) before you can request a ride. If you fall into one of these categories, you will need to answer some questions to find out when you can use public transportation.\n\n[**Find contact information for your local public transportation provider**](https://vpta.net/my-area-provider).",
             "source": "Editorial",
             "questions": [
-                "I don’t have my own transportation. Can I get a ride to and from my vaccine appointment?"
+                "I don’t have my own transportation. Can I get a ride to and from my vaccine appointment?",
+                "Transportation to vaccine sites"
             ],
             "metadata": [
                 {
@@ -7713,7 +7762,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T20:02:52.061+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:06:14.211+00:00",
             "isDocumentText": false
         },
         {
@@ -7749,7 +7798,8 @@
             "source": "Editorial",
             "questions": [
                 "I’m in quarantine because I was exposed to someone who was positive for COVID-19. Should I still get the vaccine? ",
-                "Do I need to wait to get my vaccine if I am under quarantine or isolation?"
+                "Do I need to wait to get my vaccine if I am under quarantine or isolation?",
+                "Do I have to wait to get the vaccine if I was exposed to someone with covid"
             ],
             "metadata": [
                 {
@@ -7768,7 +7818,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:31:41.689+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T14:51:19.766+00:00",
             "isDocumentText": false
         },
         {
@@ -7883,7 +7933,8 @@
                 "Can a married couple make their appointment at the same time and place",
                 "How do I register with my wife/husband?",
                 "Partner get shot at same time",
-                "husband and wife"
+                "husband and wife",
+                "can same age spouses sign up to be tested at the same time"
             ],
             "metadata": [
                 {
@@ -7906,7 +7957,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T16:54:50.809+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:04:30.555+00:00",
             "isDocumentText": false
         },
         {
@@ -8152,12 +8203,15 @@
                 "when do frontline workers get vaccine",
                 "Are people with chronic illnesses eligible for the covid vaccine now?",
                 "what if i have increased risk factors but do not meet the age requirement",
-                "\n\nWhen will I get vaccinated?",
                 "when can i get vaccinated",
                 "who in vermont is eligible for the vaccine",
                 "Eligibility to get covid vaccine in vermont",
                 "Who is eligible to get the covid vaccine in vermont?",
-                "\n\nWhat is the vaccine schedule"
+                "When will I get vaccinated?",
+                "What is the vaccine schedule",
+                "age bands",
+                "When will I be able to get covid 19 vaccine",
+                "Timeline for COVID vaccinations in Vermont"
             ],
             "metadata": [
                 {
@@ -8184,7 +8238,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-02T21:25:31.472+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T13:46:32.086+00:00",
             "isDocumentText": false
         },
         {
@@ -8223,7 +8277,8 @@
             "answer": "**I have recovered from COVID-19, but I am sick with a new illness and symptoms. When can I return to work, school or child care?**\n\nIf you develop new illness symptoms within the first 3 months of recovering from a COVID-19 infection, we do not recommend retesting. Data to date show that a person who has had and recovered from COVID-19 may have low levels of virus in their bodies for up to 3 months after diagnosis. This means that if the person who has recovered from COVID-19 is retested within 3 months of their initial infection, they may continue to have a positive test result, even though they are not spreading COVID-19. \n\nYou should still stay home when you are sick to prevent spreading illness to others. You should remain home until your symptoms have improved or are gone. If you have a fever, you should stay home until you are fever-free (without the use of fever-reducing medicine) for at least 24 hours. Contact your health care provider if you have questions or concerns.\n\nLearn more about [if people who recover from COVID-19 can be infected again](https://apps.health.vermont.gov/COVID/faq/#4602) and [when you are considered to be recovered from COVID-19](https://apps.health.vermont.gov/COVID/faq/#4601).",
             "source": "Editorial",
             "questions": [
-                "I have recovered from COVID-19, but I am sick with a new illness and symptoms. When can I return to work, school or child care?"
+                "I have recovered from COVID-19, but I am sick with a new illness and symptoms. When can I return to work, school or child care?",
+                "Recovered from covid now sick"
             ],
             "metadata": [
                 {
@@ -8246,7 +8301,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:11:11.032+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T13:42:52.139+00:00",
             "isDocumentText": false
         },
         {
@@ -8326,7 +8381,11 @@
                 "Do I have to quarantine if someone in my house test positive",
                 "If someone in my household tested positive, do I also have to quarantine?",
                 "member of household tested positive",
-                "If someone in my household tested positive, do I need to quarantine?"
+                "If someone in my household tested positive, do I need to quarantine?",
+                "If I test positive, does my family have to quarantine?",
+                "can i go to work if i live with a positive test ",
+                "Living with someone who tested positive",
+                "Who in my home needs to quarantine if I test positive?"
             ],
             "metadata": [
                 {
@@ -8349,7 +8408,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T21:19:19.36+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:33:42.996+00:00",
             "isDocumentText": false
         },
         {
@@ -8362,7 +8421,11 @@
                 "already had covid, do i still quarantine",
                 "no quarantine for three months after being positive",
                 "i had covid, now i am identified as a close contact",
-                "If I already had COVID within 90 days do I still need to quarantine"
+                "If I already had COVID within 90 days do I still need to quarantine",
+                "I was exposed but already had virus",
+                "had covid 19 do i need to quarantine if re-exposed",
+                "Do i need to quarantine if i already have covid",
+                "had covid then quarantine if you go out of state when you return"
             ],
             "metadata": [
                 {
@@ -8385,7 +8448,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:44:31.23+00:00",
+            "lastUpdatedTimestamp": "2021-02-09T18:31:40.608+00:00",
             "isDocumentText": false
         },
         {
