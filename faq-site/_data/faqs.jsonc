@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:31:57.671+00:00",
             "isDocumentText": false
         },
         {
@@ -164,7 +164,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-14T15:00:45.121+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:49:56.875+00:00",
             "isDocumentText": false
         },
         {
@@ -212,17 +212,16 @@
                 "How can you help prevent getting the virus?",
                 "prevention",
                 "preventative",
-                "How do I stay safe?\n",
                 "What can I do to keep from getting COVID-19?",
                 "How can I avoid getting COVID-19?",
                 "How do you prevent coronavirus?",
                 "how to stay safe?",
-                "family member of essential worker, how to stay safe?",
                 "How can I protect myself from Covid-19?",
                 "How can you help protect yourself from getting the virus?",
                 " Hand sanitizer protect against corona virus",
                 "am I safe?",
-                "exposure risk"
+                "exposure risk",
+                "How do I stay safe?"
             ],
             "metadata": [
                 {
@@ -245,12 +244,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-17T19:51:42.51+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T20:26:26.842+00:00",
             "isDocumentText": false
         },
         {
             "id": 4540,
-            "answer": "**Are face masks or coverings required in Vermont? Is there a mask mandate?**\n\nYou are required to wear a face mask or covering in public spaces in Vermont. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks), group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes), and other places where it’s not possible to stay at least 6 feet away from people you don’t live with.\n\nFace masks or coverings are not required when you are doing strenuous exercise or activities. They are also not required for – and should not be worn by:\n\n*   Children under the age of 2\n*   Anyone who has trouble breathing\n*   Anyone who is unable to remove the face mask without assistance\n*   Anyone who has a medical or behavioral reason for not wearing a face mask\n\nIf you have a medical or developmental condition or have trouble breathing, you are not required to show evidence or documentation of your condition.\n\nBusinesses and other entities may also post signage explaining their mask requirements and can deny entry or service to people who are not wearing a mask, including people who are not required to wear a mask. However, the business must provide another way for people who are unable to wear a mask to access the business (for example, offering curbside pick-up or delivery or other creative solution).\n\nIn private settings (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a face mask or covering anytime you’re around people you don’t live with.\n\nWearing face masks or coverings helps keep people from spreading the virus. This is because the virus can spread even if a person does not have any symptoms.\n\nIn addition to wearing face masks or coverings, these are things you can do to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [How to select, clean and wear your face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html)\n\nThe State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://vem.vermont.gov/maskdistribution).[why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19)",
+            "answer": "**Are face masks or coverings required in Vermont? Is there a mask mandate?**\n\n**You are required to wear a face mask or covering in public spaces in Vermont**. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks), group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes), and other places where it’s not possible to stay at least 6 feet away from people you don’t live with.\n\nMasks are not required when you are doing strenuous exercise or activities. They are also **not required for** – and should not be worn by:\n\n*   Children under the age of 2\n*   Anyone who has trouble breathing\n*   Anyone who is unable to remove the face mask without assistance\n*   Anyone who has a medical or behavioral reason for not wearing a face mask\n\n**If you have a medical or developmental condition or have trouble breathing**, you are not required to show evidence or documentation of your condition.\n\nBusinesses and other entities may also post signage explaining their mask requirements and can deny entry or service to people who are not wearing a mask, including people who are not required to wear a mask. However, the business must provide another way for people who are unable to wear a mask to access the business (for example, offering curbside pick-up or delivery or other creative solution).\n\nIn **private settings** (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a mask anytime you’re around people you don’t live with.\n\nPeople with COVID-19 can spread the virus even if they don’t have any symptoms. **Wearing a mask protects both you and the people around you** from getting or spreading COVID-19. In addition to wearing masks, these are things you can do:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of **free cloth masks** to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
             "source": "KB-COVID",
             "questions": [
                 "Can face masks keep you from getting sick?",
@@ -296,31 +295,21 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4597,
-                        "displayText": "Do homemade cloth face masks or coverings work?"
+                        "displayText": "Is one type of mask better than another? Is wearing two masks better?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4707,
-                        "displayText": "What can I wear if my health or work environment doesn't allow me to wear a cloth face mask or covering?"
+                        "displayText": "What can I wear if my health or work environment doesn't allow me to wear a mask?"
                     },
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4656,
-                        "displayText": "What should businesses do to protect workers and customers?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4646,
-                        "displayText": "How can I report a person or business who is violating the Be Smart, Stay Safe Order?*"
-                    },
-                    {
-                        "displayOrder": 0,
+                        "displayOrder": 1,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T17:32:48.638+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:10:09.905+00:00",
             "isDocumentText": false
         },
         {
@@ -332,7 +321,8 @@
                 "Animals",
                 "Dog",
                 "Cat",
-                "pet"
+                "pet",
+                "dogs and COVID"
             ],
             "metadata": [
                 {
@@ -365,7 +355,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:31:57.671+00:00",
             "isDocumentText": false
         },
         {
@@ -377,7 +367,8 @@
                 "pets",
                 "Can I give my pet",
                 "animal",
-                "avoid my pet"
+                "avoid my pet",
+                "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
             ],
             "metadata": [
                 {
@@ -390,18 +381,18 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4541,
-                        "displayText": "Can pets get sick from COVID-19?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4541,
+                        "displayText": "Can pets get sick from COVID-19? What should I do if I own a pet?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:04:04.663+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T20:56:40.644+00:00",
             "isDocumentText": false
         },
         {
@@ -410,10 +401,8 @@
             "source": "KB-COVID",
             "questions": [
                 "How many people are being monitored in Vermont?",
-                "How man people have COVID-19 in Vermont?",
-                "How many people are infected in Vermont?",
-                "Does the state track people who are infected?",
-                "does the state keep track of potential cases?"
+                "number of travelers monitored",
+                "number of contacts monitored"
             ],
             "metadata": [
                 {
@@ -441,7 +430,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:49:53.572+00:00",
             "isDocumentText": false
         },
         {
@@ -469,22 +458,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:41:41.814+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:51:02.698+00:00",
             "isDocumentText": false
         },
         {
             "id": 4545,
-            "answer": "**What do I need to know about COVID-19 testing? Where can I get tested?**\n\nYou can get tested at a Health Department testing site if you live or work in Vermont and do not have symptoms. This includes children 12 months or older. Anyone under 18 should be accompanied by a parent or guardian or bring a signed parental consent form.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested and how to schedule an appointment**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), **do not go to a testing site**. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on gathering with people you don't live with. You should get tested before the gathering, up to 2 days after the gathering, and again on day 7. Learn more about [why you should get tested](https://apps.health.vermont.gov/COVID/faq/#4817).\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nThere is **no cost** to individuals for a PCR test for COVID-19, even if you don’t have health insurance.\n\nYou may come to a Health Department testing site to get **tested more than once** if you have reason to be concerned about infection.\n\nHealth Department testing sites use nasal swabs. This is a **self-administered test**, which means that you use a short, dry swab to collect a sample from the front of your nose.\n\nIf you need a **ride to the testing site**, schedule your appointment first, and then call 833-387-7200 at least two days before the appointment.\n\n**Find out:**\n\n*   [Where to get tested and how to **schedule an appointment**](https://www.healthvermont.gov/covid-19/testing/where-get-tested)\n*   [**What to expect** at a Health Department testing site](https://www.healthvermont.gov/covid-19/testing/what-expect) – including answers to **more questions about testing**\n*   [What to do **while you’re waiting** for test results and **how to get** your test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf)\n*   [When you will get your **test results**](https://apps.health.vermont.gov/COVID/faq/#4547)\n*   [What the different **types of tests** are](https://apps.health.vermont.gov/COVID/faq/#testing-types-of-tests)\n*   [How many Vermonters have been tested](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard) – this information is updated daily.",
+            "answer": "**What do I need to know about COVID-19 testing? Where can I get tested?**\n\nYou can get tested at a Health Department testing site if you live or work in Vermont and do not have symptoms. This includes children 12 months or older. Anyone under 18 should be accompanied by a parent or guardian or bring a signed parental consent form.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested and how to schedule an appointment**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), **do not go to a testing site**. Talk to your health care provider. If you don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   you are referred by your health care provider.\n*   a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n*   you plan on gathering with people you don't live with. You should get tested before the gathering, as soon as 2 days after the gathering, and again 7 days after the gathering. Learn more about [why you should get tested](https://apps.health.vermont.gov/COVID/faq/#4817).\n\nIf you often gather socially with people you don't live with, you should get tested weekly.\n\n**College students** returning to Vermont from out of state should quarantine and be tested on or after day 7 of quarantine after returning home.\n\n**Travelers to Vermont** and **Vermonters returning from out of state** must follow [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine). You have the [option to get a PCR test on or after day 7](https://apps.health.vermont.gov/COVID/faq/#4692) of quarantine and end your quarantine early with a negative test result.\n\nThere is **no cost** to individuals for a PCR test for COVID-19, even if you don’t have health insurance.\n\nYou may come to a Health Department testing site to get **tested more than once** if you have reason to be concerned about infection.\n\nHealth Department testing sites use nasal swabs. This is a **self-administered test**, which means that you use a short, dry swab to collect a sample from the front of your nose.\n\nIf you need a **ride to the testing site**, schedule your appointment first, and then call 833-387-7200 at least two days before the appointment.\n\n**Find out:**\n\n*   [Where to get tested and how to **schedule an appointment**](https://www.healthvermont.gov/covid-19/testing/where-get-tested)\n*   [**What to expect** at a Health Department testing site](https://www.healthvermont.gov/covid-19/testing/what-expect) – including answers to **more questions about testing**\n*   [What to do **while you’re waiting** for test results and **how to get** your test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf)\n*   [When you will get your **test results**](https://apps.health.vermont.gov/COVID/faq/#4547)\n*   [What the different **types of tests** are](https://apps.health.vermont.gov/COVID/faq/#testing-types-of-tests)\n*   [How many Vermonters have been tested](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard) – this information is updated daily.",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -531,7 +515,9 @@
                 "register for covid test",
                 "how can I schedule a test",
                 "when do I need a covid test",
-                "Do I need to bring anything to my covid test"
+                "Do I need to bring anything to my covid test",
+                "How can I schedule a covid test",
+                "Who can get a test"
             ],
             "metadata": [
                 {
@@ -559,7 +545,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:16:05.991+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:29:08.656+00:00",
             "isDocumentText": false
         },
         {
@@ -568,7 +554,6 @@
             "source": "KB-COVID",
             "questions": [
                 "How long after I get tested will I know if I'm sick?",
-                "Why is it taking more than 3-5 days for nurses working in nursing facilities to find out their results?",
                 "Why does it take so long to get test results?",
                 "Where is my test result?",
                 "Will I be told if I am positive before",
@@ -583,7 +568,6 @@
                 "I need my test results",
                 "waiting for test results",
                 "turn around for the test",
-                "no results",
                 "results of test online?",
                 "results of test from phone call",
                 "When will I get my results",
@@ -596,7 +580,8 @@
                 "How will I get to view my results?",
                 "How quickly are Covid test results given?",
                 "can a minor go to testing by themselves",
-                "how can i get a test"
+                "never got an email from covid test result",
+                "covid test response times"
             ],
             "metadata": [
                 {
@@ -623,12 +608,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:16:05.991+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:29:08.656+00:00",
             "isDocumentText": false
         },
         {
             "id": 4549,
-            "answer": "**How much does the test cost?**\n\nThere is no cost to individuals for a PCR test for COVID-19, even if you don’t have health insurance.",
+            "answer": "**How much does the test cost?**\n\nThere is no cost to individuals for a PCR test for COVID-19, even if you don’t have health insurance.\n\nWhen you make an appointment to be tested, you will be asked to provide your health insurance information. Insurance is not required, and someone who doesn’t have insurance will still be able to get a test. But being able to bill someone’s primary insurance does help offset some of the costs.",
             "source": "KB-COVID",
             "questions": [
                 "Is there a cost to people who are tested?",
@@ -674,7 +659,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-26T18:56:32.722+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:31:01.457+00:00",
             "isDocumentText": false
         },
         {
@@ -854,7 +839,8 @@
                 "guidelines for coming into contact with someone with COVID-19",
                 "someone you were in contact with tested positive for covid 19",
                 "Exposed to person with covid",
-                "are around someone that has the virus"
+                "are around someone that has the virus",
+                "positive case 2nd person removed"
             ],
             "metadata": [
                 {
@@ -887,7 +873,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:50:21.725+00:00",
             "isDocumentText": false
         },
         {
@@ -899,8 +885,10 @@
                 "What are the COVID-19 hot spots?",
                 "How many cases of COVID-19 are in the U.S.?",
                 "How many cases of COVID-19 are in Vermont and in the U.S.?",
-                "how many people have been tested in Vermont?",
-                "How many cases of COVID-19 are in Vermont? "
+                "How many cases of COVID-19 are in Vermont? ",
+                "How many people have COVID-19 in Vermont?",
+                "How many people are infected in Vermont?",
+                "\n\nDoes the state track people who are infected?"
             ],
             "metadata": [
                 {
@@ -923,7 +911,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:32:10.756+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:53:32.894+00:00",
             "isDocumentText": false
         },
         {
@@ -1102,12 +1090,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:41:08.971+00:00",
             "isDocumentText": false
         },
         {
             "id": 4570,
-            "answer": "**What types of disinfectants should I be using to clean?**\n\nFind tips from the CDC on how to [clean and disinfect your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) routinely and when someone is sick.\n\nMake sure you are using cleaning products and disinfectants safely. Follow these guidelines:\n\n*   Wear protective gear (such as gloves and eye protection).\n*   Use them in a well-ventilated area.\n*   Follow the directions on the label.\n*   Use no more than the amount recommended on the label.\n*   Use water at room temperature for dilution (unless the label says a different temperature).\n*   Don’t mix chemicals.\n*   Label diluted cleaning products.\n*   Store them out of reach of children and pets.\n\nYou should never eat, drink, breathe or inject these products into your body or apply directly to your skin as they can cause serious harm. Do not wipe or bathe pets with these products or any other products that are not approved for animal use.\n\nIf you feel sick after using disinfectants, you can chat with the [New England Poison Control Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
+            "answer": "**What types of disinfectants should I be using to clean?**\n\nFind tips from the CDC on how to [clean and disinfect your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) routinely and when someone is sick.\n\nMake sure you are using cleaning products and disinfectants safely. **Always read and follow the directions on the label** and follow these guidelines:\n\n*   Wear protective gear (such as gloves and eye protection).\n*   Use them in a well-ventilated area (for example, open windows).\n*   Use only the amount recommended on the label.\n*   Use water at room temperature for dilution (unless the label says a different temperature).\n*   Label diluted cleaning solutions.\n*   Store and use them out of the reach of children and pets.\n*   Do not mix products or chemicals.\n*   Do not eat, drink, breathe or inject these products into your body or apply them directly to your skin as they can cause serious harm.\n*   Do not wipe or bathe pets with any cleaning and disinfection products.\n\nIf you feel sick after using disinfectants, you can chat with the [New England Poison Control Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
             "source": "KB-COVID",
             "questions": [
                 "What types of disinfectants should I be using to clean?",
@@ -1139,7 +1127,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:55:15.971+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T21:15:23.978+00:00",
             "isDocumentText": false
         },
         {
@@ -1170,11 +1158,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4545,
-                        "displayText": "Can I be tested for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4691,
                         "displayText": "My health care provider is out-of-state. Can I be tested in Vermont?"
                     },
@@ -1182,10 +1165,15 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4545,
+                        "displayText": "What do I need to know about COVID-19 testing? Where can I get tested?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T21:26:51.56+00:00",
             "isDocumentText": false
         },
         {
@@ -1218,7 +1206,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:42:11.065+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:49:13.732+00:00",
             "isDocumentText": false
         },
         {
@@ -1309,7 +1297,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:50:21.725+00:00",
             "isDocumentText": false
         },
         {
@@ -1489,7 +1477,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:59:49.482+00:00",
             "isDocumentText": false
         },
         {
@@ -1534,7 +1522,7 @@
         },
         {
             "id": 4584,
-            "answer": "**How can children stay safe and prevent the spread of COVID-19?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested as soon as possible after the gathering and then again on day 7. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nGathering in groups or “pods” related to education or child care that are already formed can continue. Gathering in pods related to social activity, informal playgroups, playdates, or sleepovers are not allowed at this time. New pods of any kind are discouraged.\n\nFor **outdoor recreation** with people you don’t live with, keep a physical distance of at least 6 feet and wear a mask. There are no other limitations to outdoor activities. Being active outside is good for our mental and physical health!\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask (children over 2 who are able) anytime you are around people you don’t live with.\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
+            "answer": "**How can children stay safe and prevent the spread of COVID-19?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested before the gathering, as soon as 2 days after the gathering, and again 7 days after the gathering. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nGathering in groups or “pods” related to education or child care that are already formed can continue. Gathering in pods related to social activity, informal playgroups, playdates, or sleepovers are not allowed at this time. New pods of any kind are discouraged.\n\nFor **outdoor recreation** with people you don’t live with, keep a physical distance of at least 6 feet and wear a mask. There are no other limitations to outdoor activities. Being active outside is good for our mental and physical health!\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask (children over 2 who are able) anytime you are around people you don’t live with.\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)\n*   [School-based sports program guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports)",
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
@@ -1579,7 +1567,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:21:04.278+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:43:30.975+00:00",
             "isDocumentText": false
         },
         {
@@ -1660,7 +1648,7 @@
         },
         {
             "id": 4587,
-            "answer": "**What is Vermont doing about the COVID-19 pandemic?**\n\nGovernor Phil Scott declared a State of Emergency to respond to the COVID-19 pandemic to help ensure Vermont has all the necessary resources to respond to this evolving public health emergency. Find details on all [executive orders](https://governor.vermont.gov/document-types/executive-orders).\n\nThe strategies continue to be updated based on guidance from federal and state public health officials. Find a [summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response).",
+            "answer": "**What is Vermont doing about the COVID-19 pandemic?**\n\nGovernor Phil Scott declared a State of Emergency to respond to the COVID-19 pandemic to help ensure Vermont has all the necessary resources to respond to this evolving public health emergency. Find details on all [executive orders](https://governor.vermont.gov/document-types/executive-orders).\n\nThe strategies continue to be updated based on guidance from federal and state public health officials. Find a [summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response).\n\nGovernor Scott and administration officials provide updates to Vermont’s response to COVID-19 at 11 a.m. on Tuesdays and Fridays. Most Vermont TV and radio news stations broadcast the briefings. You can [watch it live on ORCA Media’s YouTube channel](https://www.youtube.com/playlist?list=PL-xsDpLCa0iRMj4dQrqum7uoXaQmqeGvT).",
             "source": "Editorial",
             "questions": [
                 "What is Vermont doing?",
@@ -1668,20 +1656,20 @@
                 "What has Vermont done?",
                 "What will Vermont do?",
                 "Where can I find the governors executive orders?",
-                "Why don't we develop our own guidelines from out own state data?",
                 "Covid-19 operations plan",
                 "What executive order is in place today?",
                 "plan for dealing with COVID?",
                 "What is the strategic plan for dealing with COVID-19?",
-                "What changes on May 15th?",
                 "Tracking and tracing of COVID-19",
-                "When is Governor Scott going to give his next Stay home stay safe update?",
-                "Has the stay at home order been extended?",
-                "When can retail businesses open?",
                 "What is the plan?",
-                "Whats closed in Vermont",
                 "Quarantine still in effect?",
-                "What is Vermont doing about the COVID-19 pandemic?"
+                "What is Vermont doing about the COVID-19 pandemic?",
+                "When is Governor Scott going to give his next update?",
+                "Press briefings",
+                "governor’s updates",
+                "news conference",
+                "stay at home orders",
+                "executive orders"
             ],
             "metadata": [
                 {
@@ -1698,18 +1686,18 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4591,
-                        "displayText": "Are mass gatherings (ceremonies, events, fairs or festivals) allowed?"
+                        "displayOrder": 1,
+                        "qnaId": 4761,
+                        "displayText": "What are the current restrictions on gatherings?"
                     },
                     {
-                        "displayOrder": 0,
+                        "displayOrder": 2,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T18:44:19.048+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:52:40.324+00:00",
             "isDocumentText": false
         },
         {
@@ -1841,7 +1829,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T19:05:17.444+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:46:47.616+00:00",
             "isDocumentText": false
         },
         {
@@ -1954,7 +1942,8 @@
                 "Covid-19 cardboard",
                 "cardboard",
                 "Covid on paper",
-                "Can I get the virus from touching my mail, packages or products?"
+                "Can I get the virus from touching my mail, packages or products?",
+                "touched money"
             ],
             "metadata": [
                 {
@@ -1968,11 +1957,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4537,
-                        "displayText": "How does COVID-19 spread?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4572,
                         "displayText": "How long can the virus live on surfaces?"
                     },
@@ -1983,7 +1967,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:48:23.978+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:49:13.732+00:00",
             "isDocumentText": false
         },
         {
@@ -2033,13 +2017,14 @@
         },
         {
             "id": 4597,
-            "answer": "**Do homemade cloth masks work?**\n\nYou are required to wear a face mask or covering in public spaces in Vermont. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks), group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes), and other places where it’s not possible to stay at least 6 feet away from people you don’t live with.\n\nIn private settings (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a mask anytime you're around people you don’t live with.\n\nPeople with COVID-19 can spread the virus through respiratory droplets produced when they cough, sneeze, sing, talk, or breathe. They can spread the virus even if they don’t have any symptoms. Masks are a simple barrier to help prevent your respiratory droplets from reaching others. Studies show that masks reduce the spray of droplets when worn over your nose and mouth. \n\nA mask also offers some protection to you, too. How well it protects you from breathing in the virus likely depends on the fabrics used and how your mask is made (for example, the type of fabric, the number of layers of fabric, how well the mask fits).\n\nFind out [which fabrics are best to use for cloth masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html).\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [How to select, clean and wear your face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html)\n\nThe State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://vem.vermont.gov/maskdistribution).",
+            "answer": "**Is one type of mask better than another? Is wearing two masks better?**\n\nThe most important thing to do is to wear a mask — period. Wearing a mask protects both you and the people around you from getting or spreading COVID-19.\n\nThere are several [types of masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) to choose from, including cloth, disposable, N95 and KN95.\n\nAccording to the CDC, the most effective fabrics for **cloth masks** are:\n\n*   tightly woven fabrics, such as cotton and cotton blends\n*   breathable\n*   two or three fabric layers\n\nYou can also wear a **disposable mask**, like a surgical or medical procedure mask, instead of a cloth mask, now that they are in greater supply. These masks may provide some additional protection.\n\nThe CDC has found that “double masking” or **wearing two masks** (disposable mask underneath **and** a cloth mask on top) can offer a better fit and provide extra protection.\n\nTypically **N95** masks should be reserved for health care workers who are at highest risk and need them most. **KN95** masks are also available for the public to purchase, but make sure the mask has been [approved by the Food & Drug Administration](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/personal-protective-equipment-euas).\n\nWhichever mask you choose, **it is important to make sure it fits properly**. Learn more from the CDC about [improving how your mask protects you](https://www.cdc.gov/coronavirus/2019-ncov/your-health/effective-masks.html).\n\nThe CDC continues to study the effectiveness of different types of masks, and we will update our recommendations as new scientific evidence becomes available.",
             "source": "Editorial",
             "questions": [
                 "Do homemade face masks work?",
                 "Do homemade cloth face masks or coverings work?",
                 "Do homemade face masks or coverings work?",
-                "Do homemade cloth masks work?"
+                "Do homemade cloth masks work?",
+                "Is one type of mask better than another? Is wearing two masks better?"
             ],
             "metadata": [
                 {
@@ -2057,42 +2042,27 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4537,
-                        "displayText": "How does COVID-19 spread?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4641,
-                        "displayText": "How can I make my own homemade cloth face mask or covering?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4665,
-                        "displayText": "Where can I buy cloth face masks or coverings?"
-                    },
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4540,
-                        "displayText": "Are face masks or coverings required in Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4747,
                         "displayText": "Is it safe to wear gaiters instead of masks?"
+                    },
+                    {
+                        "displayOrder": 10,
+                        "qnaId": 4665,
+                        "displayText": "Where can I buy cloth masks?"
+                    },
+                    {
+                        "displayOrder": 11,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T17:32:48.638+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:14:32.526+00:00",
             "isDocumentText": false
         },
         {
             "id": 4600,
-            "answer": "**Are pets from a shelter safe to adopt?**\n\nThere is no reason to think that any animals, including shelter pets, play a significant role in spreading the COVID-19 virus.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
+            "answer": "**Are pets from a shelter safe to adopt?**\n\nAccording to the CDC and based on the limited information available to date, the risk of animals spreading COVID-19 to people is low.\n\nLearn more about what to do [if you have pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) from the CDC.\n\nRead the [COVID-19 FAQs for pet owners](https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/covid-19-faqs-pet-owners) from the American Veterinary Medical Association.",
             "source": "Editorial",
             "questions": [
                 "Are pets from a shelter safe to adopt?"
@@ -2108,18 +2078,18 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4541,
-                        "displayText": "Can pets get sick from COVID-19?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4541,
+                        "displayText": "Can pets get sick from COVID-19? What should I do if I own a pet?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:02:31.72+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:31:57.671+00:00",
             "isDocumentText": false
         },
         {
@@ -2273,7 +2243,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:37:37.78+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T20:51:42.176+00:00",
             "isDocumentText": false
         },
         {
@@ -2348,12 +2318,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:51:34.61+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:09:42.203+00:00",
             "isDocumentText": false
         },
         {
             "id": 4607,
-            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification. \n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate. \n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Governor’s orders or people who are not quarantining as required, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
+            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification.\n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate.\n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Governor’s orders, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u). You can call your local law enforcement agency for concerns about people who are not quarantining as required.\n\nLearn more about [executive order enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
             "source": "Editorial",
             "questions": [
                 "what is the fine for non compliance",
@@ -2378,7 +2348,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T20:23:38.469+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:19:44.817+00:00",
             "isDocumentText": false
         },
         {
@@ -2489,7 +2459,6 @@
                 "Of the people who have completed monitoring how many have recovered?",
                 "how many subjects have recovered?",
                 "How many people who were sick are now well?",
-                "Why are you not collecting the recovery data?",
                 "Covid-19 cases recovered",
                 "How many people who have tested positive have recovered?"
             ],
@@ -2514,7 +2483,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:36:17.926+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:57:44.556+00:00",
             "isDocumentText": false
         },
         {
@@ -2677,7 +2646,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:27:58.94+00:00",
             "isDocumentText": false
         },
         {
@@ -2773,7 +2742,9 @@
                 "what is quaranteen?",
                 "Day zero",
                 "Ending quarantine",
-                "How long do I need to quarantine?"
+                "How long do I need to quarantine?",
+                "Can I go to school when I am in quarintine",
+                "quarantine rules"
             ],
             "metadata": [
                 {
@@ -2805,7 +2776,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T21:18:45.142+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:28:50.664+00:00",
             "isDocumentText": false
         },
         {
@@ -2854,7 +2825,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:51:34.61+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:09:42.203+00:00",
             "isDocumentText": false
         },
         {
@@ -2901,10 +2872,6 @@
                 "How many people are inpatients with Covid-19?",
                 "hospitalized and under investigation",
                 "How many severe cases of Covid-19?",
-                " recovered cases",
-                "current stats",
-                "current numbers",
-                "what is an acceptable positivity rate? ",
                 "How many patients are symptomatic"
             ],
             "metadata": [
@@ -2923,17 +2890,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4580,
-                        "displayText": "Can you tell me more information about a patient with COVID-19?"
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "qnaId": 4580,
+                        "displayText": "Can you tell me more information about a person diagnosed with COVID-19?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:33:35.661+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:59:49.482+00:00",
             "isDocumentText": false
         },
         {
@@ -3064,7 +3031,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:32:47.526+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:27:58.94+00:00",
             "isDocumentText": false
         },
         {
@@ -3225,7 +3192,7 @@
         },
         {
             "id": 4638,
-            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty are important for our minds and bodies.\n\n[Businesses, facilities and organizations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-businesses-facilities-and-organizations) that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact are open under certain health and safety requirements. These include, but are not limited to, state parks, municipal parks, recreation associations, pools, beaches, play structures or playgrounds, trail networks, golf courses, big game check stations and guided expeditions.\n\nEven though there are restrictions on social gatherings, you can do outdoor recreation and fitness activities with people you don’t live with, like biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity. Find out more about [coming to Vermont to ski or snowboard](https://apps.health.vermont.gov/COVID/faq/#4759).\n\nFind up-to-date information from the Agency of Commerce and Community Development (ACCD) on:\n\n*   [outdoor recreation and fitness](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-and-fitness)\n*   [sports and organized sports](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports)  (including youth leagues, adult leagues, practices, games and tournaments)\n*   [ski resorts](https://accd.vermont.gov/content/vermont-ski-resort-covid-19-winter-operations-guidance)\n*   [campgrounds](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations)\n\nHere’s how we can safely continue to enjoy outdoor activities:\n\n*   **Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n*   **Bring a mask with you.** You are [required to wear a face mask](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces, especially when you cannot stay at least 6 feet away from people you don’t live with.\n*   **Take health and safety precautions.** Stay at least 6 feet away from people you don’t live with, wash or sanitize your hands often, and stay home if you are sick.\n*   **Choose low- or no-contact sports,** for example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but contact games are not allowed. Do not share sports equipment with people you don’t live with.\n*   **Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system.\n*   **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to see if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/covid-19-related-information).\n\nFind more [tips on preventing COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) and learn more about [getting together with friends and family](https://apps.health.vermont.gov/COVID/faq/#4690).",
+            "answer": "**Are sports and outdoor activities allowed?**\n\nWe encourage Vermonters to go outside and enjoy the fresh air. Exercise, outdoor activities, and taking in Vermont’s natural beauty are important for our minds and bodies.\n\n[Businesses, facilities and organizations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-businesses-facilities-and-organizations) that support or offer outdoor recreation and outdoor fitness activities with low or no direct physical contact are open under certain health and safety requirements. These include, but are not limited to, state parks, municipal parks, recreation associations, pools, beaches, play structures or playgrounds, trail networks, golf courses, big game check stations and guided expeditions.\n\nEven though there are restrictions on social gatherings, **you can do outdoor recreation and fitness activities with people you don’t live with**, like biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity. Find out more about [coming to Vermont to ski or snowboard](https://apps.health.vermont.gov/COVID/faq/#4759).\n\nFind up-to-date information from the Agency of Commerce and Community Development (ACCD) on:\n\n*   [outdoor recreation and fitness](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#outdoor-recreation-and-fitness)\n*   [sports and organized sports](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports) (including school-based sports programs, youth leagues, adult leagues, practices, games and tournaments)\n*   [ski resorts](https://accd.vermont.gov/content/vermont-ski-resort-covid-19-winter-operations-guidance)\n*   [campgrounds](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#lodging-campgrounds-and-other-accommodations)\n\nHere’s how we can safely continue to enjoy outdoor activities:\n\n*   **Stay close to home.** Find local outdoor recreation areas and consider day trips that are close to home. Only drive with members of your household.\n*   **Bring a mask with you.** You are [required to wear a face mask](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces, especially when you cannot stay at least 6 feet away from people you don’t live with.\n*   **Take health and safety precautions.** Stay at least 6 feet away from people you don’t live with, wash or sanitize your hands often, and stay home if you are sick.\n*   **Choose low- or no-contact sports,** for example, biking, hiking, horseback riding, tennis, boating and golfing. Outdoor basketball courts may be open to shoot hoops, but contact games are not allowed. Do not share sports equipment with people you don’t live with.\n*   **Be cautious and choose low-risk activities to avoid injury.** This will help lower the burden on our hospitals and health care system.\n*   **Respect signs for closed areas, trails and land.** Check [Trail Finder](https://www.trailfinder.info/) to see if your trail is currently open before you visit. Call ahead or check websites for information on outdoor recreation facilities before you head out.\n\nFind out more about outdoor recreation and COVID-19 from the [Vermont Department of Forests, Parks and Recreation](https://fpr.vermont.gov/recreation/outdoor-recreation-and-covid-19) and the [Vermont Fish and Wildlife Department](https://vtfishandwildlife.com/covid-19-related-information).\n\nFind more [tips on preventing COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) and learn more about [getting together with friends and family](https://apps.health.vermont.gov/COVID/faq/#4690).",
             "source": "Editorial",
             "questions": [
                 "travel to another place in Vermont for recreation?",
@@ -3290,41 +3257,32 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:44:03.792+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:43:30.975+00:00",
             "isDocumentText": false
         },
         {
             "id": 4639,
-            "answer": "**How is Vermont deciding when it is safe to reopen?**\n\nMost recent modeling data suggests Vermont has reached its peak in the number of new cases of COVID-19, hospital capacity, and the number of people who are currently infected with COVID-19.\n\nHowever, it is important to remember that not everyone infected with the virus has symptoms and there are still many people who are currently infected and could spread it to others.\n\nVermont is looking at four key measures to inform steps to reopen:\n\n*   Ongoing reduction in cases for at least 14 days\n*   A health care system that is safely able to treat all patients without exceeding its capacity or using crisis standards of care\n*   The ability to test all people with symptoms\n*   Widespread active monitoring of people who have tested positive for COVID-19 and tracing their close contacts\n\nTo continue on this path, it is critical that Vermonters continue to follow these prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nRead the latest [Vermont COVID-19 modeling projections](https://dfr.vermont.gov/about-us/covid-19/modeling) from the Vermont Department of Financial Regulation.",
+            "answer": "**How is Vermont deciding when it is safe to reopen?**\n\nIt is important to remember that not everyone infected with the virus has symptoms and there are still many people who are currently infected and could spread it to others.\n\nVermont is looking at four key measures to inform its steps forward:\n\n*   Ongoing reduction in cases for at least 14 days\n*   A health care system that is safely able to treat all patients without exceeding its capacity or using crisis standards of care\n*   The ability to test all people with symptoms\n*   Widespread active monitoring of people who have tested positive for COVID-19 and tracing their close contacts\n\nTo continue to slow the spread of the virus, it is critical that Vermonters continue to follow these prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nRead the latest [Vermont COVID-19 modeling projections](https://dfr.vermont.gov/about-us/covid-19/modeling) from the Vermont Department of Financial Regulation.",
             "source": "Editorial",
             "questions": [
                 "How long has Governor Scott asked residents to stay home?",
                 "When will the apex be in VT?",
                 "apex",
-                "what should I tell my employees for a call back date?",
                 "When is covid-19 peaking in Vermont",
                 "Is there a date for when stay at home order is going to be over?",
-                "Is April 15 realistic?",
                 "When will restrictions be lifted?",
                 "What if the SURGE doesn't happen",
                 "How much longer is it necessary to mitigate this virus?",
                 "Where is the projection model for Vermont?",
                 "When is VT reopening?",
                 "When does the state go back to work?",
-                "When is the lock-down period valid until?",
-                "How long does the current stay at home order go to?",
                 "When did covid-19 peak in VT?",
-                "How long will essential only purchasing last?",
                 "We are flattening the curve",
                 "Are we beating the curve?",
-                "How much longer till I can go outside with 2 people?",
                 "When is quarantine over?",
                 "Has Vermont plateaued?",
-                "Vermont be lifted by May 15th?",
                 "How much longer are the stay at home orders for?",
-                "When can I go to work?",
                 "Have we reached full peak?",
-                "how long is the shelter in place order?",
                 "When does stay at home order expire",
                 "When does the stay at home order end?",
                 "until when is the stay home stay safe order in effect?",
@@ -3333,8 +3291,6 @@
                 "when is the stay at home mandate changing",
                 "How long is Stay Home Stay Safe valid?",
                 "Is Vermont still under stay at home stay safe orders?",
-                "projected timeline",
-                "What will restrictions be in August",
                 "When will COVID-19 infections peak? When will the Be Smart, Stay Safe Order end?",
                 "How is Vermont deciding when it is safe to reopen?"
             ],
@@ -3350,37 +3306,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4630,
-                        "displayText": "What should businesses and non-profits do?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4618,
-                        "displayText": "What is isolation, quarantine and self-observation?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4680,
-                        "displayText": "Is the state reopened? Which businesses are open now?"
+                        "displayText": "Which businesses are open?"
                     },
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4616,
-                        "displayText": "Are lodging facilities (hotels, motels, short-term rentals, campgrounds, RV parks, or seasonal resorts) open?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4718,
-                        "displayText": "I have a different question on the topic of travel.\n"
-                    },
-                    {
-                        "displayOrder": 0,
+                        "displayOrder": 1,
                         "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
+                        "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T18:31:04.399+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:28:50.664+00:00",
             "isDocumentText": false
         },
         {
@@ -3413,14 +3349,14 @@
         },
         {
             "id": 4641,
-            "answer": "**How can I make my own homemade cloth mask?**\n\nHomemade cloth masks can be made using simple materials found in most homes, for example, an old t-shirt or bandanna and rubber bands or hair ties. Make your mask with two or more layers of washable, breathable fabric. \n\nThe CDC has instructions on [how to make a mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) in several different methods, including machine or hand-sewn, a no-sew method with a t-shirt and scissors, and a no-sew method with a bandana.\n\nYou are required to wear a face mask or covering in public spaces in Vermont. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks), group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes), and other places where it’s not possible to stay at least 6 feet away from people you don’t live with.\n\nIn private settings (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a mask anytime you're around people you don’t live with.\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [How to select, clean and wear your face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html)\n\nThe State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://vem.vermont.gov/maskdistribution).",
+            "answer": "**How can I make my own cloth mask?**\n\nHomemade cloth masks can be made using simple materials found in most homes, for example, an old t-shirt or bandanna and rubber bands or hair ties. Make your mask with two or more layers of washable, breathable fabric.\n\nThe CDC has instructions on [how to make a mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) in several different methods, including machine or hand-sewn, a no-sew method with a t-shirt and scissors, and a no-sew method with a bandana.\n\n**You are** [**required to wear a mask in public spaces**](https://apps.health.vermont.gov/COVID/faq/#4540) **in Vermont**. In private settings (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you a mask anytime you're around people you don’t live with.\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of free cloth masks to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
-                "How can I make my own homemade face mask?",
                 "with a severe shortage of masks where is the public to get one?",
                 "Best material for face mask?",
                 "How can I make my own homemade cloth face mask or covering?",
-                "How can I make my own homemade cloth mask?"
+                "How can I make my own homemade cloth mask?",
+                "How can I make my own cloth mask?"
             ],
             "metadata": [
                 {
@@ -3443,17 +3379,12 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4540,
-                        "displayText": "Are face masks required in Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4747,
                         "displayText": "Is it safe to wear gaiters instead of masks?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:11:33.216+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:17:31.613+00:00",
             "isDocumentText": false
         },
         {
@@ -3480,22 +3411,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4541,
-                        "displayText": "Can pets get sick from COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4542,
-                        "displayText": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4541,
+                        "displayText": "Can pets get sick from COVID-19? What should I do if I own a pet?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-30T21:03:06.64+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T20:56:40.644+00:00",
             "isDocumentText": false
         },
         {
@@ -3532,7 +3458,7 @@
         },
         {
             "id": 4646,
-            "answer": "**How can I report a person or business who is violating the Governor's executive orders?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses or lodging establishments** that are violating the Governor’s orders, use the Department of Public Safety’s [online reporting tool](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u). \n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form). \n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).",
+            "answer": "**How can I report a person or business who is violating the Governor's executive orders?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses or lodging establishments** that are violating the Governor’s orders, use the Department of Public Safety’s [online reporting tool](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).\n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form).\n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency.\n\nLearn more about [how the executive orders are enforced](https://apps.health.vermont.gov/COVID/faq/#4607).",
             "source": "Editorial",
             "questions": [
                 "businesses not in compliance to the covid-19 order",
@@ -3584,7 +3510,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:43:21.266+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:21:43.878+00:00",
             "isDocumentText": false
         },
         {
@@ -3782,7 +3708,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:47:15.547+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:41:03.041+00:00",
             "isDocumentText": false
         },
         {
@@ -3997,16 +3923,14 @@
         },
         {
             "id": 4665,
-            "answer": "**Where can I buy cloth face masks or coverings?**\n\nThe Department of Public Safety has a [list of where to buy face coverings](https://vem.vermont.gov/covid19/facecovering) from businesses.\n\nYou can also reach out to your community. Check out places like Front Porch Forum to connect with other Vermonters making cloth face masks or coverings.\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [How to select, clean and wear your face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html)\n\nThe State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://vem.vermont.gov/maskdistribution).",
+            "answer": "**Where can I buy cloth masks?**\n\nThe Department of Public Safety has a [list of where to buy cloth masks](https://vem.vermont.gov/covid19/facecovering).\n\nYou can also reach out to your community. Check out places like Front Porch Forum to connect with other Vermonters who are making cloth masks.\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of free cloth masks to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
                 "Where can I buy cloth face coverings?",
                 "location of face masks",
                 "Where to get masks",
-                "Where can I buy cloth face masks or coverings?",
-                "PPE requests",
-                "need PPE",
-                "masks for our Staff"
+                "masks for our Staff",
+                "Where can I buy cloth masks?"
             ],
             "metadata": [
                 {
@@ -4024,27 +3948,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4641,
-                        "displayText": "How can I make my own homemade cloth face mask or covering?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4605,
-                        "displayText": "What should health care workers do?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4747,
-                        "displayText": "Is it safe to wear gaiters instead of masks?"
+                        "qnaId": 4641,
+                        "displayText": "How can I make my own cloth mask?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:06:29.138+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:17:31.613+00:00",
             "isDocumentText": false
         },
         {
@@ -4227,7 +4141,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:18:37.49+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:31:01.457+00:00",
             "isDocumentText": false
         },
         {
@@ -4349,8 +4263,7 @@
             "questions": [
                 "How do I practice safer drug use?",
                 "substance use",
-                "substance misuse",
-                "harm reduction"
+                "substance misuse"
             ],
             "metadata": [
                 {
@@ -4373,7 +4286,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:40:25.434+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T20:50:38.233+00:00",
             "isDocumentText": false
         },
         {
@@ -4427,22 +4340,12 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4603,
-                        "displayText": "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4656,
-                        "displayText": "What should businesses do to protect workers and customers?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T20:51:42.176+00:00",
             "isDocumentText": false
         },
         {
@@ -4508,7 +4411,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:37:37.78+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:28:50.664+00:00",
             "isDocumentText": false
         },
         {
@@ -4535,7 +4438,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:37:37.78+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:27:58.94+00:00",
             "isDocumentText": false
         },
         {
@@ -4566,7 +4469,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:41:08.225+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:50:21.725+00:00",
             "isDocumentText": false
         },
         {
@@ -4605,7 +4508,7 @@
         },
         {
             "id": 4690,
-            "answer": "**Can I get together with friends and family?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested as soon as possible after the gathering and then again on day 7. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result. \n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19. \n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19: \n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nAlso, consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of the virus.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. They should consider [taking additional steps to limit their risk](https://apps.health.vermont.gov/COVID/faq/#4559), stay close to home, and family and friends should do everything they can to help keep them safe.\n\n**Learn more from the CDC**:\n\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
+            "answer": "**Can I get together with friends and family?**\n\nAs of November 14, 2020, you are not allowed to gather with people you don’t live with. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested before the gathering, as soon as 2 days after the gathering, and again 7 days after the gathering. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nAlso, consider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of the virus.\n\nThe risk for severe illness increases with age and is higher for older adults and people of any age with certain underlying medical conditions. They should consider [taking additional steps to limit their risk](https://apps.health.vermont.gov/COVID/faq/#4559), stay close to home, and family and friends should do everything they can to help keep them safe.\n\n**Learn more from the CDC**:\n\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
             "source": "Editorial",
             "questions": [
                 "Can I get together with friends and family?",
@@ -4650,7 +4553,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:44:03.792+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:18:17.62+00:00",
             "isDocumentText": false
         },
         {
@@ -4678,7 +4581,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-05T19:53:49.701+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T21:26:51.56+00:00",
             "isDocumentText": false
         },
         {
@@ -4721,7 +4624,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:44:45.222+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T16:51:02.698+00:00",
             "isDocumentText": false
         },
         {
@@ -4855,7 +4758,8 @@
             "source": "Editorial",
             "questions": [
                 "Do I need to quarantine if out-of-state visitors are staying in my home?",
-                "household guests during covid"
+                "household guests during covid",
+                "Do i need to quarantine if someone from another state is visiting me?"
             ],
             "metadata": [
                 {
@@ -4888,7 +4792,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:56:33.96+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:41:38.172+00:00",
             "isDocumentText": false
         },
         {
@@ -4926,13 +4830,13 @@
         },
         {
             "id": 4707,
-            "answer": "**What can I wear if my health or work environment doesn't allow me to wear a face mask or covering?**\n\nPeople who have trouble breathing can wear a light-weight bandanna or cloth covering tied to be open at the bottom or a face shield. Face shields are generally not recommended because they are more for health care settings to protect the person wearing it from droplets getting into their eyes. Face masks or coverings, like a cloth face mask or bandanna, do a better job than face shields of keeping droplets in. However, if your work environment or health does not allow you to wear a cloth face mask, wearing a face shield is better than having no barrier on your nose and mouth.\n\nOutdoor workers who are doing strenuous work that causes heavy breathing are not required to wear a face mask or covering when it is hot outside. Workers should keep masks with them and wear them when they are not exerting themselves (for example talking, resting, or interacting with other co-workers or people). It is important that workers keep a 6-foot distance from others whenever possible, especially when they are not wearing a mask.\n\nFace shields should extend below the chin, to the ears on both sides, and there should be no exposed gap between the forehead and the shield’s headpiece. Clean them regularly – especially if condensation or droplets are visible on the inside of the shield – [handle them like face masks or coverings](https://apps.health.vermont.gov/COVID/faq/#4723) when putting them on or removing them.",
+            "answer": "**What can I wear if my health or work environment doesn't allow me to wear a mask?**\n\nThe virus that causes COVID-19 is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537), by respiratory droplets released when people with COVID-19 cough, sneeze, sing, talk, or breathe. Face shields are typically used in health care settings to protect the person wearing them from droplets getting into their eyes. Masks or coverings, like a cloth mask or bandanna, do a better job than face shields of keeping droplets in and not spreading the virus. \n\nHowever, if your work environment or health does not allow you to wear a mask, wearing a face shield is better than having no barrier over your nose and mouth.\n\n**Make sure your face shield fits properly**. Face shields should extend below the chin, to the ears on both sides, and there should be no exposed gap between the forehead and the shield’s headpiece. Clean them regularly – especially if condensation or droplets are visible on the inside of the shield – and [handle them like masks](https://apps.health.vermont.gov/COVID/faq/#4723) when putting them on or removing them.\n\n**People who have trouble breathing** can wear a light-weight bandanna or cloth covering tied to be open at the bottom, or a face shield. \n\n**Outdoor workers** who are doing strenuous work that causes heavy breathing are not required to wear a mask when it is hot outside. Workers should keep masks with them and wear them when they are not exerting themselves (for example talking, resting, or interacting with other co-workers or people). It is important that workers keep a 6-foot distance from others whenever possible, especially when they are not wearing a mask.",
             "source": "Editorial",
             "questions": [
                 "Can't wear a mask",
                 "face shields",
                 "alternative to mask",
-                "What can I wear if my health or work environment doesn't allow me to wear a face mask or covering?"
+                "What can I wear if my health or work environment doesn't allow me to wear a mask?"
             ],
             "metadata": [
                 {
@@ -4952,15 +4856,10 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4540,
-                        "displayText": "Are face masks or coverings required in Vermont?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T17:32:48.638+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:10:09.905+00:00",
             "isDocumentText": false
         },
         {
@@ -5324,7 +5223,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:16:24.423+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:27:58.94+00:00",
             "isDocumentText": false
         },
         {
@@ -5471,7 +5370,7 @@
         },
         {
             "id": 4723,
-            "answer": "**What is the correct way to wear a mask?**\n\nYou are required to wear a face mask or covering in public spaces in Vermont. This includes both indoor and outdoor public spaces (for example, businesses, public buildings, parks), group living settings (for example, long-term care facilities, nursing homes, apartment and condo complexes), and other places where it’s not possible to stay at least 6 feet away from people you don’t live with.\n\nIn private settings (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a mask anytime you're around people you don’t live with.\n\nPeople with COVID-19 can spread the virus even if they don’t have any symptoms. Masks protect others around you as well as offer some protection to you.\n\nA mask must be worn properly to be effective and avoid spreading the virus:\n\n*   Wash your hands or use hand sanitizer before putting it on.\n*   Put it over your nose and mouth and secure it under your chin.\n*   Make sure it fits snugly against the side of your face.\n*   Slip the loops over your ears or tie the strings behind your head.\n*   Do not touch it when you are wearing it.\n*   Remove it by handling only the ear loops or ties and fold the outside corners together.\n*   Be careful not to touch your eyes, nose or mouth, then wash your hands immediately after removing it.\n\nWash your mask regularly and make sure it’s completely dry before using it again. Have a few on hand so you can rotate them for washing and have enough clean ones to wear.\n\n**During hot weather**, if you feel like you are overheating and are having trouble breathing because it is hot, take off your mask, drink water, rest and seek shade or a cool place. It is important that you stay at least 6 feet away from others whenever possible, especially when you are not wearing a mask.\n\n**During cold weather**, change your mask when it becomes wet. Keep a spare mask to replace the wet one, and put the wet one in a plastic bag until you get home. If you need to wear a scarf, ski mask or balaclava, wear it over your mask. If you wear glasses, find a mask that fits closely over your nose or has a nose wire to help reduce fogging.\n\nWearing masks is one way we can help slow the spread of COVID-19 – in addition to staying at least 6 feet away from people you don’t live with and other [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more:**\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [How to select, clean and wear your face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html)\n\nThe State of Vermont is offering a limited number of free cloth face masks to the public. [Find out if free cloth face masks are available in your area](https://vem.vermont.gov/maskdistribution).",
+            "answer": "**What is the correct way to wear a mask?**\n\n**You are** [**required to wear a mask in public spaces**](https://apps.health.vermont.gov/COVID/faq/#4540) **in Vermont**. In private settings (for example, at a gathering with family and friends in your backyard or riding in a car), we recommend that you wear a mask anytime you're around people you don’t live with.\n\nPeople with COVID-19 can spread the virus even if they don’t have any symptoms. Masks protect others around you as well as offer some protection to you.\n\nA mask must be worn properly to be effective and avoid spreading the virus:\n\n*   Wash your hands or use hand sanitizer before putting it on.\n*   Put it over your nose and mouth and secure it under your chin.\n*   Make sure it fits snugly against the side of your face.\n*   Slip the loops over your ears or tie the strings behind your head.\n*   Do not touch it when you are wearing it.\n*   Remove it by handling only the ear loops or ties and fold the outside corners together.\n*   Be careful not to touch your eyes, nose or mouth, then wash your hands immediately after removing it.\n\nWash your mask regularly and make sure it’s completely dry before using it again. Have a few on hand so you can rotate them for washing and have enough clean ones to wear.\n\n**During hot weather**, if you feel like you are overheating and are having trouble breathing because it is hot, take off your mask, drink water, rest and seek shade or a cool place. It is important that you stay at least 6 feet away from others whenever possible, especially when you are not wearing a mask.\n\n**During cold weather**, change your mask when it becomes wet. Keep a spare mask to replace the wet one, and put the wet one in a plastic bag until you get home. If you need to wear a scarf, ski mask or balaclava, wear it over your mask. If you wear glasses, find a mask that fits closely over your nose or has a nose wire to help reduce fogging.\n\nWearing masks is one way we can help slow the spread of COVID-19 – in addition to staying at least 6 feet away from people you don’t live with and other [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more:**\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of free cloth masks to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
             "questions": [
                 "What is the correct way to wear a mask?"
@@ -5492,22 +5391,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4707,
-                        "displayText": "What can I wear if my health or work environment doesn't allow me to wear a face mask or covering?"
+                        "displayText": "What can I wear if my health or work environment doesn't allow me to wear a mask?"
                     },
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4540,
-                        "displayText": "Are face masks or coverings required in Vermont?"
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:19:45.228+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:06:55.281+00:00",
             "isDocumentText": false
         },
         {
@@ -5606,10 +5500,10 @@
         },
         {
             "id": 4726,
-            "answer": "**Can I wear a face shield instead of a face mask or covering?**\n\nYou are required to wear a face mask or covering in public spaces in Vermont. In private settings, we recommend that you wear a face mask or covering anytime you're around people you don’t live with. However, for some people, and in some cases, a face shield may be an option.\n\nThe virus that causes COVID-19 is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537), by respiratory droplets released when people with COVID-19 cough, sneeze, sing, talk, or breathe. Face shields are typically used in health care settings to protect the person wearing it from droplets getting into their eyes. Face masks or coverings, like a cloth face mask or bandanna, do a better job than face shields of keeping droplets in and not spreading the virus.\n\nIf you have trouble breathing or if you work in a setting where it is difficult to wear a face mask or covering, wearing a face shield is better than wearing nothing over your nose and mouth. People who have trouble breathing can also wear a light-weight bandanna or cloth covering tied to be open at the bottom. In [school settings](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance), students and adults are allowed to wear face shields, and in [child care settings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf), providers, teachers and staff are allowed to wear face shields.\n\nFace shields should extend below the chin, to the ears on both sides, and there should be no exposed gap between the forehead and the shield’s headpiece. Clean them regularly – especially if condensation or droplets are visible on the inside of the shield – [handle them like face masks or coverings](https://apps.health.vermont.gov/COVID/faq/#4723) when putting them on or removing them.",
+            "answer": "**Can I wear a face shield instead of a mask?**\n\n**You are** [**required to wear a mask in public spaces**](https://apps.health.vermont.gov/COVID/faq/#4540) **in Vermont**. In private settings, we recommend that you wear a mask anytime you're around people you don’t live with. However, for some people, and in some cases, a face shield may be an option.\n\nThe virus that causes COVID-19 is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537), by respiratory droplets released when people with COVID-19 cough, sneeze, sing, talk, or breathe. Face shields are typically used in health care settings to protect the person wearing them from droplets getting into their eyes. Masks or coverings, like a cloth mask or bandanna, do a better job than face shields of keeping droplets in and not spreading the virus.\n\n**If you have trouble breathing or if you work in a setting where it is difficult to wear a mask**, wearing a face shield is better than having no barrier over your nose and mouth. People who have trouble breathing can also wear a light-weight bandanna or cloth covering tied to be open at the bottom. In [school settings](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance), students and adults are allowed to wear face shields, and in [child care settings](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Health-Guidance-Childcare-Summer-Programs.pdf), providers, teachers and staff are allowed to wear face shields.\n\n**Make sure your face shield fits properly**. Face shields should extend below the chin, to the ears on both sides, and there should be no exposed gap between the forehead and the shield’s headpiece. Clean them regularly – especially if condensation or droplets are visible on the inside of the shield – and [handle them like masks](https://apps.health.vermont.gov/COVID/faq/#4723) when putting them on or removing them.",
             "source": "Editorial",
             "questions": [
-                "Can I wear a face shield instead of a face mask or covering?"
+                "Can I wear a face shield instead of a mask?"
             ],
             "metadata": [
                 {
@@ -5633,16 +5527,16 @@
                     {
                         "displayOrder": 0,
                         "qnaId": 4723,
-                        "displayText": "What is the correct way to wear a face mask or covering?"
+                        "displayText": "What is the correct way to wear a mask?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-03T20:04:19.788+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:03:49.817+00:00",
             "isDocumentText": false
         },
         {
             "id": 4727,
-            "answer": "**Is it safe to send my children to school or child care?**\n\nYes. Based on current data and levels of the COVID-19 virus in Vermont, it is safe – and important – for children to go to school or child care for in-person learning. The Vermont Chapter of the American Academy of Pediatrics asked schools to prioritize in-person attendance for preschool to grade 5, and for students with special needs.\n\nWe know much more about the virus now than we did in March when schools closed for the spring. The Health Department can track data in real-time and respond to cases quickly with our contact tracing teams. We also have robust testing and [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) system in Vermont that will support schools in containing the virus if there is a case.\n\nChildren need structure, relationships with their peers, teachers, and other adults for their academic, social, and emotional development. Although remote learning is an important tool during the pandemic, it can lead to even greater gaps in equity. Public health and education experts considered all these factors when writing Vermont’s guidance to reopen schools, which focuses on the safety of teachers, staff, and students.\n\nWe are seeing more cases of COVID-19 in children nationwide and in Vermont, but that is not surprising as states have reopened, and more testing has become available.\n\nVermont has seen cases in schools, but by following health guidance, we are all working together to keep the virus out of schools as much as possible and prevent it from spreading through physical distancing, wearing masks, hand hygiene, and contact tracing.\n\n**Learn more**:\n\n*   [What parents can expect for pre-K through 12th grade](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-FAQ4Families-Schools.pdf)\n*   [Returning to school following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VT%20BacktoSchoolAfterIllness10.6.pdf)\n*   [Returning to child care or an out of school care program following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VT%20BacktoChildCareAfterIllness10.6.pdf)\n*   [What if there is a case of COVID-19 in school?](https://apps.health.vermont.gov/COVID/faq/#4738)\n*   [Information for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)",
+            "answer": "**Is it safe to send my children to school or child care?**\n\nYes. Based on current data and levels of the COVID-19 virus in Vermont, it is safe – and important – for children to go to school or child care for in-person learning. The Vermont Chapter of the American Academy of Pediatrics asked schools to prioritize in-person attendance for preschool to grade 5, and for students with special needs.\n\nWe know much more about the virus now than we did in March when schools closed for the spring. The Health Department can track data in real-time and respond to cases quickly with our contact tracing teams. We also have robust testing and [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) system in Vermont that will support schools in containing the virus if there is a case.\n\nChildren need structure, relationships with their peers, teachers, and other adults for their academic, social, and emotional development. Although remote learning is an important tool during the pandemic, it can lead to even greater gaps in equity. Public health and education experts considered all these factors when writing Vermont’s guidance to reopen schools, which focuses on the safety of teachers, staff, and students.\n\nWe are seeing more cases of COVID-19 in children nationwide and in Vermont, but that is not surprising as states have reopened, and more testing has become available.\n\nVermont has seen cases in schools, but by following health guidance, we are all working together to keep the virus out of schools as much as possible and prevent it from spreading through physical distancing, wearing masks, hand hygiene, and contact tracing.\n\n**Learn more**:\n\n*   [What parents can expect for pre-K through 12th grade](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-FAQ4Families-Schools.pdf)\n*   [Returning to school following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VT%20BacktoSchoolAfterIllness10.6.pdf)\n*   [Returning to child care or an out of school care program following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VT%20BacktoChildCareAfterIllness10.6.pdf)\n*   [What if there is a case of COVID-19 in school?](https://apps.health.vermont.gov/COVID/faq/#4738)\n*   [Information for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [School-based sports program guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports)",
             "source": "Editorial",
             "questions": [
                 "Is it safe to send my children to school or child care?"
@@ -5668,7 +5562,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:26:40.98+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:30:10.532+00:00",
             "isDocumentText": false
         },
         {
@@ -5712,7 +5606,8 @@
             "answer": "**Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?**\n\nIf you are a visitor and staying at a lodging, camping or short-term rental property in Vermont, you must [sign a Certificate of Compliance](https://accd.vermont.gov/covid-19/restart/cross-state-travel/completing-the-lodging-certificate-of-compliance) certifying that you have met the [quarantine requirement](https://apps.health.vermont.gov/COVID/faq/#4615).\n\nIn general, we rely on every visitor’s and every Vermonter’s voluntary compliance with the Governor’s orders to protect the health and safety of all. Vermonters and visitors are encouraged to take responsible common-sense measures in our daily lives to make sure we all are following CDC and Vermont Department of Health guidelines to prevent the spread of COVID-19.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
-                "Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?"
+                "Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?",
+                "prove that I quarantined 14 days before travel to VT"
             ],
             "metadata": [
                 {
@@ -5731,7 +5626,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-12T19:05:53.854+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:40:20.005+00:00",
             "isDocumentText": false
         },
         {
@@ -5795,7 +5690,7 @@
         },
         {
             "id": 4732,
-            "answer": "**How can I be safe from COVID-19 infection and prevent an overdose?**\n\n[Substance use may increase the risk of becoming seriously ill or dying from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/people-who-use-drugs/QA.html), but more evidence is needed. At the same time, an opioid overdose is an immediate risk to your life. Know that stimulants may also have fentanyl in them, an opioid. Below are some tips to help avoid an overdose or be better prepared if one happens and to reduce your risk of getting COVID-19.\n\n**If you are alone:**\n\n*   Call, text or send a Facebook or other type of message to someone you trust. Tell them you’re going to use and make a safety plan. For example, ask them to call you in a certain number of minutes. If they don’t hear from you, they should follow your plan. This could include coming over to check on you, calling a family member to check on you, or calling 911.\n*   Call [Never Use Alone](http://neverusealone.com/) at 800-648-3570 or message them on [Facebook](https://www.facebook.com/Neverusealone/). They’ll wait while you use and call for emergency services if you don’t respond after a certain period of time.\n*   Have Naloxone with you. Put it where someone checking on you will easily see it.\n*   Wash your hands or use hand sanitizer.\n\n**If you’re not alone:**\n\n*   Try to keep a 6-foot distance from the other people you’re with, unless you live with them. People who live in the same household don’t need to stay 6 feet apart.\n*   Anyone in the room should wear a face mask or covering if they are not using and not part of your household.\n*   Make sure someone you trust has naloxone on hand, and they aren’t using at the moment.\n*   Let them know when you are using so they can check in and give naloxone if needed.\n*   Wash your hands or use hand sanitizer.\n\n**Whenever and wherever you use, these tips can help prevent an overdose:**\n\n*   Use one drug at a time (don’t mix).\n*   Know your tolerance. Use less if you haven’t used in a while, or if you’ve been sick, lost weight, or if something else has lowered your tolerance.\n*   Test for fentanyl or assume there is fentanyl in your supply.\n*   Start low and go slow. You can use more later.\n*   Use in a lower risk way, like snorting instead of injecting or smoking.\n*   Consider getting on medication-assisted treatment (methadone, bupe, suboxone, etc.).\n*   Call 802-565-LINK or go to [VTHelplink](https://vthelplink.org/app/account/opa_result) to find a treatment center.\n\n**About wearing face masks or coverings:**\n\nWearing a mask reduces the risk of transmission of COVID-19. However, substance use can impact your breathing and wearing a mask can make it worse. Plus, if you can’t take your own mask off (like if you’re nodding out), you shouldn’t wear one. When using substances with other people, particularly opioids, you may choose to stay 6 feet apart and not wear masks.\n\n**More information:**\n\n*   [Tips to prevent an opioid overdose](https://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/) (Harm Reduction Coalition)\n*   [Helping during an overdose and finding Naloxone](https://www.healthvermont.gov/emergency/injury/opioid-overdose-prevention) (Health Department)\n*   [Guidance for People Who Use Substances on COVID-19](https://yale.app.box.com/v/COVID19HarmReductionGuidance) (Yale)\n*   [Safer Drug Use During the COVID-19 Outbreak](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/?utm_source=all+IRETA+communications&utm_campaign=c611c175b0-EMAIL_CAMPAIGN_2020_03_16_01_32&utm_medium=email&utm_term=0_5cec8dc768-c611c175b0-137425257&mc_cid=c611c175b0&mc_eid=7bcfbcf675) (Harm Reduction Coalition)\n*   Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you. They can help you make a plan and give you naloxone.",
+            "answer": "**How can I be safe from COVID-19 infection and prevent an overdose?**\n\n[Substance use may increase the risk of becoming seriously ill or dying from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/people-who-use-drugs/QA.html), but more evidence is needed. At the same time, an opioid overdose is an immediate risk to your life. Know that stimulants may also have fentanyl (an opioid) in them. Below are some tips to help avoid an overdose or be better prepared if one happens and to reduce your risk of getting COVID-19.\n\n**If you are alone:**\n\n*   Call, text or send a Facebook or other type of message to someone you trust. Tell them you’re going to use and make a safety plan. For example, ask them to call you in a certain number of minutes. If they don’t hear from you, they should follow your plan. This could include coming over to check on you, calling a family member to check on you, or calling 911.\n*   Call [Never Use Alone](http://neverusealone.com/) at 800-648-3570 or message them on [Facebook](https://www.facebook.com/Neverusealone/). They’ll wait while you use and call for emergency services if you don’t respond after a certain period of time.\n*   Have Naloxone with you. Put it where someone checking on you will easily see it.\n*   Wash your hands or use hand sanitizer.\n\n**If you’re not alone:**\n\n*   Try to keep a 6-foot distance from the other people you’re with, unless you live with them. People who live in the same household don’t need to stay 6 feet apart.\n*   Anyone in the room should wear a mask if they are not using and not part of your household.\n*   Make sure someone you trust has naloxone on hand, and they aren’t using at the moment.\n*   Let them know when you are using so they can check in and give naloxone if needed.\n*   Wash your hands or use hand sanitizer.\n\n**Whenever and wherever you use, these tips can help prevent an overdose:**\n\n*   Use one drug at a time (don’t mix).\n*   Know your tolerance. Use less if you haven’t used in a while, or if you’ve been sick, lost weight, or if something else has lowered your tolerance.\n*   Test for fentanyl or assume there is fentanyl in your supply.\n*   Start low and go slow. You can use more later.\n*   Use in a lower risk way, like snorting instead of injecting or smoking.\n*   Consider getting on medication-assisted treatment (methadone, bupe, suboxone, etc.).\n*   Call 802-565-LINK or go to [VTHelplink](https://vthelplink.org/app/account/opa_result) to find a treatment center or connect to syringe service providers.\n\n**About wearing masks:**\n\nWearing a mask reduces the risk of transmission of COVID-19. However, substance use can impact your breathing and wearing a mask can make it worse. Plus, if you can’t take your own mask off (like if you’re nodding out), you shouldn’t wear one. When using substances with other people, particularly opioids, you may choose to stay 6 feet apart and not wear masks.\n\n**More information:**\n\n*   [Tips to prevent an opioid overdose](https://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/) (Harm Reduction Coalition)\n*   [Helping during an overdose and finding Naloxone](https://www.healthvermont.gov/emergency/injury/opioid-overdose-prevention) (Health Department)\n*   [Guidance for People Who Use Substances on COVID-19](https://yale.app.box.com/v/COVID19HarmReductionGuidance) (Yale)\n*   [Safer Drug Use During the COVID-19 Outbreak](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/?utm_source=all+IRETA+communications&utm_campaign=c611c175b0-EMAIL_CAMPAIGN_2020_03_16_01_32&utm_medium=email&utm_term=0_5cec8dc768-c611c175b0-137425257&mc_cid=c611c175b0&mc_eid=7bcfbcf675) (Harm Reduction Coalition)\n*   Find a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you. They can help you make a plan and give you naloxone.",
             "source": "Editorial",
             "questions": [
                 "How can I be safe from COVID-19 infection and prevent an overdose?"
@@ -5821,7 +5716,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-10-19T19:38:21.498+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:48:19.559+00:00",
             "isDocumentText": false
         },
         {
@@ -5829,7 +5724,8 @@
             "answer": "**What is the percent of tests positive for COVID-19 in Vermont?**\n\nYou can find the percent of positive tests, or positivity rate, in Vermont on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard).",
             "source": "Editorial",
             "questions": [
-                "What is the percent of tests positive for COVID-19 in Vermont?"
+                "What is the percent of tests positive for COVID-19 in Vermont?",
+                "what is an acceptable positivity rate? "
             ],
             "metadata": [
                 {
@@ -5852,7 +5748,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:34:38.082+00:00",
+            "lastUpdatedTimestamp": "2021-02-10T17:02:21.214+00:00",
             "isDocumentText": false
         },
         {
@@ -6102,7 +5998,8 @@
             "answer": "**I have parental shared custody. Can my child and I travel without quarantining?**\n\nTravel for parental shared custody is considered essential travel. This means that you and your child do not need to quarantine if:\n\n*   You are returning to Vermont after visiting your child out-of-state.\n*   Your child lives out of state and is visiting you in Vermont.\n*   You live out of state and your child is returning to Vermont after visiting you.\n\nYou can travel by personal vehicle, plane, train, bus or other means of transportation. We encourage you to choose the form of travel with the lowest risk when you can (personal vehicle) and to follow the general precautions:\n\n*   Stay home and do not travel if you are sick.\n*   Wash your hands often.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.\n*   Limit your stops when traveling and only stop when necessary (for example, for fuel, food or rest).\n\nHowever, **if you and your child travel out of Vermont for leisure**, or by plane, train, bus or other means of public transportation for a non-essential purpose, you and your child must quarantine for 14 days in Vermont when you return. This includes day trips. The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nAdditionally, **anyone who comes into close contact with someone who has COVID-19** must quarantine for 14 days, including you or your child, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nChildren in shared custody that are in isolation because they have tested positive for COVD-19, or are in quarantine because they were identified as a close contact of someone who has tested positive for COVID-19, may isolate or quarantine in either household. It does not affect the shared custody schedule. However, this means that members of the household where the child is staying may need to quarantine. If the [child is in isolation](https://apps.health.vermont.gov/COVID/faq/#4764), household members will be required to quarantine. If the [child is in quarantine](https://apps.health.vermont.gov/COVID/faq/#4765), household members would not need to also quarantine, unless the child tests positive for COVID-19.",
             "source": "Editorial",
             "questions": [
-                "I have parental shared custody. Can my child and I travel without quarantining?"
+                "I have parental shared custody. Can my child and I travel without quarantining?",
+                "children in another home"
             ],
             "metadata": [
                 {
@@ -6121,7 +6018,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:57:16.566+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:46:45.595+00:00",
             "isDocumentText": false
         },
         {
@@ -6185,7 +6082,7 @@
         },
         {
             "id": 4747,
-            "answer": "**Is it safe to wear gaiters instead of masks?**\n\nGenerally, we recommend face masks and coverings that are made of at least two layers. Materials with tighter weaves, like cotton T-shirt material, are better at trapping respiratory droplets and preventing the spread of the COVID-19 virus than materials with loose weaves, like gaiters.\n\nIf you choose to wear a gaiter as a face covering, fold it over so it is two layers. Based on a few experiments in adults, gaiters with one layer trap the least amount of respiratory droplets. Gaiters with two layers trap more droplets than gaiters with one layer. Gaiters folded over into two layers have a similar effectiveness at trapping respiratory droplets as two layers of cotton T-shirt material.",
+            "answer": "**Is it safe to wear gaiters instead of masks?**\n\nGenerally, we recommend masks and coverings that are made of at least two layers. Materials with tighter weaves, like cotton T-shirt material, are better at trapping respiratory droplets and preventing the spread of the COVID-19 virus than materials with loose weaves, like gaiters.\n\nIf you choose to wear a gaiter as a face covering, fold it over so it is two layers. Based on a few experiments in adults, gaiters with one layer trap the least amount of respiratory droplets. Gaiters with two layers trap more droplets than gaiters with one layer. Gaiters folded over into two layers have a similar effectiveness at trapping respiratory droplets as two layers of cotton T-shirt manterial.\n\nLearn more about [different types of masks](https://apps.health.vermont.gov/COVID/faq/#4597).",
             "source": "Editorial",
             "questions": [
                 "Is it safe to wear gaiters instead of masks? "
@@ -6211,7 +6108,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-31T19:11:33.216+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:14:32.526+00:00",
             "isDocumentText": false
         },
         {
@@ -6523,7 +6420,7 @@
         },
         {
             "id": 4761,
-            "answer": "**What are the current restrictions on gatherings? Why are social gatherings prohibited right now?**\n\nVermont has seen a surge in new COVID-19 cases. Data showed that social gatherings, both inside and outside, at homes, bars and social clubs, and among sports teams were driving outbreaks in Vermont. This is why there are restrictions on social gatherings at this time.\n\nThis is what you **cannot** do:\n\n*   You are **not allowed to gather with people you don’t live with**. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. For example, this means you cannot go over to a family member or friend’s house or go to a restaurant with someone you don’t live with.\n*   **Visitors to Vermont** cannot gather with Vermonters or with people from another household. This includes sharing lodging with another household. Travelers may not stay with a Vermont host or stay in a Vermont lodging establishment or short-term rental with another household. Even if they have completed quarantine, or intend to quarantine with another household, they may not gather with another household in Vermont.\n\nThis is what you **can** do:\n\n*   People who **live alone** may gather with people who live in one other household.\n*   People can **take in and shelter** those from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n*   You can do **outdoor recreation and fitness activities** with people you don’t live with, like biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   **Visitors to Vermont** can socialize only with the people they live with.\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.\n\nVermont data at this time does not point to dining at restaurants, gyms, or other close contact businesses as drivers of outbreaks, and current safety protocols at these businesses are working. This is why they are remaining open.\n\nWe must all do our part to slow the spread, ensure hospitals are not overwhelmed, help schools continue to offer in-person instruction, and keep as many Vermonters working as possible.\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested as soon as possible after the gathering and then again on day 7. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you **had COVID-19**, received a **positive antibody test**, or got a **COVID-19 vaccine**, you must quarantine when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). This also means that you are not allowed to gather with people you don’t live with under the current social gathering guidelines. [Learn more about why](https://apps.health.vermont.gov/COVID/faq/#4770).\n\nWe know this is difficult, but hope that as Vermonters follow this guidance, and we can return to the low case numbers we had and ease restrictions once again.\n\nRead Governor Scott’s [Executive Order](https://governor.vermont.gov/content/addendum-8-amended-and-restated-executive-order-01-20-0).",
+            "answer": "**What are the current restrictions on gatherings? Why are social gatherings prohibited right now?**\n\nVermont has seen a surge in new COVID-19 cases. Data showed that social gatherings, both inside and outside, at homes, bars and social clubs, and among sports teams were driving outbreaks in Vermont. This is why there are restrictions on social gatherings at this time.\n\nThis is what you **cannot** do:\n\n*   You are **not allowed to gather with people you don’t live with**. This includes all inside and outside social and entertainment gatherings, and in public and private spaces. For example, this means you cannot go over to a family member or friend’s house or go to a restaurant with someone you don’t live with.\n*   **Visitors to Vermont** cannot gather with Vermonters or with people from another household. This includes sharing lodging with another household. Travelers may not stay with a Vermont host or stay in a Vermont lodging establishment or short-term rental with another household. Even if they have completed quarantine, or intend to quarantine with another household, they may not gather with another household in Vermont.\n\nThis is what you **can** do:\n\n*   People who **live alone** may gather with people who live in one other household.\n*   People can **take in and shelter** those from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n*   You can do **outdoor recreation and fitness activities** with people you don’t live with, like biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   **Visitors to Vermont** can socialize only with the people they live with.\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.\n\nVermont data at this time does not point to dining at restaurants, gyms, or other close contact businesses as drivers of outbreaks, and current safety protocols at these businesses are working. This is why they are remaining open.\n\nWe must all do our part to slow the spread, ensure hospitals are not overwhelmed, help schools continue to offer in-person instruction, and keep as many Vermonters working as possible.\n\n**If you do gather with people you don’t live with**, you should quarantine. [Quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) means staying home and away from other people for 14 days. The Health Department strongly encourages you to get tested before the gathering, as soon as 2 days after the gathering, and again 7 days after the gathering. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nIf you **had COVID-19**, received a **positive antibody test**, or got a **COVID-19 vaccine**, you must quarantine when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). This also means that you are not allowed to gather with people you don’t live with under the current social gathering guidelines. [Learn more about why](https://apps.health.vermont.gov/COVID/faq/#4770).\n\nWe know this is difficult, but hope that as Vermonters follow this guidance, and we can return to the low case numbers we had and ease restrictions once again.\n\nRead Governor Scott’s [Executive Order](https://governor.vermont.gov/content/addendum-8-amended-and-restated-executive-order-01-20-0).",
             "source": "Editorial",
             "questions": [
                 "Why are social gatherings prohibited right now?",
@@ -6584,7 +6481,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:53:51.638+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T20:52:40.324+00:00",
             "isDocumentText": false
         },
         {
@@ -6716,10 +6613,11 @@
         },
         {
             "id": 4767,
-            "answer": "**What is a “probable case”?**\n\nA case is considered “probable” if the person:\n\n*   tested positive on an antigen test **and** has symptoms of COVID-19 **or** epidemiologic evidence, **or**\n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19.\n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.\n\nAs of January 4, deaths among probable cases are included in the number of COVID-19 deaths in Vermont. A death among a probable case is a person who:\n\n*   meets the probable case definition and has COVID-19 listed as a cause or contributing condition on their death certificate **or**\n*   has COVID-19 listed as a cause or contributing condition on their death certificate.\n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).\n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. People who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on a follow-up PCR test, they are only included once in the total case count.\n\nThe Health Department began including probable cases and deaths in counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. Right now, this change does not impact hospitalization or testing data.",
+            "answer": "**What is a probable case?**\n\nA case is considered “probable” if the person:\n\n*   has symptoms of COVID-19 **and** is epidemiologically linked to a confirmed case of COVID-19 **or**\n*   tested positive on an antigen test.\n\nAs of December 2, probable cases are included in the number of COVID-19 cases in Vermont.\n\nAs of January 4, deaths among probable cases are included in the number of COVID-19 deaths in Vermont. A death among a probable case is a person who:\n\n*   meets the probable case definition and has COVID-19 listed as a cause or contributing condition on their death certificate **or**\n*   has COVID-19 listed as a cause or contributing condition on their death certificate.\n\nThe Health Department follows the [nationally recognized definition of COVID-19 cases](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/08/05/), developed by the Council of State and Territorial Epidemiologists (CSTE) in April 2020. Since then, the Health Department has tracked probable cases and taken the same public health actions as if they were a confirmed case (confirmed means the person tested positive on a PCR test).\n\nThis means that contact tracers conduct interviews with people who are considered probable cases, provide isolation guidance, and their close contacts are notified to quarantine. In some instances, people who are considered probable cases are also encouraged to get a follow-up PCR test. If they test positive on the follow-up PCR test, they are only included once in the total case count. \n\nThe Health Department began including probable cases and deaths in counts to more accurately represent COVID-19 activity and because antigen testing in Vermont is increasing. Right now, this change does not impact hospitalization or testing data.",
             "source": "Editorial",
             "questions": [
-                "What is a “probable case”? "
+                "What is a probable case? ",
+                "what is a probable death"
             ],
             "metadata": [
                 {
@@ -6742,7 +6640,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-12T18:34:06.832+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:27:16.55+00:00",
             "isDocumentText": false
         },
         {
@@ -6802,7 +6700,8 @@
                 "Do I need to quarantine after I get my vaccination?",
                 "Is quarantine necessary after Covid vaccination?",
                 "I have received two doses of vaccination, when can I travel to Vermont",
-                "requirements for out of state travelers that have recovered from covid"
+                "requirements for out of state travelers that have recovered from covid",
+                "If I had Covid within the last 90 days, can I travel and return without quarantining?"
             ],
             "metadata": [
                 {
@@ -6821,7 +6720,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:36:04.176+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:45:55.483+00:00",
             "isDocumentText": false
         },
         {
@@ -7013,7 +6912,7 @@
         },
         {
             "id": 4777,
-            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them. \n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe B.1.1.7 variant, first identified in the United Kingdom, has now been detected in many U.S. states and we do expect to see it in Vermont as well. It is normal for viruses to mutate, but some of the variants recently found may require us to strengthen our prevention measures.\n\nThe Health Department is working to detect any potential variants of the virus — through genetic sequencing of certain specimens taken from various parts of the state.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe B.1.1.7 variant, first identified in the UK, has now been detected in many U.S. states and we do expect to see it in Vermont as well.\n\nThe Health Department is working to detect any potential variants of the virus — through genetic sequencing of certain specimens taken from various parts of the state. So far, we have not found any variants of concern in the samples we’ve sequenced. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?",
@@ -7036,7 +6935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:34:40.236+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:33:53.897+00:00",
             "isDocumentText": false
         },
         {
@@ -7047,7 +6946,8 @@
                 "Does being vaccinated affect my COVID-19 test results?",
                 "If I had the first vaccine will my test results be positive?",
                 "testing after getting the vaccine",
-                "COVID testing after vaccination"
+                "COVID testing after vaccination",
+                "is it okay to be tested if i got the vaccine"
             ],
             "metadata": [
                 {
@@ -7070,7 +6970,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:47:54.857+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:24:53.598+00:00",
             "isDocumentText": false
         },
         {
@@ -7096,7 +6996,8 @@
                 "I am a part-time resident of Vermont. Can I receive a Covid vaccine in Vermont?",
                 "can i receive vaccine in VT if I live there part time",
                 "seasonal home owner qualify for vaccine",
-                "Are second home owners eligible"
+                "Are second home owners eligible",
+                "Can a nh resident with a vt PCP get a vaccine"
             ],
             "metadata": [
                 {
@@ -7119,7 +7020,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:03:44.012+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:22:38.1+00:00",
             "isDocumentText": false
         },
         {
@@ -7196,7 +7097,8 @@
                 "Can a vaccinated person transmit the virus?",
                 "do you need to quarantine if you have COVID 19 vaccine",
                 "do I need to quarantine if I’m vaccinated for Covid?",
-                "If you have received the COVID 19 vaccine what do you have to do when you enter vermont"
+                "If you have received the COVID 19 vaccine what do you have to do when you enter vermont",
+                "What if I’ve been vaccinated?"
             ],
             "metadata": [
                 {
@@ -7215,18 +7117,20 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:13:13.403+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:23:18.612+00:00",
             "isDocumentText": false
         },
         {
             "id": 4783,
-            "answer": "**How much does the COVID-19 vaccine cost?**\n\nCOVID-19 vaccines are free. COVID-19 vaccines are provided to Vermonters at no cost, even if you don’t have health insurance. The provider that gives you your vaccine may charge an administrative fee to your insurance, but you are guaranteed a COVID-19 vaccine without paying a fee.",
+            "answer": "**How much does the COVID-19 vaccine cost?**\n\nCOVID-19 vaccines are free. COVID-19 vaccines are provided to Vermonters at no cost, even if you don’t have health insurance. The provider that gives you your vaccine may charge an administrative fee to your insurance, but you are guaranteed a COVID-19 vaccine without paying a fee.\n\nWhen you make an appointment to be vaccinated, you will be asked to provide your health insurance information. Insurance is not required, and someone who doesn’t have insurance will still be able to get a vaccine. But being able to bill someone’s primary insurance does help offset some of the costs.",
             "source": "Editorial",
             "questions": [
                 "How much does the COVID-19 vaccine cost?",
                 "Will I be charged for my vaccination at Kinney Drugs?",
                 "I thought the covid vaccine was free.",
-                "is the vaccine free?"
+                "is the vaccine free?",
+                "Vaccine cost",
+                "Do I have to pay for covid vaccination if I have insurance?"
             ],
             "metadata": [
                 {
@@ -7245,7 +7149,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-02T20:38:57.775+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:09:32.654+00:00",
             "isDocumentText": false
         },
         {
@@ -7277,7 +7181,7 @@
         },
         {
             "id": 4785,
-            "answer": "**What kind of assistance will be available at my vaccine appointment? Can someone come with me?**\n\nAll vaccine clinics will be handicap accessible. **Wheelchairs** are available at all Health Department vaccination sites and at hospitals.\n\n**Language interpreters** (including ASL) can be arranged at Health Department vaccination sites. Usually, the interpreter will work with you remotely by phone or video conference through a computer available at the site. To request an interpreter, ask one of the public health workers at the site. Some sites, including Burlington and Winooski, will have in-person interpreters based on demand for these services in the area.\n\nIf you need **physical assistance** getting to your vaccine appointment, you can have one other person come with you. You will both have your temperatures taken and will be asked questions to determine if you have any current COVID-19 symptoms. If either of you do, then the person who has symptoms won’t be allowed to go any further.\n\nYou will both need to wear masks during your appointment. If you do not have one, there will be masks available at the clinic. If you have trouble breathing, are unable to remove your mask by yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nFind out what to do if [you need a ride to your appointment](https://apps.health.vermont.gov/COVID/faq/#4799).",
+            "answer": "**What kind of assistance will be available at my vaccine appointment? Can someone come with me?**\n\nThe clinics are not drive-through. You will need to get out of your car and go inside. All vaccine clinics will be handicap accessible. **Wheelchairs** are available at all Health Department vaccination sites and at hospitals. \n\n**Language interpreters** (including ASL) can be arranged at Health Department vaccination sites. Usually, the interpreter will work with you remotely by phone or video conference through a computer available at the site. To request an interpreter, ask one of the public health workers at the site. Some sites, including Burlington and Winooski, will have in-person interpreters based on demand for these services in the area.\n\nIf you need **physical assistance** getting to your vaccine appointment, you can have one other person come with you. You will both have your temperatures taken and will be asked questions to determine if you have any current COVID-19 symptoms. If either of you do, then the person who has symptoms won’t be allowed to go any further.\n\nYou will both need to wear masks during your appointment. If you do not have one, there will be masks available at the clinic. If you have trouble breathing, are unable to remove your mask by yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nFind out what to do if [you need a ride to your appointment](https://apps.health.vermont.gov/COVID/faq/#4799).",
             "source": "Editorial",
             "questions": [
                 "I need help getting to my vaccine appointment. What kind of assistance is available?",
@@ -7309,12 +7213,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T20:53:54.892+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:24:13.078+00:00",
             "isDocumentText": false
         },
         {
             "id": 4786,
-            "answer": "**I am not able to leave my home. How can I get the vaccine?**\n\nVaccines for people who are homebound will be administered through a partnership between local home health and EMS agencies. People who are 75 years and older and are both homebound and in the service of local home health agencies (including both VNA agencies and Bayada) will be in the first group. Home health agencies will reach out to these patients once the vaccine allotment is finalized and the vaccination plan is scheduled. Please **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.\n\nWe know that there are homebound community members who do not receive home health services, that will need to be vaccinated. Once the group of people who are connected to home health agencies are vaccinated, we will expand this service by reaching out through numerous partners, including primary care, Agencies on Aging, and municipalities to identify people to include in the second phase of outreach.",
+            "answer": "**I am not able to leave my home. How can I get the vaccine?**\n\nVaccines for people who are homebound will be administered through a partnership between local home health and EMS agencies. People who are 75 years and older and are both homebound and in the service of local home health agencies will be in the first group. Home health agencies will reach out to these patients once the vaccine allotment is finalized and the vaccination plan is scheduled. Please **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.\n\nWe know that there are homebound community members who do not receive home health services, that will need to be vaccinated. Once the group of people who are connected to home health agencies are vaccinated, we will expand this service by reaching out through numerous partners, including primary care, Agencies on Aging, and municipalities to identify people to include in the second phase of outreach.",
             "source": "Editorial",
             "questions": [
                 "I am not able to leave my home. How can I get the COVID-19 vaccine?",
@@ -7358,7 +7262,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:42:18.231+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:14:55.506+00:00",
             "isDocumentText": false
         },
         {
@@ -7428,7 +7332,7 @@
         },
         {
             "id": 4789,
-            "answer": "**What can I expect at my vaccine appointment?**\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nYou do not need to bring any identification or your health insurance card to your appointment.\n\nRemember to dress warmly for the weather. Arrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**. If you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics and make sure people are properly distanced.\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any side effects.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.",
+            "answer": "**What can I expect at my vaccine appointment?**\n\nThe clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nYou do not need to bring any identification or your health insurance card to your appointment.\n\nRemember to dress warmly for the weather. Arrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**. If you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics.\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
             "source": "Editorial",
             "questions": [
                 "What can I expect at my vaccine appointment?",
@@ -7460,7 +7364,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:07:42.034+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:22:23.404+00:00",
             "isDocumentText": false
         },
         {
@@ -7500,7 +7404,7 @@
         },
         {
             "id": 4791,
-            "answer": "**Where can people get vaccinated?**\n\nPeople 75 years and older can make an appointment online or by phone. Find out what you will need and how to [make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nHealth care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates.\n\nFor each phase, we will offer vaccines at regional clinics set up by the state. These clinics will be handicap accessible. Some vaccines will be available through our partner hospitals, providers, and pharmacies. Our goal will be to administer every available dose each week. We are also collaborating with community organizations and other partners to make sure people who are disproportionately affected by COVID-19, including Black, Indigenous and people of color, have equitable access to the vaccine.\n\nYou can find a [map of the areas where vaccination sites](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) are, not actual locations. When you schedule your appointment, you will get the address of the vaccination site you chose.",
+            "answer": "**Where can people get vaccinated?**\n\nPeople 75 years and older can make an appointment online or by phone. Find out what you will need and how to [make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nYou can find a [map of the areas where vaccination sites](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) are, not actual locations. When you schedule your appointment, you will get the address of the vaccination site you chose.\n\nHealth care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates.\n\nFor each phase, we will offer vaccines at regional clinics set up by the state. These clinics will be handicap accessible. Some vaccines will be available through our partner hospitals, providers, and pharmacies. Our goal will be to administer every available dose each week. We are also collaborating with community organizations and other partners to make sure people who are disproportionately affected by COVID-19, including Black, Indigenous and people of color, have equitable access to the vaccine.",
             "source": "Editorial",
             "questions": [
                 "Where can people get vaccinated?",
@@ -7537,7 +7441,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T14:52:22.061+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:10:40.766+00:00",
             "isDocumentText": false
         },
         {
@@ -7577,7 +7481,8 @@
                 "Do I need the Covid Vaccine if I have had Covid",
                 "how long after covid infection can a person receive the vaccine",
                 "can someone with covid be vaccinated",
-                "can the covid vaccine be given to someone that had covid already"
+                "can the covid vaccine be given to someone that had covid already",
+                "I have had COVID19. Do I need to wait for a period of time before I get my vaccine?"
             ],
             "metadata": [
                 {
@@ -7596,7 +7501,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T14:50:41.163+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:20:20.793+00:00",
             "isDocumentText": false
         },
         {
@@ -7607,7 +7512,9 @@
                 "Should I get the vaccine if I have a medical condition?",
                 "Should people with cancer get the vaccine?",
                 "If you taken a blood thinner can you get the COVID shot?",
-                "is high blood pressure considered a medical condition"
+                "is high blood pressure considered a medical condition",
+                "If a person has copd can they get the shots",
+                "can i get a vaccination having two underlying conditions?"
             ],
             "metadata": [
                 {
@@ -7626,16 +7533,18 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T17:49:04.696+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:18:16.545+00:00",
             "isDocumentText": false
         },
         {
             "id": 4796,
-            "answer": "**When will the next group be eligible for a vaccine?**\n\nWe still have a very limited number of doses we receive each week. The number we receive each week can change. Vaccinations for those who are age 75 and older will begin on January 27 and include about 49,000 Vermonters. This will likely take about 6 weeks or more to complete. **Because this estimate is based on the number of doses we receive, it could change.**",
+            "answer": "**When will the next group be eligible for a vaccine?**\n\nWe still have a very limited number of doses we receive each week. The number we receive each week can change. Vaccinations for those who are age 75 and older will begin on January 27 and include about 49,000 Vermonters. This will likely take about 6 weeks or more to complete. **Because this estimate is based on the number of doses we receive, it could change.**\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. [**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.",
             "source": "Editorial",
             "questions": [
                 "When will the next group be eligible for a vaccine?",
-                "When is estimate for 70 to 74"
+                "When is estimate for 70 to 74",
+                "projected time line for getting the vaccine at 65 plus years old",
+                "How long will it be until people 55 and up can get the vaccine?"
             ],
             "metadata": [
                 {
@@ -7658,7 +7567,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:01:39.931+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T21:03:16.748+00:00",
             "isDocumentText": false
         },
         {
@@ -7735,7 +7644,7 @@
         },
         {
             "id": 4799,
-            "answer": "**I don’t have my own transportation. Can I get a ride to my vaccine appointment?**\n\nYes. Free public transportation to vaccine clinics is available to Vermont residents who do not have their own transportation. Rides are coordinated by the Vermont Public Transportation Association. Volunteer drivers will use cars, vans or buses. All rides are ADA compliant and will accommodate people living with disabilities.\n\nPlease make a request **at least 48 hours before** your vaccine appointment. These rides are subject to the availability of transportation resources, so advance notice is necessary to make sure you will have a ride.\n\nRides are only available if you **are not sick with COVID-19** (with symptoms or without symptoms) or **are not a close contact** of someone who has COVID-19. If you **recently traveled**, you need to follow the current [travel quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine) before you can request a ride. If you fall into one of these categories, you will need to answer some questions to find out when you can use public transportation.\n\n[**Find contact information for your local public transportation provider**](https://vpta.net/my-area-provider).",
+            "answer": "**I don’t have my own transportation. Can I get a ride to my vaccine appointment?**\n\nYes. Free public transportation to vaccine clinics is available to Vermont residents who do not have their own transportation. Rides are coordinated by the Vermont Public Transportation Association. Volunteer drivers will use cars, vans or buses. All rides are ADA compliant and will accommodate people living with disabilities.\n\nPlease make a request **at least 48 hours before** your vaccine appointment. These rides are subject to the availability of transportation resources, so advance notice is necessary to make sure you will have a ride.\n\nRides are only available if you **are not sick with COVID-19** (with symptoms or without symptoms) or **are not a close contact** of someone who has COVID-19. If you **recently traveled**, you need to follow the current [travel quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine) before you can request a ride. If you fall into one of these categories, you will need to answer some questions to find out when you can use public transportation.\n\n[**Find contact information for your local public transportation provider**](https://vpta.net/my-area-provider).\n\nThese contact numbers can only be used to schedule transportation. People answering these lines cannot answer questions about vaccine scheduling or clinical questions related to COVID-19.",
             "source": "Editorial",
             "questions": [
                 "I don’t have my own transportation. Can I get a ride to and from my vaccine appointment?",
@@ -7762,7 +7671,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:06:14.211+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:20:26.379+00:00",
             "isDocumentText": false
         },
         {
@@ -8143,7 +8052,7 @@
         },
         {
             "id": 4813,
-            "answer": "**How can we make holiday celebrations safer?**\n\nTo slow the spread of COVID-19, Vermonters are not allowed to gather with anyone you don’t live with. We know how hard it is to be apart from family and friends who we usually celebrate holidays with. Here’s what you need to know:\n\n*   Staying home and with people you live with is still the lowest risk.\n*   If you do gather with people you don’t live with, then you should quarantine after the gathering. \n*   The Health Department strongly encourages getting tested as soon as possible after the gathering and then again on day 7.\n*   The Health Department strongly advises against travel, even within Vermont. All travel to and from Vermont requires quarantine (unless it’s considered [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637)). \n\nQuarantine means staying home and away from other people for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. Imagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. The more layers there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, holidays will look different and we need to do everything we can to keep each other safe.\n\nFind information for [communities of faith](https://www.healthvermont.gov/covid-19/your-community/communities-faith).\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/winter.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
+            "answer": "**How can we make holiday celebrations safer?**\n\nTo slow the spread of COVID-19, Vermonters are not allowed to gather with anyone you don’t live with. We know how hard it is to be apart from family and friends who we usually celebrate holidays with. Here’s what you need to know:\n\n*   Staying home and with people you live with is still the lowest risk.\n*   If you do gather with people you don’t live with, then you should quarantine after the gathering.\n*   The Health Department strongly encourages getting tested before the gathering, as soon as 2 days after the gathering, and again 7 days after the gathering.\n*   The Health Department strongly advises against travel, even within Vermont. All travel to and from Vermont requires quarantine (unless it’s considered [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637)).\n\nQuarantine means staying home and away from other people for 14 days. If you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. Imagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. The more layers there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, holidays will look different and we need to do everything we can to keep each other safe.\n\nFind information for [communities of faith](https://www.healthvermont.gov/covid-19/your-community/communities-faith).\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/winter.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
             "source": "Editorial",
             "questions": [
                 "How can we make holiday celebrations safer?"
@@ -8165,16 +8074,15 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-27T20:20:36.629+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:38:13.876+00:00",
             "isDocumentText": false
         },
         {
             "id": 4814,
-            "answer": "**Who is eligible for the vaccine now and who will be eligible next?**\n\nIn addition to ongoing vaccination of health care workers and residents and staff of long-term care facilities, Vermont is using **age groupings** to determine who can receive the vaccine next based on our primary goal with vaccination efforts – to save lives.\n\nCurrently, only **people who are 75 years and older and live, work, or access primary health care in Vermont** are eligible to receive the vaccine. There are **no exceptions** based on age, chronic condition, circumstances of employment, or any other factor. In the weeks and months to come, age-based criteria will expand to include those age 70 and older, followed by those age 65 and older. When that population has been vaccinated, Vermonters with specific chronic conditions will be included.\n\nAfter the age groups, the vaccine will be available to people in Vermont who have **certain high-risk health conditions**. These are medical conditions that put them at increased risk for severe illness from COVID-19 as identified by the CDC. These are:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, also called emphysema\n*   Heart conditions, such as heart failure, coronary artery disease, or cardiomyopathies\n*   Immunocompromised state (weakened immune system)\n*   Severe obesity\n*   Pregnancy\n*   Type 2 diabetes mellitus\n*   Down Syndrome\n*   Sickle cell disease\n\nStay tuned to [our website](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont) for updates on the next phases. Find out [when the next group will be eligible](https://apps.health.vermont.gov/COVID/faq/#4796).\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can register for appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
+            "answer": "**Who is eligible for the vaccine now and who will be eligible next?**\n\nIn addition to ongoing vaccination of health care workers and residents and staff of long-term care facilities, Vermont is using **age groupings** to determine who can receive the vaccine next based on our primary goal with vaccination efforts – to save lives.\n\nCurrently, only **people who are 75 years and older and live, work, or access primary health care in Vermont** are eligible to receive the vaccine. In the weeks and months to come, age-based criteria will expand to include those age 70 and older, followed by those age 65 and older. When that population has been vaccinated, Vermonters with specific chronic conditions will be included.\n\nAfter the age groups, the vaccine will be available to people in Vermont who have **certain high-risk health conditions**. These are medical conditions that put them at increased risk for severe illness from COVID-19 as identified by the CDC. These are:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, also called emphysema\n*   Heart conditions, such as heart failure, coronary artery disease, or cardiomyopathies\n*   Immunocompromised state (weakened immune system)\n*   Severe obesity\n*   Pregnancy\n*   Type 2 diabetes mellitus\n*   Down Syndrome\n*   Sickle cell disease\n\nStay tuned to [our website](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont) for updates on the next phases. Find out [when the next group will be eligible](https://apps.health.vermont.gov/COVID/faq/#4796).\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can schedule appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
-                "How can essential workers get the vaccine\n",
                 "are mental health providers eligible for the vaccine",
                 "When will people under 75 be eligible",
                 "When will 70 years old and up be able to get a vaccine?",
@@ -8211,7 +8119,12 @@
                 "What is the vaccine schedule",
                 "age bands",
                 "When will I be able to get covid 19 vaccine",
-                "Timeline for COVID vaccinations in Vermont"
+                "Timeline for COVID vaccinations in Vermont",
+                "How can essential workers get the vaccine",
+                "Can someone with underlying heath issues get there vaccines ahead of 75 year olds",
+                "what are comorbidities",
+                "age groups for getting to covid vaccine",
+                "covid vaccine phase"
             ],
             "metadata": [
                 {
@@ -8238,7 +8151,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T13:46:32.086+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T19:12:46.351+00:00",
             "isDocumentText": false
         },
         {
@@ -8317,7 +8230,8 @@
                 "exposed to covid",
                 "when to get tested after being exposed",
                 "Do I need a test if was around someone with covid 10 days ago?",
-                "How much time has to pass between exposure and a positive test result?"
+                "How much time has to pass between exposure and a positive test result?",
+                "I was exposed to a covid positive person. Do I get tested right away and at 7 days?"
             ],
             "metadata": [
                 {
@@ -8336,7 +8250,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:50:39.987+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:25:19.91+00:00",
             "isDocumentText": false
         },
         {
@@ -8385,7 +8299,16 @@
                 "If I test positive, does my family have to quarantine?",
                 "can i go to work if i live with a positive test ",
                 "Living with someone who tested positive",
-                "Who in my home needs to quarantine if I test positive?"
+                "Who in my home needs to quarantine if I test positive?",
+                "If my child was exposed and is symptomatic what should the rest of the household do",
+                "My husband tested positive",
+                "my wife tested positive",
+                "my mom tested positive",
+                "my dad tested positive",
+                "my son tested positive",
+                "my child tested positive",
+                "my daughter tested positive",
+                "Household member has COVID"
             ],
             "metadata": [
                 {
@@ -8408,7 +8331,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:33:42.996+00:00",
+            "lastUpdatedTimestamp": "2021-02-11T18:43:09.477+00:00",
             "isDocumentText": false
         },
         {
