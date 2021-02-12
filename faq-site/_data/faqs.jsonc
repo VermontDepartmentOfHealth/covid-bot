@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-02-11T21:31:57.671+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T18:23:55.614+00:00",
             "isDocumentText": false
         },
         {
@@ -90,7 +90,7 @@
         },
         {
             "id": 4536,
-            "answer": "**How will I know when I can get my vaccine?**\n\nIn the current phase, people who are 75 years and older and live, work, or access primary health care in Vermont are eligible to get a vaccine.\n\nIn Phase 1A, health care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates.\n\nIn addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how people who are eligible can make an appointment.\n\nThe Health Department is not keeping a list of eligible people. As each group becomes eligible, we will announce when those people can register for appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
+            "answer": "**How will I know when I can get my vaccine?**\n\nIn the current phase, **people who are 75 years and older** and live, work, or access primary health care in Vermont are eligible to get a vaccine.\n\nIn Phase 1A, **health care personnel and long-term care residents and staff** are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates. Learn more about [vaccine for health care personnel and long-term care facilities](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenow).\n\nIn addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce how people who are eligible can make an appointment.\n\n**The Health Department is not keeping a list of eligible people**. As each group becomes eligible, we will announce when those people can make appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
             "source": "KB-COVID",
             "questions": [
                 "How will I know when I can get my vaccine?",
@@ -119,7 +119,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-29T18:28:15.849+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T18:18:11.886+00:00",
             "isDocumentText": false
         },
         {
@@ -1090,7 +1090,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:41:08.971+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:56:35.972+00:00",
             "isDocumentText": false
         },
         {
@@ -2716,7 +2716,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourself for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for **people visiting or returning to Vermont** and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Find out if you need to quarantine if**:\n\n*   [You had close contact with someone who is under quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You have out-of-state visitors staying in your home](https://apps.health.vermont.gov/COVID/faq/#4704).\n*   [You had COVID-19 and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n*   [You had COVID-19 and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You received a positive antibody test and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You got one or two doses of a COVID-19 vaccine](https://apps.health.vermont.gov/COVID/faq/#4782).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourself for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for **people visiting or returning to Vermont** and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Find out if you need to quarantine if**:\n\n*   [You had close contact with someone who is under quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You have out-of-state visitors staying in your home](https://apps.health.vermont.gov/COVID/faq/#4704).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n*   [You had COVID-19 and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You had COVID-19 and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820).\n*   [You received a positive antibody test and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You got one or two doses of a COVID-19 vaccine and traveled](https://apps.health.vermont.gov/COVID/faq/#4782).\n*   [You are fully vaccinated and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
                 "what does quarantine mean?",
@@ -2776,7 +2776,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T20:28:50.664+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:56:35.972+00:00",
             "isDocumentText": false
         },
         {
@@ -3664,7 +3664,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:18:37.49+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:26:26.209+00:00",
             "isDocumentText": false
         },
         {
@@ -4141,7 +4141,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:31:01.457+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:26:26.209+00:00",
             "isDocumentText": false
         },
         {
@@ -4896,7 +4896,7 @@
         },
         {
             "id": 4713,
-            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nThough antigen tests may be available in Vermont, the Health Department only recommends antigen testing in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n\nWhen used appropriately to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
+            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nAntigen tests are usually less sensitive than PCR tests, so they might miss some cases. Antigen tests could be more useful in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n*   **For surveillance purposes**, to see what COVID-19 activity might be occurring in a community.\n\nWhen used to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
             "source": "Editorial",
             "questions": [
                 "What is an antigen test?",
@@ -4936,7 +4936,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:18:37.49+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:26:26.209+00:00",
             "isDocumentText": false
         },
         {
@@ -6082,7 +6082,7 @@
         },
         {
             "id": 4747,
-            "answer": "**Is it safe to wear gaiters instead of masks?**\n\nGenerally, we recommend masks and coverings that are made of at least two layers. Materials with tighter weaves, like cotton T-shirt material, are better at trapping respiratory droplets and preventing the spread of the COVID-19 virus than materials with loose weaves, like gaiters.\n\nIf you choose to wear a gaiter as a face covering, fold it over so it is two layers. Based on a few experiments in adults, gaiters with one layer trap the least amount of respiratory droplets. Gaiters with two layers trap more droplets than gaiters with one layer. Gaiters folded over into two layers have a similar effectiveness at trapping respiratory droplets as two layers of cotton T-shirt manterial.\n\nLearn more about [different types of masks](https://apps.health.vermont.gov/COVID/faq/#4597).",
+            "answer": "**Is it safe to wear gaiters instead of masks?**\n\nGenerally, we recommend masks and coverings that are made of at least two layers. Materials with tighter weaves, like cotton T-shirt material, are better at trapping respiratory droplets and preventing the spread of the COVID-19 virus than materials with loose weaves, like gaiters.\n\nIf you choose to wear a gaiter as a face covering, fold it over so it is two layers. Based on a few experiments in adults, gaiters with one layer trap the least amount of respiratory droplets. Gaiters with two layers trap more droplets than gaiters with one layer. Gaiters folded over into two layers have similar effectiveness at trapping respiratory droplets as two layers of cotton T-shirt material.\n\nLearn more about [different types of masks](https://apps.health.vermont.gov/COVID/faq/#4597).",
             "source": "Editorial",
             "questions": [
                 "Is it safe to wear gaiters instead of masks? "
@@ -6108,7 +6108,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T21:14:32.526+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:58:31.463+00:00",
             "isDocumentText": false
         },
         {
@@ -6645,7 +6645,7 @@
         },
         {
             "id": 4769,
-            "answer": "**Can I get on a list to receive extra or leftover vaccine doses?**\n\nPlease **do not show up at vaccine clinics to wait for extra doses**. The vaccine clinics do not accept walk-ins. You need to have an appointment to get a vaccine. \n\nIf there is extra vaccine that needs to be used, then we may contact people who are already registered for appointments or who are in the Phase 1A group (health care personnel and long-term care residents and staff).\n\nPlease **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.",
+            "answer": "**Can I get on a list to receive extra or leftover vaccine doses?**\n\nPlease **do not show up at vaccine clinics to wait for extra doses**. The vaccine clinics do not accept walk-ins. You need to have an appointment to get a vaccine.\n\nIf there is extra vaccine that needs to be used, then we may contact people who have already scheduled appointments or who are in the Phase 1A group (health care personnel and long-term care residents and staff).\n\nPlease **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.",
             "source": "Editorial",
             "questions": [
                 "Can I get on a list to receive extra or leftover vaccine doses?",
@@ -6679,7 +6679,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T13:51:45.783+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:06:26.86+00:00",
             "isDocumentText": false
         },
         {
@@ -6912,7 +6912,7 @@
         },
         {
             "id": 4777,
-            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe B.1.1.7 variant, first identified in the UK, has now been detected in many U.S. states and we do expect to see it in Vermont as well.\n\nThe Health Department is working to detect any potential variants of the virus — through genetic sequencing of certain specimens taken from various parts of the state. So far, we have not found any variants of concern in the samples we’ve sequenced. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about the new variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe B.1.1.7 variant, first identified in the UK, has now been detected in many U.S. states and we do expect to see it in Vermont as well.\n\nThe Health Department is working to detect any potential variants of the virus — through genetic sequencing of certain specimens taken from various parts of the state. Learn more about [the likely presence of the B.1.1.7. variant in Vermont](https://www.healthvermont.gov/media/newsroom/Lab-Results-Indicate-Likely-Presence-of-COVID-19-Variant-in-State-February-11-2021). We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html)",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?",
@@ -6935,7 +6935,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:33:53.897+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:03:34.744+00:00",
             "isDocumentText": false
         },
         {
@@ -6975,7 +6975,7 @@
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIdentification is not required to make or go to a vaccine appointment.\n\n**People who are 75 years and older and live, work, or access primary health care in Vermont** are now eligible to get a vaccine. [Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nFind out [who will be eligible next](https://apps.health.vermont.gov/COVID/faq/#4814).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in Vermont.\n*   Your primary health care provider is in Vermont.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIdentification is not required to make or go to a vaccine appointment.\n\n**People who are 75 years and older** and live, work, or access primary health care in Vermont are now eligible to get a vaccine. [Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nBeginning February 16, people who are 70 years and older will be able to make an appointment.\n\nFind out [who will be eligible next](https://apps.health.vermont.gov/COVID/faq/#4814).",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
@@ -7020,12 +7020,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:22:38.1+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T18:19:01.358+00:00",
             "isDocumentText": false
         },
         {
             "id": 4781,
-            "answer": "**Can I register to get the COVID-19 vaccine now? How do I sign up?**\n\nThe current phase of vaccination is only for **people who are 75 years and older and live, work, or access primary health care in Vermont**. Appointments are required, and clinics won't be able to accept walk-ins.\n\nYou will need to create an account in the registration system first, and then log in to schedule your appointment. You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The registration system will not allow you to create a new account if you use an email address that is already in the system. Even if you’re not currently eligible to get a vaccine, you can set up an account ahead of time.\n\n[**Log in to your account or create an account**](https://vermont.force.com/events/s/selfregistration).\n\nFind out what you will need and how to [**make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). You can also watch a [video on how to make your appointment online](https://youtu.be/4baPyZvfiz4).\n\nIf you are eligible, talk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently. Read the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.\n\n**Health care personnel and long-term care residents and staff** are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates.\n\n**For more information**:\n\n*   [How to make a vaccine appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790)\n*   [What to do if you have problems scheduling a vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4812)\n*   [What to expect at your vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4789)\n*   [Frequently asked questions about vaccine registration and appointments](https://apps.health.vermont.gov/COVID/faq/#vaccine-registration-and-appointments)\n*   [Who will be eligible next to get the vaccine](https://apps.health.vermont.gov/COVID/faq/#4814)",
+            "answer": "**Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?**\n\nThe current phase of vaccination is only for **people who are 75 years and** **older** and live, work, or access primary health care in Vermont. There are enough appointments for everyone who is eligible. Appointments are required. Clinics cannot accept walk-ins.\n\nAlready have an account set up? [**Log in to your account**](https://vermont.force.com/events/s/selfregistration) to make an appointment.\n\n**Create an Account**\n\nYou will need to create an account in our online system first, and then log in to schedule your appointment. Even if you’re not currently eligible to get a vaccine, you can set up an account ahead of time.\n\nYou will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\n[**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\n**Make a Vaccine Appointment**\n\nIf you are eligible, find out what information you need and how to [**make a vaccine appointment**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nYou can also watch a [video on how to make your appointment online](https://youtu.be/4baPyZvfiz4).\n\nTalk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently. Read the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.\n\n**Health care personnel and long-term care residents and staff** are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates. Learn more about [vaccine for health care personnel and long-term care facilities](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenow).\n\n**For more information**:\n\n*   [Tips for making a vaccine appointment](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-MakingVaccineAppointmentTips.Feb2021.final_.pdf)\n*   [How to make a vaccine appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790)\n*   [What to do if you have problems scheduling a vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4812)\n*   [What to expect at your vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4789)\n*   [Frequently asked questions about vaccine registration and appointments](https://apps.health.vermont.gov/COVID/faq/#vaccine-registration-and-appointments)\n*   [Who will be eligible next to get the vaccine](https://apps.health.vermont.gov/COVID/faq/#4814)",
             "source": "Editorial",
             "questions": [
                 "when can I get a vaccine",
@@ -7036,7 +7036,6 @@
                 "vaccine available",
                 "register for a vaccine",
                 "registration for vaccine",
-                "When can I register to get the COVID-19 vaccine? How do I sign up?",
                 "Set up an account",
                 "where do I go to set up an account",
                 "how do I sign up",
@@ -7053,7 +7052,8 @@
                 "How can I register",
                 "how do I log into my covid portal",
                 "What site do I go to to preregistration?",
-                "can I register before it is time for my age group to schedule an appointment"
+                "can I register before it is time for my age group to schedule an appointment",
+                "Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?"
             ],
             "metadata": [
                 {
@@ -7080,12 +7080,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T13:51:14.21+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T18:16:54.984+00:00",
             "isDocumentText": false
         },
         {
             "id": 4782,
-            "answer": "**I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?**\n\n**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you have gotten the vaccine:\n\n*   **You must quarantine** if you are a close contact of someone with COVID-19.\n*   **You must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine).\n*   **You are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
+            "answer": "**I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?**\n\n**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you are fully vaccinated:\n\n*   **You must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine).\n*   **You are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are fully vaccinated and then are a close contact of someone with COVID-19, you do not need to quarantine. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4825).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
             "source": "Editorial",
             "questions": [
                 "Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?",
@@ -7117,7 +7117,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:23:18.612+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:54:53.396+00:00",
             "isDocumentText": false
         },
         {
@@ -7267,7 +7267,7 @@
         },
         {
             "id": 4787,
-            "answer": "**How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?**\n\nRegistering online will be the quickest way to make an appointment. If your loved one or someone you care for is 75 years or older, we ask that you help them register online. Find out [how to make an appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790).\n\nIf registering online is not an option, you can call **855-722-7878** Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.",
+            "answer": "**How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?**\n\nUsing the online system is the quickest way to make an appointment. If your loved one or someone you care for is 75 years or older, we ask that you help them make an appointment online. Find out [how to make an appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790).\n\nBeginning February 16, **people age 70 and up** can make a vaccine appointment. Even if they’re not currently eligible to get a vaccine, **you can create an account for them ahead of time** in our online system, so it will be easier to log in and make their appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nIf making an appointment online is not an option, you can call **855-722-7878** Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.",
             "source": "Editorial",
             "questions": [
                 "How can someone make a vaccine appointment if they don’t have internet access or don't know how to use a computer?",
@@ -7296,12 +7296,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T17:06:27.707+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:52:04.308+00:00",
             "isDocumentText": false
         },
         {
             "id": 4788,
-            "answer": "**Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?**\n\nNo. Only people who are 75 years and older and live, work, or access primary health care in Vermont may make an appointment. Your spouse or partner will be able to get their vaccine as soon as their age group is eligible. People who are 70 years and older will be the next eligible age group. \n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+            "answer": "**Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?**\n\nNo. Only people who are 75 years and older and live, work, or access primary health care in Vermont may make an appointment. Your spouse or partner will be able to get their vaccine as soon as their age group is eligible. Beginning February 16, people who are 70 years and older will be able to make an appointment.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
                 "Can my spouse or partner get a COVID-19 vaccine if they are younger than 75?"
@@ -7327,7 +7327,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-25T15:43:38.667+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:32:36.309+00:00",
             "isDocumentText": false
         },
         {
@@ -7369,7 +7369,7 @@
         },
         {
             "id": 4790,
-            "answer": "**Can I make a vaccine appointment for someone else? How do I sign someone up as a dependent?**\n\nYes, you can make an appointment for your loved one or someone you care for who is 75 years or older, especially if they need help registering online.\n\nIf you are making an appointment online **for a spouse or partner at the same time as your own**, you will need to make the appointments individually. Learn more about [making two appointments at the same time](https://apps.health.vermont.gov/COVID/faq/#4805).\n\nIf you are a **case worker who is scheduling an appointment for your client**, please call 855-722-7878 Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.\n\nIf you are **scheduling an appointment for a family member**, we recommend that you create an account, and then sign them up as a “dependent.”\n\nFirst, you need to create an account in the registration system. You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The registration system will not allow you to create a new account if you use an email address that is already in the system. If you already have an account, go to the “adding them as a dependent” steps below.\n\nHere is how you **create an account**:\n\n*   Go to the [COVID-19 Event Portal](https://vermont.force.com/events/s/selfregistration).\n*   Enter your name, phone number, email address, and date of birth.\n*   Click the “create account” button.\n\nAfter you create an account, an email is immediately sent to the email address you entered. You will need to **verify your account** on the COVID-19 Event Portal to make the person’s appointment:\n\n*   Click on the link in the email sent to you to verify your account.\n*   Enter your Patient ID number.\n*   Create a password.\n*   Review and consent to the Notice of Privacy Practices.\n*   Enter your personal information.\n\nNext, you need to **add them as a dependent**. Click on the “Add Dependent/Spouse” button at the top of the screen. After consenting, you will need to enter their personal information:\n\n*   Name\n*   Email address (use your email, the same one used to set up your account)\n*   Phone number\n*   Date of birth\n*   Address\n\nIf the person getting the vaccine does not live in Vermont, the system will ask do they work in Vermont, get primary care in Vermont, or recently moved to Vermont. If none of these apply, they won’t be able to get vaccinated in Vermont, and should seek a vaccine in the state where they live.\n\nThen, click the “Schedule Vaccine Appointment” button at the top of the screen and select their name. Select a clinic site location by searching by county and date range.\n\nNext, you will answer a series of medical (see below) and demographic questions as well as questions about any COVID-19 symptoms the person has. You will be asked to provide their health insurance information. Insurance is not required, and there is no cost for getting the vaccine. You will be asked to complete a waiver.\n\nFinally, choose an appointment slot from the list of available appointments. Click the “submit” button. You will immediately receive an email confirmation.\n\nThese are the medical screening questions asked:\n\n1.  **Have you ever had an immediate allergic reaction to any other vaccine or injectable therapy, an immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]), or an immediate allergic reaction of any severity to polysorbate?** If the answer is yes, then they cannot get any of the currently available COVID-19 vaccines. They should consider contacting their health care provider if they have questions.\n2.  **Are you currently sick with COVID-19 or still in your isolation period following a COVID-19 infection?** If the answer is yes, then they cannot get a COVID-19 vaccine at this time, but can schedule an appointment at a later date.\n3.  **Have you received another vaccine in the last 14 days?** If the answer is yes, then they won't be able to schedule an appointment right now, but can log back in at a later date to schedule an appointment.\n4.  **Do you have a weakened immune system caused by something such as HIV infection or cancer or do you take immunosuppressive drugs or therapies?** If the answer is yes, then they can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n5.  **Do you have a history of a bleeding disorder or are you taking a blood thinner?** If the answer is yes, then they can still get a vaccine, but they may want to talk with their health care provider first about any concerns. People with bleeding disorders or who are taking blood thinners may bruise or have more serious bleeding after injections. Special precautions can be taken to help avoid post-injection bleeding and bruising, such as using a very fine needle and applying pressure to the injection site after the injection.\n6.  **Are you pregnant?** If the answer is yes, then they can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n7.  **Are you breastfeeding or lactating?** If the answer is yes, then they can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n8.  **Have you received passive antibody therapy as treatment for COVID-19 in the past 90 days?** If the answer is yes, then they will need to wait for 90 days before scheduling an appointment.\n\nYou can also watch a [video on how to make an appointment online](https://youtu.be/4baPyZvfiz4).",
+            "answer": "**Can I make a vaccine appointment for someone else? How do I sign someone up as a dependent?**\n\nYes, you can make an appointment for your loved one or someone you care for who is 75 years or older, especially if they need help creating an account and making an appointment online.\n\nIf you are making an appointment online **for a spouse or partner at the same time as your own**, you will need to make the appointments individually. Learn more about [making two appointments at the same time](https://apps.health.vermont.gov/COVID/faq/#4805).\n\nIf you are a **case worker who is scheduling an appointment for your client**, please call 855-722-7878 Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.\n\nIf you are **scheduling an appointment for a family member**, we recommend that you create an account, and then sign them up as a “dependent.” Here are the steps you will need to take:\n\n**1. Create an account.**\n\nFirst, you will need to create an account in our online system. You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The system will not allow you to create a new account if you use an email address that is already in the system.\n\nIf you already have an account, start at the “add a dependent” step below.\n\nHere is how you **create an account**:\n\n*   Go to the [COVID-19 Event Portal](https://vermont.force.com/events/s/selfregistration).\n*   Enter your name, phone number, email address, and date of birth.\n*   Click the “create account” button.\n\nAfter you create an account, an email is immediately sent to the email address you entered. You will need to **verify your account** on the COVID-19 Event Portal to make the person’s appointment:\n\n*   Click on the link in the email sent to you to verify your account.\n*   Enter your Patient ID number.\n*   Create a password.\n*   Review and consent to the Notice of Privacy Practices.\n*   Enter your personal information.\n\n**2. Add a dependent**.\n\nYou will need to **add them as a dependent**. Click on the “Add Dependent/Spouse” button at the top of the screen. After consenting, you will need to enter their personal information:\n\n*   Name\n*   Email address (use your email, the same one used to set up your account)\n*   Phone number\n*   Date of birth\n*   Address\n\nIf the person getting the vaccine does not live in Vermont, the system will ask do they work in Vermont, get primary care in Vermont, or recently moved to Vermont. If none of these apply, they won’t be able to get vaccinated in Vermont, and should seek a vaccine in the state where they live.\n\n**3. Schedule a vaccine appointment**.\n\nClick the “Schedule Vaccine Appointment” button at the top of the screen and select their name. Select a clinic site location by searching by county and date range.\n\nNext, you will answer a series of medical (see below) and demographic questions as well as questions about any COVID-19 symptoms the person has. You will be asked to provide their health insurance information. Insurance is not required, and there is no cost for getting the vaccine. You also will be asked to complete a waiver.\n\nFinally, choose an appointment slot from the list of available appointments. Click the “submit” button. You will immediately receive an email confirmation.\n\nThese are the **medical screening questions** asked:\n\n1.  **Have you ever had an immediate allergic reaction to any other vaccine or injectable therapy, an immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]), or an immediate allergic reaction of any severity to polysorbate?** If the answer is yes, then they cannot get any of the currently available COVID-19 vaccines. They should consider contacting their health care provider if they have questions.\n2.  **Are you currently sick with COVID-19 or still in your isolation period following a COVID-19 infection?** If the answer is yes, then they cannot get a COVID-19 vaccine at this time, but can schedule an appointment at a later date.\n3.  **Have you received another vaccine in the last 14 days?** If the answer is yes, then they won't be able to schedule an appointment right now, but can log back in at a later date to schedule an appointment.\n4.  **Do you have a weakened immune system caused by something such as HIV infection or cancer or do you take immunosuppressive drugs or therapies?** If the answer is yes, then they can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n5.  **Do you have a history of a bleeding disorder or are you taking a blood thinner?** If the answer is yes, then they can still get a vaccine, but they may want to talk with their health care provider first about any concerns. People with bleeding disorders or who are taking blood thinners may bruise or have more serious bleeding after injections. Special precautions can be taken to help avoid post-injection bleeding and bruising, such as using a very fine needle and applying pressure to the injection site after the injection.\n6.  **Are you pregnant?** If the answer is yes, then they can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n7.  **Are you breastfeeding or lactating?** If the answer is yes, then they can make an appointment but they will be advised to talk with their health care provider before getting vaccinated.\n8.  **Have you received passive antibody therapy as treatment for COVID-19 in the past 90 days?** If the answer is yes, then they will need to wait for 90 days before scheduling an appointment.\n\nYou can also watch a [video on how to make an appointment online](https://youtu.be/4baPyZvfiz4) and find [tips for making an appointment](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-MakingVaccineAppointmentTips.Feb2021.final_.pdf).",
             "source": "Editorial",
             "questions": [
                 "May I sign up for somebody else?",
@@ -7399,12 +7399,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:05:45.837+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:57:26.82+00:00",
             "isDocumentText": false
         },
         {
             "id": 4791,
-            "answer": "**Where can people get vaccinated?**\n\nPeople 75 years and older can make an appointment online or by phone. Find out what you will need and how to [make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nYou can find a [map of the areas where vaccination sites](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) are, not actual locations. When you schedule your appointment, you will get the address of the vaccination site you chose.\n\nHealth care workers and long-term care residents and staff are being notified directly about when and where they can get vaccinated. Because vaccine supply fluctuates, at this time health care personnel may have to wait for the next opportunity when there is more vaccine available. Check with your local hospital for updates.\n\nFor each phase, we will offer vaccines at regional clinics set up by the state. These clinics will be handicap accessible. Some vaccines will be available through our partner hospitals, providers, and pharmacies. Our goal will be to administer every available dose each week. We are also collaborating with community organizations and other partners to make sure people who are disproportionately affected by COVID-19, including Black, Indigenous and people of color, have equitable access to the vaccine.",
+            "answer": "**Where can people get vaccinated?**\n\n**People 75 years and older** can make an appointment online or by phone. Find out what you will need and how to [make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nYou can find a [map of the areas where vaccination sites](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) are, not actual locations. When you schedule your appointment, you will get the address of the vaccination site you chose.\n\n**Health care personnel and long-term care residents and staff** can [find out how to get a vaccine appointment](https://www.healthvermont.gov/covid-19/health-care-professionals/vaccine-information-health-care-professionals#gettingvaccine). \n\nFor each phase, we will offer vaccines at regional clinics set up by the state. These clinics will be handicapped accessible. Some vaccines will be available through our partner hospitals, providers, and pharmacies.\n\nVaccines will be available to [**people who are homebound**](https://apps.health.vermont.gov/COVID/faq/#4786) through a partnership with home health agencies and EMS.\n\nWe are also collaborating with community organizations and other partners to make sure people who are disproportionately affected by COVID-19, including Black, Indigenous and people of color, have equitable access to the vaccine.",
             "source": "Editorial",
             "questions": [
                 "Where can people get vaccinated?",
@@ -7441,7 +7441,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:10:40.766+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:28:21.44+00:00",
             "isDocumentText": false
         },
         {
@@ -7534,40 +7534,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-02-11T18:18:16.545+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4796,
-            "answer": "**When will the next group be eligible for a vaccine?**\n\nWe still have a very limited number of doses we receive each week. The number we receive each week can change. Vaccinations for those who are age 75 and older will begin on January 27 and include about 49,000 Vermonters. This will likely take about 6 weeks or more to complete. **Because this estimate is based on the number of doses we receive, it could change.**\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. [**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.",
-            "source": "Editorial",
-            "questions": [
-                "When will the next group be eligible for a vaccine?",
-                "When is estimate for 70 to 74",
-                "projected time line for getting the vaccine at 65 plus years old",
-                "How long will it be until people 55 and up can get the vaccine?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "eligibility"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-11T21:03:16.748+00:00",
             "isDocumentText": false
         },
         {
@@ -7831,7 +7797,7 @@
         },
         {
             "id": 4805,
-            "answer": "**Can I make two appointments for COVID-19 vaccination at the same time, for example for both my parents or myself and my spouse?**\n\nYou will need to register each person individually. We can only register one person for an appointment at a time online and through the call center. This is because each slot and series of questions apply just to one person. \n\nIf you are making an appointment **online**, you can either create an account for each person, or create a single account and add the other person to the account by clicking on the “Add Dependent/Spouse” button at the top of the screen (follow the prompts in the registration system). You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811). Find out what you will need and how to [make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). \n\nIf you are making an appointment **by phone**, you can also make more than one appointment. We will do our best to get the appointments as close together as possible, but they may not be at the same time. Call **855-722-7878** Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.",
+            "answer": "**Can I make two appointments for the vaccine at the same time, for example for both my parents or myself and my spouse?**\n\nYou will need to make an appointment for each person individually. We can only make an appointment for one person at a time online and through the call center. This is because each appointment slot and series of questions apply just to one person. \n\n**If you are making an appointment online**, you can either create an account for each person, or create a single account and add the other person to the account by clicking on the “Add Dependent/Spouse” button at the top of the screen (follow the prompts in the registration system). You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811). \n\nFind out what you will need and how to [make a vaccine appointment ](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)online. \n\n**If you are making an appointment by phone**, you can also make more than one appointment. We will do our best to get the appointments as close together as possible, but they may not be at the same time. Call **855-722-7878** Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday to Sunday 10:00 a.m. – 3:00 p.m.",
             "source": "Editorial",
             "questions": [
                 "Can I make two appointments for COVID-19 vaccination at the same time, for example for both my parents or myself and my spouse?",
@@ -7866,12 +7832,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:04:30.555+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:46:29.486+00:00",
             "isDocumentText": false
         },
         {
             "id": 4806,
-            "answer": "**I am turning 75 soon. Can I make an appointment now?**\n\nYou will have to wait until you turn 75 until you can schedule an appointment. This is because the system asks for your date of birth and only allows people who are currently 75 and older to schedule one. There will be enough vaccine appointment slots available for you to register.\n\nEven if you’re not currently eligible to get a vaccine, you can [set up an account](https://vermont.force.com/events/s/selfregistration) ahead of time. You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811). \n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The registration system will not allow you to create a new account if you use an email address that is already in the system.",
+            "answer": "**I am turning 75 soon. Can I make an appointment now?**\n\nYou will have to wait until you turn 75 until you can schedule an appointment. This is because the system asks for your date of birth and only allows people who are currently 75 and older to schedule one. There will be enough vaccine appointment slots available for you when you turn 75.\n\nEven if you’re not currently eligible to get a vaccine, **you can** [**set up an account**](https://vermont.force.com/events/s/selfregistration) **ahead of time**. You will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\n**If you already have an account** because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.",
             "source": "Editorial",
             "questions": [
                 "I am turning 75 soon. Can I make an appointment now?",
@@ -7899,12 +7865,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:17:37.502+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T18:23:55.614+00:00",
             "isDocumentText": false
         },
         {
             "id": 4809,
-            "answer": "**I am having problems registering for a test or receiving my results. Who do I contact?**\n\nIf you have questions or need help creating an account, registering for a test, or if you have questions about receiving your test results, please call 802-863-7240 option 9.\n\nThe COVID-19 Event Portal is used for both testing and vaccine registration. [Log in to your account](https://vermont.force.com/events/s/selfregistration).\n\nFind out what to do if you are having [problems registering for your **vaccine** appointment](https://apps.health.vermont.gov/COVID/faq/#4812).",
+            "answer": "**I am having problems making an appointment for testing or receiving my test results. Who do I contact?**\n\nIf you have questions or need help creating an account, scheduling an appointment, or if you have questions about receiving your test results, please call 802-863-7240 option 9.\n\nThe COVID-19 Event Portal is used for both testing and vaccine registration. [Log in to your account](https://vermont.force.com/events/s/selfregistration).\n\nFind out what to do if you are having [problems making an appointment for your **vaccine**](https://apps.health.vermont.gov/COVID/faq/#4812).",
             "source": "Editorial",
             "questions": [
                 "I am having problems registering for a test or receiving my results. Who do I contact?",
@@ -7937,12 +7903,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:46:59.869+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T17:02:32.139+00:00",
             "isDocumentText": false
         },
         {
             "id": 4810,
-            "answer": "**Do I need to use the same account I made to get a COVID-19 test to schedule a vaccine appointment?**\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The registration system will not allow you to create a new account if you use an email address that is already in the system.\n\nOnce you log in, click on the “Schedule Vaccine Appointment” button at the top of the screen and follow the prompts on the screen. You can also watch a [video on how to schedule an appointment](https://youtu.be/4baPyZvfiz4).",
+            "answer": "**Do I need to use the same account I made to get a COVID-19 test to schedule a vaccine appointment?**\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\nOnce you log in, click on the “Schedule Vaccine Appointment” button at the top of the screen and follow the prompts on the screen. You can also watch a [video on how to schedule an appointment](https://youtu.be/4baPyZvfiz4).",
             "source": "Editorial",
             "questions": [
                 "Do I need to use the same account I made to get a COVID-19 test to schedule a vaccine appointment?"
@@ -7968,7 +7934,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-27T21:22:30.517+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:47:07.332+00:00",
             "isDocumentText": false
         },
         {
@@ -8004,10 +7970,9 @@
         },
         {
             "id": 4812,
-            "answer": "**I am having problems registering for my vaccine appointment. Who do I contact?**\n\nIf you have questions or need help creating an account, scheduling an appointment, or signing up someone as a dependent, please call 855-722-7878.\n\nThe COVID-19 Event Portal is used for both testing and vaccine registration. [Log in to your account](https://vermont.force.com/events/s/selfregistration).\n\nFind out what to do if you are having [problems registering for **testing** or have questions about your **test results**](https://apps.health.vermont.gov/COVID/faq/#4809).",
+            "answer": "**I am having problems making my vaccine appointment. Who do I contact?**\n\nIf you have questions or need help creating an account, scheduling an appointment, or signing up someone as a dependent, please call 855-722-7878.\n\nThe COVID-19 Event Portal is used for both testing and vaccine registration. [Log in to your account](https://vermont.force.com/events/s/selfregistration).\n\nFind out what to do if you are having [problems making an appointment for **testing** or have questions about your **test results**](https://apps.health.vermont.gov/COVID/faq/#4809).",
             "source": "Editorial",
             "questions": [
-                "I am having problems registering for my vaccine appointment. Who do I contact?",
                 "How do I change my email on registration for COVID-19 vaccine",
                 "Password problem",
                 "My password is not valid",
@@ -8024,7 +7989,8 @@
                 "how to cancel dependent entered in error",
                 "Setting up account did not work",
                 "how to delete a duplicate registration",
-                "need my patient ID"
+                "need my patient ID",
+                "I am having problems making my vaccine appointment. Who do I contact?"
             ],
             "metadata": [
                 {
@@ -8047,7 +8013,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:40:42.809+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:54:01.232+00:00",
             "isDocumentText": false
         },
         {
@@ -8079,7 +8045,7 @@
         },
         {
             "id": 4814,
-            "answer": "**Who is eligible for the vaccine now and who will be eligible next?**\n\nIn addition to ongoing vaccination of health care workers and residents and staff of long-term care facilities, Vermont is using **age groupings** to determine who can receive the vaccine next based on our primary goal with vaccination efforts – to save lives.\n\nCurrently, only **people who are 75 years and older and live, work, or access primary health care in Vermont** are eligible to receive the vaccine. In the weeks and months to come, age-based criteria will expand to include those age 70 and older, followed by those age 65 and older. When that population has been vaccinated, Vermonters with specific chronic conditions will be included.\n\nAfter the age groups, the vaccine will be available to people in Vermont who have **certain high-risk health conditions**. These are medical conditions that put them at increased risk for severe illness from COVID-19 as identified by the CDC. These are:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, also called emphysema\n*   Heart conditions, such as heart failure, coronary artery disease, or cardiomyopathies\n*   Immunocompromised state (weakened immune system)\n*   Severe obesity\n*   Pregnancy\n*   Type 2 diabetes mellitus\n*   Down Syndrome\n*   Sickle cell disease\n\nStay tuned to [our website](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont) for updates on the next phases. Find out [when the next group will be eligible](https://apps.health.vermont.gov/COVID/faq/#4796).\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\n**The Health Department is not keeping a list of eligible people**. When there is enough vaccine available, we will be announcing when Vermonters can schedule appointments and who is eligible. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.",
+            "answer": "**Who is eligible for the vaccine now? Who will be eligible next?**\n\nIn addition to ongoing vaccination of **health care personnel and residents and staff of long-term care facilities**, Vermont is using age groupings to determine who can receive the vaccine next based on our primary goal with vaccination efforts – to save lives.\n\nCurrently, only **people who are 75 years and older** and live, work, or access primary health care in Vermont are eligible to receive the vaccine. Beginning February 16, **people age 70 and up** can make a vaccine appointment.\n\nIn the weeks and months to come, age-based criteria will expand to include **people age 65 and older**. When that population has been vaccinated, Vermonters with specific chronic conditions will be included.\n\nAfter the age groups, the vaccine will be available to people in Vermont who have **certain high-risk health conditions**. These are medical conditions that put them at increased risk for severe illness from COVID-19 as identified by the CDC. These are:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, also called emphysema\n*   Heart conditions, such as heart failure, coronary artery disease, or cardiomyopathies\n*   Immunocompromised state (weakened immune system)\n*   Severe obesity\n*   Pregnancy\n*   Type 2 diabetes mellitus\n*   Down Syndrome\n*   Sickle cell disease\n\nStay tuned to [our website](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont) for updates on the next phases.\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\n**The Health Department is not keeping a list of eligible people**. As each group becomes eligible, we will announce when those people can make appointments. In addition to Health Department communications, we will work with partners such as health care practices, pharmacies, employers, and local news media to announce additional groups who become eligible for the vaccine.\n\nLearn about [how decisions are made to determine which group is eligible next](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#eligiblenext).",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
@@ -8093,7 +8059,6 @@
                 "Vaccination schedule",
                 "Can I get a vaccine now if immunocompromised?",
                 "immune compromised",
-                "Who is eligible for the vaccine now and who will be eligible next?",
                 "when will I be able to get a vaccination",
                 "when can people over age 65 get vaccine?",
                 "When can I get a vaccination with an underlying health condition",
@@ -8124,7 +8089,12 @@
                 "Can someone with underlying heath issues get there vaccines ahead of 75 year olds",
                 "what are comorbidities",
                 "age groups for getting to covid vaccine",
-                "covid vaccine phase"
+                "covid vaccine phase",
+                "Who is eligible for the vaccine now? Who will be eligible next?",
+                "phase 2",
+                "phase 3",
+                "phase 1a",
+                "phase 1b"
             ],
             "metadata": [
                 {
@@ -8151,12 +8121,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:12:46.351+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:39:00.016+00:00",
             "isDocumentText": false
         },
         {
             "id": 4815,
-            "answer": "**What happens if a vaccine clinic is canceled due to weather?**\n\nCheck your local news station or the [Health Department’s website](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) and social media ([Facebook](https://www.facebook.com/HealthVermont/), [Twitter](https://twitter.com/healthvermont), [Instagram](https://www.instagram.com/healthvermont/)) for any changes to Health Department vaccine clinic schedules due to weather.\n\nIf the **Health Department vaccine clinic** is not canceled but you’d like to reschedule your appointment because of the weather, call 855-722-7878.\n\nIf you registered to get your vaccine at **Kinney Drugs**, contact the store where your appointment is to find out if the clinic will be open or how to reschedule.\n\nNo matter what, you should always watch the weather and stay home if you don't feel safe traveling. There are enough vaccine appointments for everyone who is eligible – we will get you rescheduled if needed.",
+            "answer": "**What happens if a vaccine clinic is canceled due to weather?**\n\nCheck your local news station or the [Health Department’s website](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) and social media ([Facebook](https://www.facebook.com/HealthVermont/), [Twitter](https://twitter.com/healthvermont), [Instagram](https://www.instagram.com/healthvermont/)) for any changes to Health Department vaccine clinic schedules due to weather.\n\nIf the **Health Department vaccine clinic** is not canceled but you’d like to reschedule your appointment because of the weather, call 855-722-7878.\n\nIf you made an appointment to get your vaccine at **Kinney Drugs or Walgreens**, contact the store where your appointment is to find out if the clinic will be open or how to reschedule.\n\nNo matter what, you should always watch the weather and stay home if you don't feel safe traveling. There are enough vaccine appointments for everyone who is eligible – we will get you rescheduled if needed.",
             "source": "Editorial",
             "questions": [
                 "What happens if a vaccine clinic is canceled due to weather?"
@@ -8182,7 +8152,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-02T21:21:48.243+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:57:58.054+00:00",
             "isDocumentText": false
         },
         {
@@ -8431,7 +8401,7 @@
         },
         {
             "id": 4823,
-            "answer": "**How can I confirm my vaccine appointment?**\n\nIf you registered online or by phone, you will be sent an email confirmation to the email address you provided. You can also [log in to your account](https://vermont.force.com/events/s/selfregistration) to see the appointment date, time and location for yourself or for a dependent or spouse.\n\nIf you don’t have an email address, you will not receive a confirmation. You can call 855-722-7878 to confirm your appointment date, time and location if you don’t have an email address, or if you are having trouble accessing the online system.",
+            "answer": "**How can I confirm my vaccine appointment?**\n\nIf you made an appointment online or by phone, you will be sent an email confirmation to the email address you provided. You can also [log in to your account](https://vermont.force.com/events/s/selfregistration) to see the appointment date, time and location for yourself or for a dependent or spouse.\n\nIf you don’t have an email address, you will not receive a confirmation. You can call 855-722-7878 to confirm your appointment date, time and location if you don’t have an email address, or if you are having trouble accessing the online system.",
             "source": "Editorial",
             "questions": [
                 "How can I confirm my vaccine appointment?",
@@ -8458,7 +8428,38 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:49:01.836+00:00",
+            "lastUpdatedTimestamp": "2021-02-12T16:48:26.603+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4825,
+            "answer": "**I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?**\n\nIf you had two doses of the COVID-19 vaccine and two weeks have passed – and then are exposed to someone with COVID-19 (for example, you are a close contact of someone with COVID-19) – **you do not need to quarantine only if**:\n\n*   you are within 3 months of receiving your second dose of the vaccine, **and**\n*   you have not had any COVID-19 symptoms since the new exposure.\n\nHowever, vaccinated inpatients and residents in health care settings will still need to quarantine if they are a close contact of someone with COVID-19. Read the [CDC’s guidance](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html).\n\n**You must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine) and **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).",
+            "source": "Editorial",
+            "questions": [
+                "I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "isolation, quarantine and self-observation"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "quarantine"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-02-12T17:16:47.077+00:00",
             "isDocumentText": false
         }
     ]
