@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-02-17T20:34:18.505+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T18:07:40.035+00:00",
             "isDocumentText": false
         },
         {
@@ -517,7 +517,11 @@
                 "when do I need a covid test",
                 "Do I need to bring anything to my covid test",
                 "How can I schedule a covid test",
-                "Who can get a test"
+                "Who can get a test",
+                "Testing kids",
+                "Testing appointment",
+                "can minors be tested",
+                "What test is given"
             ],
             "metadata": [
                 {
@@ -545,7 +549,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T19:06:24.165+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:33:31.051+00:00",
             "isDocumentText": false
         },
         {
@@ -581,7 +585,10 @@
                 "How quickly are Covid test results given?",
                 "can a minor go to testing by themselves",
                 "never got an email from covid test result",
-                "covid test response times"
+                "covid test response times",
+                "covid-19 test results",
+                "Where do I find my COVID test results",
+                "how long before a test come back"
             ],
             "metadata": [
                 {
@@ -608,7 +615,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:29:08.656+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:34:44.241+00:00",
             "isDocumentText": false
         },
         {
@@ -873,7 +880,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:46:02.586+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:48:09.853+00:00",
             "isDocumentText": false
         },
         {
@@ -1089,7 +1096,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T15:14:12.436+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T15:48:45.228+00:00",
             "isDocumentText": false
         },
         {
@@ -1186,7 +1193,8 @@
                 "how long will COVID-19 survive on objects?",
                 "can the virus be tracked on surfaces",
                 "Can covid spread by sharing materials",
-                "virus live on skin"
+                "virus live on skin",
+                "does the Coronavirus live on clothing?"
             ],
             "metadata": [
                 {
@@ -1205,7 +1213,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:49:13.732+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:06:58.619+00:00",
             "isDocumentText": false
         },
         {
@@ -1621,7 +1629,8 @@
                 "governor’s updates",
                 "news conference",
                 "stay at home orders",
-                "executive orders"
+                "executive orders",
+                "when will updated covid policies be announced"
             ],
             "metadata": [
                 {
@@ -1649,7 +1658,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T20:52:40.324+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:32:41.396+00:00",
             "isDocumentText": false
         },
         {
@@ -1879,7 +1888,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T20:14:22.416+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T17:42:48.886+00:00",
             "isDocumentText": false
         },
         {
@@ -1932,7 +1941,6 @@
             "questions": [
                 "Is it safe to go grocery shopping?",
                 "can i bring groceries into the house?",
-                "Is a grocery sore considered a high-risk environment?",
                 "Do you need to wipe your groceries?",
                 "shopping",
                 "Should gloves be worn when grocery shopping?"
@@ -1963,7 +1971,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T20:14:22.416+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T17:42:48.886+00:00",
             "isDocumentText": false
         },
         {
@@ -1975,7 +1983,8 @@
                 "Do homemade cloth face masks or coverings work?",
                 "Do homemade face masks or coverings work?",
                 "Do homemade cloth masks work?",
-                "Is one type of mask better than another? Is wearing two masks better?"
+                "Is one type of mask better than another? Is wearing two masks better?",
+                "Double masking"
             ],
             "metadata": [
                 {
@@ -2008,7 +2017,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T21:14:32.526+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:07:26.375+00:00",
             "isDocumentText": false
         },
         {
@@ -2064,7 +2073,8 @@
                 "When am I considered to be recovered from COVID-19? When can I stop self-isolating (home isolation)?",
                 "end quarantine after being diagnosed positive",
                 "when can I leave isolation",
-                "safe to be around people after you have had Covid"
+                "safe to be around people after you have had Covid",
+                "recover covid"
             ],
             "metadata": [
                 {
@@ -2097,7 +2107,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T17:55:57.231+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:06:09.964+00:00",
             "isDocumentText": false
         },
         {
@@ -2659,7 +2669,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourself for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for **people visiting or returning to Vermont** and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Find out if you need to quarantine if**:\n\n*   [You had close contact with someone who is under quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You have out-of-state visitors staying in your home](https://apps.health.vermont.gov/COVID/faq/#4704).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n*   [You had COVID-19 and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You had COVID-19 and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820).\n*   [You received a positive antibody test and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You got one or two doses of a COVID-19 vaccine and traveled](https://apps.health.vermont.gov/COVID/faq/#4782).\n*   [You are fully vaccinated and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands or recreation. You should separate yourself from others and check yourself for symptoms.\n\nQuarantine is for:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 (day 1 of your quarantine starts the day after you were last in contact with them)\n*   Vermonters who travel out of state (day 1 of your quarantine starts the day after you return to Vermont)\n*   people with no symptoms who are visiting Vermont (day 1 of your quarantine starts the day after you arrive in Vermont)\n*   people who have gathered with another household (day 1 of your quarantine starts the day after the gathering).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nQuarantine helps prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for **people visiting or returning to Vermont** and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Find out if you need to quarantine if**:\n\n*   [You had close contact with someone who is under quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You have out-of-state visitors staying in your home](https://apps.health.vermont.gov/COVID/faq/#4704).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n*   [You had COVID-19 and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You had COVID-19 and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820).\n*   [You received a positive antibody test and traveled](https://apps.health.vermont.gov/COVID/faq/#4770).\n*   [You got one or two doses of a COVID-19 vaccine and traveled](https://apps.health.vermont.gov/COVID/faq/#4782).\n*   [You are fully vaccinated and then are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
                 "what does quarantine mean?",
@@ -2687,7 +2697,9 @@
                 "Ending quarantine",
                 "How long do I need to quarantine?",
                 "Can I go to school when I am in quarintine",
-                "quarantine rules"
+                "quarantine rules",
+                "when must an individual quarantine",
+                "when is day 1 of quarantine"
             ],
             "metadata": [
                 {
@@ -2719,7 +2731,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T18:30:43.943+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T15:48:45.228+00:00",
             "isDocumentText": false
         },
         {
@@ -3098,7 +3110,7 @@
         },
         {
             "id": 4637,
-            "answer": "**Do I need to quarantine if I’m traveling for an essential purpose (like work in a neighboring state or health care)?**\n\nIf you are traveling for essential purposes, you do not need to quarantine. Essential travel includes travel for personal safety, health care, care of others, [parental shared custody](https://apps.health.vermont.gov/COVID/faq/#4744), for food, beverage or medicine, for students who commute daily to attend preK-12 school or college or a school-sponsored activity, or for work.\n\nIf you live near a state border and regularly travel to and from a neighboring state, you may make day trips to that state for work, health care, for students who commute daily to attend preK-12 school or college or a school-sponsored activity, and for other essential needs like groceries or visitation for [parental shared custody](https://apps.health.vermont.gov/COVID/faq/#4744), without quarantining.\n\nThe exemption to quarantine only applies to the person under essential travel rules. It does not apply to anyone else who travels with you. For example, you travel for work and your child comes with you. Your child will need to quarantine for 14 days when you return to Vermont, but you won’t need to.\n\nHowever, **if you travel out of Vermont for leisure**, or travel by plane, train, bus or other means of public transportation for a non-essential purpose, you must quarantine for 14 days in Vermont when you return. This includes day trips. The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nAdditionally, **if you come in close contact with someone who has COVID-19**, you must quarantine for 14 days, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**Do I need to quarantine if I’m traveling for an essential purpose (like work in a neighboring state or health care)?**\n\nIf you are traveling for essential purposes, you do not need to quarantine. Essential travel includes travel for personal safety, health care, care of others, [parental shared custody](https://apps.health.vermont.gov/COVID/faq/#4744), for food, beverage or medicine, for students who commute daily to attend preK-12 school or college or a school-sponsored activity, or for work.\n\nTravel for funeral services is not considered essential. You will need to follow all [cross state travel guidelines](https://accd.vermont.gov/covid-19/restart/cross-state-travel) when you return to Vermont.\n\nIf you live near a state border and regularly travel to and from a neighboring state, you may make day trips to that state for work, health care, for students who commute daily to attend preK-12 school or college or a school-sponsored activity, and for other essential needs like groceries or visitation for [parental shared custody](https://apps.health.vermont.gov/COVID/faq/#4744), without quarantining.\n\nThe exemption to quarantine only applies to the person under essential travel rules. It does not apply to anyone else who travels with you. For example, you travel for work and your child comes with you. Your child will need to quarantine for 14 days when you return to Vermont, but you won’t need to.\n\nHowever, **if you travel out of Vermont for leisure**, or travel by plane, train, bus or other means of public transportation for a non-essential purpose, you must quarantine for 14 days in Vermont when you return. This includes day trips. The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nAdditionally, **if you come in close contact with someone who has COVID-19**, you must quarantine for 14 days, no matter where the contact occurred. Learn more about [what to do if you’re a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf).\n\nIf you have not had [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), you have the [option to get a PCR test on day 7](https://apps.health.vermont.gov/COVID/faq/#4692) and end your quarantine with a negative test result.\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
                 "QnaId4637"
@@ -3125,7 +3137,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:10:10.15+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:44:53.19+00:00",
             "isDocumentText": false
         },
         {
@@ -3429,7 +3441,10 @@
                 "Out of state visitors not quarantining",
                 "anonymous tipline",
                 "how to report covid violation",
-                "What if I know someone is not quarantining?"
+                "What if I know someone is not quarantining?",
+                "Noncompliance with COVID restrictions",
+                "someone is breaking covid rules",
+                "Where do I file a noncompliance COVID report?"
             ],
             "metadata": [
                 {
@@ -3448,7 +3463,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T18:17:54.384+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:25:46.297+00:00",
             "isDocumentText": false
         },
         {
@@ -3549,7 +3564,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:36:04.176+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:06:09.964+00:00",
             "isDocumentText": false
         },
         {
@@ -3894,7 +3909,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T21:17:31.613+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:07:26.375+00:00",
             "isDocumentText": false
         },
         {
@@ -4529,8 +4544,9 @@
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?",
-                "Ending quarantine early\n",
-                "what test can I take after 7 days of quarantine"
+                "what test can I take after 7 days of quarantine",
+                "Ending quarantine early",
+                "Testing out of quarantine"
             ],
             "metadata": [
                 {
@@ -4563,7 +4579,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T15:36:23.504+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:35:59.241+00:00",
             "isDocumentText": false
         },
         {
@@ -4831,51 +4847,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-02-08T20:09:00.055+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4713,
-            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nAntigen tests are usually less sensitive than PCR tests, so they might miss some cases. Antigen tests could be more useful in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n*   **For surveillance purposes**, to see what COVID-19 activity might be occurring in a community.\n\nWhen used to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
-            "source": "Editorial",
-            "questions": [
-                "What is an antigen test?",
-                "is there a rapid (fast) test for COVID-19?",
-                "rapid test",
-                "antigen test",
-                "can I get a rapid test?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "testing"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "types of tests"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4654,
-                        "displayText": "What is serologic, or antibody, testing?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4671,
-                        "displayText": "What is a PCR test?"
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-12T17:26:26.209+00:00",
             "isDocumentText": false
         },
         {
@@ -5162,7 +5133,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T18:30:43.943+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:44:53.19+00:00",
             "isDocumentText": false
         },
         {
@@ -5359,7 +5330,9 @@
                 "Do close contacts of close contacts have to quarantine?",
                 "Does a family member of a close contact need to stay home?",
                 "If my spouse was exposed to Covid do I need to quarantine",
-                "do I have to quarantine while someone else quarantine"
+                "do I have to quarantine while someone else quarantine",
+                "family member is exposed",
+                "should everybody in the household be tested"
             ],
             "metadata": [
                 {
@@ -5387,7 +5360,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:27:25.125+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:48:09.853+00:00",
             "isDocumentText": false
         },
         {
@@ -5412,7 +5385,9 @@
                 "return to work",
                 "Return to work after testing positive for COVID-19",
                 "when can I go back to work",
-                "I have tested positive for covid. When can I return to work"
+                "I have tested positive for covid. When can I return to work",
+                "When I go back to work",
+                "Covid test was negative can I go back to work"
             ],
             "metadata": [
                 {
@@ -5436,7 +5411,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T20:19:43.091+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:31:32.39+00:00",
             "isDocumentText": false
         },
         {
@@ -5503,7 +5478,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T20:24:58.498+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:27:46.192+00:00",
             "isDocumentText": false
         },
         {
@@ -5607,7 +5582,9 @@
             "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nIf you are dropping off a college student at a Vermont college or at an out-of-state college, there are two options:\n\n1.  You follow the State of Vermont’s [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine) OR  \n2.  You do a “contactless” drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with. \n*   You may stay overnight at a lodging property only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities. \n*   If you are coming to Vermont and staying with family and friends at their home, you must quarantine during your entire stay. This means you need to stay at least 6 feet from the people who are hosting you, wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with the people who are hosting you.\n\nYou may have one additional person with you during drop-off, but they must also follow these quarantine options.\n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
             "source": "Editorial",
             "questions": [
-                "I need to drop off a student at college. Do I need to quarantine?"
+                "I need to drop off a student at college. Do I need to quarantine?",
+                "Contactless move in",
+                "Student move in"
             ],
             "metadata": [
                 {
@@ -5626,7 +5603,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-13T19:37:06.285+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:26:32.011+00:00",
             "isDocumentText": false
         },
         {
@@ -5777,7 +5754,8 @@
                 "a classmate of my child tested positive, what should i do",
                 "After exposure to a confirmed COVID person, how soon can students return to school?",
                 "return to school",
-                "My kids school closed does he need to quarantine"
+                "My kids school closed does he need to quarantine",
+                "my child has been exposed at school"
             ],
             "metadata": [
                 {
@@ -5805,7 +5783,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:43:25.542+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:27:46.192+00:00",
             "isDocumentText": false
         },
         {
@@ -5875,7 +5853,8 @@
             "answer": "**Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?**\n\nWe recommend that you reach out to the school administration or the supervisory union administration – such as the principal, superintendent or independent school head – with your information and concerns. [Find the list of superintendents](https://www.vtvsa.org/-superintendents).\n\nThe Health Department has worked closely with the Agency of Education to develop [safety and health guidance](https://education.vermont.gov/documents/guidance-strong-healthy-start-health-guidance) and to support schools with implementing them so that we can continue to do as well as the State has during the pandemic.",
             "source": "Editorial",
             "questions": [
-                "Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?"
+                "Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?",
+                "School is not"
             ],
             "metadata": [
                 {
@@ -5898,7 +5877,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:27:47.952+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:29:18.734+00:00",
             "isDocumentText": false
         },
         {
@@ -5932,7 +5911,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T20:19:43.091+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:31:32.39+00:00",
             "isDocumentText": false
         },
         {
@@ -6050,7 +6029,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T17:58:31.463+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:07:26.375+00:00",
             "isDocumentText": false
         },
         {
@@ -6123,7 +6102,8 @@
             "questions": [
                 "How can we safely carpool?",
                 "can i ride in a car with someone outside my household",
-                "ride in a car"
+                "ride in a car",
+                "car pool"
             ],
             "metadata": [
                 {
@@ -6142,7 +6122,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:32:15.577+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:07:49.713+00:00",
             "isDocumentText": false
         },
         {
@@ -6366,7 +6346,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T19:11:51.748+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:03:29.809+00:00",
             "isDocumentText": false
         },
         {
@@ -6432,7 +6412,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T20:52:40.324+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:32:41.396+00:00",
             "isDocumentText": false
         },
         {
@@ -6608,7 +6588,12 @@
                 "Can I sign up for a vaccine if someone is a no show?",
                 "Is there a wait list for no shows",
                 "Is there a wait list to be contacted at the end of the day for unused doses?",
-                "Are there left over vaccines available at the end of scheduled times"
+                "Are there left over vaccines available at the end of scheduled times",
+                "Cancellation waitlist",
+                "waitlist at the vaccine site ",
+                "cancellation list",
+                "can i waitlist for an earlier date",
+                "waitlist"
             ],
             "metadata": [
                 {
@@ -6631,15 +6616,14 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T17:06:26.86+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:44:17.593+00:00",
             "isDocumentText": false
         },
         {
             "id": 4770,
-            "answer": "**I had COVID-19, received a positive antibody test, or got a COVID-19 vaccine. Does that mean I am exempt from the travel quarantine or social gathering requirements?**\n\nThe Governor’s executive orders do not exempt people who had COVID-19, received a positive antibody test, or got the COVID-19 vaccine. This means that even if you had COVID-19, received a positive antibody test, or got a COVID-19 vaccine, **you must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). This also means that **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt is not yet known if [people who recover from COVID-19](https://apps.health.vermont.gov/COVID/faq/#4602) can get infected again. There are no confirmed reports to date of a person being reinfected with COVID-19 within three months of initial infection.\n\nAdditionally, if you have received a [positive antibody test](https://apps.health.vermont.gov/COVID/faq/#4654), that does not mean you have “proof of immunity” from COVID-19.\n\nIt is also not yet known if people who get a COVID-19 vaccine can still infect others with the virus. Find up-to-date information [about the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).\n\nCurrently, we recommend that everyone, including people who had COVID-19, received a positive antibody test, or got the COVID-19 vaccine continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your social circle should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.",
+            "answer": "**I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?**\n\nThe Governor’s executive orders do not exempt people who had COVID-19 or received a positive antibody test. This means that even if you had COVID-19 or received a positive antibody test, **you must quarantine when you travel or return to Vermont** under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). This also means that **you are not allowed to gather with people you don’t live with** under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you have received a [positive antibody test](https://apps.health.vermont.gov/COVID/faq/#4654), that does not mean you have “proof of immunity” from COVID-19.\n\nCurrently, we recommend that everyone, including people who had COVID-19, received a positive antibody test, or got the COVID-19 vaccine continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your social circle small. At this time, your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) should only include the people you live with.\n*   Stay at least 6 feet away from people you don't live with.\n*   Wear a mask anytime you are around people you don’t live with.",
             "source": "Editorial",
             "questions": [
-                "I had COVID-19, received a positive antibody test, or got a COVID-19 vaccine. Does that mean I am exempt from the travel quarantine or social gathering requirements?",
                 "Can I travel to Vermont if I'm vaccinated?",
                 "I have recovered from COVID-19. Can I come to Vermont without quarantining?",
                 "I am vaccinated. Am I required to quarantine when I travel back to Vermont?",
@@ -6653,7 +6637,9 @@
                 "Is quarantine necessary after Covid vaccination?",
                 "I have received two doses of vaccination, when can I travel to Vermont",
                 "requirements for out of state travelers that have recovered from covid",
-                "If I had Covid within the last 90 days, can I travel and return without quarantining?"
+                "If I had Covid within the last 90 days, can I travel and return without quarantining?",
+                "Can I travel after having covid 19",
+                "I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?"
             ],
             "metadata": [
                 {
@@ -6672,7 +6658,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:45:55.483+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T18:05:02.302+00:00",
             "isDocumentText": false
         },
         {
@@ -6840,7 +6826,9 @@
             "questions": [
                 "How many people have been vaccinated in Vermont?",
                 "how much vaccine has Vermont received?",
-                "what is the percentage of population being vaccinated"
+                "what is the percentage of population being vaccinated",
+                "what is the rate of vaccination in vt",
+                "Vaccines received vs administered"
             ],
             "metadata": [
                 {
@@ -6859,7 +6847,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T17:25:26.244+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:32:07.352+00:00",
             "isDocumentText": false
         },
         {
@@ -6949,7 +6937,9 @@
                 "can i receive vaccine in VT if I live there part time",
                 "seasonal home owner qualify for vaccine",
                 "Are second home owners eligible",
-                "Can a nh resident with a vt PCP get a vaccine"
+                "Can a nh resident with a vt PCP get a vaccine",
+                "Live in NYS primary doctor in VT can I get vaccine in VT?",
+                "Can people from out of state get a vaccine"
             ],
             "metadata": [
                 {
@@ -6972,7 +6962,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T21:03:48.861+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:01:49.137+00:00",
             "isDocumentText": false
         },
         {
@@ -7037,20 +7027,23 @@
         },
         {
             "id": 4782,
-            "answer": "**I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?**\n\n**Yes.** People who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nEven if you are fully vaccinated:\n\n*   **You must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine).\n*   **You are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are fully vaccinated and then are a close contact of someone with COVID-19, you do not need to quarantine. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4825).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
+            "answer": "**I am fully vaccinated. Do I still need to quarantine, wear a mask, and stay 6 feet away from others?**\n\nPeople who get the vaccine should continue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others). It takes time for the vaccine to train your body to fight COVID-19, so you may not be protected by the vaccine until a few weeks after your second dose. While the vaccine protects you from illness, we don’t yet know if you can unknowingly spread the virus after you get vaccinated. Until enough people are vaccinated and we know more, we need to follow all safety guidelines like wearing masks, keeping 6 feet apart, and washing our hands.\n\nIf it has been 14 days since you got your final vaccine dose, **you do not need to quarantine if**:\n\n*   You travel to or return to Vermont (effective February 23).\n*   You are a close contact of someone with COVID-19. [Learn more about what this means](https://apps.health.vermont.gov/COVID/faq/#4825).\n\nHowever, **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIt will take a while for everyone to be vaccinated. Together, the vaccine and those preventive actions are the best ways to keep from getting and spreading COVID-19.",
             "source": "Editorial",
             "questions": [
-                "Do I need to wear a mask and avoid close contact with others if I have two doses of the vaccine?",
                 "quarantine and vaccine",
                 "travel and vaccine",
-                "I’ve received two doses of the vaccine. Do I still need to wear a mask, avoid close contact with others, and quarantine?",
                 "After I have both vaccine shots then can I travel freely?",
                 "After getting both shots can I still pass on Covid to others?",
                 "Can a vaccinated person transmit the virus?",
                 "do you need to quarantine if you have COVID 19 vaccine",
                 "do I need to quarantine if I’m vaccinated for Covid?",
                 "If you have received the COVID 19 vaccine what do you have to do when you enter vermont",
-                "What if I’ve been vaccinated?"
+                "What if I’ve been vaccinated?",
+                "If I have had the vaccine",
+                "after vaccine",
+                "Vaccination and COVID prevention",
+                "Post Vaccine Restrictions",
+                "I am fully vaccinated. Do I still need to quarantine, wear a mask, and stay 6 feet away from others?"
             ],
             "metadata": [
                 {
@@ -7069,7 +7062,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T17:54:53.396+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T17:51:44.806+00:00",
             "isDocumentText": false
         },
         {
@@ -7082,7 +7075,8 @@
                 "I thought the covid vaccine was free.",
                 "is the vaccine free?",
                 "Vaccine cost",
-                "Do I have to pay for covid vaccination if I have insurance?"
+                "Do I have to pay for covid vaccination if I have insurance?",
+                "Why is insurance information requested when signing up for the vaccine?"
             ],
             "metadata": [
                 {
@@ -7101,7 +7095,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:09:32.654+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:37:40.254+00:00",
             "isDocumentText": false
         },
         {
@@ -7109,7 +7103,8 @@
             "answer": "**What are the ingredients in the COVID-19 vaccines?**\n\nThe ingredients in the Pfizer-BioNTech and Moderna COVID-19 vaccines are similar to what is found in other vaccines – both contain the mRNA protein, fats, salts, and sugars. They do not have any fetal tissue, animal products, eggs, gelatin, latex, or preservatives in them.\n\nLearn more about [which vaccines are available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
             "source": "Editorial",
             "questions": [
-                "What are the ingredients in the COVID-19 vaccines?"
+                "What are the ingredients in the COVID-19 vaccines?",
+                "anything in the vaccine that I may be allergic to"
             ],
             "metadata": [
                 {
@@ -7128,7 +7123,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-20T20:50:09.866+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:52:25.455+00:00",
             "isDocumentText": false
         },
         {
@@ -7142,7 +7137,8 @@
                 "help for someone who has difficulty walking",
                 "Can someone accompany you to the vaccine appointment",
                 "Will I be able to go in with my elderly parent?",
-                "What kind of assistance will be available at my vaccine appointment? Can someone come with me?"
+                "What kind of assistance will be available at my vaccine appointment? Can someone come with me?",
+                "caregiver escort"
             ],
             "metadata": [
                 {
@@ -7165,7 +7161,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:24:13.078+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:31:27.742+00:00",
             "isDocumentText": false
         },
         {
@@ -7191,7 +7187,9 @@
                 "Home vaccinations",
                 "How do homebound people over the age of 75 get the vaccine?",
                 "Can a home health care provider inoculate in my home?",
-                "When will homebound be able to get vaccinated?"
+                "When will homebound be able to get vaccinated?",
+                "make an appointment for someone who is homebound",
+                "How do you apply for in home vaccine?"
             ],
             "metadata": [
                 {
@@ -7214,7 +7212,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T21:11:12.809+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:50:54+00:00",
             "isDocumentText": false
         },
         {
@@ -7256,7 +7254,10 @@
             "answer": "**Can my spouse or partner get a COVID-19 vaccine if they are younger than 70?**\n\nNo. Only people who are 70 years and older and live, work, or access primary health care in Vermont may make an appointment. Your spouse or partner will be able to get their vaccine as soon as their age group is eligible. People age 65 and older will be the next eligible age group.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
-                "Can my spouse or partner get a COVID-19 vaccine if they are younger than 70?"
+                "Can my spouse or partner get a COVID-19 vaccine if they are younger than 70?",
+                "Bringing spouses to higher age groups",
+                "spouse get vaccinated at the same time ",
+                "Can my spouse get vaccinated when I do even if not eligible"
             ],
             "metadata": [
                 {
@@ -7279,7 +7280,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T21:03:13.342+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:28:01.386+00:00",
             "isDocumentText": false
         },
         {
@@ -7293,7 +7294,12 @@
                 "what medical questions will they ask",
                 "what to bring to the vaccination appointment",
                 "Do I need to bring anything to the appointment?",
-                "Do I need to arrive early for my Covid vaccine appointment"
+                "Do I need to arrive early for my Covid vaccine appointment",
+                "time should i show up for my vaccination",
+                "show up early ",
+                "What information do I need when I go to get my vaccine",
+                "bring to the vaccination site",
+                "how long to wait before leaving the site after being vaccinated"
             ],
             "metadata": [
                 {
@@ -7316,7 +7322,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T19:22:23.404+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:29:04.067+00:00",
             "isDocumentText": false
         },
         {
@@ -7328,7 +7334,10 @@
                 "how do I sign up my wife",
                 "Scheduling for a dependent",
                 "Can I make a vaccine appointment for someone else? How do I sign someone up as a dependent?",
-                "can i sign up my mother for vaccine"
+                "can i sign up my mother for vaccine",
+                "can I register a family member ",
+                "register a friend who does not have email",
+                "add my spouse to my account"
             ],
             "metadata": [
                 {
@@ -7351,7 +7360,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:51:43.88+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:27:18.024+00:00",
             "isDocumentText": false
         },
         {
@@ -7375,7 +7384,8 @@
                 "where are covid-19 clinics being held?",
                 "covid vaccination sites",
                 "Where are the COVID 19 vaccination clinics located?",
-                "Where can I get vaccinated?"
+                "Where can I get vaccinated?",
+                "Where does the department of Health give out the COVID vaccine?"
             ],
             "metadata": [
                 {
@@ -7398,7 +7408,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:33:14.118+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:56:28.141+00:00",
             "isDocumentText": false
         },
         {
@@ -7439,7 +7449,13 @@
                 "how long after covid infection can a person receive the vaccine",
                 "can someone with covid be vaccinated",
                 "can the covid vaccine be given to someone that had covid already",
-                "I have had COVID19. Do I need to wait for a period of time before I get my vaccine?"
+                "I have had COVID19. Do I need to wait for a period of time before I get my vaccine?",
+                "get a vaccine when you have had a positive test",
+                "Vaccine after covid",
+                "had the corona virus, should you get the vaccine and when",
+                "If I have had COVID should I get vaccine",
+                "What happens if you have covid and get vaccinated?",
+                "can i get the vaccine if I'm positive for COVID-19?"
             ],
             "metadata": [
                 {
@@ -7458,7 +7474,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:20:20.793+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:49:54.656+00:00",
             "isDocumentText": false
         },
         {
@@ -7539,7 +7555,8 @@
                 "What if I need to cancel my vaccine appointment?",
                 "Can I change the location and time of my appointment?",
                 "can i change my appointment time ",
-                "Can I reschedule in a month or two?"
+                "Can I reschedule in a month or two?",
+                "change the date of my shot "
             ],
             "metadata": [
                 {
@@ -7562,7 +7579,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-09T18:05:07.411+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:04:47.681+00:00",
             "isDocumentText": false
         },
         {
@@ -7686,7 +7703,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:12:31.571+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T18:07:40.035+00:00",
             "isDocumentText": false
         },
         {
@@ -7703,7 +7720,13 @@
                 "How to get Moderna vaccine",
                 "which vaccine is being used?",
                 "I prefer Moderna. Is it possible to get that vaccine?",
-                "I prefer Pfizer. Is it possible to get that vaccine?"
+                "I prefer Pfizer. Is it possible to get that vaccine?",
+                "what type of vaccine",
+                "choose the type of vaccine",
+                "What vaccine is available in Vermont?",
+                "approved vaccines",
+                "find out which vaccine you will be getting",
+                "What kind of vaccine will I get?"
             ],
             "metadata": [
                 {
@@ -7722,7 +7745,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-02T20:51:53.932+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:05:34.22+00:00",
             "isDocumentText": false
         },
         {
@@ -7868,7 +7891,10 @@
             "answer": "**Do I need to use the same account I made to get a COVID-19 test to schedule a vaccine appointment?**\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\nOnce you log in, click on the “Schedule Vaccine Appointment” button at the top of the screen and follow the prompts on the screen. You can also watch a [video on how to schedule an appointment](https://youtu.be/4baPyZvfiz4).",
             "source": "Editorial",
             "questions": [
-                "Do I need to use the same account I made to get a COVID-19 test to schedule a vaccine appointment?"
+                "Do I need to use the same account I made to get a COVID-19 test to schedule a vaccine appointment?",
+                "patient id for vaccine or testing the same",
+                "registration for covid testing work as the registration for a vaccine",
+                "account for testing and vaccine"
             ],
             "metadata": [
                 {
@@ -7891,7 +7917,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T16:47:07.332+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:04:15.298+00:00",
             "isDocumentText": false
         },
         {
@@ -7947,7 +7973,10 @@
                 "Setting up account did not work",
                 "how to delete a duplicate registration",
                 "need my patient ID",
-                "I am having problems making my vaccine appointment. Who do I contact?"
+                "I am having problems making my vaccine appointment. Who do I contact?",
+                "Lost account number",
+                "technical assistance",
+                "error message"
             ],
             "metadata": [
                 {
@@ -7970,7 +7999,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T16:54:01.232+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:32:25.579+00:00",
             "isDocumentText": false
         },
         {
@@ -8007,7 +8036,6 @@
             "questions": [
                 "Who will be eligible next?",
                 "are mental health providers eligible for the vaccine",
-                "When will people under 75 be eligible",
                 "When will 70 years old and up be able to get a vaccine?",
                 "when is 1B group to be vaccinated",
                 "when will people aged 70 be able to get vaccinated",
@@ -8051,7 +8079,18 @@
                 "phase 2",
                 "phase 3",
                 "phase 1a",
-                "phase 1b"
+                "phase 1b",
+                "phase 1c",
+                "Phase 4",
+                "Phase 5",
+                "Phase 6",
+                "frontline",
+                "high risk",
+                "Wastewater operator",
+                "who can get a vaccine in vermont",
+                "Cancer and COVID vaccine",
+                "Vaccine for in-home caregiver",
+                "can i get the vaccine?"
             ],
             "metadata": [
                 {
@@ -8078,7 +8117,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T21:01:48.864+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:42:00.115+00:00",
             "isDocumentText": false
         },
         {
@@ -8146,7 +8185,7 @@
         },
         {
             "id": 4817,
-            "answer": "**How soon after being exposed to someone with COVID-19, or after attending a gathering, should I get tested?**\n\nThe incubation period for the COVID-19 virus is 2 to 14 days. This means that it can take 2 to 14 days after being exposed to get symptoms or to test positive. We recommend you get tested twice — as soon as 2 days after the exposure or gathering and again 7 days after the exposure or gathering if you:\n\n*   think you have been exposed to someone with COVID-19\n*   are a close contact\n*   have gathered with people you don’t live with\n\nFor your initial test, if the result is **negative**, you will need to remain in quarantine and follow guidance provided by the Health Department. If the result is **positive**, you must follow isolation guidance provided by the Health Department.\n\nGetting tested right away means you may be able to find out if you have COVID-19 early. This initial test also helps the Health Department find other people who have COVID-19 more quickly.\n\nGetting tested before day 7 cannot be used to end quarantine early. Read about the [option to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692) by getting tested on day 7 or later. Learn about [why it is okay to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4714).\n\nCheck out this [timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-close-contacts.png).\n\nFind out what to do [if you think you had close contact with someone who has COVID-19](https://apps.health.vermont.gov/COVID/faq/#4560).",
+            "answer": "**How soon after being exposed to someone with COVID-19, or after attending a gathering, should I get tested?**\n\nThe incubation period for the COVID-19 virus is 2 to 14 days. This means that it can take 2 to 14 days after being exposed to get symptoms or to test positive. We recommend you get tested twice — as soon as 2 days after the exposure or gathering and again 7 days after the exposure or gathering if you:\n\n*   think you have been exposed to someone with COVID-19\n*   are a close contact\n*   have gathered with people you don’t live with\n\nFor your initial test, if the result is **negative**, you will need to remain in quarantine and follow guidance provided by the Health Department. If the result is **positive**, you must follow isolation guidance provided by the Health Department.\n\nGetting tested right away means you may be able to find out if you have COVID-19 early. This initial test also helps the Health Department find other people who have COVID-19 more quickly.\n\nGetting tested before day 7 cannot be used to end quarantine early. Read about the [option to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692) by getting tested on day 7 or later. Learn about [why it is okay to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4714).\n\nCheck out this [timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png).\n\nFind out what to do [if you think you had close contact with someone who has COVID-19](https://apps.health.vermont.gov/COVID/faq/#4560).",
             "source": "Editorial",
             "questions": [
                 "How soon after being exposed to someone with COVID-19, or after attending a gathering, should I be tested?",
@@ -8158,7 +8197,9 @@
                 "when to get tested after being exposed",
                 "Do I need a test if was around someone with covid 10 days ago?",
                 "How much time has to pass between exposure and a positive test result?",
-                "I was exposed to a covid positive person. Do I get tested right away and at 7 days?"
+                "I was exposed to a covid positive person. Do I get tested right away and at 7 days?",
+                "how soon after being infected would I test positive",
+                "When should I get tested if a close contact tested positive?"
             ],
             "metadata": [
                 {
@@ -8177,7 +8218,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:25:19.91+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T15:47:45.009+00:00",
             "isDocumentText": false
         },
         {
@@ -8215,10 +8256,9 @@
         },
         {
             "id": 4819,
-            "answer": "**Do I need to quarantine if someone I had close contact with or live with tests positive?**\n\nYes. You will need to quarantine if you are a close contact or live with someone who tests positive for COVID-19. If you are identified as a close contact, you will be contacted. This is known as contact tracing. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will give you guidance to stay home and away from others for a certain amount of time.\n\nLearn more about [what to expect from contact tracing](https://apps.health.vermont.gov/COVID/faq/#4682).",
+            "answer": "**Do I need to quarantine if I live with someone or had close contact with someone who tested positive?**\n\nYes. You will need to quarantine if you are a close contact or live with someone who tests positive for COVID-19. If you are identified as a close contact, you will be contacted. This is known as contact tracing. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will give you guidance to stay home and away from others for a certain amount of time.\n\nLearn more about [what to expect from contact tracing](https://apps.health.vermont.gov/COVID/faq/#4682).\n\nFind tips about [quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
             "source": "Editorial",
             "questions": [
-                "Do I need to quarantine if someone I had close contact with or live with tests positive?",
                 "Do I have to quarantine if someone in my house test positive",
                 "If someone in my household tested positive, do I also have to quarantine?",
                 "member of household tested positive",
@@ -8235,7 +8275,9 @@
                 "my son tested positive",
                 "my child tested positive",
                 "my daughter tested positive",
-                "Household member has COVID"
+                "Household member has COVID",
+                "Do I need to quarantine if I live with someone or had close contact with someone who tested positive?",
+                "tips for quarantining when you share a home"
             ],
             "metadata": [
                 {
@@ -8258,7 +8300,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:43:09.477+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T20:03:29.809+00:00",
             "isDocumentText": false
         },
         {
@@ -8334,7 +8376,10 @@
             "source": "Editorial",
             "questions": [
                 "What should I know about side effects?",
-                "reaction of swelling, redness, itch and hives in the injection"
+                "reaction of swelling, redness, itch and hives in the injection",
+                "allergic reactions to vaccine",
+                "don't feel well the day of my vaccine",
+                "What happens if I get a reaction to the vaccine"
             ],
             "metadata": [
                 {
@@ -8353,7 +8398,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:34:03.491+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:06:50.677+00:00",
             "isDocumentText": false
         },
         {
@@ -8362,7 +8407,8 @@
             "source": "Editorial",
             "questions": [
                 "How can I confirm my vaccine appointment?",
-                "forgot date & time of my appointment"
+                "forgot date & time of my appointment",
+                "Confirming both appts"
             ],
             "metadata": [
                 {
@@ -8385,15 +8431,17 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T16:48:26.603+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:34:12.51+00:00",
             "isDocumentText": false
         },
         {
             "id": 4825,
-            "answer": "**I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?**\n\nIf you had two doses of the COVID-19 vaccine and two weeks have passed – and then are exposed to someone with COVID-19 (for example, you are a close contact of someone with COVID-19) – **you do not need to quarantine only if**:\n\n*   you are within 3 months of receiving your second dose of the vaccine, **and**\n*   you have not had any COVID-19 symptoms since the new exposure.\n\nHowever, vaccinated inpatients and residents in health care settings will still need to quarantine if they are a close contact of someone with COVID-19. Read the [CDC’s guidance](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html).\n\nThis guidance does not apply to health care workers in certain situations.\n\n**You must still quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine) and **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).",
+            "answer": "**I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?**\n\nIf it has been 14 days since you got your final vaccine dose, and then you are exposed to someone with COVID-19 (for example, you are a close contact of someone with COVID-19), **you do not need to quarantine only if**:\n\n*   you are within 3 months of receiving your second dose of the vaccine, **and**\n*   you have not had any COVID-19 symptoms since the new exposure.\n\nHowever, vaccinated inpatients and residents in health care settings will still need to quarantine if they are a close contact of someone with COVID-19. Read the [CDC’s guidance](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html).\n\nThis guidance does not apply to health care workers in certain situations.\n\nHowever, **you are not allowed to gather** with people you don’t live with under the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).",
             "source": "Editorial",
             "questions": [
-                "I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?"
+                "I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?",
+                "exposure after second vaccine dose",
+                "exposed to a covid positive person and had 2 doses of vaccine"
             ],
             "metadata": [
                 {
@@ -8416,7 +8464,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:48:20.895+00:00",
+            "lastUpdatedTimestamp": "2021-02-19T15:57:54.282+00:00",
             "isDocumentText": false
         },
         {
@@ -8430,7 +8478,10 @@
                 "Can Tylenol and Benadryl be taken prior and after receiving the vaccine?",
                 "tylenol",
                 "if I'm sick and am on antibiotics can I still get my covid shot?",
-                "can you take tylenol after your shot"
+                "can you take tylenol after your shot",
+                "tylenol for side effects ",
+                "on antibiotics",
+                "advil for the soreness in the injected arm"
             ],
             "metadata": [
                 {
@@ -8449,7 +8500,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T20:57:54.73+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T18:59:13.572+00:00",
             "isDocumentText": false
         },
         {
@@ -8459,7 +8510,11 @@
             "questions": [
                 "Should I get a COVID-19 vaccine with other vaccines?",
                 "Can I be vaccinated if I recently had a shingles shot?",
-                "shingles vaccine"
+                "shingles vaccine",
+                "Shingrix",
+                "shingles",
+                "Other vaccines and covid",
+                "Zoster "
             ],
             "metadata": [
                 {
@@ -8478,7 +8533,38 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-12T20:59:46.804+00:00",
+            "lastUpdatedTimestamp": "2021-02-18T19:00:51.319+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4828,
+            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nAntigen tests are usually less sensitive than PCR tests, so they might miss some cases. Antigen tests could be more useful in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n*   **For surveillance purposes**, to see what COVID-19 activity might be occurring in a community.\n\nWhen used to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
+            "source": "Editorial",
+            "questions": [
+                "What is an antigen test?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "testing"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "types of tests"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-02-18T18:09:07.689+00:00",
             "isDocumentText": false
         }
     ]
