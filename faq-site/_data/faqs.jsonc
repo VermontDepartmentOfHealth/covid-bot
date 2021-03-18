@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-03-16T19:17:21.448+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:52:04.642+00:00",
             "isDocumentText": false
         },
         {
@@ -58,7 +58,8 @@
                 "my test was negative, but now I have symptoms",
                 "Sinus pressure",
                 "is a stuffy nose a covid symptom?",
-                "when should i see symptoms if exposed to covid"
+                "when should i see symptoms if exposed to covid",
+                "GI symptoms"
             ],
             "metadata": [
                 {
@@ -85,7 +86,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T12:25:08.913+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:45:19.443+00:00",
             "isDocumentText": false
         },
         {
@@ -483,7 +484,7 @@
         },
         {
             "id": 4547,
-            "answer": "**When will I receive my test results?**\n\nTest results will be available typically within 3 business days. Business days are Monday through Friday. If you were tested on a Wednesday, Thursday or Friday, your results may not be posted until the following week. Holidays are not considered business days. Find out what to do while you’re [**waiting for your test results** and **how to get your results**](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nHow you receive results varies depending on where you were tested.\n\nIf you were tested at a **Health Department testing site** (for people without symptoms) and:\n\n*   you requested an electronic result, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result. You will not receive a letter.\n*   you requested a letter, you can expect to receive it within 7 business days. If you also provided an email address, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result.\n*   If you do not have a COVID-19 testing account (you attended the testing event as a walk-in) a patient ID was created for you and sent to the email you provided. You will need to use the link in the email to confirm your patient ID. Once you confirm the patient ID, you can [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) and view your test results once they are available, which will be within 3 business days.\n\nCall 802-863-7240 option 9 if you are having problems accessing your test results.\n\nThe Health Department only uses a PCR test. We cannot guarantee that you will receive your results in less than 3 business days. We also cannot accommodate special requests for receiving test results or rush results. Find the list of [Health Department testing sites](https://www.healthvermont.gov/covid-19/testing).\n\nIf you have a positive result, our contact tracing team will talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.\n\nIf you got **tested anywhere else**, the Health Department cannot provide your results. Please contact your health care provider if they ordered the test, or the facility that conducted the test.\n\nIf you were tested **before an inpatient or outpatient procedure**, you will receive your test results before your procedure from the health care provider who is doing the procedure.\n\n**If you received a positive result**, the Health Department will also reach out to talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.",
+            "answer": "**When will I receive my test results?**\n\nTest results will be available typically within 3 business days. Business days are Monday through Friday. If you were tested on a Wednesday, Thursday or Friday, your results may not be posted until the following week. Holidays are not considered business days. Find out what to do while you’re [**waiting for your test results** and **how to get your results**](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf).\n\nHow you receive results varies depending on where you were tested.\n\nIf you were tested at a **Health Department testing site** (for people without symptoms) and:\n\n*   **If you requested an electronic result**, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result. You will not receive a letter.\n*   **If you requested a letter**, you can expect to receive it within 7 business days. If you also provided an email address, you can expect an email within 3 business days, when your result is ready. You can then [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) to get the result.\n*   **If you do not have a COVID-19 testing account** (you attended the testing event as a walk-in) a patient ID was created for you and sent to the email you provided. You will need to use the link in the email to confirm your patient ID. Once you confirm the patient ID, you can [log in to your COVID-19 testing account](https://vermont.force.com/events/s/login/) and view your test results once they are available, which will be within 3 business days.\n\nCall 802-863-7240 option 9 if you are having problems accessing your test results.\n\nThe Health Department only uses a PCR test. We cannot guarantee that you will receive your results in less than 3 business days. We also cannot accommodate special requests for receiving test results or rush results. Find the list of [Health Department testing sites](https://www.healthvermont.gov/covid-19/testing).\n\n**If you have a positive result**, our contact tracing team will talk to you about public health recommendations and ask questions about people you were in contact with. It is possible that the Health Department may contact you before your health care provider does.\n\nIf you got **tested anywhere else**, the Health Department cannot provide your results. Please contact your health care provider if they ordered the test, or the facility that conducted the test.\n\nIf you were tested **before an inpatient or outpatient procedure**, you will receive your test results before your procedure from the health care provider who is doing the procedure.",
             "source": "KB-COVID",
             "questions": [
                 "How long after I get tested will I know if I'm sick?",
@@ -512,7 +513,6 @@
                 "how long a wait on results of covid test?",
                 "How will I get to view my results?",
                 "How quickly are Covid test results given?",
-                "can a minor go to testing by themselves",
                 "never got an email from covid test result",
                 "covid test response times",
                 "covid-19 test results",
@@ -541,10 +541,20 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4818,
+                        "displayText": "What does a \"pending\" test result mean?"
+                    },
+                    {
+                        "displayOrder": 2,
+                        "qnaId": 4775,
+                        "displayText": "What do I do if my COVID-19 test is inconclusive?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T17:19:16.509+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T17:59:06.1+00:00",
             "isDocumentText": false
         },
         {
@@ -640,9 +650,9 @@
                 "masks in church",
                 "houses of worship",
                 "What should faith-based organizations do?",
-                "What should communities of faith do?",
                 "Are churches able to gather if they have 10 or less people attending",
-                "Should Churches still have services if they are small?\n"
+                "What do communities of faith need to do?",
+                "Should Churches still have services if they are small?"
             ],
             "metadata": [
                 {
@@ -661,7 +671,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:39:55.38+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:01:27.718+00:00",
             "isDocumentText": false
         },
         {
@@ -673,7 +683,6 @@
                 "When will residential homes allow family visits?",
                 "What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?",
                 "hospice",
-                "Westsview meadows",
                 "in residential",
                 "in a nursing home"
             ],
@@ -694,7 +703,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:21:30.196+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:02:08.09+00:00",
             "isDocumentText": false
         },
         {
@@ -886,7 +895,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:42:58.778+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:06:12.126+00:00",
             "isDocumentText": false
         },
         {
@@ -944,16 +953,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4575,
-                        "displayText": "What does close contact mean?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4692,
-                        "displayText": "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4718,
                         "displayText": "I have a different question on the topic of travel."
                     },
@@ -969,7 +968,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:42:32.34+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:06:12.126+00:00",
             "isDocumentText": false
         },
         {
@@ -1187,7 +1186,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:42:32.34+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:06:12.126+00:00",
             "isDocumentText": false
         },
         {
@@ -1464,7 +1463,7 @@
         },
         {
             "id": 4586,
-            "answer": "**How can I prepare at home?**\n\nHere are some things you can do:\n\n*   **Plan ways to care** for those in your home who might be [at greater risk](https://apps.health.vermont.gov/COVID/faq/#4559), like older adults and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need.\n*   **Choose a room in your home** that can be used to [separate sick household members](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html) from those who are healthy. Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n*   **Make sure you have enough groceries and other supplies** for 14 daysin case you get sick and need to quarantine. Stock up on only what you will need for 14 days. Do not buy more than you will need so you can leave supplies for other people.\n*   **Get support from others.** Talk with your neighbors about emergency planning. If your neighborhood has Front Porch Forum, consider joining to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially older adults and those who have underlying medical conditions, or who live alone.\n*   **Take care of the** [**emotional health**](https://apps.health.vermont.gov/COVID/faq/#4604) of your household members. Pandemics can be stressful for adults and children. Talk with your children about the pandemic, try to stay calm, and reassure them that they are safe.\n*   **Keep a daily list of people you are in** [**close contact**](https://apps.health.vermont.gov/COVID/faq/#4575) **with**. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nLearn more from the CDC about what you can do to [protect your home from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/protect-your-home.html) and tips on how to stay safe when scheduling [services or repairs inside your home](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/at-home/in-home-services.html).\n\nThese are things we can all do to protect ourselves and the people around us from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nThe CDC also has guidance for [households living in close quarters](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html), like people who share a small apartment or people who live in the same household with large or extended families",
+            "answer": "**How can I prepare at home?**\n\nHere are some things you can do:\n\n*   **Plan ways to care** for those in your home who might be [at greater risk](https://apps.health.vermont.gov/COVID/faq/#4559), like older adults and people of any age who have underlying medical conditions. Make sure those who need regular medicine, medical supplies and equipment have what they need.\n*   **Choose a room in your home** that can be used to [separate sick household members](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html) from those who are healthy. Identify a separate bathroom for the sick person to use, if possible. Plan to clean these rooms, as needed, when someone is sick.\n*   **Make sure you have enough groceries and other supplies** for 14 days in case you get sick and need to quarantine. Stock up on only what you will need for 14 days.\n*   **Get support from others.** Talk with your neighbors about emergency planning. Consider joining Front Porch Forum to connect with neighbors, information and resources. Stay in touch by phone or email with family and friends, especially older adults and those who have underlying medical conditions, or who live alone.\n*   **Take care of the** [**emotional health**](https://apps.health.vermont.gov/COVID/faq/#4604) of your household members. Pandemics can be stressful for adults and children. Talk with your children about the pandemic, try to stay calm, and reassure them that they are safe.\n*   **Keep a daily list of people you are in** [**close contact**](https://apps.health.vermont.gov/COVID/faq/#4575) **with**. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\n**For more information**:\n\n*   [Protect your home from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/protect-your-home.html) from the CDC\n*   [Hiring in-home services or repairs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/at-home/in-home-services.html) from the CDC \n*   [Households living in close quarters](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html) from the CDC\n*   [Tips for large households or extended families living in the same space](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
                 "How can I prepare at home?",
@@ -1502,7 +1501,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:20:48.003+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:24:27.712+00:00",
             "isDocumentText": false
         },
         {
@@ -1876,9 +1875,6 @@
             "answer": "**Is one type of mask better than another? Is wearing two masks better?**\n\nThe most important thing to do is to wear a mask — period. Wearing a mask protects both you and the people around you from getting or spreading COVID-19.\n\nThere are several [types of masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) to choose from, including cloth, disposable, N95 and KN95.\n\nAccording to the CDC, the most effective fabrics for **cloth masks** are:\n\n*   tightly woven fabrics, such as cotton and cotton blends\n*   breathable\n*   two or three fabric layers\n\nYou can also wear a **disposable mask**, like a surgical or medical procedure mask, instead of a cloth mask, now that they are in greater supply. These masks may provide some additional protection.\n\nThe CDC has found that “double masking” or **wearing two masks** (disposable mask underneath **and** a cloth mask on top) can offer a better fit and provide extra protection.\n\nTypically **N95** masks should be reserved for health care workers who are at highest risk and need them most. **KN95** masks are also available for the public to purchase, but make sure the mask has been [approved by the Food & Drug Administration](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/personal-protective-equipment-euas).\n\nWhichever mask you choose, **it is important to make sure it fits properly**. Learn more from the CDC about [improving how your mask protects you](https://www.cdc.gov/coronavirus/2019-ncov/your-health/effective-masks.html).\n\nThe CDC continues to study the effectiveness of different types of masks, and we will update our recommendations as new scientific evidence becomes available.",
             "source": "Editorial",
             "questions": [
-                "Do homemade face masks work?",
-                "Do homemade cloth face masks or coverings work?",
-                "Do homemade face masks or coverings work?",
                 "Do homemade cloth masks work?",
                 "Is one type of mask better than another? Is wearing two masks better?",
                 "Double masking"
@@ -1914,7 +1910,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:17:22.771+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:48:32.173+00:00",
             "isDocumentText": false
         },
         {
@@ -1989,22 +1985,17 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4652,
-                        "displayText": "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
                     {
                         "displayOrder": 1,
                         "qnaId": 4770,
-                        "displayText": "I had COVID-19, received a positive antibody test, or got a COVID-19 vaccine. Does that mean I am exempt from the travel quarantine or social gathering requirements?"
+                        "displayText": "I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:46:38.911+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:16:20.144+00:00",
             "isDocumentText": false
         },
         {
@@ -2434,7 +2425,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:38:06.262+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:57:44.283+00:00",
             "isDocumentText": false
         },
         {
@@ -2460,8 +2451,6 @@
                 "are campgrounds, RV parks, and seasonal resorts open?",
                 "what are camp ground restrictions",
                 "camping allowed",
-                "summer camp",
-                "are campgrounds going to open for 2020 season",
                 "Vacationing",
                 "can I camp in Vermont"
             ],
@@ -2482,11 +2471,6 @@
                     },
                     {
                         "displayOrder": 0,
-                        "qnaId": 4669,
-                        "displayText": "Can I buy or sign a long-term lease (more than 30 days) for a new apartment or house?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     },
@@ -2497,7 +2481,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-08T21:41:47.601+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:19:26.93+00:00",
             "isDocumentText": false
         },
         {
@@ -2624,7 +2608,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T19:13:06.614+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:16:20.144+00:00",
             "isDocumentText": false
         },
         {
@@ -2673,10 +2657,9 @@
         },
         {
             "id": 4622,
-            "answer": "**What do owners of lodging establishments need to do?**\n\nLodging operations, short-term rentals, campgrounds and marinas may accept overnight reservations from Vermont residents and out-of-state guests who have met the [quarantine requirement](https://apps.health.vermont.gov/COVID/faq/#4615).\n\nLodging operators should recommend that all out-of-state guests [sign up with Sara Alert](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert) once arriving in Vermont to get two weeks of daily symptom check reminders.\n\nFind details on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) for lodging, campgrounds and other accommodations. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear face masks or coverings over their nose and mouth when in the presence of others.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nFind out [what to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf) from the Health Department.\n\nThe Vermont State Police and local law enforcement will continue to do [compliance checks](https://governor.vermont.gov/press-release/governor-phil-scott-announces-pause-states-safe-travel-policy-compliance-checks-and) at lodging establishments.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What do owners of lodging establishments need to do?**\n\nLodging operations, short-term rentals, campgrounds and marinas may accept overnight reservations from Vermont residents and out-of-state guests who have met the [quarantine requirement](https://apps.health.vermont.gov/COVID/faq/#4615).\n\nLodging operators should recommend that all out-of-state guests [sign up with Sara Alert](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert) once arriving in Vermont to get two weeks of daily symptom check reminders.\n\nFind details on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) for lodging, campgrounds and other accommodations. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nFind out [what to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf) from the Health Department.\n\nThe Vermont State Police and local law enforcement will continue to do [compliance checks](https://governor.vermont.gov/press-release/governor-phil-scott-announces-pause-states-safe-travel-policy-compliance-checks-and) at lodging establishments.",
             "source": "Editorial",
             "questions": [
-                "still make reservations",
                 "What do owners of lodging establishments need to do?"
             ],
             "metadata": [
@@ -2701,7 +2684,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-12-29T20:43:40.742+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:19:26.93+00:00",
             "isDocumentText": false
         },
         {
@@ -2823,7 +2806,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What do businesses and non-profits need to do?**\n\nThe Agency of Commerce and Community Development (ACCD) has current information and resources on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including:\n\n*   A step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) and mandatory health and safety requirements. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department, including [Winter Indoor Air Guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Winter-Indoor-Air-Guidance.pdf).\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**What do businesses and non-profits need to do?**\n\nThe Agency of Commerce and Community Development (ACCD) has current information and resources on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including:\n\n*   A step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) and mandatory health and safety requirements. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department, including [Winter Indoor Air Guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Winter-Indoor-Air-Guidance.pdf).\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.",
             "source": "Editorial",
             "questions": [
                 "sample safety plan",
@@ -2847,10 +2830,8 @@
                 "information for business",
                 "how to perform employee health screenings",
                 "What are current business requirements?",
-                "housecleaners",
                 "construction workers",
                 "health screening",
-                "What are the new regulations of phase one",
                 "What do businesses and non-profits need to do?"
             ],
             "metadata": [
@@ -2875,7 +2856,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T20:27:58.94+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:18:46.437+00:00",
             "isDocumentText": false
         },
         {
@@ -3076,7 +3057,7 @@
                 "sledding",
                 "school sports",
                 "Can I exercise with a friend outside",
-                "running outside with friends\n\n "
+                "running outside with friends"
             ],
             "metadata": [
                 {
@@ -3100,7 +3081,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:47:46.949+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:26:14.345+00:00",
             "isDocumentText": false
         },
         {
@@ -3159,7 +3140,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:41:28.249+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:26:14.345+00:00",
             "isDocumentText": false
         },
         {
@@ -3457,7 +3438,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T13:42:02.458+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:51:41.287+00:00",
             "isDocumentText": false
         },
         {
@@ -3515,7 +3496,7 @@
         },
         {
             "id": 4656,
-            "answer": "**I am an employer. What information is available about COVID-19 in the workplace?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance and mandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\n**For more information**:\n\n*   [Health guidance and resources for businesses and employees](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [What to do if you operate a critical infrastructure business and your essential workers are close contacts](https://accd.vermont.gov/covid-19/business/faqs#i-operate-a-critical-infrastructure-business-what-do-i-do-if-my-essential-workers-are-close-contacts-of-someone-with-covid-19)\n*   [Checklist for Employers: COVID-19 in the Workplace](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-in-the-Workplace-Checklist-for-Employers.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration.\n\nThe ACCD wants to hear from all Vermont businesses impacted by the response to the COVID-19 virus. Please share your experiences on the [ACCD Business Impact Form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=f1a9326bf9&e=2ce1a6d1f5), which will help them assess the full impact as they work toward solutions.",
+            "answer": "**I am an employer. What information is available about COVID-19 in the workplace?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance and mandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\n**For more information**:\n\n*   [Health guidance and resources for businesses and employees](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [What to do if you operate a critical infrastructure business and your essential workers are close contacts](https://accd.vermont.gov/covid-19/business/faqs#i-operate-a-critical-infrastructure-business-what-do-i-do-if-my-essential-workers-are-close-contacts-of-someone-with-covid-19)\n*   [Checklist for Employers: COVID-19 in the Workplace](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-in-the-Workplace-Checklist-for-Employers.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration.",
             "source": "Editorial",
             "questions": [
                 "Must restaurant workers offering to go food wear masks?",
@@ -3554,7 +3535,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T20:27:57.608+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:19:08.068+00:00",
             "isDocumentText": false
         },
         {
@@ -3792,7 +3773,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T20:07:26.375+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:48:32.173+00:00",
             "isDocumentText": false
         },
         {
@@ -3863,7 +3844,7 @@
         },
         {
             "id": 4669,
-            "answer": "**Can I buy a home or sign a long-term lease (more than 30 days) for an apartment or house?**\n\nLong-term rental leases are allowed. Moving and moving services are also allowed, as long as people stay at least 6 feet from people they don’t live with. You are also required to wear a mask anytime you are around people you don’t live with. More housing information is available at the Agency of Commerce and Community Development's (ACCD’s) [COVID-19 Resource Recovery Center](http://accd.vermont.gov/covid-19/individuals#individual-housing).\n\nOut-of-state buyers and renters must follow the [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) before coming to Vermont to visit a property. People moving to Vermont for work must also follow the quarantine requirements.\n\nReal estate and related services (such as title searches, appraisals, and home inspections) are operating under certain health and safety requirements including staying at least 6 feet away from others and wearing masks.\n\nFind more details and up-to-date [information on real estate](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#real-estate) from the ACCD.",
+            "answer": "**Can I buy a home or sign a long-term lease (more than 30 days) for an apartment or house?**\n\nLong-term rental leases are allowed. Moving and moving services are also allowed, as long as people stay at least 6 feet from people they don’t live with. You are also required to wear a mask anytime you are around people you don’t live with. More housing information is available at the Agency of Commerce and Community Development's (ACCD’s) [COVID-19 Resource Recovery Center](http://accd.vermont.gov/covid-19/individuals#individual-housing).\n\nOut-of-state buyers and renters must follow the [travel and quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) before coming to Vermont to visit a property. If you have a legally signed and executed purchase and sales agreement or lease, you may travel to Vermont without quarantining to view the home, but only if you travel directly to and from the home.\n\nPeople moving to Vermont for work must follow the [quarantine requirements](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).\n\nReal estate and related services (such as title searches, appraisals, and home inspections) are operating under certain health and safety requirements including staying at least 6 feet away from others and wearing masks.\n\nFind more details and up-to-date [information on real estate](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#real-estate) from the ACCD.",
             "source": "Editorial",
             "questions": [
                 "Long term rentals allowed?",
@@ -3899,7 +3880,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-16T20:27:57.608+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:18:13.058+00:00",
             "isDocumentText": false
         },
         {
@@ -4199,8 +4180,6 @@
                 "Is the state reopened? Which businesses are open now?",
                 "landscaping rules",
                 "Massage",
-                "When can I go back to work?",
-                "return to work",
                 "When they can open?",
                 "hair salons",
                 "barber shops",
@@ -4245,7 +4224,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:41:28.249+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:26:14.345+00:00",
             "isDocumentText": false
         },
         {
@@ -4272,7 +4251,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T20:27:58.94+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:18:46.437+00:00",
             "isDocumentText": false
         },
         {
@@ -4390,7 +4369,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T17:18:22.148+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:07:40.341+00:00",
             "isDocumentText": false
         },
         {
@@ -4423,7 +4402,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nIf you are currently under [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) and have had no symptoms of COVID-19 during the first seven days of quarantine, you have the option to be tested and end your quarantine early. The test must be for a current infection, but not an antigen test (also known as a rapid test).\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\n**If you develop symptoms** at any point during your quarantine, contact your health care provider and the Health Department right away.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFor **travelers** who are [completing quarantine in their home state](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), your home state may offer testing for people without symptoms. Continue to quarantine until you travel to Vermont.\n\n**You must quarantine even if you had COVID-19 or received a positive antibody test**. Learn more [about why](https://apps.health.vermont.gov/COVID/faq/#4770).\n\n**If you had COVID-19 within the last 3 months and then travel**, we recommend that you quarantine for the full 14 days. This is because if you get tested, you may still test positive for COVID-19, and then you would need to isolate for another 10 days.\n\nStudies have found most people will develop symptoms by day 7. This is [why there is the option](https://apps.health.vermont.gov/COVID/faq/#4714) for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nIf you are currently under [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) and have had no symptoms of COVID-19 during the first seven days of quarantine, you have the option to be tested and end your quarantine early. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\n**If you develop symptoms** at any point during your quarantine, contact your health care provider and the Health Department right away.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFor **travelers** who are [completing quarantine in their home state](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), your home state may offer testing for people without symptoms. Continue to quarantine until you travel to Vermont.\n\n**You must quarantine even if you had COVID-19 or received a positive antibody test**. Learn more [about why](https://apps.health.vermont.gov/COVID/faq/#4770).\n\n**If you had COVID-19 within the last 3 months and then travel**, we recommend that you quarantine for the full 14 days. This is because if you get tested, you may still test positive for COVID-19, and then you would need to isolate for another 10 days.\n\nStudies have found most people will develop symptoms by day 7. This is [why there is the option](https://apps.health.vermont.gov/COVID/faq/#4714) for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?",
@@ -4462,7 +4441,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T19:17:21.448+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:16:20.144+00:00",
             "isDocumentText": false
         },
         {
@@ -4734,7 +4713,7 @@
         },
         {
             "id": 4714,
-            "answer": "**Why is it okay to end quarantine after seven days with a negative test result?**\n\nStudies have found most people will develop symptoms by day 7. This is why there is the option for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine. The test must be for a current infection, but not an antigen test (also known as a rapid test).\n\nThe CDC has released [new options to shorten quarantine](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-options-to-reduce-quarantine.html). These options allow state and local public health authorities to determine and establish the quarantine options for their jurisdictions.\n\nAt this time, there are no plans to change Vermont's existing policy, which calls for a 14-day quarantine, or gives the option to get tested on day 7 or later to end quarantine early with a negative test, as long as the person continues to have no symptoms.\n\nThis policy, implemented in May 2020, is well-understood by Vermonters and our data show it has worked to prevent further spread of COVID-19. Read the [article in the CDC’s Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7001a3.htm?s_cid=mm7001a3_w) to learn more.\n\nWe will continue to review our guidance regularly to make sure we are using best practices based on data and science throughout the pandemic.",
+            "answer": "**Why is it okay to end quarantine after seven days with a negative test result?**\n\nStudies have found most people will develop symptoms by day 7. This is why there is the option for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\nThe CDC has released [new options to shorten quarantine](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-options-to-reduce-quarantine.html). These options allow state and local public health authorities to determine and establish the quarantine options for their jurisdictions.\n\nAt this time, there are no plans to change Vermont's existing policy, which calls for a 14-day quarantine, or gives the option to get tested on day 7 or later to end quarantine early with a negative test, as long as the person continues to have no symptoms.\n\nThis policy, implemented in May 2020, is well-understood by Vermonters and our data show it has worked to prevent further spread of COVID-19. Read the [article in the CDC’s Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7001a3.htm?s_cid=mm7001a3_w) to learn more.\n\nWe will continue to review our guidance regularly to make sure we are using best practices based on data and science throughout the pandemic.",
             "source": "Editorial",
             "questions": [
                 "Why is it okay to end quarantine after seven days with a negative test result?"
@@ -4765,7 +4744,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T19:17:21.448+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:15:49.209+00:00",
             "isDocumentText": false
         },
         {
@@ -5016,7 +4995,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:50:26.42+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:45:09.444+00:00",
             "isDocumentText": false
         },
         {
@@ -5616,10 +5595,15 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4718,
+                        "displayText": "I have a different question on the topic of travel."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:42:07.97+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T19:45:09.444+00:00",
             "isDocumentText": false
         },
         {
@@ -5912,7 +5896,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:19:05.88+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:48:32.173+00:00",
             "isDocumentText": false
         },
         {
@@ -6234,7 +6218,7 @@
         },
         {
             "id": 4761,
-            "answer": "**What are the current restrictions on gatherings?**\n\nVermont has restrictions on social gatherings based on whether you are fully vaccinated or not. You are fully vaccinated 14 days after your final shot. Since children cannot get vaccinated at this time, a household with children is **not** considered a fully vaccinated household.\n\nIf you **are** fully vaccinated:\n\n*   **You may gather with other fully vaccinated people or households.** You don’t need to wear a mask or stay 6 feet apart when you gather.\n*   **You may gather with up to two unvaccinated people or households at a time**. The gathering can also include other vaccinated people or households. If you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart.\n\nIf you **are not** fully vaccinated:\n\n*   **You may gather with fully vaccinated people or households**. You don’t need to wear mask or stay 6 feet apart, unless someone is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk.\n*   **You may gather with one other unvaccinated person or household at a time**. Fully vaccinated people or households can also be at the gathering. Everyone should wear a mask and stay 6 feet apart.\n*   **You can do outdoor recreation and fitness activities with anyone.** This includes biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   **If you live alone**, you may gather with people who live in one other household.\n*   **You can take in and shelter** people from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n\n**If you are a visitor traveling to Vermont** and staying at a lodging establishment, short-term rental, or with friends and family, must follow these gathering restrictions. Staying with another household is considered a social gathering and you must follow the rules listed above. Learn more about [Vermonters hosting visitors in their homes](https://apps.health.vermont.gov/COVID/faq/#4704).\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.",
+            "answer": "**What are the current restrictions on gatherings?**\n\nVermont has restrictions on social gatherings based on whether you are fully vaccinated or not. You are fully vaccinated 14 days after your final shot. Since children cannot get vaccinated at this time, a household with children is **not** considered a fully vaccinated household.\n\nIf you **are** fully vaccinated:\n\n*   **You may gather with other fully vaccinated people or households.** You don’t need to wear a mask or stay 6 feet apart when you gather.\n*   **You may gather with up to two unvaccinated people or households at a time**. The gathering can also include other vaccinated people or households. If you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart.\n\nIf you **are not** fully vaccinated:\n\n*   **You may gather with fully vaccinated people or households**. You don’t need to wear a mask or stay 6 feet apart, unless someone is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk.\n*   **You may gather with one other unvaccinated person or household at a time**. Fully vaccinated people or households can also be at the gathering. Everyone should wear a mask and stay 6 feet apart.\n*   **You can do outdoor recreation and fitness activities with anyone.** This includes biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   **If you live alone**, you may gather with people who live in one other household.\n*   **You can take in and shelter** people from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n\n**If you are a visitor traveling to Vermont** and staying at a lodging establishment, short-term rental, or with friends and family, must follow these gathering restrictions. Staying with another household is considered a social gathering and you must follow the rules listed above. Learn more about [Vermonters hosting visitors in their homes](https://apps.health.vermont.gov/COVID/faq/#4704).\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.",
             "source": "Editorial",
             "questions": [
                 "Why are social gatherings prohibited right now?",
@@ -6295,7 +6279,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:49:05.886+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:17:17.888+00:00",
             "isDocumentText": false
         },
         {
@@ -6476,7 +6460,11 @@
                 "waitlist at the vaccine site ",
                 "cancellation list",
                 "can i waitlist for an earlier date",
-                "waitlist"
+                "waitlist",
+                "can i get the vaccine of someone misses their appointment?",
+                "List",
+                "Extra vaccine",
+                "Excess vaccine"
             ],
             "metadata": [
                 {
@@ -6499,7 +6487,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T18:44:17.593+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:48:49.576+00:00",
             "isDocumentText": false
         },
         {
@@ -6541,7 +6529,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:46:15.287+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T18:51:41.287+00:00",
             "isDocumentText": false
         },
         {
@@ -6700,7 +6688,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:48:50.443+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T17:59:06.1+00:00",
             "isDocumentText": false
         },
         {
@@ -6800,7 +6788,7 @@
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in an occupation or setting in Vermont that is currently eligible.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident and are in an age group, occupation or other group that is currently eligible.\n\nIf you are a resident of another state and have a primary care provider in Vermont, you are not eligible to get a vaccine in Vermont. This is because primary care providers do not have vaccine to give right now. You will need to get the vaccine in your home state.\n\nYou do not need any identification to make or go to a vaccine appointment.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in an occupation or setting in Vermont that is currently eligible.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident and are in an age group, occupation or other group that is currently eligible.\n\nIf you are a resident of another state and have a primary care provider in Vermont, you are not eligible to get a vaccine in Vermont. This is because primary care providers do not have vaccine to give right now. You will need to get the vaccine in your home state.\n\nYou do not need any identification to make or go to a vaccine appointment.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
@@ -6847,12 +6835,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-03T20:38:42.891+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:01:08.566+00:00",
             "isDocumentText": false
         },
         {
             "id": 4781,
-            "answer": "**Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?**\n\nThere are enough appointments for everyone who is eligible. Appointments are required. Clinics cannot accept walk-ins. Find out [who is eligible](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nAlready have an account set up? [**Log in to your account**](https://vermont.force.com/events/s/selfregistration) to make an appointment.\n\nAnyone who is unable to make their appointment online, needs help, or who wants to speak with someone in a language other than English can call 855-722-7878.\n\n**Create an Account**\n\nYou will need to create an account in our online system first, and then log in to schedule your appointment. Even if you’re not currently eligible to get a vaccine, you can set up an account ahead of time.\n\nYou will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\n[**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\n**Make a Vaccine Appointment**\n\nIf you are eligible, find out what information you need and how to [**make a vaccine appointment**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nYou can also watch videos on how to:\n\n*   [make your vaccine appointment online](https://youtu.be/4baPyZvfiz4)\n*   [make an appointment if you are eligible by high-risk health condition or organization](https://youtu.be/G4Fpy52Cvqg)\n*   [add a dependent or spouse to your account](https://youtu.be/Dpo4NXMO04U)\n\nYou can find a different appointment or adjust other appointment search criteria without losing your information. Click “CANCEL” to leave the “Schedule Appointment” screen, click on “Search Event” in the menu to the left, change your search criteria, and then click “Schedule Appointment” to jump back to where you were.\n\nTalk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently. Read the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.\n\n**Health care personnel and long-term care residents and staff** are being notified directly about when and where they can get vaccinated. Learn more about vaccine for [health care personnel](https://www.healthvermont.gov/covid-19/health-care-professionals/vaccine-information-health-care-professionals#gettingvaccine) and [long-term care facilities](https://www.healthvermont.gov/covid-19/health-care-professionals/long-term-care-and-group-living-settings#vaccine).\n\n**For more information**:\n\n*   [Tips for making a vaccine appointment](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-MakingVaccineAppointmentTips.Feb2021.final_.pdf)\n*   [How to make a vaccine appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790)\n*   [What to do if you have problems scheduling a vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4812)\n*   [What to expect at your vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4789)\n*   [Frequently asked questions about vaccine registration and appointments](https://apps.health.vermont.gov/COVID/faq/#vaccine-registration-and-appointments)\n*   [Who will be eligible next to get the vaccine](https://apps.health.vermont.gov/COVID/faq/#4814)",
+            "answer": "**Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?**\n\nThere are enough appointments for everyone who is eligible. Appointments are required. Clinics cannot accept walk-ins. Find out [who is eligible](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nAlready have an account set up? [**Log in to your account**](https://vermont.force.com/events/s/selfregistration) to make an appointment.\n\nAnyone who is unable to make their appointment online, needs help, or who wants to speak with someone in a language other than English can call 855-722-7878.\n\n**Create an Account**\n\nYou will need to create an account in our online system first, and then log in to schedule your appointment. Even if you’re not currently eligible to get a vaccine, you can set up an account ahead of time.\n\nYou will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\n[**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\n**Make a Vaccine Appointment**\n\nIf you are eligible, find out what information you need and how to [**make a vaccine appointment**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nYou can also watch videos on how to:\n\n*   [make your vaccine appointment online](https://youtu.be/4baPyZvfiz4)\n*   [make an appointment if you are eligible by high-risk health condition or organization](https://youtu.be/G4Fpy52Cvqg)\n*   [add a dependent or spouse to your account](https://youtu.be/Dpo4NXMO04U)\n\nYou can find a different appointment or adjust other appointment search criteria without losing your information. Click “CANCEL” to leave the “Schedule Appointment” screen, click on “Search Event” in the menu to the left, change your search criteria, and then click “Schedule Appointment” to jump back to where you were.\n\nTalk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently. Read the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.\n\n**Health care personnel and long-term care residents and staff** are being notified directly about when and where they can get vaccinated. Learn more about vaccine for [health care personnel](https://www.healthvermont.gov/covid-19/health-care-professionals/vaccine-information-health-care-professionals#gettingvaccine) and [long-term care facilities](https://www.healthvermont.gov/covid-19/health-care-professionals/long-term-care-and-group-living-settings#vaccine).\n\n**For more information**:\n\n*   [Tips for making a vaccine appointment](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-MakingVaccineAppointmentTips.Feb2021.final_.pdf)\n*   [How to make a vaccine appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790)\n*   [What to do if you have problems scheduling a vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4812)\n*   [What to expect at your vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4789)\n*   [Frequently asked questions about vaccine registration and appointments](https://apps.health.vermont.gov/COVID/faq/#vaccine-registration-and-appointments)\n*   [Who will be eligible next to get the vaccine](https://apps.health.vermont.gov/COVID/faq/#4814)",
             "source": "Editorial",
             "questions": [
                 "when can I get a vaccine",
@@ -6907,7 +6895,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T13:34:14.629+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:15:35.482+00:00",
             "isDocumentText": false
         },
         {
@@ -6927,7 +6915,10 @@
                 "Post Vaccine Restrictions",
                 "I am fully vaccinated. Do I still need to quarantine, wear a mask, and stay 6 feet away from others?",
                 "I am fully vaccinated. What do I need to do and what am I allowed to do?",
-                "What can I do after I am fully vaccinated?"
+                "What can I do after I am fully vaccinated?",
+                "guidelines for fully vaccinated people",
+                "what to expect after 3 months after getting the vaccine",
+                "Fully vaccinated"
             ],
             "metadata": [
                 {
@@ -6946,7 +6937,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T16:23:26.992+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:51:21.946+00:00",
             "isDocumentText": false
         },
         {
@@ -7073,7 +7064,8 @@
                 "Can a home health care provider inoculate in my home?",
                 "When will homebound be able to get vaccinated?",
                 "make an appointment for someone who is homebound",
-                "How do you apply for in home vaccine?"
+                "How do you apply for in home vaccine?",
+                "homebound covid-19 vaccine"
             ],
             "metadata": [
                 {
@@ -7096,7 +7088,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-04T21:00:45.656+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:01:26.521+00:00",
             "isDocumentText": false
         },
         {
@@ -7269,7 +7261,8 @@
                 "covid vaccination sites",
                 "Where are the COVID 19 vaccination clinics located?",
                 "Where can I get vaccinated?",
-                "Where does the department of Health give out the COVID vaccine?"
+                "Where does the department of Health give out the COVID vaccine?",
+                "Are vaccines available in"
             ],
             "metadata": [
                 {
@@ -7292,7 +7285,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T16:26:21.783+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:01:59.557+00:00",
             "isDocumentText": false
         },
         {
@@ -7363,7 +7356,7 @@
         },
         {
             "id": 4795,
-            "answer": "**Should I get the vaccine if I have a medical condition?**\n\nIn clinical studies, COVID-19 vaccines were just as effective for people with and without medical conditions. In fact, people with some conditions are more likely to get very sick if they get COVID-19, so getting vaccinated could be even more important.\n\nIf you are unsure if you should get the vaccine, talk to your health care provider about any conditions you have. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nAfter the eligible age groups, the vaccine will be available to people in Vermont who have **certain high-risk health conditions**. These are medical conditions that put them at increased risk for severe illness from COVID-19 as identified by the CDC. Find the [list of high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#conditions).\n\nLearn more about [vaccination if you are pregnant or breastfeeding](https://apps.health.vermont.gov/COVID/faq/#4793).\n\nRead the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.",
+            "answer": "**Should I get the vaccine if I have a medical condition?**\n\nIn clinical studies, COVID-19 vaccines were just as effective for people with and without medical conditions. In fact, people with some conditions are more likely to get very sick if they get COVID-19, so getting vaccinated could be even more important.\n\nIf you are unsure if you should get the vaccine, talk to your health care provider about any conditions you have. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nThe vaccine is available to people in Vermont who are age 16 and older and have **certain high-risk health conditions**. These are medical conditions that put them at increased risk for severe illness from COVID-19. Find the [list of high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions).\n\nLearn more about [vaccination if you are pregnant or breastfeeding](https://apps.health.vermont.gov/COVID/faq/#4793).\n\nRead the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.",
             "source": "Editorial",
             "questions": [
                 "Should I get the vaccine if I have a medical condition?",
@@ -7390,7 +7383,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-26T20:36:15.841+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T17:51:27.149+00:00",
             "isDocumentText": false
         },
         {
@@ -7440,7 +7433,9 @@
                 "Can I change the location and time of my appointment?",
                 "can i change my appointment time ",
                 "Can I reschedule in a month or two?",
-                "change the date of my shot "
+                "change the date of my shot ",
+                "vaccine rescheduling",
+                "earlier appointment"
             ],
             "metadata": [
                 {
@@ -7463,7 +7458,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T19:04:47.681+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:45:19.443+00:00",
             "isDocumentText": false
         },
         {
@@ -7592,7 +7587,7 @@
         },
         {
             "id": 4803,
-            "answer": "**Which vaccine should I get? Will I have a choice?**\n\nAt this time, you are not able to choose which vaccine you will get. Which vaccine you get will most likely be based on which vaccine is available at your appointment. As time goes on, you may have a choice, especially if ongoing studies determine if one is better for certain people, like for children.  \n\nAll three vaccines are safe and similarly effective at preventing severe illness and death. This standard is what is most commonly used to assess other vaccines like the flu shot. We cannot directly compare the effectiveness of the three vaccines because they were not studied against each other at the same time. Each clinical trial had different study protocols, timing and location. For example, variants weren’t widely circulating when the earlier vaccines were being tested. \n\nThe vaccines available have similar side effects. Side effects are a normal way that your body builds immunity to COVID-19. \n\nLearn more about [different vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont). \n\nFor the two-dose vaccines (Pfizer-BioNTech and Moderna), you should get the same vaccine for both your first and second dose. When you are at your first vaccine appointment, someone will help you schedule an appointment to get your second dose of vaccine. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it.",
+            "answer": "**Which vaccine should I get? Will I have a choice?**\n\nAt this time, you are not able to choose which vaccine you will get. Which vaccine you get will most likely be based on which vaccine is available at your appointment. As time goes on, you may have a choice, especially if ongoing studies determine if one is better for certain people, like for children.\n\nAll three vaccines (Pfizer-BioNTech, Moderna and Johnson & Johnson) are safe and similarly effective at preventing severe illness and death. This standard is what is most commonly used to assess other vaccines like the flu shot. We cannot directly compare the effectiveness of the three vaccines because they were not studied against each other at the same time. Each clinical trial had different study protocols, timing and location. For example, variants weren’t widely circulating when the earlier vaccines were being tested.\n\nThe vaccines available have similar side effects. Side effects are a normal way that your body builds immunity to COVID-19.\n\nLearn more about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes).\n\nFor the two-dose vaccines (Pfizer-BioNTech and Moderna), you should get the same vaccine for both your first and second dose. When you are at your first vaccine appointment, someone will help you schedule an appointment to get your second dose of vaccine. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it.",
             "source": "Editorial",
             "questions": [
                 "Which vaccine should I get? Will I have a choice?",
@@ -7610,7 +7605,9 @@
                 "What vaccine is available in Vermont?",
                 "approved vaccines",
                 "find out which vaccine you will be getting",
-                "What kind of vaccine will I get?"
+                "What kind of vaccine will I get?",
+                "request a specific kind of vaccine",
+                "How to tell what vaccine is being offered"
             ],
             "metadata": [
                 {
@@ -7629,7 +7626,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-09T20:36:42.274+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T17:54:15.07+00:00",
             "isDocumentText": false
         },
         {
@@ -7915,7 +7912,7 @@
         },
         {
             "id": 4814,
-            "answer": "**Who is eligible for the vaccine now? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination. Moving to the next phase is based on the amount of vaccine we get from the federal government, which means the estimated timeframes could shift. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information.\n\n**Eligible Now**\n\n*   People age 65 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n\n**Eligible in Late March**\n\n*   People age 60 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "answer": "**Who is eligible for the vaccine now? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination. Moving to the next phase is based on the amount of vaccine we get from the federal government, which means the estimated timeframes could shift. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information.\n\n**Eligible Now**\n\n*   People age 65 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n\n**Eligible in Late March**\n\n*   People age 60 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
@@ -7974,7 +7971,15 @@
                 "who can get a vaccine in vermont",
                 "Cancer and COVID vaccine",
                 "Vaccine for in-home caregiver",
-                "can i get the vaccine?"
+                "can i get the vaccine?",
+                "age group be eligible",
+                "do I qualify for a covid vaccine now",
+                "when I am eligible to be vaccinated?",
+                "when can I get the vaccine",
+                "When can 40+ get vaccines?",
+                "nurse trying to make an appointment for COVID vaccine",
+                "When can 60+ get the Covid Vaccine?",
+                "public safety worker"
             ],
             "metadata": [
                 {
@@ -8001,7 +8006,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T18:32:29.772+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T17:57:40.756+00:00",
             "isDocumentText": false
         },
         {
@@ -8135,7 +8140,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T19:48:21.345+00:00",
+            "lastUpdatedTimestamp": "2021-03-17T17:59:06.1+00:00",
             "isDocumentText": false
         },
         {
@@ -8292,7 +8297,9 @@
             "questions": [
                 "forgot date & time of my appointment",
                 "Confirming both appts",
-                "How can I confirm my vaccine appointment? Will I receive a confirmation?"
+                "How can I confirm my vaccine appointment? Will I receive a confirmation?",
+                "reminder email",
+                "scheduled for vaccination"
             ],
             "metadata": [
                 {
@@ -8315,7 +8322,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-23T20:12:00.287+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:46:17.294+00:00",
             "isDocumentText": false
         },
         {
@@ -8422,7 +8429,7 @@
         },
         {
             "id": 4828,
-            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nAntigen tests are usually less sensitive than PCR tests, so they might miss some cases. Antigen tests could be more useful in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n*   **For surveillance purposes**, to see what COVID-19 activity might be occurring in a community.\n\nWhen used to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
+            "answer": "**What is an antigen test?**\n\nAn antigen test for COVID-19 is a type of test that identifies people who are currently infected with the COVID-19 virus. Antigen tests provide results much more quickly than [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671) (the most common type of test used to diagnose and confirm COVID-19 infection). Antigen tests are sometimes referred to as rapid (fast) tests.\n\nAntigen tests are usually less sensitive than PCR tests, so they might miss some cases. Antigen tests could be more useful in certain circumstances:\n\n*   **For people who have symptoms of COVID-19**. So far, studies on antigen tests have only been done on people with symptoms, and we do not have evidence about the accuracy of the antigen test on people without symptoms.\n*   Health care providers may use antigen testing **when PCR testing is not available or when results are needed quickly**. This may be when people who are having symptoms get tested at their doctor’s office or when patients are being admitted to hospitals that don’t have a lot of PCR tests available.\n*   Antigen tests may be used **to screen people to identify those who need a more definitive test**. Antigen tests are particularly helpful when used to test people in the early stages of infection (within the first 5 to 7 days of having COVID-19 symptoms) when the viral load is generally the highest. For example, long-term care facilities could screen residents and staff who are not having symptoms, but only if the tests were done at least weekly.\n*   **For surveillance purposes**, to see what COVID-19 activity might be occurring in a community.\n\nWhen used to test people with COVID-19 symptoms, antigen tests have a higher chance of missing an active infection than PCR tests. This means that if you have symptoms, you may receive a negative result but still be infected with COVID-19.\n\nAntigen tests are different from [antibody (serologic) tests](https://apps.health.vermont.gov/COVID/faq/#4654), which identify people who have previously been infected with the COVID-19 virus and do not show whether a person is currently infected.\n\nAntigen test results cannot be used to test out of quarantine early. Find out about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\n**Learn more:**\n\n*   [Use of Antigen Testing in Vermont – Health Update October 1, 2020](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-HAN-AntigenTesting.pdf)\n*   [Coronavirus testing basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics) from the Food and Drug Administration\n*   [Considerations for Implementation of SARS-CoV-2 Rapid Antigen Testing](https://www.aphl.org/programs/preparedness/Crisis-Management/Documents/APHL-SARSCov2-Antigen-Testing-Considerations.pdf) from the Association of Public Health Laboratories.",
             "source": "Editorial",
             "questions": [
                 "What is an antigen test?"
@@ -8448,7 +8455,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T18:09:07.689+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:48:52.084+00:00",
             "isDocumentText": false
         },
         {
@@ -8534,7 +8541,7 @@
         },
         {
             "id": 4832,
-            "answer": "**I live in a border town. Do I need to quarantine if I travel to and from towns across the border?**\n\nA border town is considered a town that is within 5 miles of the Vermont border. Many of Vermont’s border towns are economically and culturally linked to a neighboring state’s border towns. Vermont’s cross state travel guidance allows people to travel between border towns for certain purposes without quarantining. This means that if you are a Vermonter living in a border town or if you live in a border town in a neighboring state, **you do not need to quarantine only if**:\n\n*   You travel 5 miles into a neighboring state or into Vermont.\n*   You travel to a neighboring state or to Vermont and back home in the same day.\n*   You travel for an [essential purpose](https://apps.health.vermont.gov/COVID/faq/#4709) or for an activity that is necessary for your physical or mental health. This includes going to worship, going to a gym, getting a haircut, and participating in place-based outdoor recreation. This does not include activities such as social gatherings, dining at a restaurant or bar, or going to an indoor entertainment venue (for example, a movie theater or bowling alley).\n\nYou must continue to follow the [COVID-19 prevention measures](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), including [wearing a mask](https://apps.health.vermont.gov/COVID/faq/#4540) and staying at least 6 feet away from people you don’t live with, when you are in a border town in Vermont or in a neighboring state.",
+            "answer": "**I live in a border town. Do I need to quarantine if I travel to and from towns across the border?**\n\nA border town is considered a town that is within 5 miles of the Vermont border. Many of Vermont’s border towns are economically and culturally linked to a neighboring state’s border towns. Vermont’s cross state travel guidance allows people to travel between border towns for certain purposes without quarantining. This means that if you are a Vermonter living in a border town or if you live in a border town in a neighboring state, **you do not need to quarantine only if**:\n\n*   You travel 5 miles into a neighboring state or into Vermont; **and**\n*   You travel to a neighboring state or to Vermont and back home in the same day; **and**\n*   You travel for an [essential purpose](https://apps.health.vermont.gov/COVID/faq/#4709) or for an activity that is necessary for your physical or mental health. This includes going to worship, going to a gym, getting a haircut, and participating in place-based outdoor recreation. This does not include activities such as social gatherings, dining at a restaurant or bar, or going to an indoor entertainment venue (for example, a movie theater or bowling alley).\n\nYou must continue to follow the [COVID-19 prevention measures](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), including [wearing a mask](https://apps.health.vermont.gov/COVID/faq/#4540) and staying at least 6 feet away from people you don’t live with, when you are in a border town in Vermont or in a neighboring state.",
             "source": "Editorial",
             "questions": [
                 "I live in a border town. Do I need to quarantine if I travel to and from towns across the border?"
@@ -8556,7 +8563,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-01T20:19:05.702+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:52:04.642+00:00",
             "isDocumentText": false
         },
         {
@@ -8618,7 +8625,12 @@
             "answer": "**I lost my vaccine card. How do I get a new one?**\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nIf your vaccine requires a second dose, you should have scheduled your second dose at the clinic where you received your first dose. We recommend bringing your vaccine card to your second dose appointment, but it is not required. \n\nIf you misplace your vaccine card, the Immunization Registry has your vaccination record. You can **request a record of your vaccine** from the Immunization Registry directly or through your health care provider. If you request it directly through the Immunization Registry, you will get an encrypted email or a copy of your record through the mail. On weekdays, you can expect an email within an hour or two. Mail will take about one week. Find out [how to request your vaccine record](https://www.healthvermont.gov/sites/default/files/documents/pdf/IMR_Requesting_Vaccine_Records.pdf).",
             "source": "Editorial",
             "questions": [
-                "I lost my vaccine card. How do I get a new one?"
+                "I lost my vaccine card. How do I get a new one?",
+                "can i get another vaccine card",
+                "CDC vaccine card",
+                "Replace card",
+                "Lost covid vaccine card",
+                "Lost card"
             ],
             "metadata": [
                 {
@@ -8637,15 +8649,17 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-03T20:28:12.053+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:03:12.095+00:00",
             "isDocumentText": false
         },
         {
             "id": 4836,
-            "answer": "**I have a high-risk health condition. How do I make an appointment for a vaccine?**\n\nIf you have a high-risk health condition (listed below), you do not need to contact your health care provider to get documentation of the condition.\n\nYou will make an appointment in our system in the same way as Vermonters who have been eligible by age. You can watch [videos for help making an appointment online](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#video).\n\nYou will be asked some questions. First, you will say that you have one of the health conditions that makes you eligible for a vaccine. This will serve as a self-certification. We trust you to work with us and help make sure that these Vermonters at highest risk due to a medical condition are protected.\n\nWhen making your appointment, you will also be asked to provide information for a health care provider you see for the condition, if you have one. But if you don’t have a health care provider, you can still get a vaccine.\n\nThe Health Department may use the information you provided to confirm your eligibility, either through medical records or by contacting your provider. We may also reach out to people who don’t have a provider to offer a connection to care.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\n**The high-risk health conditions are**:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, including emphysema and chronic bronchitis\n*   Heart disease, including heart attack, heart failure, congestive heart failure, coronary artery disease (angina, acute and chronic ischemic heart disease), cardiomyopathies, and pulmonary hypertension. Does NOT include high blood pressure.\n*   Immunocompromised (weakened immune system), due to solid organ transplant, blood, or bone marrow transplant, immune deficiencies, or other causes; or HIV with a low CD4 cell count or not on HIV treatment; prolonged use of corticosteroids or other immune-suppressing drugs.\n*   Severe obesity (BMI of 40 or above)\n*   Pregnancy\n*   Type 1 and Type 2 diabetes\n*   Disabilities including chromosomal disorders, such as Down syndrome; intellectual disabilities (IQ of 70 or below); disabilities that compromise lung function (neurologic and muscular conditions such as muscular dystrophy, spina bifida, cystic fibrosis, and multiple sclerosis)\n*   Sickle cell disease\n\n[Read descriptions of the high-risk health conditions](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-High-Risk-Health-Conditions-Explained.pdf).",
+            "answer": "**I have a high-risk health condition. How do I make an appointment for a vaccine?**\n\nIf you have a high-risk health condition (listed below), you do not need to contact your health care provider to get documentation of the condition.\n\nYou will make an appointment in our system in the same way as Vermonters who have been eligible by age. You can watch [videos for help making an appointment online](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#video).\n\nYou will be asked some questions. First, you will say that you have one of the health conditions that makes you eligible for a vaccine. This will serve as a self-certification. We trust you to work with us and help make sure that these Vermonters at highest risk due to a medical condition are protected.\n\nWhen making your appointment, you will also be asked to provide information for a health care provider you see for the condition, if you have one. But if you don’t have a health care provider, you can still get a vaccine.\n\nThe Health Department may use the information you provided to confirm your eligibility, either through medical records or by contacting your provider. We may also reach out to people who don’t have a provider to offer a connection to care.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\n**The high-risk health conditions are**:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, including emphysema and chronic bronchitis\n*   Heart disease, including heart attack, heart failure, congestive heart failure, coronary artery disease (angina, acute and chronic ischemic heart disease), cardiomyopathies, and pulmonary hypertension. Does NOT include high blood pressure.\n*   Immunocompromised (weakened immune system), due to solid organ transplant, blood, or bone marrow transplant, immune deficiencies, or other causes; or HIV with a low CD4 cell count or not on HIV treatment; prolonged use of corticosteroids or other immune-suppressing drugs.\n*   Severe obesity (BMI of 40 or above)\n*   Pregnancy\n*   Type 1 and Type 2 diabetes\n*   Disabilities including chromosomal disorders, such as Down syndrome; intellectual disabilities (IQ of 70 or below); disabilities that compromise lung function (neurologic and muscular conditions such as muscular dystrophy, spina bifida, cystic fibrosis, and multiple sclerosis)\n*   Sickle cell disease\n\n[Read descriptions of the high-risk health conditions](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-High-Risk-Health-Conditions-Explained.pdf).",
             "source": "Editorial",
             "questions": [
-                "I have a high-risk health condition. How do I make an appointment for a vaccine?"
+                "I have a high-risk health condition. How do I make an appointment for a vaccine?",
+                "Health conditions",
+                "cancer"
             ],
             "metadata": [
                 {
@@ -8668,7 +8682,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T16:34:25.473+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T19:03:50.551+00:00",
             "isDocumentText": false
         },
         {
@@ -8676,7 +8690,10 @@
             "answer": "**I work at a school. How will I get my vaccine?**\n\nVaccines will be available to school staff in all Vermont public and independent K-12 schools as part of our effort to return students to more in-person learning this spring. School staff who are in regular contact with students will be vaccinated starting the week of March 8 through mid-April. \n\nYou will get information about how to make an appointment and what to expect directly from your school leadership. **Please do not try to make an appointment until you hear from your school leadership**. If you have questions, please contact your school’s COVID-19 coordinator. \n\nThe following school staff are eligible for vaccination:\n\n*   All staff who work in Vermont schools including those currently working remotely. All staff includes teachers, paraeducators, administrative assistants, athletic coaches, food service staff, bus drivers and custodians.\n*   Contractors who work regularly in a school setting, such as food service staff and bus drivers.\n*   District office staff whose offices are in a school building or whose work requires them to have regular, in-person contact with students.\n*   Student teachers with classroom assignments during the spring semester.\n*   Substitute teachers who have worked or who will work for your district or school as a substitute teacher during the 2020-2021 school year.\n*   Staff who live out of state who work in a Vermont school are eligible for vaccination.",
             "source": "Editorial",
             "questions": [
-                "I work at a school. How will I get my vaccine?"
+                "I work at a school. How will I get my vaccine?",
+                "work for a school district",
+                "school staff",
+                "Vaccines for teachers"
             ],
             "metadata": [
                 {
@@ -8699,7 +8716,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-08T21:22:54.945+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:51:57.448+00:00",
             "isDocumentText": false
         },
         {
@@ -8707,7 +8724,9 @@
             "answer": "**I work in child care. How will I get my vaccine?**\n\nPeople who work in a regulated child care, preschool or afterschool program that provides direct, in-person care to children are eligible to get the vaccine. Private child care workers (for example, nannies and babysitters) and foster parents are not eligible at this time because they are not part of a regulated child care program. If you have questions about whether you are eligible, email [AHS.DCFCDDInfo@vermont.gov](mailto:AHS.DCFCDDInfo@vermont.gov).\n\nYou will get information about how to make an appointment and what to expect directly from your Child Development Division licensing contact. **Please do not try to make an appointment until you hear from your licensing contact**.\n\nFind more information about [who is eligible and how to sign up to get your vaccine](https://dcf.vermont.gov/cdd-blog/covid-19-vaccine-eligibility-individuals-working-regulated-child-care).",
             "source": "Editorial",
             "questions": [
-                "I work in child care. How will I get my vaccine?"
+                "I work in child care. How will I get my vaccine?",
+                "child care staff",
+                "child care vaccine"
             ],
             "metadata": [
                 {
@@ -8730,7 +8749,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T16:11:01.651+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T18:47:50.77+00:00",
             "isDocumentText": false
         },
         {
@@ -8764,6 +8783,78 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-03-16T18:34:55.98+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4840,
+            "answer": "**I am an English language learner or a member of the immigrant/refugee community. Am I eligible to get the vaccine?**\n\nThere are community-specific clinics for people who are English language learners or immigrant/refugee community members. If you are age 16 or older, you can register for one of these clinics if someone in your household is:\n\n*   age 65 or older or\n*   age 16 or older with a high-risk health condition or\n\nPlease call the Association of Africans Living in Vermont (AALV) at (802) 985-3106 or the U.S. Committee for Refugees and Immigrants of Vermont (USCRI VT) at (802) 655-1963 to register.\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics.\n\nIf you are eligible for vaccination, you can also make an appointment for yourself only by calling 855-722-7878. Press 1 if you need interpretation services.\n\n[Learn more about working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "source": "Editorial",
+            "questions": [
+                "I am an English language learner or a member of the immigrant/refugee community. Am I eligible to get the vaccine?",
+                "ELL",
+                "can I get a vaccine if I am not a us citizen"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-03-18T18:09:45.93+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4841,
+            "answer": "**I identify as Black, Indigenous and people of color (BIPOC). Am I eligible to get the vaccine?**\n\nWe are working with community partners in Burlington, Brattleboro, and other parts of Vermont to ensure access and prioritize the equitable vaccination of Black, Indigenous, and people of color (BIPOC). The first clinics are being organized in Burlington and Brattleboro with more to come.\n\nIf a person who identifies as BIPOC meets current state eligibility guidelines, they can get vaccinated at one of these clinics with the rest of their household. One household member must be:\n\n*   age 65 or older or\n*   age 16 or older with a high-risk health condition\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics. Please note that household members can only register through these specific clinics and not through the regular state website.\n\n[Find details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+            "source": "Editorial",
+            "questions": [
+                "BIPOC",
+                "how do i make an appointment for bipoc family member",
+                "person of color",
+                "Black ",
+                "indigenous",
+                "people of color",
+                "BIPOC vaccine",
+                "minority",
+                "I identify as Black, Indigenous and people of color (BIPOC). Am I eligible to get the vaccine?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "eligibility"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-03-18T19:46:51.042+00:00",
             "isDocumentText": false
         }
     ]
