@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:52:04.642+00:00",
+            "lastUpdatedTimestamp": "2021-03-19T01:30:57.548+00:00",
             "isDocumentText": false
         },
         {
@@ -6724,12 +6724,13 @@
         },
         {
             "id": 4777,
-            "answer": "**What is known about the B.1.1.7 and other variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\n**The B.1.1.7 variant,** first identified in the UK, has now been detected in many U.S. states, including Vermont. Learn more about [the presence of the B.1.1.7 variant in Vermont](https://www.healthvermont.gov/media/newsroom/COVID-19-Variant-Vermont-Detected-March-8-2021). The CDC anticipates the more easily transmissible B.1.1.7 variant will become the dominant strain in the country.\n\nSo far, studies suggest that the vaccines available now will help our bodies fight against strains of the virus that causes COVID-19, including the B.1.1.7 variant. This is being closely investigated and more studies are happening now. The best way to protect yourself against the virus and variants is to get a vaccine when it’s available to you.\n\nWearing masks, keeping a distance of 6 feet from each other, avoiding crowded places, and other prevention steps continue to be effective against variants. Get tested if you think you have been exposed to COVID-19 or if you think you have any symptoms, even if mild. While a test is not able to determine if a variant is present, knowing that you have COVID-19 as soon as possible will help protect yourself and your community.  \n\nThe Health Department is working to detect any potential variants of concern — through genetic sequencing of certain specimens taken from various parts of the state and through wastewater testing in Burlington. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts. \n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [new COVID-19 variants](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe Health Department is working to detect any potential variants of concern — through genetic sequencing of certain specimens taken from various parts of the state and through wastewater testing in Burlington. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts.\n\nHere is what you can do to protect yourself and your community:\n\n*   Keep up with prevention steps, like wearing masks, staying 6 feet apart, staying home if you are sick, washing your hands often, and avoiding crowded places. Prevention steps continue to be effective against variants.\n*   Get tested if you think you have been exposed to COVID-19 or if you think you have any symptoms, even if they are mild. While a test is not able to determine if a variant is present, knowing that you have COVID-19 as soon as possible will help protect yourself and your community.\n*   Get vaccinated when you are eligible. So far, studies suggest that the vaccines available now will help our bodies fight against strains of the virus that causes COVID-19.\n\n**Variants in Vermont**\n\n*   **The** [**B.1.1.7 variant**](https://www.healthvermont.gov/media/newsroom/COVID-19-Variant-Vermont-Detected-March-8-2021), first identified in the UK, has now been detected in many U.S. states, including Vermont. The CDC anticipates the more easily transmissible B.1.1.7 variant will become the dominant strain in the country.\n*   **The** [**B.1.429 variant**](https://www.healthvermont.gov/media/newsroom/Additional-COVID-19-Variant-Detected-March-18-2021), first identified in California, has been detected in Vermont.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [variants of the COVID-19 virus](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?",
                 "Are there any covid mutations in vermont yet",
-                "What is known about the B.1.1.7 and other variants of the COVID-19 virus?"
+                "What is known about the B.1.1.7 and other variants of the COVID-19 virus?",
+                "variant"
             ],
             "metadata": [
                 {
@@ -6748,7 +6749,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-10T20:35:53.506+00:00",
+            "lastUpdatedTimestamp": "2021-03-19T00:20:03.89+00:00",
             "isDocumentText": false
         },
         {
@@ -7912,7 +7913,7 @@
         },
         {
             "id": 4814,
-            "answer": "**Who is eligible for the vaccine now? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination. Moving to the next phase is based on the amount of vaccine we get from the federal government, which means the estimated timeframes could shift. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information.\n\n**Eligible Now**\n\n*   People age 65 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n\n**Eligible in Late March**\n\n*   People age 60 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "answer": "**Who is eligible for the vaccine now? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination. Moving to the next phase is based on the amount of vaccine we get from the federal government, which means the estimated timeframes could shift. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information.\n\n**Eligible Now**\n\n*   People age 65 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n\n**Eligible on March 25**\n\n*   People age 60 and older\n\n**Eligible on March 29**\n\n*   People age 50 and older\n\n**Eligible on April 5**\n\n*   People age 40 and older\n\n**Eligible on April 12**\n\n*   People age 30 and older\n\n**Eligible on April 19**\n\n*   People age 16 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
@@ -8006,7 +8007,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T17:57:40.756+00:00",
+            "lastUpdatedTimestamp": "2021-03-18T20:44:13.875+00:00",
             "isDocumentText": false
         },
         {
@@ -8820,7 +8821,7 @@
         },
         {
             "id": 4841,
-            "answer": "**I identify as Black, Indigenous and people of color (BIPOC). Am I eligible to get the vaccine?**\n\nWe are working with community partners in Burlington, Brattleboro, and other parts of Vermont to ensure access and prioritize the equitable vaccination of Black, Indigenous, and people of color (BIPOC). The first clinics are being organized in Burlington and Brattleboro with more to come.\n\nIf a person who identifies as BIPOC meets current state eligibility guidelines, they can get vaccinated at one of these clinics with the rest of their household. One household member must be:\n\n*   age 65 or older or\n*   age 16 or older with a high-risk health condition\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics. Please note that household members can only register through these specific clinics and not through the regular state website.\n\n[Find details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+            "answer": "**I identify as BIPOC (Black, Indigenous and people of color). Am I eligible to get the vaccine?**\n\nWe are working with community partners in Burlington, Brattleboro, and other parts of Vermont to ensure access and prioritize the equitable vaccination of Black, Indigenous, and people of color (BIPOC). The first clinics are being organized in Burlington and Brattleboro with more to come.\n\nIf a person who identifies as BIPOC meets current state eligibility guidelines, they can get vaccinated at one of these clinics with the rest of their household. One household member must be:\n\n*   age 65 or older or\n*   age 16 or older with a high-risk health condition\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics. Please note that household members can only register through these specific clinics and not through the regular state website.\n\n[Find details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
                 "BIPOC",
@@ -8831,7 +8832,7 @@
                 "people of color",
                 "BIPOC vaccine",
                 "minority",
-                "I identify as Black, Indigenous and people of color (BIPOC). Am I eligible to get the vaccine?"
+                "I identify as BIPOC (Black, Indigenous and people of color. Am I eligible to get the vaccine?"
             ],
             "metadata": [
                 {
@@ -8854,7 +8855,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:46:51.042+00:00",
+            "lastUpdatedTimestamp": "2021-03-19T01:30:57.548+00:00",
             "isDocumentText": false
         }
     ]
