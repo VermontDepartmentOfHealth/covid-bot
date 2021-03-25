@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-03-23T18:11:59.434+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T14:26:45.421+00:00",
             "isDocumentText": false
         },
         {
@@ -273,7 +273,8 @@
                 "What are masks for?",
                 "Why do doctors wear masks?",
                 "mask",
-                "Do you have to wear a mask while exercising outdoors"
+                "Do you have to wear a mask while exercising outdoors",
+                "Face masks"
             ],
             "metadata": [
                 {
@@ -310,7 +311,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:17:22.771+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:35:50.673+00:00",
             "isDocumentText": false
         },
         {
@@ -356,7 +357,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T20:34:18.505+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:44:37.428+00:00",
             "isDocumentText": false
         },
         {
@@ -452,7 +453,8 @@
                 "Testing appointment",
                 "can minors be tested",
                 "What test is given",
-                "Need an appointment for a Covid test"
+                "Need an appointment for a Covid test",
+                "How old do you have to be to be tested for covid"
             ],
             "metadata": [
                 {
@@ -480,7 +482,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:31:58.604+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:13:40.99+00:00",
             "isDocumentText": false
         },
         {
@@ -518,7 +520,8 @@
                 "covid test response times",
                 "covid-19 test results",
                 "Where do I find my COVID test results",
-                "how long before a test come back"
+                "how long before a test come back",
+                "how many days for pcr test to come back"
             ],
             "metadata": [
                 {
@@ -555,7 +558,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:31:58.604+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:15:29.773+00:00",
             "isDocumentText": false
         },
         {
@@ -786,7 +789,8 @@
                 "Exposed to person with covid",
                 "are around someone that has the virus",
                 "positive case 2nd person removed",
-                "I have been exposed to someone who tested positive for Covid 19. Do I need to quarantine?"
+                "I have been exposed to someone who tested positive for Covid 19. Do I need to quarantine?",
+                "3rd party contact"
             ],
             "metadata": [
                 {
@@ -819,7 +823,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T13:56:19.897+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:37:04.334+00:00",
             "isDocumentText": false
         },
         {
@@ -1025,7 +1029,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:13:54.036+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:31:57.824+00:00",
             "isDocumentText": false
         },
         {
@@ -1187,7 +1191,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:06:12.126+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:37:04.334+00:00",
             "isDocumentText": false
         },
         {
@@ -1380,11 +1384,10 @@
         },
         {
             "id": 4584,
-            "answer": "**I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?**\n\nThere are gathering restrictions in Vermont. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nFor **outdoor recreation** with people you don’t live with, keep a physical distance of at least 6 feet and wear a mask. There are no other limitations to outdoor activities. Being active outside is good for our mental and physical health!\n\nIf you are a fully vaccinated parent or caregiver and are traveling with children, your children will need to quarantine when they return to Vermont. This is because children cannot get vaccinated yet. Learn more about [traveling and quarantine](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask (children over 2 who are able).\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
+            "answer": "**I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?**\n\nThere are gathering restrictions in Vermont. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nFor **outdoor recreation** with people you don’t live with, keep a physical distance of at least 6 feet and wear a mask. There are no other limitations to outdoor activities. Being active outside is good for our mental and physical health!\n\nIf you are a fully vaccinated parent or caregiver and are **traveling with children**, your children will need to quarantine when they return to Vermont. This is because children cannot get vaccinated yet. Learn more about [traveling and quarantine](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask (children over 2 who are able).\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
-                "Can neighborhood kids play together outside during the COVID-19 outbreak in Vermont?",
                 "Can I go to playgrounds?",
                 "visit a 2 year old",
                 "visiting grandson",
@@ -1398,7 +1401,10 @@
                 "Gathering with a pod",
                 "play date",
                 "Can my child have a friend over",
-                "I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?"
+                "I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?",
+                "Travel with children",
+                "Travel with kids",
+                "Kids quarantine"
             ],
             "metadata": [
                 {
@@ -1426,7 +1432,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:48:47.749+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:42:41.288+00:00",
             "isDocumentText": false
         },
         {
@@ -1479,7 +1485,8 @@
                 "Can I have workers in the house",
                 "construction work inside home",
                 "Electrician",
-                "repairmen"
+                "repairmen",
+                "Covid home safety"
             ],
             "metadata": [
                 {
@@ -1502,7 +1509,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:24:27.712+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:37:32.938+00:00",
             "isDocumentText": false
         },
         {
@@ -1689,7 +1696,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:40:56.161+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:40:36.117+00:00",
             "isDocumentText": false
         },
         {
@@ -1878,7 +1885,8 @@
             "questions": [
                 "Do homemade cloth masks work?",
                 "Is one type of mask better than another? Is wearing two masks better?",
-                "Double masking"
+                "Double masking",
+                "2 masks"
             ],
             "metadata": [
                 {
@@ -1911,7 +1919,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:48:32.173+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:36:11.595+00:00",
             "isDocumentText": false
         },
         {
@@ -2013,7 +2021,8 @@
                 "Are there re-infections of Covid-19",
                 "get the virus a second time",
                 "get the virus more than one time",
-                "can you be reinfected"
+                "can you be reinfected",
+                "How long after infection can you test positive?"
             ],
             "metadata": [
                 {
@@ -2041,7 +2050,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T16:22:37.741+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:23:31.698+00:00",
             "isDocumentText": false
         },
         {
@@ -2331,7 +2340,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T16:22:37.741+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:23:31.698+00:00",
             "isDocumentText": false
         },
         {
@@ -2547,7 +2556,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. This helps to prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\n**Quarantine means you need to stay home and away from other people for 14 days**. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands. You should separate yourself from others and check yourself for symptoms. \n\nYou are allowed to go outside for a walk or a bike ride while you are in quarantine only if:\n\n*   you do not have any symptoms,\n*   you are alone,\n*   you wear a mask at all times, \n*   you are in an uncrowded place, **and** \n*   you can stay at least 6 feet from other people at all times.\n\nFor example, you can go for a walk or bike ride in your neighborhood. You should not go for a walk or bike ride on a bike path, on busy hiking or biking trails, or in a downtown area. \n\n**Quarantine is for**:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820)). Day 1 of your quarantine starts the day after you were last in contact with them.\n*   Vermonters who travel out of state ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4829)). Day 1 of your quarantine starts the day after you return to Vermont.\n*   people with no symptoms who are visiting Vermont ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4829)). Day 1 of your quarantine starts the day after you arrive in Vermont.\n\n**You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for **people who are visiting or returning to Vermont** and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Find out if you need to quarantine if**:\n\n*   [You are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Quarantine-Guidelines-Chart.pdf).\n*   [You are traveling to or returning to Vermont](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Quarantine-Guidelines-Chart.pdf).\n*   [You had close contact with someone who is under quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You have out-of-state visitors staying in your home](https://apps.health.vermont.gov/COVID/faq/#4704).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. This helps to prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\n**Quarantine means you need to stay home and away from other people for 14 days**. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands. You should separate yourself from others and check yourself for symptoms. Call your health care provider if you start to feel sick. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nYou are allowed to go outside for a walk or a bike ride while you are in quarantine only if:\n\n*   you do not have any symptoms,\n*   you are alone,\n*   you wear a mask at all times,\n*   you are in an uncrowded place, **and**\n*   you can stay at least 6 feet from other people at all times.\n\nFor example, you can go for a walk or bike ride in your neighborhood. You should not go for a walk or bike ride on a bike path, on busy hiking or biking trails, or in a downtown area.\n\n**Quarantine is for**:\n\n*   people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone sick with COVID-19 ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820)). Day 1 of your quarantine starts the day after you were last in contact with them.\n*   Vermonters who travel out of state ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4829)). Day 1 of your quarantine starts the day after you return to Vermont.\n*   people with no symptoms who are visiting Vermont ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4829)). Day 1 of your quarantine starts the day after you arrive in Vermont.\n\n**You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nCheck the [latest quarantine guidance](https://www.healthvermont.gov/response/coronavirus-covid-19/traveling-vermont) for **people who are visiting or returning to Vermont** and find answers to [travel-related quarantine](https://apps.health.vermont.gov/COVID/faq/#travel) questions.\n\n**Find out if you need to quarantine if**:\n\n*   [You are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Quarantine-Guidelines-Chart.pdf).\n*   [You are traveling to or returning to Vermont](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Quarantine-Guidelines-Chart.pdf).\n*   [You had close contact with someone who is under quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You have out-of-state visitors staying in your home](https://apps.health.vermont.gov/COVID/faq/#4704).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf)",
             "source": "Editorial",
             "questions": [
                 "what does quarantine mean?",
@@ -2577,7 +2586,8 @@
                 "Can I go to school when I am in quarintine",
                 "quarantine rules",
                 "when must an individual quarantine",
-                "when is day 1 of quarantine"
+                "when is day 1 of quarantine",
+                "do i have to quarantine in my house"
             ],
             "metadata": [
                 {
@@ -2609,7 +2619,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:13:54.036+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:32:47.896+00:00",
             "isDocumentText": false
         },
         {
@@ -3082,7 +3092,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:48:47.749+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:42:41.288+00:00",
             "isDocumentText": false
         },
         {
@@ -3222,7 +3232,9 @@
                 "from my pets",
                 "pet dogs",
                 "petting dogs",
-                "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?"
+                "Can I get COVID-19 from my pets or other animals? Can animals carry the virus on their skin or fur?",
+                "Can you catch Covid 19 through dogs",
+                "Can pets transfer Covid"
             ],
             "metadata": [
                 {
@@ -3246,7 +3258,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T20:33:51.105+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:44:37.428+00:00",
             "isDocumentText": false
         },
         {
@@ -3477,11 +3489,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4671,
-                        "displayText": "What is a PCR test?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4545,
                         "displayText": "What do I need to know about COVID-19 testing? Where can I get tested?"
                     },
@@ -3489,10 +3496,15 @@
                         "displayOrder": 1,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
+                    },
+                    {
+                        "displayOrder": 2,
+                        "qnaId": 4828,
+                        "displayText": "What is an antigen test?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:17:37.084+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:08:17.205+00:00",
             "isDocumentText": false
         },
         {
@@ -3774,7 +3786,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:48:32.173+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:36:11.595+00:00",
             "isDocumentText": false
         },
         {
@@ -3790,7 +3802,8 @@
                 "wedding venue",
                 "Can we have our wedding ceremony?",
                 "Wedding covid",
-                "can i come in person to get marriage license"
+                "can i come in person to get marriage license",
+                "married"
             ],
             "metadata": [
                 {
@@ -3809,7 +3822,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:49:28.745+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:41:00.339+00:00",
             "isDocumentText": false
         },
         {
@@ -3947,7 +3960,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T19:17:37.084+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:01:53.429+00:00",
             "isDocumentText": false
         },
         {
@@ -4285,7 +4298,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T13:56:19.897+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:37:04.334+00:00",
             "isDocumentText": false
         },
         {
@@ -4331,17 +4344,14 @@
                 "Can I get together with friends and family?",
                 "Can I socialize now?",
                 "Can I hang out with friends now",
-                "Spend the night",
-                "Kids sleepovers",
                 "should I visit a relative",
                 "have people over",
                 "people can gather",
-                "How large can a group gathering be",
                 "visiting neighbors",
                 "Can people meet indoors",
                 "family visit at home",
-                "limit for numbers of people to get together",
-                "gather for dinner party"
+                "gather for dinner party",
+                "get together"
             ],
             "metadata": [
                 {
@@ -4370,7 +4380,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:14:32.578+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:40:36.117+00:00",
             "isDocumentText": false
         },
         {
@@ -4577,7 +4587,8 @@
             "questions": [
                 "Do I need to quarantine if out-of-state visitors are staying in my home?",
                 "household guests during covid",
-                "Do i need to quarantine if someone from another state is visiting me?"
+                "Do i need to quarantine if someone from another state is visiting me?",
+                "Can you have out of state visitors?"
             ],
             "metadata": [
                 {
@@ -4610,7 +4621,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:44:20.034+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:32:47.896+00:00",
             "isDocumentText": false
         },
         {
@@ -4677,7 +4688,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T15:19:49.94+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:35:50.673+00:00",
             "isDocumentText": false
         },
         {
@@ -4967,7 +4978,11 @@
                 "do I have to follow the quarantine if in Vermont less than 24 hours",
                 "travel for business",
                 "what are the requirements for business travel",
-                "what is considered essential travel?"
+                "what is considered essential travel?",
+                "If I go out of VT do I need to quarantine?",
+                "short trip less than 24",
+                "non vermonter attending funeral service",
+                "Can I attend an outdoor burial in another state"
             ],
             "metadata": [
                 {
@@ -4996,7 +5011,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T18:11:59.434+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:32:47.896+00:00",
             "isDocumentText": false
         },
         {
@@ -5058,7 +5073,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:16:24.423+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:30:45.641+00:00",
             "isDocumentText": false
         },
         {
@@ -5110,7 +5125,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-08T20:16:24.423+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:30:45.641+00:00",
             "isDocumentText": false
         },
         {
@@ -5195,7 +5210,10 @@
                 "If my spouse was exposed to Covid do I need to quarantine",
                 "do I have to quarantine while someone else quarantine",
                 "family member is exposed",
-                "should everybody in the household be tested"
+                "should everybody in the household be tested",
+                "Family members quarantine",
+                "covid positive in the household",
+                "If my child has COVID symptoms should I also quarantine?"
             ],
             "metadata": [
                 {
@@ -5223,7 +5241,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T19:48:09.853+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:34:17.691+00:00",
             "isDocumentText": false
         },
         {
@@ -5386,7 +5404,8 @@
             "source": "Editorial",
             "questions": [
                 "Do I need documentation to certify that I completed my quarantine or received a negative test result before I travel to Vermont?",
-                "prove that I quarantined 14 days before travel to VT"
+                "prove that I quarantined 14 days before travel to VT",
+                "What documentation is required to show that I quarantined at home prior to coming to Vermont"
             ],
             "metadata": [
                 {
@@ -5405,7 +5424,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-23T20:18:43.492+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:16:43.037+00:00",
             "isDocumentText": false
         },
         {
@@ -5722,7 +5741,8 @@
             "source": "Editorial",
             "questions": [
                 "Who do I contact if I have a concern or a complaint about a school that is not complying with the State’s guidance?",
-                "School is not"
+                "School is not",
+                "Mask violation of staff in a school"
             ],
             "metadata": [
                 {
@@ -5745,7 +5765,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-24T19:56:45.021+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:43:49.834+00:00",
             "isDocumentText": false
         },
         {
@@ -5897,7 +5917,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:48:32.173+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:36:11.595+00:00",
             "isDocumentText": false
         },
         {
@@ -6031,7 +6051,8 @@
                 "I tested positive should I get tested again",
                 "What happens if i test positive",
                 "I have coronavirus",
-                "If you have Covid-19 what to do"
+                "If you have Covid-19 what to do",
+                "Once you test positive for Covid how long must you quarantine?"
             ],
             "metadata": [
                 {
@@ -6058,7 +6079,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T15:16:44.936+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:38:13.723+00:00",
             "isDocumentText": false
         },
         {
@@ -6131,10 +6152,11 @@
         },
         {
             "id": 4758,
-            "answer": "**What should returning and new college students do?**\n\nColleges and universities must follow the [Mandatory Guidance for College and University Campus Learning](https://accd.vermont.gov/content/restart-plan-college-and-university-campus-learning). Please contact your college or university directly for information about arriving on campus, testing and health guidance.\n\n**If you are coming home to Vermont for a break or holiday**, you must quarantine for 14 days, once you arrive. If you have not had any symptoms of COVID-19, the quarantine period may be shortened by having a test on or after day 7 of quarantine, though you must continue to quarantine until you receive a negative test result. Read more about [quarantine for returning travelers](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\nThere is a [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine) for students and others moving to **Burlington** and for people asked to quarantine as part of contact tracing. The program includes a daily check-in, move-in care package and gift certificate.\n\n**Parents or other visitors** can find information on [traveling to Vermont and quarantine](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), information on [how to drop off someone at college](https://apps.health.vermont.gov/COVID/faq/#4731), and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).\n\nFind out [what happens at the Health Department when someone tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).\n\nFind tips for how to [enjoy safer sex and reduce the risk of spreading COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Safer-Sex-Tips.pdf) and more [resources for college students](https://www.healthvermont.gov/covid-19/your-community/colleges-and-universities).",
+            "answer": "**What do college students need to know?**\n\nColleges and universities must follow the [Mandatory Guidance for College and University Campus Learning](https://accd.vermont.gov/content/restart-plan-college-and-university-campus-learning). Please contact your college or university directly for information about arriving on campus, testing and health guidance.\n\nWe don't yet know if out-of-state college students will be able to get vaccinated in Vermont. Conversations are ongoing, and we will share information as soon as we have it.\n\n**If you are coming home to Vermont for a break or holiday**, you must quarantine for 14 days once you arrive. You can end quarantine early if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nThere is a [Supportive Quarantine Pilot Program](https://www.burlingtonvt.gov/covid-19/quarantine) for students and others moving to **Burlington** and for people asked to quarantine as part of contact tracing. The program includes a daily check-in, move-in care package and gift certificate.\n\n**Parents or other visitors** can find information on [traveling to Vermont and quarantine](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), information on [how to drop off someone at college](https://apps.health.vermont.gov/COVID/faq/#4731), and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).\n\nFind out [what happens at the Health Department when someone tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).\n\nFind tips for how to [enjoy safer sex and reduce the risk of spreading COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Safer-Sex-Tips.pdf) and more [resources for college students](https://www.healthvermont.gov/covid-19/your-community/colleges-and-universities).",
             "source": "Editorial",
             "questions": [
-                "What should returning and new college students do?"
+                "What should returning and new college students do?",
+                "What do college students need to know?"
             ],
             "metadata": [
                 {
@@ -6157,7 +6179,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-17T16:24:05.839+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T19:03:41.519+00:00",
             "isDocumentText": false
         },
         {
@@ -6257,7 +6279,8 @@
                 "is it ok to visit family in state",
                 "What are the current restrictions on gatherings? Why are social gatherings prohibited right now?",
                 "Current orders",
-                "can i see my friends"
+                "can i see my friends",
+                "mask wearing indoors with another family"
             ],
             "metadata": [
                 {
@@ -6280,7 +6303,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:17:17.888+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:40:36.117+00:00",
             "isDocumentText": false
         },
         {
@@ -6445,7 +6468,7 @@
         },
         {
             "id": 4769,
-            "answer": "**Can I get on a list to receive extra or leftover vaccine doses?**\n\nPlease **do not show up at vaccine clinics to wait for extra doses**. The vaccine clinics do not accept walk-ins. You need to have an appointment to get a vaccine.\n\nIf there is extra vaccine that needs to be used, then we may contact people who have already scheduled appointments or who are in the Phase 1A group (health care personnel and long-term care residents and staff).\n\nPlease **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.",
+            "answer": "**Can I get on a list to receive extra or leftover vaccine doses?**\n\nPlease **do not show up at state-run vaccine clinics to wait for extra doses**. The vaccine clinics do not accept walk-ins. You need to have an appointment to get a vaccine.\n\nIf there is extra vaccine that needs to be used, then we may contact people who have already scheduled appointments or who are in the Phase 1A group (health care personnel and long-term care residents and staff).\n\nPlease **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.",
             "source": "Editorial",
             "questions": [
                 "Can I get on a list to receive extra or leftover vaccine doses?",
@@ -6465,7 +6488,12 @@
                 "can i get the vaccine of someone misses their appointment?",
                 "List",
                 "Extra vaccine",
-                "Excess vaccine"
+                "Excess vaccine",
+                "Wait lists",
+                "Waitlists",
+                "Call list",
+                "Unused vaccine",
+                "covid vaccine wait list"
             ],
             "metadata": [
                 {
@@ -6488,7 +6516,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:48:49.576+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T14:26:45.421+00:00",
             "isDocumentText": false
         },
         {
@@ -6498,20 +6526,11 @@
             "questions": [
                 "Can I travel to Vermont if I'm vaccinated?",
                 "I have recovered from COVID-19. Can I come to Vermont without quarantining?",
-                "I am vaccinated. Am I required to quarantine when I travel back to Vermont?",
-                "do you need to quarantine if you have COVID 19 vaccine",
-                "how soon can i travel after I get a vaccine?",
-                "if i have a vaccine do i need to quarantine",
-                "quarantine for vaccinated people?",
-                "Do I need to quarantine after traveling if I have been vaccinated",
-                "do I need to quarantine if I’m vaccinated for Covid?",
-                "Do I need to quarantine after I get my vaccination?",
-                "Is quarantine necessary after Covid vaccination?",
-                "I have received two doses of vaccination, when can I travel to Vermont",
                 "requirements for out of state travelers that have recovered from covid",
                 "If I had Covid within the last 90 days, can I travel and return without quarantining?",
                 "Can I travel after having covid 19",
-                "I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?"
+                "I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?",
+                "what rules apply to people with covid 19 antibodies"
             ],
             "metadata": [
                 {
@@ -6530,7 +6549,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:51:41.287+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:20:09.442+00:00",
             "isDocumentText": false
         },
         {
@@ -6602,7 +6621,8 @@
             "questions": [
                 "How can I stay up to date on the latest COVID-19 guidance and information?",
                 "How can I sign up for the newsletter?",
-                "join mailing list"
+                "join mailing list",
+                "How can we sign up to get messages?"
             ],
             "metadata": [
                 {
@@ -6621,7 +6641,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-25T17:30:49.737+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:45:45.018+00:00",
             "isDocumentText": false
         },
         {
@@ -6689,7 +6709,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T17:59:06.1+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:15:29.773+00:00",
             "isDocumentText": false
         },
         {
@@ -6762,7 +6782,8 @@
                 "If I had the first vaccine will my test results be positive?",
                 "testing after getting the vaccine",
                 "COVID testing after vaccination",
-                "is it okay to be tested if i got the vaccine"
+                "is it okay to be tested if i got the vaccine",
+                "can i get tested if I've had one vaccine shot?"
             ],
             "metadata": [
                 {
@@ -6785,12 +6806,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-11T18:24:53.598+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:14:39.842+00:00",
             "isDocumentText": false
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in an occupation or setting in Vermont that is currently eligible.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident and are in an age group, occupation or other group that is currently eligible.\n\nIf you are a resident of another state and have a primary care provider in Vermont, you are not eligible to get a vaccine in Vermont. This is because primary care providers do not have vaccine to give right now. You will need to get the vaccine in your home state.\n\nYou do not need any identification to make or go to a vaccine appointment.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in an occupation or setting in Vermont that is currently eligible.\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident and are in an age group, occupation or other group that is currently eligible.\n\nIf you are a resident of another state and have a primary care provider in Vermont, you are not eligible to get a vaccine in Vermont. This is because primary care providers do not have vaccine to give right now. You will need to get the vaccine in your home state.\n\nWe don't yet know if out-of-state college students will be able to get vaccinated in Vermont. Conversations are ongoing, and we will share information as soon as we have it.\n\nYou do not need any identification to make or go to a vaccine appointment.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
@@ -6814,7 +6835,9 @@
                 "Are second home owners eligible",
                 "Can a nh resident with a vt PCP get a vaccine",
                 "Live in NYS primary doctor in VT can I get vaccine in VT?",
-                "Can people from out of state get a vaccine"
+                "Can people from out of state get a vaccine",
+                "can an out of stater get their vaccine in VT",
+                "Proof of address"
             ],
             "metadata": [
                 {
@@ -6837,7 +6860,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:01:08.566+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:51:26.208+00:00",
             "isDocumentText": false
         },
         {
@@ -6870,7 +6893,9 @@
                 "how do I log into my covid portal",
                 "What site do I go to to preregistration?",
                 "can I register before it is time for my age group to schedule an appointment",
-                "Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?"
+                "Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?",
+                "Pre register",
+                "Can you make an account in advance"
             ],
             "metadata": [
                 {
@@ -6897,12 +6922,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:15:35.482+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:50:11.872+00:00",
             "isDocumentText": false
         },
         {
             "id": 4782,
-            "answer": "**What can I do after I am fully vaccinated?**\n\nYou are fully vaccinated 14 days after your final shot. Until you are fully vaccinated, you should follow the same guidance as unvaccinated people. Learn about [why it is important to get two doses of the Pfizer-BioNTech or Moderna vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\n**Continue Prevention**\n\nContinue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), except as described below.\n\nThe vaccine protects you from illness, but we don’t know for sure if you can give the virus to someone else. Some [recent studies](https://apps.health.vermont.gov/COVID/faq/#4831) suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. Until enough people are vaccinated and we know more, it is important to continue to follow prevention steps and continue to wear a mask, keep 6 feet apart, and wash your hands.\n\n**Gathering with Others**\n\nThe following guidance only applies in non-health care settings.  Read [CDC’s guidance for health care workers](https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-after-vaccination.html).\n\n*   You may gather with other fully vaccinated people without wearing masks or staying 6 feet apart.\n*   You may also gather with unvaccinated people from one household without wearing masks or staying 6 feet apart, as long as everyone in that household is at low risk for severe COVID-19.\n\nIf you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart. See [details on gathering restrictions in Vermont](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Travel**\n\nYou may travel to or return to Vermont without quarantine. Find out [more about travel](https://apps.health.vermont.gov/COVID/faq/#4829), including [staying in someone's home](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Close Contact of Someone with COVID-19**\n\nIf you are a [close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825), as long as you do not have symptoms and are not in a health care setting:\n\n*   You do not need to seek testing.\n*   You do not need to quarantine.",
+            "answer": "**What can I do after I am fully vaccinated?**\n\nYou are fully vaccinated 14 days after your final shot. Until you are fully vaccinated, you should follow the same guidance as unvaccinated people. Learn about [why it is important to get two doses of the Pfizer-BioNTech or Moderna vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\n**Continue Prevention**\n\nContinue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), except as described below. You should still watch out for [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), especially if you’ve been around someone who is sick. If you have symptoms of COVID-19, you should call your health care provider to get tested and stay home and away from others.\n\nThe vaccine protects you from illness, but we don’t know for sure if you can give the virus to someone else. Some [recent studies](https://apps.health.vermont.gov/COVID/faq/#4831) suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. Until enough people are vaccinated and we know more, it is important to continue to follow prevention steps and continue to wear a mask, keep 6 feet apart, and wash your hands.\n\n**Gathering with Others**\n\nThe following guidance only applies in non-health care settings. Read [CDC’s guidance for health care workers](https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-after-vaccination.html).\n\n*   You may gather with other fully vaccinated people without wearing masks or staying 6 feet apart.\n*   You may also gather with unvaccinated people from one household without wearing masks or staying 6 feet apart, as long as everyone in that household is at low risk for severe COVID-19.\n\nIf you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart. See [details on gathering restrictions in Vermont](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Travel**\n\nYou may travel to or return to Vermont without quarantine. Find out [more about travel](https://apps.health.vermont.gov/COVID/faq/#4829), including [staying in someone's home](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Close Contact of Someone with COVID-19**\n\nIf you are a [close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825), as long as you do not have symptoms and are not in a health care setting:\n\n*   You do not need to seek testing.\n*   You do not need to quarantine.",
             "source": "Editorial",
             "questions": [
                 "quarantine and vaccine",
@@ -6939,7 +6964,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:51:21.946+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T14:22:34.916+00:00",
             "isDocumentText": false
         },
         {
@@ -6977,7 +7002,7 @@
         },
         {
             "id": 4784,
-            "answer": "**What are the ingredients in the COVID-19 vaccines?**\n\nThe ingredients in the COVID-19 vaccines are similar to what is found in other vaccines. They contain protein, and fats, salts and polysorbate. The mRNA vaccines (Pfizer-BioNTech and Moderna) also have sugars and polyethylene glycol. They do not have any fetal tissue, pork products, eggs, gelatin, latex or preservatives in them.\n\nLearn more about [which vaccines are available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont).",
+            "answer": "**What are the ingredients in the COVID-19 vaccines?**\n\nThe ingredients in the COVID-19 vaccines are similar to what is found in other vaccines. They contain protein, and fats, salts and polysorbate. The mRNA vaccines (Pfizer-BioNTech and Moderna) also have sugars and polyethylene glycol. They do not have any fetal tissue, pork products, eggs, gelatin, latex or preservatives in them.\n\nThe CDC recommends that people get vaccinated even if they have a history of severe allergic reactions not related to vaccines or injectable medications — such as food, pet, venom, environmental, or latex allergies.\n\nFind more details about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes).",
             "source": "Editorial",
             "questions": [
                 "What are the ingredients in the COVID-19 vaccines?",
@@ -7000,7 +7025,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T12:30:40.362+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T14:21:20.2+00:00",
             "isDocumentText": false
         },
         {
@@ -7015,7 +7040,8 @@
                 "Can someone accompany you to the vaccine appointment",
                 "Will I be able to go in with my elderly parent?",
                 "What kind of assistance will be available at my vaccine appointment? Can someone come with me?",
-                "caregiver escort"
+                "caregiver escort",
+                "disabled with mobility Issues"
             ],
             "metadata": [
                 {
@@ -7038,7 +7064,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T18:31:27.742+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:10:06.666+00:00",
             "isDocumentText": false
         },
         {
@@ -7163,7 +7189,7 @@
         },
         {
             "id": 4789,
-            "answer": "**What can I expect at my vaccine appointment?**\n\nThe clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. If you have trouble breathing, are unable to remove it yourself, or have a medical reason for not wearing one, you will not be required to wear a mask.\n\nYou do not need to bring any identification or your health insurance card to your appointment.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nRemember to dress warmly for the weather. Arrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**.\n\nIf you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics. This person will not be able to get a vaccine unless they have an appointment. There is [no waitlist for extra doses](https://apps.health.vermont.gov/COVID/faq/#4769).\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
+            "answer": "**What can I expect at my vaccine appointment?**\n\nThe clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic. \n\nYou do not need to bring any identification or your health insurance card to your appointment.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nArrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**.\n\nIf you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics. This person will not be able to get a vaccine unless they have an appointment. There is [no waitlist for extra doses](https://apps.health.vermont.gov/COVID/faq/#4769).\n\nOnce you arrive at the vaccine clinic, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
             "source": "Editorial",
             "questions": [
                 "What can I expect at my vaccine appointment?",
@@ -7177,7 +7203,9 @@
                 "show up early ",
                 "What information do I need when I go to get my vaccine",
                 "bring to the vaccination site",
-                "how long to wait before leaving the site after being vaccinated"
+                "how long to wait before leaving the site after being vaccinated",
+                "get there very early or near appointment time",
+                "Can I get the vaccine in an automobile"
             ],
             "metadata": [
                 {
@@ -7200,7 +7228,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-01T20:40:12.476+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T13:57:34.757+00:00",
             "isDocumentText": false
         },
         {
@@ -7215,7 +7243,8 @@
                 "can i sign up my mother for vaccine",
                 "can I register a family member ",
                 "register a friend who does not have email",
-                "add my spouse to my account"
+                "add my spouse to my account",
+                "Can I create more than one account with the same email"
             ],
             "metadata": [
                 {
@@ -7238,7 +7267,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:13:08.142+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:51:43.09+00:00",
             "isDocumentText": false
         },
         {
@@ -7334,7 +7363,8 @@
                 "had the corona virus, should you get the vaccine and when",
                 "If I have had COVID should I get vaccine",
                 "What happens if you have covid and get vaccinated?",
-                "can i get the vaccine if I'm positive for COVID-19?"
+                "can i get the vaccine if I'm positive for COVID-19?",
+                "I've had Covid do I still need to get the shot"
             ],
             "metadata": [
                 {
@@ -7353,7 +7383,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T18:49:54.656+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:39:52.463+00:00",
             "isDocumentText": false
         },
         {
@@ -7443,7 +7473,8 @@
                 "reschedule",
                 "cancel",
                 "change date of covid 19 vaccine",
-                "reschedule my second vaccination appointment"
+                "reschedule my second vaccination appointment",
+                "check availability of appointments"
             ],
             "metadata": [
                 {
@@ -7466,7 +7497,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:34:06.013+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:52:47.083+00:00",
             "isDocumentText": false
         },
         {
@@ -7530,7 +7561,7 @@
         },
         {
             "id": 4801,
-            "answer": "**Do I need to wait to get my vaccine if I am under quarantine or isolation?**\n\nIf you are under quarantine, you can leave quarantine to get your first or second dose of the vaccine.\n\nIf you tested positive for COVID-19 and are still in your isolation period, you will need to wait to get your first or second dose until you are able to [end your isolation](https://apps.health.vermont.gov/COVID/faq/#4601).",
+            "answer": "**Do I need to wait to get my vaccine if I am under quarantine or isolation?**\n\nIf you are under quarantine, you can leave quarantine to get your first or second dose of the vaccine. However, if you have symptoms of COVID-19, contact your health care provider. You will need to stay home and reschedule your appointment. \n\nIf you tested positive for COVID-19 and are still in your isolation period, you will need to wait to get your first or second dose until you are able to [end your isolation](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nThere are enough appointment slots available for everyone who is eligible. You will be able to easily get another appointment. Find out [how to reschedule your appointment](https://apps.health.vermont.gov/COVID/faq/#4798).",
             "source": "Editorial",
             "questions": [
                 "I’m in quarantine because I was exposed to someone who was positive for COVID-19. Should I still get the vaccine? ",
@@ -7540,7 +7571,9 @@
                 "Can I leave quarantine to get a covid vaccine",
                 "If I am in quarantine can I get vaccinated",
                 "vaccine while in quarantine",
-                "leave quarantine for vaccine"
+                "leave quarantine for vaccine",
+                "can I get the vaccine while quarantining",
+                "Can I get the vaccine if I have a cold?"
             ],
             "metadata": [
                 {
@@ -7559,7 +7592,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:22:13.98+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T13:54:11.017+00:00",
             "isDocumentText": false
         },
         {
@@ -7576,7 +7609,10 @@
                 "How long between vaccinations for covid?",
                 "When do i get my second dose?",
                 "When do I need to get my second shot of the Pfizer-BioNTech or Moderna vaccine?",
-                "how is second dose scheduled"
+                "how is second dose scheduled",
+                "next shot",
+                "both shots",
+                "First dose effectiveness"
             ],
             "metadata": [
                 {
@@ -7595,7 +7631,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-09T20:57:17.317+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:55:44.731+00:00",
             "isDocumentText": false
         },
         {
@@ -7620,7 +7656,12 @@
                 "find out which vaccine you will be getting",
                 "What kind of vaccine will I get?",
                 "request a specific kind of vaccine",
-                "How to tell what vaccine is being offered"
+                "How to tell what vaccine is being offered",
+                "Vaccine types",
+                "can I ask for the one shot vaccine",
+                "What brand vaccine am I getting",
+                "What vaccine am I getting?",
+                "janssen"
             ],
             "metadata": [
                 {
@@ -7639,7 +7680,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T17:54:15.07+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:24:47.3+00:00",
             "isDocumentText": false
         },
         {
@@ -7649,7 +7690,8 @@
             "questions": [
                 "Why can’t children and adolescents get the COVID-19 vaccine? ",
                 "children be eligible",
-                "Will children get vaccines"
+                "Will children get vaccines",
+                "which vaccine is approved for minors"
             ],
             "metadata": [
                 {
@@ -7668,7 +7710,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:24:13.839+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:25:55.728+00:00",
             "isDocumentText": false
         },
         {
@@ -7927,21 +7969,18 @@
         },
         {
             "id": 4814,
-            "answer": "**Who is eligible for the vaccine now? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination with the goal to have Vermonters fully vaccinated by July. Moving to the next phase is based on the amount of vaccine we get from the federal government. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information about that group.\n\n**Eligible Now**\n\n*   People age 65 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n\n**Registration opens at 8:15 a.m. on March 25**\n\n*   People age 60 and older\n\n**Registration opens at 8:15 a.m. on March 29**\n\n*   People age 50 and older\n\n**Registration opens at 8:15 a.m. on April 5**\n\n*   People age 40 and older\n\n**Registration opens at 8:15 a.m. on April 12**\n\n*   People age 30 and older\n\n**Registration opens at 8:15 a.m. on April 19**\n\n*   People age 16 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nThe length of the entire process will vary, but you can expect it to take about 2 months from when you are eligible to when you are considered fully vaccinated. This includes the time between when you make your appointment, the time of getting your first and final dose, and the 14 days after your final dose for the vaccine to be most effective.\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "answer": "**When can I get my vaccine? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination with the goal to have Vermonters fully vaccinated by July. Moving to the next phase is based on the amount of vaccine we get from the federal government. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information about that group.\n\n**Eligible Now**\n\n*   People age 60 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#eligiblenow)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n\n**Registration opens at 8:15 a.m. on March 29**\n\n*   People age 50 and older\n\n**Registration opens at 8:15 a.m. on April 5**\n\n*   People age 40 and older\n\n**Registration opens at 8:15 a.m. on April 12**\n\n*   People age 30 and older\n\n**Registration opens at 8:15 a.m. on April 19**\n\n*   People age 16 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nThe length of the entire process will vary, but you can expect it to take about 2 months from when you are eligible to when you are considered fully vaccinated. This includes the time between when you make your appointment, the time of getting your first and final dose, and the 14 days after your final dose for the vaccine to be most effective.\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nWe don't yet know if out-of-state college students will be able to get vaccinated in Vermont. Conversations are ongoing, and we will share information as soon as we have it.\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
                 "are mental health providers eligible for the vaccine",
-                "When will 70 years old and up be able to get a vaccine?",
                 "when is 1B group to be vaccinated",
-                "when will people aged 70 be able to get vaccinated",
                 "order of vaccine distribution",
                 "So what is the age group after this one",
                 "Vaccination schedule",
                 "Can I get a vaccine now if immunocompromised?",
                 "immune compromised",
                 "when will I be able to get a vaccination",
-                "when can people over age 65 get vaccine?",
                 "When can I get a vaccination with an underlying health condition",
                 "when can I get my first shot",
                 "How does someone with health problems qualify for vaccine?",
@@ -7952,7 +7991,6 @@
                 "Eligibility for at risk patients",
                 "what are the phases for vaccine",
                 "what are the age brackets for vaccines?",
-                "when will testing for Vermonters over 70 begin?",
                 "What is the current vaccination schedule?",
                 "when do frontline workers get vaccine",
                 "Are people with chronic illnesses eligible for the covid vaccine now?",
@@ -7984,7 +8022,6 @@
                 "high risk",
                 "Wastewater operator",
                 "who can get a vaccine in vermont",
-                "Cancer and COVID vaccine",
                 "Vaccine for in-home caregiver",
                 "can i get the vaccine?",
                 "age group be eligible",
@@ -7994,7 +8031,16 @@
                 "When can 40+ get vaccines?",
                 "nurse trying to make an appointment for COVID vaccine",
                 "When can 60+ get the Covid Vaccine?",
-                "public safety worker"
+                "public safety worker",
+                "When will years old and up be able to get a vaccine?",
+                "when will people aged be able to get vaccinated",
+                "when can people over age get vaccine?",
+                "when does registration open",
+                "what time does online registration open",
+                "time of day can I register",
+                "When will registration open",
+                "what time does enrollment open",
+                "online registration start time"
             ],
             "metadata": [
                 {
@@ -8021,7 +8067,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:12:05.636+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:50:47.276+00:00",
             "isDocumentText": false
         },
         {
@@ -8155,7 +8201,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T17:59:06.1+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:15:29.773+00:00",
             "isDocumentText": false
         },
         {
@@ -8286,7 +8332,8 @@
                 "What happens if I get a reaction to the vaccine",
                 "severe arm pain after covid shot",
                 "allergic reaction to vaccine",
-                "report symptoms for covid vaccine"
+                "report symptoms for covid vaccine",
+                "reactions to vaccine"
             ],
             "metadata": [
                 {
@@ -8305,7 +8352,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:19:58.789+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:12:42.207+00:00",
             "isDocumentText": false
         },
         {
@@ -8350,7 +8397,9 @@
             "questions": [
                 "I am fully vaccinated. Do I need to quarantine if I am a close contact of someone with COVID-19?",
                 "exposure after second vaccine dose",
-                "exposed to a covid positive person and had 2 doses of vaccine"
+                "exposed to a covid positive person and had 2 doses of vaccine",
+                "Do i need to quarantine after exposure to a covid positive person if i am vaccinated?",
+                "vaccinated person has contact with an infected person"
             ],
             "metadata": [
                 {
@@ -8373,7 +8422,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T16:34:30.286+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:35:08.9+00:00",
             "isDocumentText": false
         },
         {
@@ -8425,7 +8474,9 @@
                 "Shingrix",
                 "shingles",
                 "Other vaccines and covid",
-                "Zoster "
+                "Zoster ",
+                "other vaccines",
+                "how long should I wait after getting another vaccine?"
             ],
             "metadata": [
                 {
@@ -8444,7 +8495,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T19:00:51.319+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:43:33.309+00:00",
             "isDocumentText": false
         },
         {
@@ -8475,7 +8526,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:48:52.084+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:08:17.205+00:00",
             "isDocumentText": false
         },
         {
@@ -8483,7 +8534,17 @@
             "answer": "**I am fully vaccinated. Do I need to quarantine if I travel to or return to Vermont?**\n\nIf it has been 14 days since you got your final vaccine dose, you do not need to quarantine when you travel to or return to Vermont. Be sure to carry your COVID-19 vaccine card with you and be prepared to show it when asked.\n\n**Anyone who is not vaccinated and travels with you will need to quarantine** (including children) and follow the [cross state travel guidance](https://accd.vermont.gov/covid-19/restart/cross-state-travel) when they travel to or return to Vermont. For example, if you are a fully vaccinated parent or caregiver and are traveling with children, your children will need to quarantine when they travel to or return to Vermont. Learn about [Vermonters hosting visitors in their homes](https://apps.health.vermont.gov/COVID/faq/#4704).\n\nThere are gathering restrictions in Vermont. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**If you are a health care worker**, check with your employer about any additional requirements.\n\nWe recommend that everyone, including people who got the COVID-19 vaccine, **continue to follow prevention steps** to keep from getting or spreading COVID-19. Learn more about [how to keep staying safe](https://apps.health.vermont.gov/COVID/faq/#4782).",
             "source": "Editorial",
             "questions": [
-                "I am fully vaccinated. Do I need to quarantine if I travel to or return to Vermont?"
+                "I am fully vaccinated. Do I need to quarantine if I travel to or return to Vermont?",
+                "travel and vaccine",
+                "After I have both vaccine shots then can I travel freely?",
+                "If you have received the COVID 19 vaccine what do you have to do when you enter Vermont",
+                "can people who have had the covid vaccination visit vermont without quarantine",
+                "I am vaccinated. Am I required to quarantine when I travel back to Vermont?",
+                "do you need to quarantine if you have COVID-19 vaccine",
+                "how soon can i travel after I get a vaccine?",
+                "if i have a vaccine do i need to quarantine",
+                "Is quarantine necessary after Covid vaccination?",
+                "I have received two doses of vaccination, when can I travel to Vermont"
             ],
             "metadata": [
                 {
@@ -8502,7 +8563,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-08T21:40:53.271+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:22:38.541+00:00",
             "isDocumentText": false
         },
         {
@@ -8537,7 +8598,10 @@
             "answer": "**Can I still infect someone with the COVID-19 virus after I've been fully vaccinated?**\n\nYou may not be protected from COVID-19 until you are fully vaccinated, which is 14 days after your final shot. While the vaccine protects you from serious illness, we don’t know yet if you can give the virus to someone else, how long the [protection lasts](https://apps.health.vermont.gov/COVID/faq/#4834), or how well the vaccines protect against the [newer variants](https://apps.health.vermont.gov/COVID/faq/#4777).\n\nHowever, some recent studies suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. Until more research is done, it is important that you continue to follow the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, and to follow the [social gathering](https://apps.health.vermont.gov/COVID/faq/#4761) guidelines, even after you’ve been vaccinated.\n\nLearn more about the studies:\n\n*   [Decreased SARS-CoV-2 viral load following vaccination](https://www.medrxiv.org/content/10.1101/2021.02.06.21251283v1)\n*   [Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study](https://pubmed.ncbi.nlm.nih.gov/33545090/)",
             "source": "Editorial",
             "questions": [
-                "Can I still infect someone with the COVID-19 virus after I've been fully vaccinated?"
+                "Can I still infect someone with the COVID-19 virus after I've been fully vaccinated?",
+                "when is my vaccine effective",
+                "Can you get the virus after being fully vaccinated?",
+                "Does the vaccine prevent transmission?"
             ],
             "metadata": [
                 {
@@ -8556,7 +8620,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-10T21:24:27.303+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T17:47:16.412+00:00",
             "isDocumentText": false
         },
         {
@@ -8674,12 +8738,15 @@
         },
         {
             "id": 4836,
-            "answer": "**I have a high-risk health condition. How do I make an appointment for a vaccine?**\n\nIf you have a high-risk health condition (listed below), you do not need to contact your health care provider to get documentation of the condition.\n\nYou will make an appointment in our system in the same way as Vermonters who have been eligible by age. You can watch [videos for help making an appointment online](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#video).\n\nYou will be asked some questions. First, you will say that you have one of the health conditions that makes you eligible for a vaccine. This will serve as a self-certification. We trust you to work with us and help make sure that these Vermonters at highest risk due to a medical condition are protected.\n\nWhen making your appointment, you will also be asked to provide information for a health care provider you see for the condition, if you have one. But if you don’t have a health care provider, you can still get a vaccine.\n\nThe Health Department may use the information you provided to confirm your eligibility, either through medical records or by contacting your provider. We may also reach out to people who don’t have a provider to offer a connection to care.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\n**The high-risk health conditions are**:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, including emphysema and chronic bronchitis\n*   Heart disease, including heart attack, heart failure, congestive heart failure, coronary artery disease (angina, acute and chronic ischemic heart disease), cardiomyopathies, and pulmonary hypertension. Does NOT include high blood pressure.\n*   Immunocompromised (weakened immune system), due to solid organ transplant, blood, or bone marrow transplant, immune deficiencies, or other causes; or HIV with a low CD4 cell count or not on HIV treatment; prolonged use of corticosteroids or other immune-suppressing drugs.\n*   Severe obesity (BMI of 40 or above)\n*   Pregnancy\n*   Type 1 and Type 2 diabetes\n*   Disabilities including chromosomal disorders, such as Down syndrome; intellectual disabilities (IQ of 70 or below); disabilities that compromise lung function (neurologic and muscular conditions such as muscular dystrophy, spina bifida, cystic fibrosis, and multiple sclerosis)\n*   Sickle cell disease\n\n[Read descriptions of the high-risk health conditions](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-High-Risk-Health-Conditions-Explained.pdf).",
+            "answer": "**I have a high-risk health condition. How do I make an appointment for a vaccine?**\n\nPeople who are age 16 and older and have a high-risk health condition (listed below) are eligible to get the vaccine. \n\nYou do not need to contact your health care provider to get documentation of the condition.\n\nYou will make an appointment in our system in the same way as Vermonters who have been eligible by age. You do not need a passcode. You can watch [videos for help making an appointment online](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#video).\n\nYou will be asked some questions. First, you will say that you have one of the health conditions that makes you eligible for a vaccine. This will serve as a self-certification. We trust you to work with us and help make sure that these Vermonters at highest risk due to a medical condition are protected.\n\nWhen making your appointment, you will also be asked to provide information for a health care provider you see for the condition, if you have one. But if you don’t have a health care provider, you can still get a vaccine.\n\nThe Health Department may use the information you provided to confirm your eligibility, either through medical records or by contacting your provider. We may also reach out to people who don’t have a provider to offer a connection to care.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\n**The high-risk health conditions are**:\n\n*   Current cancer\n*   Chronic kidney disease\n*   COPD, including emphysema and chronic bronchitis\n*   Heart disease, including heart attack, heart failure, congestive heart failure, coronary artery disease (angina, acute and chronic ischemic heart disease), cardiomyopathies, and pulmonary hypertension. Does NOT include high blood pressure.\n*   Immunocompromised (weakened immune system), due to solid organ transplant, blood, or bone marrow transplant, immune deficiencies, or other causes; or HIV with a low CD4 cell count or not on HIV treatment; prolonged use of corticosteroids or other immune-suppressing drugs.\n*   Severe obesity (BMI of 40 or above)\n*   Pregnancy\n*   Type 1 and Type 2 diabetes\n*   Disabilities including chromosomal disorders, such as Down syndrome; intellectual disabilities (IQ of 70 or below); disabilities that compromise lung function (neurologic and muscular conditions such as muscular dystrophy, spina bifida, cystic fibrosis, and multiple sclerosis)\n*   Sickle cell disease\n\n[Read descriptions of the high-risk health conditions](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-High-Risk-Health-Conditions-Explained.pdf).",
             "source": "Editorial",
             "questions": [
                 "I have a high-risk health condition. How do I make an appointment for a vaccine?",
                 "Health conditions",
-                "cancer"
+                "cancer",
+                "How do you add a medical condition for qualification for COVID Shot?",
+                "registered for the vaccine based on a chronic condition",
+                "Cancer and COVID vaccine"
             ],
             "metadata": [
                 {
@@ -8702,18 +8769,20 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:03:50.551+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T18:57:17.035+00:00",
             "isDocumentText": false
         },
         {
             "id": 4837,
-            "answer": "**I work at a school. How will I get my vaccine?**\n\nVaccines will be available to school staff in all Vermont public and independent K-12 schools as part of our effort to return students to more in-person learning this spring. School staff who are in regular contact with students will be vaccinated starting the week of March 8 through mid-April. \n\nYou will get information about how to make an appointment and what to expect directly from your school leadership. **Please do not try to make an appointment until you hear from your school leadership**. If you have questions, please contact your school’s COVID-19 coordinator. \n\nThe following school staff are eligible for vaccination:\n\n*   All staff who work in Vermont schools including those currently working remotely. All staff includes teachers, paraeducators, administrative assistants, athletic coaches, food service staff, bus drivers and custodians.\n*   Contractors who work regularly in a school setting, such as food service staff and bus drivers.\n*   District office staff whose offices are in a school building or whose work requires them to have regular, in-person contact with students.\n*   Student teachers with classroom assignments during the spring semester.\n*   Substitute teachers who have worked or who will work for your district or school as a substitute teacher during the 2020-2021 school year.\n*   Staff who live out of state who work in a Vermont school are eligible for vaccination.",
+            "answer": "**I work at a school. How will I get my vaccine?**\n\nVaccines will be available to school staff in all Vermont public and independent K-12 schools as part of our effort to return students to more in-person learning this spring. School staff who are in regular contact with students will be vaccinated starting the week of March 8 through mid-April.\n\nYou will get a passcode directly from your school leadership. Then you can make an appointment anywhere. **Please do not try to make an appointment until you hear from your school leadership**. If you have questions, please contact your school’s COVID-19 coordinator.\n\nThe following school staff are eligible for vaccination:\n\n*   All staff who work in Vermont schools including those currently working remotely. All staff includes teachers, paraeducators, administrative assistants, athletic coaches, food service staff, bus drivers and custodians.\n*   Contractors who work regularly in a school setting, such as food service staff and bus drivers.\n*   District office staff whose offices are in a school building or whose work requires them to have regular, in-person contact with students.\n*   Student teachers with classroom assignments during the spring semester.\n*   Substitute teachers who have worked or who will work for your district or school as a substitute teacher during the 2020-2021 school year.\n*   Staff who live out of state who work in a Vermont school are eligible for vaccination.",
             "source": "Editorial",
             "questions": [
                 "I work at a school. How will I get my vaccine?",
                 "work for a school district",
                 "school staff",
-                "Vaccines for teachers"
+                "Vaccines for teachers",
+                "If I work in a school can I get vaccine",
+                "work in a school"
             ],
             "metadata": [
                 {
@@ -8736,17 +8805,18 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:51:57.448+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T19:01:25.491+00:00",
             "isDocumentText": false
         },
         {
             "id": 4838,
-            "answer": "**I work in child care. How will I get my vaccine?**\n\nPeople who work in a regulated child care, preschool or afterschool program that provides direct, in-person care to children are eligible to get the vaccine. Private child care workers (for example, nannies and babysitters) and foster parents are not eligible at this time because they are not part of a regulated child care program. If you have questions about whether you are eligible, email [AHS.DCFCDDInfo@vermont.gov](mailto:AHS.DCFCDDInfo@vermont.gov).\n\nYou will get information about how to make an appointment and what to expect directly from your Child Development Division licensing contact. **Please do not try to make an appointment until you hear from your licensing contact**.\n\nFind more information about [who is eligible and how to sign up to get your vaccine](https://dcf.vermont.gov/cdd-blog/covid-19-vaccine-eligibility-individuals-working-regulated-child-care).",
+            "answer": "**I work in child care. How will I get my vaccine?**\n\nPeople who work in a regulated child care, preschool or afterschool program that provides direct, in-person care to children are eligible to get the vaccine. Private child care workers (for example, nannies and babysitters) and foster parents are not eligible at this time because they are not part of a regulated child care program. If you have questions about whether you are eligible, email [AHS.DCFCDDInfo@vermont.gov](mailto:AHS.DCFCDDInfo@vermont.gov).\n\nYou will get a passcode directly from your Child Development Division licensing contact. Then you can make an appointment anywhere. **Please do not try to make an appointment until you hear from your licensing contact**.\n\nFind more information about [who is eligible and how to sign up to get your vaccine](https://dcf.vermont.gov/cdd-blog/covid-19-vaccine-eligibility-individuals-working-regulated-child-care).",
             "source": "Editorial",
             "questions": [
                 "I work in child care. How will I get my vaccine?",
                 "child care staff",
-                "child care vaccine"
+                "child care vaccine",
+                "Childcare workers"
             ],
             "metadata": [
                 {
@@ -8769,7 +8839,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:47:50.77+00:00",
+            "lastUpdatedTimestamp": "2021-03-24T19:02:05.404+00:00",
             "isDocumentText": false
         },
         {
@@ -8807,7 +8877,7 @@
         },
         {
             "id": 4840,
-            "answer": "**I am an English language learner or a member of the immigrant/refugee community. Am I eligible to get the vaccine?**\n\nThere are community-specific clinics for people who are English language learners or immigrant/refugee community members. If you are age 16 or older, you can register for one of these clinics if someone in your household is:\n\n*   age 65 or older or\n*   age 16 or older with a high-risk health condition or\n\nPlease call the Association of Africans Living in Vermont (AALV) at (802) 985-3106 or the U.S. Committee for Refugees and Immigrants of Vermont (USCRI VT) at (802) 655-1963 to register.\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics.\n\nIf you are eligible for vaccination, you can also make an appointment for yourself only by calling 855-722-7878. Press 1 if you need interpretation services.\n\n[Learn more about working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "answer": "**I am an English language learner or a member of the immigrant/refugee community. Am I eligible to get the vaccine?**\n\nThere are community-specific clinics for people who are English language learners or immigrant/refugee community members. If you are age 16 or older, you can register for one of these clinics if someone in your household is:\n\n*   age 60 or older or\n*   age 16 or older with a high-risk health condition\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics.\n\n[Find details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
                 "I am an English language learner or a member of the immigrant/refugee community. Am I eligible to get the vaccine?",
@@ -8835,12 +8905,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:09:45.93+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T13:55:15.643+00:00",
             "isDocumentText": false
         },
         {
             "id": 4841,
-            "answer": "**I identify as BIPOC (Black, Indigenous and people of color). Am I eligible to get the vaccine?**\n\nWe are working with community partners in Burlington, Brattleboro, and other parts of Vermont to ensure access and prioritize the equitable vaccination of Black, Indigenous, and people of color (BIPOC). The first clinics are being organized in Burlington and Brattleboro with more to come.\n\nIf a person who identifies as BIPOC meets current state eligibility guidelines, they can get vaccinated at one of these clinics with the rest of their household. One household member who identifies as BIPOC must be:\n\n*   age 65 or older or\n*   age 16 or older with a high-risk health condition\n\nIf the eligible member of your household has already been vaccinated, your household is still eligible to register for these clinics. Please note that household members can only register through these specific clinics and not through the regular state website.\n\n[Find details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+            "answer": "**I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?**\n\nIf you live with a person who identifies as Black, Indigenous, or a person of color (BIPOC), including anyone with Abenaki or other First Nations heritage, and is eligible to get a COVID-19 vaccine, you can also sign up to get a vaccine. You can make an appointment at a BIPOC household focused clinic run by one of our partners, or by calling the Health Department at 855-722-7878.\n\nIf the eligible member of your household has already gotten a COVID-19 vaccine, the rest of your household is still eligible to make appointments.\n\n[Find more details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
                 "BIPOC",
@@ -8851,7 +8921,7 @@
                 "people of color",
                 "BIPOC vaccine",
                 "minority",
-                "I identify as BIPOC (Black, Indigenous and people of color. Am I eligible to get the vaccine?"
+                "I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?"
             ],
             "metadata": [
                 {
@@ -8874,7 +8944,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T17:56:01.91+00:00",
+            "lastUpdatedTimestamp": "2021-03-25T13:56:48.928+00:00",
             "isDocumentText": false
         }
     ]
