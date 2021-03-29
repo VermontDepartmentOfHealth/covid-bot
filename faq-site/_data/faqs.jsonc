@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-03-26T19:38:54.816+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:44:04.308+00:00",
             "isDocumentText": false
         },
         {
@@ -454,7 +454,8 @@
                 "can minors be tested",
                 "What test is given",
                 "Need an appointment for a Covid test",
-                "How old do you have to be to be tested for covid"
+                "How old do you have to be to be tested for covid",
+                "If I live out of state can I be tested"
             ],
             "metadata": [
                 {
@@ -482,7 +483,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:13:40.99+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:31:12.309+00:00",
             "isDocumentText": false
         },
         {
@@ -558,7 +559,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:15:29.773+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:31:12.309+00:00",
             "isDocumentText": false
         },
         {
@@ -585,7 +586,8 @@
                 "Is there a fee for covid-19 testing",
                 "Who pays for tests?",
                 "Who pays for it?",
-                "is testing free"
+                "is testing free",
+                "What is the cost of the PCR test?"
             ],
             "metadata": [
                 {
@@ -609,7 +611,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T17:55:30.814+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:28:11.966+00:00",
             "isDocumentText": false
         },
         {
@@ -1976,7 +1978,8 @@
                 "end quarantine after being diagnosed positive",
                 "when can I leave isolation",
                 "safe to be around people after you have had Covid",
-                "recover covid"
+                "recover covid",
+                "test positive even after I've recovered from covid"
             ],
             "metadata": [
                 {
@@ -2004,7 +2007,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:16:20.144+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:30:01.923+00:00",
             "isDocumentText": false
         },
         {
@@ -3960,7 +3963,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T17:55:30.814+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:28:11.966+00:00",
             "isDocumentText": false
         },
         {
@@ -5537,7 +5540,8 @@
                 "when are you contagious after being exposed",
                 "How soon after exposure can I become contagious?",
                 "How long before symptoms am I contagious?",
-                "timeline of illness"
+                "timeline of illness",
+                "what is covid-19 incubation period"
             ],
             "metadata": [
                 {
@@ -5560,7 +5564,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-04T20:09:19.505+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T18:52:54.857+00:00",
             "isDocumentText": false
         },
         {
@@ -6025,7 +6029,12 @@
                 "What happens if i test positive",
                 "I have coronavirus",
                 "If you have Covid-19 what to do",
-                "Once you test positive for Covid how long must you quarantine?"
+                "Once you test positive for Covid how long must you quarantine?",
+                "What do you do if your positive for covid",
+                "Tested positive do I quarantine",
+                "procedure when tested positive",
+                "Covid positive what now",
+                "After testing positive what to do"
             ],
             "metadata": [
                 {
@@ -6052,7 +6061,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:38:13.723+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:33:33.448+00:00",
             "isDocumentText": false
         },
         {
@@ -6441,7 +6450,7 @@
         },
         {
             "id": 4769,
-            "answer": "**Can I get on a list to receive extra or leftover vaccine doses?**\n\nPlease **do not show up at state-run vaccine clinics to wait for extra doses**. The vaccine clinics do not accept walk-ins. You need to have an appointment to get a vaccine.\n\nIf there is extra vaccine that needs to be used, then we may contact people who have already scheduled appointments or people who are in the public safety system, health care personnel, and residents of long-term care facilities eligible groups.\n\nPlease **do not call the Health Department** and ask to be put on a list. The Health Department is not keeping a list.",
+            "answer": "**Can I get on a list to receive extra or leftover vaccine doses?**\n\nPlease **do not show up at state-run vaccine clinics to wait for extra doses**. The vaccine clinics do not accept walk-ins. You need to have an appointment to get a vaccine.\n\nTo help make sure we do not waste vaccine doses, state-run clinics make an estimate of how many doses may remain at the end of the day. If there is a possibility that there will be extra doses, then clinic staff will estimate how many may be available and call people who are currently scheduled for a future COVID-19 vaccine appointment to come in. We can’t guarantee that you will get the vaccine earlier if you are called because the estimated number of available doses could change.\n\nThe Health Department will reach out to you if there is a certain clinic that needs people for a standby list. **Please do not call the Health Department.** We are not taking names of people who contact us wanting to be added to a standby list.\n\nYou will not lose your scheduled vaccination appointment if you join the standby list. But please do not cancel your original appointment since we cannot guarantee you a vaccine even if you are called. If you do get your vaccine earlier, then the clinic staff will cancel your original appointment.\n\nIf you are called, you would need to be able to arrive 30 minutes before the end of the clinic. You’ll be told what that time is when you are called. Clinics happen both weekdays and some weekends and are held during the day and sometimes in the evening.",
             "source": "Editorial",
             "questions": [
                 "Can I get on a list to receive extra or leftover vaccine doses?",
@@ -6466,7 +6475,9 @@
                 "Waitlists",
                 "Call list",
                 "Unused vaccine",
-                "covid vaccine wait list"
+                "covid vaccine wait list",
+                "how do I get on a waitlist",
+                "extra shots"
             ],
             "metadata": [
                 {
@@ -6489,7 +6500,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T19:16:00.024+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:11:57.23+00:00",
             "isDocumentText": false
         },
         {
@@ -6522,7 +6533,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:20:09.442+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:30:01.923+00:00",
             "isDocumentText": false
         },
         {
@@ -6756,7 +6767,9 @@
                 "testing after getting the vaccine",
                 "COVID testing after vaccination",
                 "is it okay to be tested if i got the vaccine",
-                "can i get tested if I've had one vaccine shot?"
+                "can i get tested if I've had one vaccine shot?",
+                "Can a vaccinated person be tested for covid-19?",
+                "If I have been vaccinated, do I need to get a COVID-19 test also?"
             ],
             "metadata": [
                 {
@@ -6779,7 +6792,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:14:39.842+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:29:15.997+00:00",
             "isDocumentText": false
         },
         {
@@ -6810,7 +6823,10 @@
                 "Live in NYS primary doctor in VT can I get vaccine in VT?",
                 "Can people from out of state get a vaccine",
                 "can an out of stater get their vaccine in VT",
-                "Proof of address"
+                "Proof of address",
+                "residency requirements",
+                "I work in VT but live in NH. Can I get Covid Vaccine in VT?",
+                "Can I get my Covid vaccine in Vermont?"
             ],
             "metadata": [
                 {
@@ -6833,7 +6849,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:51:26.208+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:21:20.17+00:00",
             "isDocumentText": false
         },
         {
@@ -6868,7 +6884,9 @@
                 "can I register before it is time for my age group to schedule an appointment",
                 "Can I make an appointment to get the COVID-19 vaccine now? How do I sign up?",
                 "Pre register",
-                "Can you make an account in advance"
+                "Can you make an account in advance",
+                "COVID vaccine screening form ",
+                "how to schedule an appointment"
             ],
             "metadata": [
                 {
@@ -6895,7 +6913,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T19:27:52.691+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:22:30.75+00:00",
             "isDocumentText": false
         },
         {
@@ -6979,7 +6997,9 @@
             "source": "Editorial",
             "questions": [
                 "What are the ingredients in the COVID-19 vaccines?",
-                "anything in the vaccine that I may be allergic to"
+                "anything in the vaccine that I may be allergic to",
+                "egg allergy",
+                "sulfa allergy"
             ],
             "metadata": [
                 {
@@ -6998,7 +7018,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-25T14:21:20.2+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:19:15.652+00:00",
             "isDocumentText": false
         },
         {
@@ -7178,7 +7198,11 @@
                 "bring to the vaccination site",
                 "how long to wait before leaving the site after being vaccinated",
                 "get there very early or near appointment time",
-                "Can I get the vaccine in an automobile"
+                "Can I get the vaccine in an automobile",
+                "do i have to get tested before the vaccine",
+                "bring someone with me",
+                "How to prepare for vaccine",
+                "Am I allowed to bring my child in with me?"
             ],
             "metadata": [
                 {
@@ -7201,7 +7225,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-25T13:57:34.757+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:25:47.07+00:00",
             "isDocumentText": false
         },
         {
@@ -7266,7 +7290,8 @@
                 "Where are the COVID 19 vaccination clinics located?",
                 "Where can I get vaccinated?",
                 "Where does the department of Health give out the COVID vaccine?",
-                "Are vaccines available in"
+                "Are vaccines available in",
+                "Where can I get a covid shot?"
             ],
             "metadata": [
                 {
@@ -7289,7 +7314,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:01:59.557+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:19:40.394+00:00",
             "isDocumentText": false
         },
         {
@@ -7430,7 +7455,7 @@
         },
         {
             "id": 4798,
-            "answer": "**How do I reschedule or cancel my vaccine appointment?**\n\nIt is very important that you keep the appointment you made. Please do not make an appointment if you are not sure you will be able to keep it. Cancellations and unplanned no-shows could cause the vaccine to be spoiled.\n\nIf you need to **cancel your appointment**, please do as soon as possible. You will need to [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Cancel” button.\n\nIf you need to **reschedule your appointment**, [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Reschedule” button. You can then search for and choose another appointment. Your original appointment will not be canceled if you do not find a better date, time or location. You will need to call 855-722-7878 to reschedule your second dose appointment.\n\nYou can call 855-722-7878 if you need help or are not able to cancel or reschedule your appointment online.",
+            "answer": "**How do I reschedule or cancel my vaccine appointment?**\n\nIt is very important that you keep the appointment you made. Please do not make an appointment if you are not sure you will be able to keep it. Cancellations and unplanned no-shows could cause the vaccine to be spoiled.\n\nIf you need to **cancel your appointment**, please do as soon as possible. You will need to [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Cancel” button.\n\nIf you need to **reschedule your appointment**, [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Reschedule” button. You can then search for and choose another appointment. Your original appointment will not be canceled if you do not find a better date, time or location. You will need to call 855-722-7878 to reschedule your second dose appointment.\n\nYou can find a different appointment or adjust other appointment search criteria without losing your information. Click “CANCEL” to leave the “Schedule Appointment” screen, click on “Search Event” in the menu to the left, change your search criteria, and then click “Schedule Appointment” to jump back to where you were.\n\nIf you need help or are not able to cancel or reschedule your appointment online, call 855-722-7878.",
             "source": "Editorial",
             "questions": [
                 "How do I cancel a scheduled appointment",
@@ -7447,7 +7472,12 @@
                 "cancel",
                 "change date of covid 19 vaccine",
                 "reschedule my second vaccination appointment",
-                "check availability of appointments"
+                "check availability of appointments",
+                "change a second dose appointment",
+                "cancel a covid 19 vaccine",
+                "Cancel appointment for second dose",
+                "Can I try to get a vaccine sooner",
+                "search for open appointments if I already have an appointment"
             ],
             "metadata": [
                 {
@@ -7470,7 +7500,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T17:52:47.083+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:23:11.91+00:00",
             "isDocumentText": false
         },
         {
@@ -7546,7 +7576,8 @@
                 "vaccine while in quarantine",
                 "leave quarantine for vaccine",
                 "can I get the vaccine while quarantining",
-                "Can I get the vaccine if I have a cold?"
+                "Can I get the vaccine if I have a cold?",
+                "second dose of vaccine if I have covid 19"
             ],
             "metadata": [
                 {
@@ -7565,7 +7596,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-25T13:54:11.017+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:27:41.422+00:00",
             "isDocumentText": false
         },
         {
@@ -7585,7 +7616,8 @@
                 "how is second dose scheduled",
                 "next shot",
                 "both shots",
-                "First dose effectiveness"
+                "First dose effectiveness",
+                "how to schedule second dose"
             ],
             "metadata": [
                 {
@@ -7604,12 +7636,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T17:55:44.731+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:24:39.898+00:00",
             "isDocumentText": false
         },
         {
             "id": 4803,
-            "answer": "**Which vaccine should I get? Will I have a choice?**\n\nAt this time, you are not able to choose which vaccine you will get. Which vaccine you get will most likely be based on which vaccine is available at your appointment. As time goes on, you may have a choice, especially if ongoing studies determine if one is better for certain people, like for children.\n\nAll three vaccines (Pfizer-BioNTech, Moderna and Johnson & Johnson) are safe and similarly effective at preventing severe illness and death. This standard is what is most commonly used to assess other vaccines like the flu shot. We cannot directly compare the effectiveness of the three vaccines because they were not studied against each other at the same time. Each clinical trial had different study protocols, timing and location. For example, variants weren’t widely circulating when the earlier vaccines were being tested.\n\nThe vaccines available have similar side effects. Side effects are a normal way that your body builds immunity to COVID-19.\n\nLearn more about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes).\n\nFor the two-dose vaccines (Pfizer-BioNTech and Moderna), you should get the same vaccine for both your first and second dose. When you are at your first vaccine appointment, someone will help you schedule an appointment to get your second dose of vaccine. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it.",
+            "answer": "**Which vaccine should I get? Will I have a choice?**\n\nAt this time, there is no way to search for an appointment based on which vaccine is available. Currently, most clinics are offering the Pfizer-BioNTech and Moderna vaccines (two-dose), but some offer the Johnson & Johnson (single dose) vaccine. \n\nHowever, if you are making an appointment through the Health Department system, you will be able to tell if a site has the Johnson & Johnson vaccine. It will say “single dose” after the location of the site. If you see “1” after the location, that site has either the Pfizer-BioNTech or Moderna vaccine.\n\nAll three vaccines (Pfizer-BioNTech, Moderna and Johnson & Johnson) are safe and similarly effective at preventing severe illness and death. This standard is what is most commonly used to assess other vaccines like the flu shot. We cannot directly compare the effectiveness of the three vaccines because they were not studied against each other at the same time. Each clinical trial had different study protocols, timing and location. For example, variants weren’t widely circulating when the earlier vaccines were being tested.\n\nThe vaccines available have similar side effects. Side effects are a normal way that your body builds immunity to COVID-19.\n\nLearn more about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes).\n\nFor the two-dose vaccines (Pfizer-BioNTech and Moderna), you should get the same vaccine for both your first and second dose. When you are at your first vaccine appointment, someone will help you schedule an appointment to get your second dose of vaccine. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it.",
             "source": "Editorial",
             "questions": [
                 "Which vaccine should I get? Will I have a choice?",
@@ -7634,7 +7666,11 @@
                 "can I ask for the one shot vaccine",
                 "What brand vaccine am I getting",
                 "What vaccine am I getting?",
-                "janssen"
+                "janssen",
+                "Which vaccines are available?",
+                "johnson and johnson",
+                "johnson & johnson",
+                "how do i know which shot i will receive"
             ],
             "metadata": [
                 {
@@ -7653,7 +7689,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T17:24:47.3+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:36:17.745+00:00",
             "isDocumentText": false
         },
         {
@@ -7942,7 +7978,7 @@
         },
         {
             "id": 4814,
-            "answer": "**When can I get my vaccine? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination with the goal to have Vermonters fully vaccinated by July. Moving to the next phase is based on the amount of vaccine we get from the federal government. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information about that group.\n\n**Eligible Now**\n\n*   People age 60 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#publicsafety)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#1A)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#1A)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#BIPOC)\n\n**Registration opens at 8:15 a.m. on March 29**\n\n*   People age 50 and older\n\n**Registration opens at 8:15 a.m. on April 5**\n\n*   People age 40 and older\n\n**Registration opens at 8:15 a.m. on April 12**\n\n*   People age 30 and older\n\n**Registration opens at 8:15 a.m. on April 19**\n\n*   People age 16 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nThe length of the entire process will vary, but you can expect it to take about 2 months from when you are eligible to when you are considered fully vaccinated. This includes the time between when you make your appointment, the time of getting your first and final dose, and the 14 days after your final dose for the vaccine to be most effective.\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nWe don't yet know if out-of-state college students will be able to get vaccinated in Vermont. Conversations are ongoing, and we will share information as soon as we have it.\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "answer": "**When can I get my vaccine? Who will be eligible next?**\n\nVermont is using a phased approach to vaccination with the goal to have Vermonters fully vaccinated by July. Moving to the next phase is based on the amount of vaccine we get from the federal government. The list below outlines who is currently eligible and when the next group is eligible. Click on the links for more information about that group.\n\n**Eligible Now**\n\n*   People age 50 and older\n*   People age 16 and older with [certain high-risk health conditions](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#conditions)\n*   People who [work in Vermont K-12 schools](https://apps.health.vermont.gov/COVID/faq/#4837)\n*   People who [work in regulated child care programs](https://apps.health.vermont.gov/COVID/faq/#4838)\n*   People who [work in the public safety system](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#publicsafety)\n*   [Health care workers](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#1A)\n*   [Long-term care residents and staff](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#1A)\n*   [English language learners or members of the immigrant/refugee community](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine)\n*   People who identify as [Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#BIPOC)\n\n**Registration opens at 8:15 a.m. on April 5**\n\n*   People age 40 and older\n\n**Registration opens at 8:15 a.m. on April 12**\n\n*   People age 30 and older\n\n**Registration opens at 8:15 a.m. on April 19**\n\n*   People age 16 and older\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nThe length of the entire process will vary, but you can expect it to take about 2 months from when you are eligible to when you are considered fully vaccinated. This includes the time between when you make your appointment, the time of getting your first and final dose, and the 14 days after your final dose for the vaccine to be most effective.\n\nEven if you’re not currently eligible to get a vaccine, **you can create an account ahead of time** in our online system, so it will be easier to log in and make your appointment later on. Find out [how to create an account](https://apps.health.vermont.gov/COVID/faq/#4781).\n\nWe don't yet know if out-of-state college students will be able to get vaccinated in Vermont. Conversations are ongoing, and we will share information as soon as we have it.\n\nAs part of our strategy to prioritize Vermonters most at risk of severe illness and save lives, we have also begun vaccinating Vermonters in communities that have unique needs, such as people who speak languages other than English and people who are homebound. Learn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
@@ -8013,7 +8049,14 @@
                 "time of day can I register",
                 "When will registration open",
                 "what time does enrollment open",
-                "online registration start time"
+                "online registration start time",
+                "When can I make a vaccine appointment?",
+                "What time",
+                "What time can I register",
+                "eligibility for vaccine",
+                "vaccine eligibility",
+                "what time does appointment signup open",
+                "how long to get an appointment?"
             ],
             "metadata": [
                 {
@@ -8040,7 +8083,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T17:39:47.763+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:03:43.385+00:00",
             "isDocumentText": false
         },
         {
@@ -8108,7 +8151,7 @@
         },
         {
             "id": 4817,
-            "answer": "**How soon after being exposed to someone with COVID-19, or after attending a gathering, should I get tested?**\n\nThe incubation period for the COVID-19 virus is 2 to 14 days. This means that it can take 2 to 14 days after being exposed to get symptoms or to test positive. We recommend you get tested twice — as soon as 2 days after the exposure or gathering and again 7 days after the exposure or gathering if you:\n\n*   think you have been exposed to someone with COVID-19\n*   are a close contact\n*   have gathered with people you don’t live with\n\nFor your initial test, if the result is **negative**, you will need to remain in quarantine and follow guidance provided by the Health Department. If the result is **positive**, you must follow isolation guidance provided by the Health Department.\n\nGetting tested right away means you may be able to find out if you have COVID-19 early. This initial test also helps the Health Department find other people who have COVID-19 more quickly.\n\nGetting tested before day 7 cannot be used to end quarantine early. Read about the [option to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692) by getting tested on day 7 or later. Learn about [why it is okay to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4714).\n\nCheck out this [timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png).\n\nFind out what to do [if you think you had close contact with someone who has COVID-19](https://apps.health.vermont.gov/COVID/faq/#4560).",
+            "answer": "**How soon after being exposed to someone with COVID-19, or after attending a gathering, should I get tested?**\n\nThe incubation period for the COVID-19 virus is 2 to 14 days. This means that it can take 2 to 14 days after being exposed to get symptoms or to test positive. We recommend you get tested twice — as soon as 2 days after the exposure or gathering and again 7 days after the exposure or gathering if you:\n\n*   think you have been exposed to someone with COVID-19\n*   are a close contact\n*   are not fully vaccinated and you gather with multiple households at a time or attend an event\n\nFor your initial test, if the result is **negative**, you will need to remain in quarantine and follow guidance provided by the Health Department. If the result is **positive**, you must follow isolation guidance provided by the Health Department.\n\nGetting tested right away means you may be able to find out if you have COVID-19 early. This initial test also helps the Health Department find other people who have COVID-19 more quickly.\n\nGetting tested before day 7 cannot be used to end quarantine early. Read about the [option to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692) by getting tested on day 7 or later. Learn about [why it is okay to end quarantine early](https://apps.health.vermont.gov/COVID/faq/#4714).\n\nCheck out this [timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png).\n\nFind out what to do [if you think you had close contact with someone who has COVID-19](https://apps.health.vermont.gov/COVID/faq/#4560).",
             "source": "Editorial",
             "questions": [
                 "How soon after being exposed to someone with COVID-19, or after attending a gathering, should I be tested?",
@@ -8141,7 +8184,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-19T15:47:45.009+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:15:27.774+00:00",
             "isDocumentText": false
         },
         {
@@ -8414,7 +8457,8 @@
                 "on antibiotics",
                 "advil for the soreness in the injected arm",
                 "take pain medicine for arm pain after covid shot",
-                "take a pain reliever after the first vaccination for covid-19"
+                "take a pain reliever after the first vaccination for covid-19",
+                "What can I take for sore muscles after my shot"
             ],
             "metadata": [
                 {
@@ -8433,7 +8477,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:16:12.508+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:20:35.215+00:00",
             "isDocumentText": false
         },
         {
@@ -8601,7 +8645,8 @@
             "answer": "**I live in a border town. Do I need to quarantine if I travel to and from towns across the border?**\n\nA border town is considered a town that is within 5 miles of the Vermont border. While travel for essential purposes has been allowed for some time, new guidance allows for limited travel between Vermont’s border towns that are economically and culturally linked to a neighboring state’s border towns. This means that if you are a Vermonter living in a border town or if you live in a border town in a neighboring state, **you do not need to quarantine only if**:\n\n*   You travel 5 miles into a neighboring state or into Vermont; **and**\n*   You travel to a neighboring state or to Vermont and back home in the same day; **and**\n*   You travel for an [essential purpose](https://apps.health.vermont.gov/COVID/faq/#4709) or for an activity that is necessary for your physical or mental health. This includes going to worship, going to a gym, getting a haircut, and participating in place-based outdoor recreation. This does not include activities such as social gatherings, dining at a restaurant or bar, or going to an indoor entertainment venue (for example, a movie theater or bowling alley).\n\nEven though you are allowed to travel, there are still risks involved when you do. Continue following the [COVID-19 prevention measures](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), including [wearing a mask](https://apps.health.vermont.gov/COVID/faq/#4540) and staying at least 6 feet away from people you don’t live with, when you are in a border town in Vermont or in a neighboring state.\n\nEmployers, schools and other organizations may have their own travel guidance that exceeds this policy. Before you decide to travel to a border town, you may want to check with your employer, school or other organization to see if they will require you to quarantine when you return.",
             "source": "Editorial",
             "questions": [
-                "I live in a border town. Do I need to quarantine if I travel to and from towns across the border?"
+                "I live in a border town. Do I need to quarantine if I travel to and from towns across the border?",
+                "people who live near state lines"
             ],
             "metadata": [
                 {
@@ -8620,7 +8665,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:39:27.631+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:31:42.46+00:00",
             "isDocumentText": false
         },
         {
@@ -8687,7 +8732,8 @@
                 "CDC vaccine card",
                 "Replace card",
                 "Lost covid vaccine card",
-                "Lost card"
+                "Lost card",
+                "covid passport"
             ],
             "metadata": [
                 {
@@ -8706,7 +8752,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:03:12.095+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:20:05.345+00:00",
             "isDocumentText": false
         },
         {
@@ -8755,7 +8801,8 @@
                 "school staff",
                 "Vaccines for teachers",
                 "If I work in a school can I get vaccine",
-                "work in a school"
+                "work in a school",
+                "educator"
             ],
             "metadata": [
                 {
@@ -8778,7 +8825,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T19:01:25.491+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:23:39.884+00:00",
             "isDocumentText": false
         },
         {
@@ -8789,7 +8836,8 @@
                 "I work in child care. How will I get my vaccine?",
                 "child care staff",
                 "child care vaccine",
-                "Childcare workers"
+                "Childcare workers",
+                "nanny"
             ],
             "metadata": [
                 {
@@ -8812,7 +8860,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T19:02:05.404+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:24:04.782+00:00",
             "isDocumentText": false
         },
         {
@@ -8883,7 +8931,7 @@
         },
         {
             "id": 4841,
-            "answer": "**I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?**\n\nIf you live with a person who identifies as Black, Indigenous, or a person of color (BIPOC), including anyone with Abenaki or other First Nations heritage, and is eligible to get a COVID-19 vaccine, you can also sign up to get a vaccine. You can make an appointment at a BIPOC household focused clinic run by one of our partners, or by calling the Health Department at 855-722-7878.\n\nIf the eligible member of your household has already gotten a COVID-19 vaccine, the rest of your household is still eligible to make appointments.\n\n[Find more details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
+            "answer": "**I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?**\n\nIf **anyone** in your household is eligible to get the COVID-19 vaccine, **and anyone** in the household identifies as Black, Indigenous, or a person of color (BIPOC), including anyone with Abenaki or other First Nations heritage, **all household members** can also sign up to get a vaccine. If the eligible member of your household has already gotten a COVID-19 vaccine, the rest of your household is still eligible to make appointments.\n\n[Find more details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#BIPOC).",
             "source": "Editorial",
             "questions": [
                 "BIPOC",
@@ -8917,7 +8965,42 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-25T13:56:48.928+00:00",
+            "lastUpdatedTimestamp": "2021-03-29T19:44:04.308+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4842,
+            "answer": "**Can I get my second dose in Vermont if I got my first dose in another state?**\n\nIdeally, you should schedule your second dose at the same place you got your first dose. If that’s not possible, you can call 855-722-7878 to schedule your second dose appointment. You will need to provide a Vermont address to register.",
+            "source": "Editorial",
+            "questions": [
+                "Can I get my second dose in Vermont if I got my first dose in another state?",
+                "Got my first shot out of state",
+                "Got first vaccine in another state can I get second vaccine in Vermont",
+                "Can i schedule my second shot in Vermont if I received my first shot in another state?",
+                "I got my first shot in another state"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "vaccine"
+                },
+                {
+                    "name": "subcategory",
+                    "value": "registration and appointments"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-03-29T19:14:03.824+00:00",
             "isDocumentText": false
         }
     ]
