@@ -188,3 +188,4 @@ npm run deploy-kb
 - [x] fix encoding â€™
 - [x] get primary question from answer markdown
 - [x] conditionally hide alt phrasings when not search hits
+- [ ] research why links do not always go directly to question
