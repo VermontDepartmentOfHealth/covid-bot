@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-04-05T16:34:32.31+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:54:34.017+00:00",
             "isDocumentText": false
         },
         {
@@ -455,7 +455,8 @@
                 "What test is given",
                 "Need an appointment for a Covid test",
                 "How old do you have to be to be tested for covid",
-                "If I live out of state can I be tested"
+                "If I live out of state can I be tested",
+                "Where can I go to get a covid test"
             ],
             "metadata": [
                 {
@@ -483,7 +484,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:31:12.309+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:27:35.231+00:00",
             "isDocumentText": false
         },
         {
@@ -559,7 +560,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:31:12.309+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:27:35.231+00:00",
             "isDocumentText": false
         },
         {
@@ -793,7 +794,9 @@
                 "positive case 2nd person removed",
                 "I have been exposed to someone who tested positive for Covid 19. Do I need to quarantine?",
                 "3rd party contact",
-                "Should I go to work if I am a close contact"
+                "Should I go to work if I am a close contact",
+                "if i live with a known covid case",
+                "I am a contact of a close contact"
             ],
             "metadata": [
                 {
@@ -826,7 +829,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:47:26.149+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:32:53.396+00:00",
             "isDocumentText": false
         },
         {
@@ -1032,7 +1035,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:31:57.824+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:29:01.86+00:00",
             "isDocumentText": false
         },
         {
@@ -1046,7 +1049,8 @@
                 "Lysol",
                 "cleaning the workplace after exposure",
                 "sanitizing apartments",
-                "How do I clean"
+                "How do I clean",
+                "cleaning after covid"
             ],
             "metadata": [
                 {
@@ -1069,7 +1073,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-10T21:15:23.978+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:31:13.665+00:00",
             "isDocumentText": false
         },
         {
@@ -1194,7 +1198,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:47:26.149+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:32:53.396+00:00",
             "isDocumentText": false
         },
         {
@@ -2591,7 +2595,8 @@
                 "quarantine rules",
                 "when must an individual quarantine",
                 "when is day 1 of quarantine",
-                "do i have to quarantine in my house"
+                "do i have to quarantine in my house",
+                "when am i required to quarantine"
             ],
             "metadata": [
                 {
@@ -2623,7 +2628,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:32:47.896+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:29:01.86+00:00",
             "isDocumentText": false
         },
         {
@@ -3101,7 +3106,7 @@
         },
         {
             "id": 4639,
-            "answer": "**How is Vermont deciding when it is safe to reopen?**\n\nIt is important to remember that not everyone infected with the virus has symptoms and there are still many people who are currently infected and could spread it to others.\n\nVermont is looking at four key measures to inform its steps forward:\n\n*   Ongoing reduction in cases for at least 14 days\n*   A health care system that is safely able to treat all patients without exceeding its capacity or using crisis standards of care\n*   The ability to test all people with symptoms\n*   Widespread active monitoring of people who have tested positive for COVID-19 and tracing their close contacts\n\nTo continue to slow the spread of the virus, it is critical that Vermonters continue to follow these prevention steps to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask.\n\nLearn more about [why, how and when to do these things](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\nRead the latest [Vermont COVID-19 modeling projections](https://dfr.vermont.gov/about-us/covid-19/modeling) from the Vermont Department of Financial Regulation.",
+            "answer": "**How is Vermont deciding when it is safe to reopen?**\n\nGovernor Scott released a phased reopening plan – Vermont Forward -- to help Vermonters and local businesses see the path for a phased return to unrestricted travel, business operations, and event gatherings. The plan was developed by the Department of Health, the Department of Public Safety, and the Agency of Commerce and Community Development and uses vaccination milestones to ensure a safe easing of personal restrictions and continued reopening of the state's economy.\n\nLearn about the [Vermont Forward Plan](https://www.vermont.gov/vermont-forward).\n\nRead the latest [Vermont COVID-19 modeling projections](https://dfr.vermont.gov/about-us/covid-19/modeling) from the Vermont Department of Financial Regulation.",
             "source": "Editorial",
             "questions": [
                 "How long has Governor Scott asked residents to stay home?",
@@ -3155,7 +3160,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T19:26:14.345+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:53:54.777+00:00",
             "isDocumentText": false
         },
         {
@@ -4242,7 +4247,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T19:26:14.345+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:53:54.777+00:00",
             "isDocumentText": false
         },
         {
@@ -4302,7 +4307,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:47:26.149+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:32:53.396+00:00",
             "isDocumentText": false
         },
         {
@@ -6265,7 +6270,9 @@
                 "What are the current restrictions on gatherings? Why are social gatherings prohibited right now?",
                 "Current orders",
                 "can i see my friends",
-                "mask wearing indoors with another family"
+                "mask wearing indoors with another family",
+                "How many vaccinated families can gather with non vaccinated people?",
+                "What are the rules about families getting together"
             ],
             "metadata": [
                 {
@@ -6288,7 +6295,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:40:36.117+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:31:57.432+00:00",
             "isDocumentText": false
         },
         {
@@ -6480,7 +6487,8 @@
                 "Unused vaccine",
                 "covid vaccine wait list",
                 "how do I get on a waitlist",
-                "extra shots"
+                "extra shots",
+                "I want to sign up for the end of day vaccine"
             ],
             "metadata": [
                 {
@@ -6503,7 +6511,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:44:11.178+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:21:25.56+00:00",
             "isDocumentText": false
         },
         {
@@ -6708,7 +6716,8 @@
                 "how much vaccine has Vermont received?",
                 "what is the percentage of population being vaccinated",
                 "what is the rate of vaccination in vt",
-                "Vaccines received vs administered"
+                "Vaccines received vs administered",
+                "How many doses of vaccine does VT receive weekly?"
             ],
             "metadata": [
                 {
@@ -6727,7 +6736,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-12T12:29:08.602+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:32:25.741+00:00",
             "isDocumentText": false
         },
         {
@@ -6772,7 +6781,11 @@
                 "is it okay to be tested if i got the vaccine",
                 "can i get tested if I've had one vaccine shot?",
                 "Can a vaccinated person be tested for covid-19?",
-                "If I have been vaccinated, do I need to get a COVID-19 test also?"
+                "If I have been vaccinated, do I need to get a COVID-19 test also?",
+                "If I receive a test right after the shot will it think I have covid",
+                "Will you always test positive after fully vaccinated?",
+                "will vaccine antibodies show covid positive if tested",
+                "if I had a covid vaccine will i show a false positive on a covid pcr test"
             ],
             "metadata": [
                 {
@@ -6795,7 +6808,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:29:15.997+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:28:32.601+00:00",
             "isDocumentText": false
         },
         {
@@ -6890,7 +6903,8 @@
                 "Can you make an account in advance",
                 "COVID vaccine screening form ",
                 "how to schedule an appointment",
-                "How do I make an appointment for a COVID-19 vaccine?"
+                "How do I make an appointment for a COVID-19 vaccine?",
+                "can I preregister for vaccine"
             ],
             "metadata": [
                 {
@@ -6917,7 +6931,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:43:27.228+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:25:57.408+00:00",
             "isDocumentText": false
         },
         {
@@ -7003,7 +7017,11 @@
                 "What are the ingredients in the COVID-19 vaccines?",
                 "anything in the vaccine that I may be allergic to",
                 "egg allergy",
-                "sulfa allergy"
+                "sulfa allergy",
+                "shellfish",
+                "shell fish",
+                "Do the vaccines have Iodine or fish or shell fish in it?",
+                "list of ingredients"
             ],
             "metadata": [
                 {
@@ -7022,7 +7040,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:19:15.652+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:23:22.266+00:00",
             "isDocumentText": false
         },
         {
@@ -7326,7 +7344,9 @@
             "answer": "**I am pregnant or breastfeeding. Should I get vaccinated?**\n\nPregnant people are at an increased risk for severe illness and for [poor pregnancy outcomes](https://www.healthvermont.gov/covid-19/protect-yourself-others/people-higher-risk) if they get COVID-19. Any of the vaccines can be given to people who are pregnant or breastfeeding. \n\nThe three vaccines have not been studied in pregnant people. But medical and scientific experts believe they are unlikely to pose a risk to the pregnant person or fetus because the vaccines cannot copy themselves in the body or cause infection. The [American College of Obstetrics and Gynecology](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2020/12/vaccinating-pregnant-and-lactating-patients-against-covid-19) recommends that COVID-19 vaccines should not be withheld from people who are pregnant, want to become pregnant, or who are lactating.\n\nThere are no data on the safety of COVID-19 vaccines in people who are breastfeeding or the effects of the vaccines on milk production/excretion or on the breastfed baby. Since these vaccines do not reproduce inside your body’s cells, they are not thought to be a risk to the breastfed baby.\n\nThe CDC and other professional organizations recommend that you talk with your health care provider if you have any questions about the vaccines. \n\nFor more information, watch the video [Sara Asks about the COVID-19 Vaccine](https://youtu.be/Idq1kyVwZHk), which is also [available in other languages](https://www.healthvermont.gov/covid-19/resources/multilingual-resources).",
             "source": "Editorial",
             "questions": [
-                "I am pregnant or breastfeeding. Should I get vaccinated?"
+                "I am pregnant or breastfeeding. Should I get vaccinated?",
+                "Will the vaccine harm my unborn baby?",
+                "Can we get the vaccine while breast feeding?"
             ],
             "metadata": [
                 {
@@ -7345,7 +7365,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T17:57:26.446+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:19:00.634+00:00",
             "isDocumentText": false
         },
         {
@@ -7459,7 +7479,7 @@
         },
         {
             "id": 4798,
-            "answer": "**How do I reschedule or cancel my vaccine appointment?**\n\nIt is very important that you keep the appointment you made. Please do not make an appointment if you are not sure you will be able to keep it. Cancellations and unplanned no-shows could cause the vaccine to be spoiled.\n\nIf you need to **cancel your appointment**, please do as soon as possible. You will need to [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Cancel” button.\n\nIf you need to **reschedule your appointment**, [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Reschedule” button. You can then search for and choose another appointment. Your original appointment will not be canceled if you do not find a better date, time or location. You will need to call 855-722-7878 to reschedule your second dose appointment.\n\nIf you need help or are not able to cancel or reschedule your appointment online, call 855-722-7878.",
+            "answer": "**How do I reschedule or cancel my vaccine appointment?**\n\nIt is very important that you keep the appointment you made. Please do not make an appointment if you are not sure you will be able to keep it, especially your second dose appointment. Cancellations and unplanned no-shows could cause the vaccine to be spoiled.\n\nIf you need to **cancel your appointment**, please do as soon as possible. You will need to [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Cancel” button.\n\nIf you need to **reschedule your appointment**, [log in to your account](https://vermont.force.com/events/s/selfregistration) and click on the “Reschedule” button. You can then search for and choose another appointment. Your original appointment will not be canceled if you do not find a better date, time or location.\n\nIf you need to **reschedule your second dose appointment**, you will need to call 855-722-7878. You won’t be able to cancel or reschedule your second dose appointment until it is 3 days before your scheduled appointment. Please understand that if you reschedule your second dose appointment, you may need to wait longer or travel farther than you prefer. We urge you not to cancel your second dose appointment unless absolutely necessary, like an injury or illness. This will help make sure you get your second dose with the same vaccine and on the recommended schedule.\n\nIf you need help or are not able to cancel or reschedule your appointment online, call 855-722-7878.",
             "source": "Editorial",
             "questions": [
                 "How do I cancel a scheduled appointment",
@@ -7481,7 +7501,8 @@
                 "cancel a covid 19 vaccine",
                 "Cancel appointment for second dose",
                 "Can I try to get a vaccine sooner",
-                "search for open appointments if I already have an appointment"
+                "search for open appointments if I already have an appointment",
+                "how do i find a closer clinic"
             ],
             "metadata": [
                 {
@@ -7504,7 +7525,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-05T16:21:51.33+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:54:34.017+00:00",
             "isDocumentText": false
         },
         {
@@ -7621,7 +7642,8 @@
                 "next shot",
                 "both shots",
                 "First dose effectiveness",
-                "how to schedule second dose"
+                "how to schedule second dose",
+                "recommended time between COVID shots"
             ],
             "metadata": [
                 {
@@ -7640,7 +7662,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-01T18:49:03.264+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:26:37.136+00:00",
             "isDocumentText": false
         },
         {
@@ -7674,7 +7696,21 @@
                 "Which vaccines are available?",
                 "johnson and johnson",
                 "johnson & johnson",
-                "how do i know which shot i will receive"
+                "how do i know which shot i will receive",
+                "Single dose",
+                "Where can I get the Johnson & Johnson vaccine?",
+                "Which vaccine am I getting if it says \"single dose\"",
+                "Registration says single dose",
+                "appointment says single dose",
+                "what does single dose mean?",
+                "Does single dose mean the one shot Johnson?",
+                "can we pick which shot we get?",
+                "Does Dose 1 on the appointment mean I need another",
+                "single or two dose",
+                "what is the single shot refer to?",
+                "what is single dose",
+                "single dose vaccine appointment",
+                "single dose vs dose 1"
             ],
             "metadata": [
                 {
@@ -7693,7 +7729,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:36:17.745+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:16:34.423+00:00",
             "isDocumentText": false
         },
         {
@@ -8060,7 +8096,9 @@
                 "eligibility for vaccine",
                 "vaccine eligibility",
                 "what time does appointment signup open",
-                "how long to get an appointment?"
+                "how long to get an appointment?",
+                "When can I schedule my appointment",
+                "What occupation or setting in Vermont is currently eligible?"
             ],
             "metadata": [
                 {
@@ -8087,7 +8125,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-05T16:34:32.31+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:19:38.384+00:00",
             "isDocumentText": false
         },
         {
@@ -8247,7 +8285,8 @@
                 "my daughter tested positive",
                 "Household member has COVID",
                 "Do I need to quarantine if I live with someone or had close contact with someone who tested positive?",
-                "tips for quarantining when you share a home"
+                "tips for quarantining when you share a home",
+                "what if a member of my house tests positive for Covid"
             ],
             "metadata": [
                 {
@@ -8270,7 +8309,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-10T20:26:48.557+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:29:44.784+00:00",
             "isDocumentText": false
         },
         {
@@ -8353,7 +8392,8 @@
                 "severe arm pain after covid shot",
                 "allergic reaction to vaccine",
                 "report symptoms for covid vaccine",
-                "reactions to vaccine"
+                "reactions to vaccine",
+                "reaction to covid vaccine"
             ],
             "metadata": [
                 {
@@ -8372,7 +8412,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:12:42.207+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:27:04.923+00:00",
             "isDocumentText": false
         },
         {
@@ -8704,7 +8744,9 @@
             "answer": "**How long does protection from the vaccine last?**\n\nAccording to the CDC, we don’t know how long protection lasts for those who are vaccinated. What we do know is that COVID-19 has caused very serious illness and death for a lot of people. If you get COVID-19, you also risk giving it to loved ones who may get very sick. Getting a COVID-19 vaccine is a safer choice.\n\nExperts are working to learn more about both natural immunity and immunity from being vaccinated. The CDC will keep the public informed as new evidence becomes available.",
             "source": "Editorial",
             "questions": [
-                "How long does protection from the vaccine last?"
+                "How long does protection from the vaccine last?",
+                "When do I have complete immunity after vaccine?",
+                "when is full protection"
             ],
             "metadata": [
                 {
@@ -8723,7 +8765,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-01T20:35:58.392+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:25:18.781+00:00",
             "isDocumentText": false
         },
         {
@@ -8737,7 +8779,8 @@
                 "Replace card",
                 "Lost covid vaccine card",
                 "Lost card",
-                "covid passport"
+                "covid passport",
+                "record of my Covid vaccination"
             ],
             "metadata": [
                 {
@@ -8756,7 +8799,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:36:39.248+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:23:48.585+00:00",
             "isDocumentText": false
         },
         {
@@ -8935,7 +8978,7 @@
         },
         {
             "id": 4841,
-            "answer": "**I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?**\n\nYes. If you or anyone in your household identifies as Black, Indigenous, or a person of color (BIPOC), including anyone with Abenaki or other First Nations heritage, all household members who are 16 years or older can also sign up to get a vaccine. \n\n[Find more details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#BIPOC).",
+            "answer": "**I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?**\n\nYes. If you or anyone in your household identifies as Black, Indigenous, or a person of color (BIPOC), including anyone with Abenaki or other First Nations heritage, all household members who are 16 years or older can also sign up to get a vaccine.\n\nBIPOC includes anyone who is Black, Brown, Asian (AAPI or APIDA), Indigenous/First Nations/Abenaki, African American, Hispanic, Latino/Latina/Latinx, mixed race, or biracial.\n\nAAPI stands for Asian American and Pacific Islander. APIDA stands for Asian, Pacific Islander, Desi American. Desi is a pan-ethnic term used to refer to people from South Asia.\n\n[Find more details on how to make an appointment](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#BIPOC).",
             "source": "Editorial",
             "questions": [
                 "BIPOC",
@@ -8946,7 +8989,9 @@
                 "people of color",
                 "BIPOC vaccine",
                 "minority",
-                "I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?"
+                "I identify as BIPOC (Black, Indigenous or a person of color). Am I eligible to get the vaccine?",
+                "Abenaki heritage",
+                "asian"
             ],
             "metadata": [
                 {
@@ -8969,7 +9014,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-01T18:09:28.962+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T16:26:49.439+00:00",
             "isDocumentText": false
         },
         {
@@ -9043,7 +9088,9 @@
             "answer": "**I am an undocumented immigrant living in Vermont. Can I get the vaccine?**\n\nYes. You can get the vaccine when you are eligible based on age, health condition, job or setting.\n\nWhen you make a vaccine appointment, you may be asked for certain information. The only answers that are needed to make a vaccine appointment are your name, date of birth, and address. This information is kept confidential since it is legally protected personal health information. If you live in Vermont but do not have an address or do not feel comfortable sharing this information, you can answer \"UNKNOWN\" in the street address field. You will still need to select “VT” from the state dropdown field.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nLearn more about [equal access to the vaccine for undocumented immigrants](https://www.dhs.gov/news/2021/02/01/dhs-statement-equal-access-covid-19-vaccines-and-vaccine-distribution-sites).",
             "source": "Editorial",
             "questions": [
-                "I am an undocumented immigrant living in Vermont. Can I get the vaccine?"
+                "I am an undocumented immigrant living in Vermont. Can I get the vaccine?",
+                "legal resident",
+                "undocumented"
             ],
             "metadata": [
                 {
@@ -9066,7 +9113,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T17:57:44.742+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:20:16.424+00:00",
             "isDocumentText": false
         },
         {
@@ -9075,7 +9122,8 @@
             "source": "Editorial",
             "questions": [
                 "I’m afraid of or triggered by needles. How can I get the vaccine?",
-                "fear of needles"
+                "fear of needles",
+                "needle phobia "
             ],
             "metadata": [
                 {
@@ -9094,7 +9142,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-31T18:05:56.294+00:00",
+            "lastUpdatedTimestamp": "2021-04-06T17:24:23.596+00:00",
             "isDocumentText": false
         }
     ]
