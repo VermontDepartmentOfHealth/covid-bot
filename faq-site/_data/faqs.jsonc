@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-04-09T12:06:55.866+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:23:53.444+00:00",
             "isDocumentText": false
         },
         {
@@ -874,44 +874,8 @@
             "isDocumentText": false
         },
         {
-            "id": 4565,
-            "answer": "**Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?**\n\n**All travel to and from Vermont requires quarantine**. The only exceptions are for [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637) and for [people who are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you are planning on traveling internationally, check the current [list of Travel Advisories by country](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) from the U.S. Department of State, and visit [travel.state.gov](https://www.travel.state.gov/) for detailed information on safe international travel. Also check the CDC’s guidance on [testing and international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.html).\n\nVisit the [CDC’s travel page](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html) for [travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html) and [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).\n\nThe CDC recommends no one travel on cruise ships, including river cruises, worldwide, especially people with an increased risk of serious illness. That’s because the risk of COVID-19 on cruise ships is high. Learn more about [cruise ships and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html).\n\nYou must follow travel restrictions and quarantine requirements for the countries you plan to visit.\n\nFollow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. If you are not fully vaccinated, you must quarantine for 14 days when you return to Vermont. This includes children who travel with their fully vaccinated parents or caregivers. **You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).",
-            "source": "KB-COVID",
-            "questions": [
-                "QnaId4565"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "travel"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "international"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4718,
-                        "displayText": "I have a different question on the topic of travel."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-03-23T18:11:59.434+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4567,
-            "answer": "**Are there any travel rules if I am returning to Vermont?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance. \n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated Vermonters** who have traveled outside the state must be tested within 3 days of returning to Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   Find [free and fast testing](https://www.healthvermont.gov/covid-19/testing/where-get-tested#where) near you.\n*   You do not need to quarantine while you wait for a result. But if you have any symptoms, stay home and away from other people.\n\n**Vaccinated Vermonters** do not need to get tested or quarantine.\n\n**People who had COVID-19 within the last 3 months** and have recovered do not need to test or quarantine unless they develop new symptoms.\n\nFind out more about [what to do when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
+            "answer": "**Are there any travel rules if I traveled out of state and am returning to Vermont?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance.\n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated Vermonters** who have traveled outside the state must be tested within 3 days of returning to Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   Find [free and fast testing](https://www.healthvermont.gov/covid-19/testing/where-get-tested#where) near you.\n*   You do not need to quarantine while you wait for a result. But if you have any symptoms, stay home and away from other people.\n\n**Vaccinated Vermonters** do not need to get tested or quarantine.\n\n**People who had COVID-19 within the last 3 months** and have recovered do not need to test or quarantine unless they develop new symptoms.\n\nRules for Vermonters who have traveled to other countries are different. Learn more about \n\n[international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel).\n\nFind out more about [what to do when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4567"
@@ -938,12 +902,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T11:48:19.436+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:39:45.193+00:00",
             "isDocumentText": false
         },
         {
             "id": 4568,
-            "answer": "**I traveled internationally or by cruise ship. Do I or the people who live with me need to quarantine?**\n\n**All travel to and from Vermont requires quarantine**. The only exceptions are for [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637) and for [people who are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you’ve returned from international travel or from a cruise ship or river cruise voyage, follow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S. If you are not fully vaccinated, you must quarantine for 14 days when you return to Vermont. This includes children who travel with their fully vaccinated parents or caregivers. **You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nThe people you live with who did not travel do not need to quarantine, but should observe themselves for symptoms for 14 days.\n\nLearn about [isolation, quarantine and self-observation](https://apps.health.vermont.gov/COVID/faq/#isolation-quarantine-and-selfobservation).\n\nIf you or the people you live with develop [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), contact your health care provider right away. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\n**More information from the CDC:**\n\n*   [Returning from cruise ship and river cruise voyages](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html)\n*   [Travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html)\n*   [Testing and international air travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.html)\n*   [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html)",
+            "answer": "**I traveled internationally or by cruise ship. What do I need to do when I return to Vermont?**\n\nIf you are planning on traveling internationally, check the current [list of Travel Advisories by country](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) from the U.S. Department of State, and visit [travel.state.gov](http://travel.state.gov/) for detailed information on safe international travel. See CDC guidance on [testing and international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.html).\n\nVisit the [CDC’s travel page](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html) for [travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html) and see the [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).\n\nThe CDC recommends no one travel on cruise ships, including river cruises, worldwide, especially people with an increased risk of serious illness. That’s because the risk of COVID-19 on cruise ships is high. Learn more about [cruise ships and river cruise voyages.](https://www.cdc.gov/coronavirus/2019-ncov/travelers/returning-cruise-voyages.html)\n\nYou must follow travel restrictions and quarantine requirements for the countries you plan to visit.\n\nFollow the CDC’s “[after international travel” guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you enter the U.S.",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4568"
@@ -971,15 +935,10 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4565,
-                        "displayText": "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T18:11:59.434+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:18:27.081+00:00",
             "isDocumentText": false
         },
         {
@@ -1391,7 +1350,7 @@
         },
         {
             "id": 4584,
-            "answer": "**I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?**\n\nThere are gathering restrictions in Vermont. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nFor **outdoor recreation** with people you don’t live with, keep a physical distance of at least 6 feet and wear a mask. There are no other limitations to outdoor activities. Being active outside is good for our mental and physical health!\n\nIf you are a fully vaccinated parent or caregiver and are **traveling with children**, your children will need to quarantine when they return to Vermont. This is because children cannot get vaccinated yet. Learn more about [traveling and quarantine](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask (children over 2 who are able).\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
+            "answer": "**I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?**\n\nThere are gathering restrictions in Vermont. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you are around other people, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nFor **outdoor recreation** with people you don’t live with, keep a physical distance of at least 6 feet and wear a mask. There are no other limitations to outdoor activities. Being active outside is good for our mental and physical health!\n\nIf you are a fully vaccinated parent or caregiver and are traveling with children, your children will need to get tested within 3 days of returning to Vermont. This is because children cannot get vaccinated yet. Learn more about the [travel rules](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\nFollow these general [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask (children over 2 who are able).\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nChildren can also continue to take advantage of technology to play games or keep in touch with friends and family. These changes will continue to be difficult, but we are all doing our part to slow down this pandemic.\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
@@ -1439,7 +1398,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T18:20:12.49+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:54:01.427+00:00",
             "isDocumentText": false
         },
         {
@@ -1649,7 +1608,7 @@
         },
         {
             "id": 4591,
-            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nThere are gathering restrictions in Vermont. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nInformation on [**large events**](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#event-venues), such as weddings, funerals, parties, concerts and large sporting events is available from the Agency of Commerce and Community Development. Learn more about [**wedding ceremonies**](https://apps.health.vermont.gov/COVID/faq/#4666). **Travel for funeral services** is not considered essential. You will need to follow all [cross state travel guidelines](https://accd.vermont.gov/covid-19/restart/cross-state-travel) when you return to Vermont.\n\nAll **traditional fairs and festivals** have been canceled until further notice.\n\n**Organized outdoor markets**, like flea markets, must follow the [farmers market guidance](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/new-farmers-market-guidance-updated-may-5) from the Agency of Agriculture, Food & Markets (AAFM).\n\n[**Farmers markets**](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#farmers-markets) **and** [**pick-your-own farms and orchards**](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#retail-operations) must follow best practices outlined by AAFM.\n\n**Libraries, galleries, museums, theaters** and other [indoor arts, culture and entertainment organizations](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#indoor-arts-culture-and-entertainment) are open with certain occupancy limits and health and safety precautions.\n\nFind more information on the health and safety requirements for [sectors that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#phased-restart) from the Agency of Commerce and Community Development (ACCD).\n\nBecause of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of getting or spreading COVID-19. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).",
+            "answer": "**Are mass gatherings (ceremonies, events, fairs or festivals) allowed?**\n\nCurrently, venues may only host religious ceremonies, wedding ceremonies, funerals and other essential gatherings, but not the receptions and parties that are often affiliated with these gatherings.\n\nAs part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), businesses are transitioning to universal guidance in two phases. Find out more about [large events and universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#specialized-guidance-10-1) from the Agency of Commerce and Community Development (ACCD).\n\nFind out about the current [social gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761) in Vermont.\n\nLearn more about [wedding ceremonies](https://apps.health.vermont.gov/COVID/faq/#4666). \n\nTravel for funeral services is not considered essential. You will need to follow all travel guidance [before you come to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) or [when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
             "source": "Editorial",
             "questions": [
                 "planning large event",
@@ -1703,12 +1662,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:40:36.117+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:51:55.234+00:00",
             "isDocumentText": false
         },
         {
             "id": 4592,
-            "answer": "**Are bars and restaurants open?**\n\nRestaurants, bars and clubs are open under certain health and safety requirements. In-person dining must close at 10 p.m., but curbside and delivery service can be available after 10 p.m. Restaurants, bars and clubs may seat multiple households at the same table, but no more than six people can be seated at the same table.\n\nFind more details and up-to-date information about [restaurants, catering, food service and bars](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#restaurants-catering-food-service-and-bars) from the Agency of Commerce and Community Development (ACCD).",
+            "answer": "**Are bars and restaurants open?**\n\nRestaurants, bars and clubs are open under certain health and safety requirements.\n\nFind more information about [restaurants, catering, food service, social clubs and bars](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#group-b-work-safe-guidance-7-1) from the Agency of Commerce and Community Development (ACCD).",
             "source": "Editorial",
             "questions": [
                 "when will we be allowed to dine in restaurants in Vermont again?",
@@ -1751,7 +1710,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-22T18:14:32.578+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:55:45.812+00:00",
             "isDocumentText": false
         },
         {
@@ -2012,7 +1971,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:30:01.923+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:47:56.231+00:00",
             "isDocumentText": false
         },
         {
@@ -2412,7 +2371,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Are there any travel rules for people visiting Vermont, including people who own second or seasonal homes?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance. \n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated people** must have a COVID-19 test within 3 days before arriving in Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   If the test is negative, no quarantine is needed. If the test is positive, do not come to Vermont.\n\n**Vaccinated people** do not need to get tested or quarantine.\n\n**People who had COVID-19 within the last 3 months** and have recovered do not need to test or quarantine unless they develop new symptoms.\n\n[Masks are required](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces in Vermont. There are also [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nLearn about [overnight stays in lodging, camping or short-term rental properties](https://apps.health.vermont.gov/COVID/faq/#4616).\n\nWe strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders. You must also follow the Governor’s [Be Smart, Stay Safe Order](https://governor.vermont.gov/covid19response).\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**Are there any travel rules for people visiting Vermont, including people who own second or seasonal homes?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance.\n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated people** must have a COVID-19 test within 3 days before arriving in Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   If the test is negative, no quarantine is needed. If the test is positive, do not come to Vermont.\n*   Please bring proof of your negative test result with you.\n\n**Vaccinated people** do not need to get tested or quarantine.\n\n**People who had COVID-19 within the last 3 months** and have recovered do not need to test or quarantine unless they develop new symptoms.\n\nRules for visitors from other countries are different. Learn more about [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel).\n\n[Masks are required](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces in Vermont. There are also [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nLearn about [overnight stays in lodging, camping or short-term rental properties](https://apps.health.vermont.gov/COVID/faq/#4616).\n\nWe strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders.\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
                 "QnaId4615"
@@ -2443,12 +2402,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T11:47:27.675+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:14:54.286+00:00",
             "isDocumentText": false
         },
         {
             "id": 4616,
-            "answer": "**Can I stay overnight at any lodging, camping or short-term rental property in Vermont?**\n\nYes. You can stay overnight at any lodging establishment, short-term rental (for example, VRBO, Homeaway, Airbnb, etc.), public or private campground, RV park, or seasonal resort or marina. \n\nWhen you arrive at the lodging site, you and anyone traveling with you must [self-certify](https://accd.vermont.gov/covid-19/restart/cross-state-travel/certificate-of-compliance-for-lodging-establishments) that you meet **one of these conditions**:\n\n1.  Have had a negative test result within 3 days before arriving in Vermont. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as rapid test) **or**\n2.  Are authorized to work in Vermont.\n\nAnd you must also meet **both of these conditions**:\n\n1.  Not had close contact with someone with COVID-19 in the past 14 days **and**\n2.  Not had [COVID-19-like symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) in the past 24 hours.\n\nFind more details on [lodging and accommodations](https://accd.vermont.gov/content/stay-home-stay-safe-sector-specific-guidance#lodging-accommodations) from the Agency of Commerce and Community Development.\n\nYou are strongly encouraged to [sign up with Sara Alert](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert) to get two weeks of daily symptom check reminders.\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**Can I stay overnight at any lodging, camping or short-term rental property in Vermont?**\n\nYes. You can stay overnight at any lodging establishment, short-term rental (for example, VRBO, Homeaway, Airbnb, etc.), public or private campground, RV park, or seasonal resort or marina.\n\nWhen you arrive at the lodging site, you and anyone traveling with you must [self-certify](https://accd.vermont.gov/covid-19/vermont-forward/cross-state-travel) that you meet **one of these conditions**:\n\n1.  Have had a negative test result within 3 days before arriving in Vermont. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as rapid test) **or**\n2.  Are authorized to work in Vermont **or**\n3.  Are fully vaccinated.\n\nAnd you must also meet **both of these conditions**:\n\n1.  Not had close contact with someone with COVID-19 in the past 14 days **and**\n2.  Not had [COVID-19-like symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) in the past 24 hours.\n\nYou are strongly encouraged to [sign up with Sara Alert](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert) to get two weeks of daily symptom check reminders.\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
                 "Hotel",
@@ -2485,22 +2444,12 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4622,
-                        "displayText": "What do owners of lodging facilities need to do?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T01:22:29.163+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:57:38.635+00:00",
             "isDocumentText": false
         },
         {
@@ -2629,7 +2578,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T01:58:44.549+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:47:56.231+00:00",
             "isDocumentText": false
         },
         {
@@ -2678,7 +2627,7 @@
         },
         {
             "id": 4622,
-            "answer": "**What do owners of lodging establishments need to do?**\n\nLodging operations, short-term rentals, campgrounds and marinas may accept overnight reservations from Vermont residents and out-of-state guests who have met the [quarantine requirement](https://apps.health.vermont.gov/COVID/faq/#4615).\n\nLodging operators should recommend that all out-of-state guests [sign up with Sara Alert](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont#saraalert) once arriving in Vermont to get two weeks of daily symptom check reminders.\n\nFind details on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) for lodging, campgrounds and other accommodations. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nFind out [what to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf) from the Health Department.\n\nThe Vermont State Police and local law enforcement will continue to do [compliance checks](https://governor.vermont.gov/press-release/governor-phil-scott-announces-pause-states-safe-travel-policy-compliance-checks-and) at lodging establishments.",
+            "answer": "**What do owners of lodging establishments need to do?**\n\nAs part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), businesses are transitioning from sector-specific guidance to universal guidance. Effective April 9, 2021, lodging, campgrounds and other accommodations need to follow universal guidance. Find out more about [universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations) from the Agency of Commerce and Community Development (ACCD).\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nFind out [what to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf) from the Health Department.",
             "source": "Editorial",
             "questions": [
                 "What do owners of lodging establishments need to do?"
@@ -2705,7 +2654,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T01:22:29.163+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:57:38.635+00:00",
             "isDocumentText": false
         },
         {
@@ -2827,7 +2776,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What do businesses and non-profits need to do?**\n\nThe Agency of Commerce and Community Development (ACCD) has current information and resources on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including:\n\n*   A step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart)\n*   Up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order) and mandatory health and safety requirements. This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department, including [Winter Indoor Air Guidance](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Winter-Indoor-Air-Guidance.pdf).\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.",
+            "answer": "**What do businesses and non-profits need to do?**\n\nAs part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), businesses are transitioning from sector-specific guidance to universal guidance. The transition will happen in two phases depending on which sector your business belongs to. Find out more about [business operations and universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations) from the Agency of Commerce and Community Development (ACCD).\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.",
             "source": "Editorial",
             "questions": [
                 "sample safety plan",
@@ -2866,18 +2815,13 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4681,
-                        "displayText": "What do employers need to do to reopen their business?"
-                    },
-                    {
                         "displayOrder": 9,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T18:18:46.437+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:56:20.151+00:00",
             "isDocumentText": false
         },
         {
@@ -3102,7 +3046,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:42:41.288+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:54:01.427+00:00",
             "isDocumentText": false
         },
         {
@@ -3150,18 +3094,13 @@
                 "isContextOnly": false,
                 "prompts": [
                     {
-                        "displayOrder": 0,
-                        "qnaId": 4680,
-                        "displayText": "Which businesses are open?"
-                    },
-                    {
                         "displayOrder": 1,
                         "qnaId": 4533,
                         "displayText": "This did NOT answer my question."
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-06T17:53:54.777+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:55:04.502+00:00",
             "isDocumentText": false
         },
         {
@@ -3764,7 +3703,7 @@
         },
         {
             "id": 4666,
-            "answer": "**Can we have our wedding ceremony?**\n\nYou can get a marriage license from Vermont town offices. Check with the town office on how to get your license since they may be operating remotely or offering curbside service. Find up-to-date [information on wedding ceremonies](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#event-venues), including the number of people that are allowed, from the Agency of Commerce and Community Development.\n\n**There are gathering restrictions in Vermont**. This includes any gatherings that are incidental to ceremonies. Find out the [current gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**If you or your guests are visiting Vermont**, you must [quarantine for 14 days](https://apps.health.vermont.gov/COVID/faq/#4615) before engaging in any activities. [If you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825), you do not need to quarantine when you travel to Vermont. You must also follow the Governor’s [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) Order.\n\nYou can end quarantine early if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. If you quarantine in your home state, you must also remain in quarantine until you travel to Vermont. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\n**Have your ceremony outdoors** whenever possible. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nFind more [travel and quarantine information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).",
+            "answer": "**Can we have our wedding ceremony?**\n\nYou can get a marriage license from Vermont town offices. Check with the town office on how to get your license since they may be operating remotely or offering curbside service. Find up-to-date [information on wedding ceremonies](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#specialized-guidance-10-1), including the number of people that are allowed, from the Agency of Commerce and Community Development.\n\nUnvaccinated visitors to Vermont must get tested within 3 days before arriving in Vermont.\n\n[Masks are required](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces in Vermont. There are also [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nHave your ceremony outdoors whenever possible. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\nFind more [travel information](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont) and answers to [frequently asked questions about travel](https://apps.health.vermont.gov/COVID/faq/#travel).",
             "source": "Editorial",
             "questions": [
                 "Will weddings be allowed in September?",
@@ -3795,7 +3734,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:41:00.339+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:23:53.444+00:00",
             "isDocumentText": false
         },
         {
@@ -4151,97 +4090,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4680,
-            "answer": "**Which businesses are open?**\n\nVermont is continuing a phased approach to reopen the economy, balancing overall social and economic wellbeing with preventing a rise in COVID-19 that would set us back.\n\nFind current information on the health and safety requirements for [businesses, non-profit and government operations that are open](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#phased-restart) and [frequently asked questions](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#faqs) from the Agency of Commerce and Community Development (ACCD).\n\nBusinesses can find a [step-by-step guide to reopening](https://accd.vermont.gov/covid-19/business/restart) and up-to-date [phased restart guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order) from the ACCD.\n\nFind the most recent [Governor’s Executive Orders](https://governor.vermont.gov/document-types/executive-orders) for more information.",
-            "source": "Editorial",
-            "questions": [
-                "When will we reopen",
-                "When will things start to open up in Vermont",
-                "Are stores open?",
-                "What is open?",
-                "What is open in Vermont?",
-                "When will the DMV be open?",
-                "reopening",
-                "when will nail salons open?",
-                "Can I get a haircut",
-                "Is the state reopened? Which businesses are open now?",
-                "landscaping rules",
-                "Massage",
-                "When they can open?",
-                "hair salons",
-                "barber shops",
-                "gyms",
-                "fitness centers",
-                "spas",
-                "tattoo",
-                "in-home services",
-                "indoor businesses",
-                "Can people do massage professionally?",
-                "What are Occupancy limits",
-                "What are indoor occupancy restrictions?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, health care and other facilities"
-                },
-                {
-                    "name": "sort",
-                    "value": "1"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4638,
-                        "displayText": "Are sports and outdoor activities allowed?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4639,
-                        "displayText": "How is Vermont deciding when it is safe to reopen?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-06T17:53:54.777+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4681,
-            "answer": "**What do employers need to do to reopen their business?**\n\nAll businesses must follow mandatory health and safety requirements as they reopen.\n\nThe Agency of Commerce and Community Development (ACCD) has the resources businesses need on the [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business), including a step-by-step [reopening guide for businesses](https://accd.vermont.gov/covid-19/business/restart).\n\nBecause stagnant water in plumbing systems can lead to illness or cause disease, offices, retail businesses, gyms and other buildings should follow [state guidance and recommendations](https://dec.vermont.gov/water/COVID-19-Response-and-Resources) as they reopen and before using the drinking water again. Read the CDC’s [Guidance for Reopening Buildings After Shutdown](https://www.cdc.gov/coronavirus/2019-ncov/php/building-water-system.html) for more information.",
-            "source": "Editorial",
-            "questions": [
-                "What do employers need to do to reopen their business?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, health care and other facilities"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-03-18T18:18:46.437+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4682,
             "answer": "**What is contact tracing?**\n\nContact tracing is used to provide education, support and guidance to people who are diagnosed with an infectious disease. It’s also used to identify people who have been in close contact with them, so they can take steps to stop the disease from spreading to others.\n\n**If you test positive for COVID-19**, you will get a call from the Health Department. A trained public health worker, called a contact tracer, will give you guidance to stay home and away from other people until you recover. This stops the virus from spreading to other people. They will ask you questions about your symptoms, activities, and who you may have come into contact with during a specific period of time. This information is only used to prevent the spread of COVID-19. The contact tracer **does not** enforce rules. You **will not** get in trouble if you gathered with people or did not follow protocols.\n\n**If you are identified as a close contact,** you will be contacted. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will contact you and tell you the date when you may have been exposed. They will give you guidance to stay home and away from others for a certain amount of time. They will ask you to watch for symptoms and ask if you need any help while staying home. The contact tracer **does not** enforce rules. You **will not** get in trouble if you gathered with people or did not follow protocols.\n\nIf you receive a text message from 89361, this is a notification from the Health Department that you are a close contact of someone who tested positive for COVID-19. Soon you will receive a call from a Health Department Contact Tracer. Find out [what you need to do if you are a close contact](https://www.healthvermont.gov/covid-19/symptoms-sickness/you-are-close-contact-someone-covid-19).\n\n**It’s important to answer the call** and to answer questions as completely as possible to make sure everyone knows what steps to take to prevent further spread of the virus. Governor Scott’s [Executive Order](https://governor.vermont.gov/sites/scott/files/documents/ADDENDUM%208%20TO%20AMENDED%20AND%20RESTATED%20EXECUTIVE%20ORDER%2001-20.pdf) calls on Vermonters to comply with all contact tracing requests.\n\nAll restaurants and other businesses are keeping a 30-day log of employee and guest names and contact information in case contact tracing is needed.\n\nConsider keeping a contact journal – a list of other people who you have been in close contact with each day. If you do get sick, this would make it easier to get in touch with those people and so they can take proper precautions to prevent further spread of COVID-19.\n\nCurrently, Vermont is not participating in the contact tracing notifications that are available on some cell phones. We are waiting to see how successful this service is in other states who are participating. If it’s proven to be effective, we will consider using it.\n\nLearn how [contact tracing for COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) works in Vermont.",
             "source": "Editorial",
@@ -4353,7 +4201,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:40:36.117+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:55:45.812+00:00",
             "isDocumentText": false
         },
         {
@@ -4386,7 +4234,7 @@
         },
         {
             "id": 4692,
-            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nIf you are currently under [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) and have had no symptoms of COVID-19 during the first seven days of quarantine, you have the option to be tested and end your quarantine early. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\n**If you develop symptoms** at any point during your quarantine, contact your health care provider and the Health Department right away.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nFor **travelers** who are [completing quarantine in their home state](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont), your home state may offer testing for people without symptoms. Continue to quarantine until you travel to Vermont.\n\n**You must quarantine even if you had COVID-19 or received a positive antibody test**. Learn more [about why](https://apps.health.vermont.gov/COVID/faq/#4770).\n\n**If you had COVID-19 within the last 3 months and then travel**, we recommend that you quarantine for the full 14 days. This is because if you get tested, you may still test positive for COVID-19, and then you would need to isolate for another 10 days.\n\nStudies have found most people will develop symptoms by day 7. This is [why there is the option](https://apps.health.vermont.gov/COVID/faq/#4714) for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
+            "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nIf you are currently under [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) and have had no symptoms of COVID-19 during the first seven days of quarantine, you have the option to be tested and end your quarantine early. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\n**If you develop symptoms** at any point during your quarantine, contact your health care provider and the Health Department right away.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nStudies have found most people will develop symptoms by day 7. This is [why there is the option](https://apps.health.vermont.gov/COVID/faq/#4714) for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
             "source": "Editorial",
             "questions": [
                 "I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?",
@@ -4425,7 +4273,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-18T19:16:20.144+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:47:56.231+00:00",
             "isDocumentText": false
         },
         {
@@ -4947,7 +4795,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T12:02:02.461+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:18:27.081+00:00",
             "isDocumentText": false
         },
         {
@@ -5024,11 +4872,6 @@
             "context": {
                 "isContextOnly": true,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4565,
-                        "displayText": "Where is it safe to travel internationally? Is it safe to go on a cruise ship or river cruise?"
-                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4568,
@@ -5265,7 +5108,7 @@
         },
         {
             "id": 4727,
-            "answer": "**Is it safe to send my children to school or child care?**\n\nYes. Based on current data and levels of the COVID-19 virus in Vermont, it is safe – and important – for children to go to school or child care for in-person learning. The Vermont Chapter of the American Academy of Pediatrics asked schools to prioritize in-person attendance for preschool to grade 5, and for students with special needs.\n\nWe know much more about the virus now than we did in March when schools closed for the spring. The Health Department can track data in real-time and respond to cases quickly with our contact tracing teams. We also have robust testing and [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) system in Vermont that will support schools in containing the virus if there is a case.\n\nChildren need structure, relationships with their peers, teachers, and other adults for their academic, social, and emotional development. Although remote learning is an important tool during the pandemic, it can lead to even greater gaps in equity. Public health and education experts considered all these factors when writing Vermont’s guidance to reopen schools, which focuses on the safety of teachers, staff, and students.\n\nWe are seeing more cases of COVID-19 in children nationwide and in Vermont, but that is not surprising as states have reopened, and more testing has become available.\n\nVermont has seen cases in schools, but by following health guidance, we are all working together to keep the virus out of schools as much as possible and prevent it from spreading through physical distancing, wearing masks, hand hygiene, and contact tracing.\n\n**Learn more**:\n\n*   [What parents can expect for pre-K through 12th grade](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-FAQ4Families-Schools.pdf)\n*   [Returning to school following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoSchoolAfterIllness.pdf)\n*   [Returning to child care or an out of school care program following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoChildCareAfterIllness10.6.pdf)\n*   [What if there is a case of COVID-19 in school?](https://apps.health.vermont.gov/COVID/faq/#4738)\n*   [COVID-19 cases in K-12 learning communities while infectious](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Transmission-Schools.pdf)\n*   [Information for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [School-based sports program guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports)\n*   [Music education guidance](https://education.vermont.gov/documents/strong-and-healthy-start-safety-and-health-guidance-for-music-education)",
+            "answer": "**Is it safe to send my children to school or child care?**\n\nYes. Based on current data and levels of the COVID-19 virus in Vermont, it is safe – and important – for children to go to school or child care for in-person learning. The Vermont Chapter of the American Academy of Pediatrics asked schools to prioritize in-person attendance for preschool to grade 5, and for students with special needs.\n\nWe know much more about the virus now than we did in March when schools closed for the spring. The Health Department can track data in real-time and respond to cases quickly with our contact tracing teams. We also have robust testing and [contact tracing](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) system in Vermont that will support schools in containing the virus if there is a case.\n\nChildren need structure, relationships with their peers, teachers, and other adults for their academic, social, and emotional development. Although remote learning is an important tool during the pandemic, it can lead to even greater gaps in equity. Public health and education experts considered all these factors when writing Vermont’s guidance to reopen schools, which focuses on the safety of teachers, staff, and students.\n\nWe are seeing more cases of COVID-19 in children nationwide and in Vermont, but that is not surprising as states have reopened, and more testing has become available.\n\nVermont has seen cases in schools, but by following health guidance, we are all working together to keep the virus out of schools as much as possible and prevent it from spreading through physical distancing, wearing masks, hand hygiene, and contact tracing.\n\n**Learn more**:\n\n*   [What parents can expect for pre-K through 12th grade](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-FAQ4Families-Schools.pdf)\n*   [Returning to school following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoSchoolAfterIllness.pdf)\n*   [Returning to child care or an out of school care program following illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoChildCareAfterIllness10.6.pdf)\n*   [What if there is a case of COVID-19 in school?](https://apps.health.vermont.gov/COVID/faq/#4738)\n*   [COVID-19 cases in K-12 learning communities while infectious](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Transmission-Schools.pdf)\n*   [Information for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Safety and Health Guidance for Vermont Schools](https://education.vermont.gov/documents/guidance-strong-healthy-year-health-guidance)\n*   [School-based sports program guidance](https://accd.vermont.gov/news/update-new-work-safe-additions-stay-home-stay-safe-order#sports-and-organized-sports)\n*   [Music education guidance](https://education.vermont.gov/documents/strong-and-healthy-start-safety-and-health-guidance-for-music-education)",
             "source": "Editorial",
             "questions": [
                 "Is it safe to send my children to school or child care?"
@@ -5291,12 +5134,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T18:20:43.389+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:54:40.079+00:00",
             "isDocumentText": false
         },
         {
             "id": 4728,
-            "answer": "**Can I travel to or from Canada?**\n\n**All travel to and from Vermont requires quarantine**. The only exceptions are for [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637) and for [people who are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nCheck CDC’s [travel notices for Canada](https://wwwnc.cdc.gov/travel/notices/warning/coronavirus-canada) and read Canada’s [entry restrictions](https://travel.gc.ca/travel-covid/travel-restrictions) for current information about travel to or from Canada. Follow the CDC’s [after travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you return to the U.S.\n\nIf you are not fully vaccinated, you must quarantine for 14 days when you return to Vermont. This includes children who travel with their fully vaccinated parents or caregivers. **You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nQuarantining after international travel is the best practice. However, travelers to and from Canada for [essential purposes](https://apps.health.vermont.gov/COVID/faq/#4637) are exempt from the quarantine requirement.\n\nInternational travelers can get tested in Vermont for free. Learn more about [getting tested for COVID-19](https://apps.health.vermont.gov/COVID/faq/#4545).",
+            "answer": "**Can I travel to or from Canada?**\n\nCheck CDC’s [travel notices for Canada](https://wwwnc.cdc.gov/travel/notices/warning/coronavirus-canada) and read Canada’s [entry restrictions](https://travel.gc.ca/travel-covid/travel-restrictions) for current information about travel to or from Canada.\n\nFollow the CDC’s “[after international travel” guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you enter the U.S. \n\nInternational travelers can get tested in Vermont for free. Learn more about [getting tested for COVID-19](https://apps.health.vermont.gov/COVID/faq/#4545).",
             "source": "Editorial",
             "questions": [
                 "QnaId4728"
@@ -5327,12 +5170,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:45:42.252+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:18:03.533+00:00",
             "isDocumentText": false
         },
         {
             "id": 4729,
-            "answer": "**Do I need to bring my negative test result or my vaccine card with me when I travel to Vermont?**\n\nYes. You should bring a copy of your negative test result or your vaccine card with you and be prepared to show it when asked. \n\nIf you are staying at a lodging, camping or short-term rental property in Vermont, you must also [self-certify that you meet certain conditions](https://apps.health.vermont.gov/COVID/faq/#4616).\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**Do I need to bring my negative test result or my vaccine card with me when I travel to Vermont?**\n\nYes. You should bring a copy of your negative test result or your vaccine card with you and be prepared to show it when asked.\n\nIf you are staying at a lodging, camping or short-term rental property in Vermont, you must also [self-certify that you meet certain conditions](https://accd.vermont.gov/covid-19/vermont-forward/cross-state-travel).\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
                 "What documentation is required to show that I got tested prior to coming to Vermont",
@@ -5357,7 +5200,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T01:25:25.737+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:42:20.166+00:00",
             "isDocumentText": false
         },
         {
@@ -5390,35 +5233,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-03-16T18:50:26.42+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4731,
-            "answer": "**I need to drop off a student at college. Do I need to quarantine?**\n\nIf you are dropping off a college student at a Vermont college or at an out-of-state college, there are two options:\n\n1.  You follow the State of Vermont’s [cross state travel guidance](https://accd.vermont.gov/covid-19/restart/cross-state-travel).\n2.  You do a “contactless” drop-off while under quarantine conditions.\n\nHere are the quarantine conditions for option 2:\n\n*   You must travel by personal vehicle to and from Vermont.\n*   Do not enter any college facilities. You may help the student unload at the curb only.\n*   Wear a mask any time you are outside of your vehicle.\n*   Stay at least 6 feet away from people you don’t live with.\n*   You may stay overnight at a lodging property only if you quarantine at that property for your entire stay. This means you must stay in the room or house and not leave to go to the grocery store, restaurants or any other places where you might come into contact with other people. You may not use lodging property amenities such as pools, spas, gyms, recreation equipment or other general use facilities.\n*   If you are coming to Vermont and staying with family and friends at their home, you must quarantine during your entire stay. This means you need to stay at least 6 feet from the people who are hosting you, wear a mask in common spaces, use a separate bathroom, eat separately, and otherwise not be in close contact with the people who are hosting you.\n\nYou may have one additional person with you during drop-off, but they must also follow these quarantine options.\n\n[**If you are fully vaccinated**](https://apps.health.vermont.gov/COVID/faq/#4825), you do not need to quarantine when you to travel to or return to Vermont.\n\nCheck with the school before you travel to find out if there are any move-in restrictions or rules.",
-            "source": "Editorial",
-            "questions": [
-                "I need to drop off a student at college. Do I need to quarantine?",
-                "Contactless move in",
-                "Student move in"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "travel"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-23T20:26:45.676+00:00",
             "isDocumentText": false
         },
         {
@@ -5526,7 +5340,7 @@
         },
         {
             "id": 4737,
-            "answer": "**I want to travel to Vermont from a foreign country. Is that allowed?**\n\n**All travel to Vermont requires quarantine**. The only exceptions are for [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637) and for [people who are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825). The Health Department and the CDC strongly recommend **not** traveling right now.\n\nIf you are not a U.S. citizen, check the CDC’s travel page for [advisories for travelers who are prohibited from entering the U.S](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html). Also check the CDC’s guidance on [testing and international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.html).\n\nIf you are not fully vaccinated, you must quarantine for 14 days once you arrive in Vermont. This includes children who travel with their fully vaccinated parents or caregivers. **You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nInternational travelers can get tested in Vermont for free. Learn more about [getting tested for COVID-19](https://apps.health.vermont.gov/COVID/faq/#4545).\n\nFind out about [travel from Canada](https://apps.health.vermont.gov/COVID/faq/#4728).",
+            "answer": "**I want to travel to Vermont from a foreign country. Is that allowed?**\n\nIf you are planning on traveling internationally, check the current [list of Travel Advisories by country](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) from the U.S. Department of State, and visit [travel.state.gov](http://travel.state.gov/) for detailed information on safe international travel. See CDC guidance on [testing and international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.html).\n\nVisit the [CDC’s travel page](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html) for [travel recommendations by country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html) and see the [FAQs for Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html).\n\nInternational travelers can get tested in Vermont for free. Learn more about [getting tested for COVID-19](https://apps.health.vermont.gov/COVID/faq/#4545).\n\nFollow the CDC’s “[after international travel” guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) when you enter the U.S. \n\nFind out about [travel from Canada](https://apps.health.vermont.gov/COVID/faq/#4728).",
             "source": "Editorial",
             "questions": [
                 "QnaId4737"
@@ -5557,7 +5371,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-23T17:47:18.619+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:46:08.775+00:00",
             "isDocumentText": false
         },
         {
@@ -6153,7 +5967,7 @@
         },
         {
             "id": 4761,
-            "answer": "**What are the current restrictions on gatherings?**\n\nVermont has restrictions on social gatherings based on whether you are fully vaccinated or not. You are fully vaccinated 14 days after your final shot. Since children cannot get vaccinated at this time, a household with children is **not** considered a fully vaccinated household.\n\nIf you **are** fully vaccinated:\n\n*   **You may gather with other fully vaccinated people or households.** You don’t need to wear a mask or stay 6 feet apart when you gather.\n*   **You may gather with up to two unvaccinated people or households at a time**. The gathering can also include other vaccinated people or households. If you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart.\n\nIf you **are not** fully vaccinated:\n\n*   **You may gather with fully vaccinated people or households**. You don’t need to wear a mask or stay 6 feet apart, unless someone is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk.\n*   **You may gather with one other unvaccinated person or household at a time**. Fully vaccinated people or households can also be at the gathering. Everyone should wear a mask and stay 6 feet apart.\n*   **You can do outdoor recreation and fitness activities with anyone.** This includes biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   **If you live alone**, you may gather with people who live in one other household.\n*   **You can take in and shelter** people from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n\n**If you are a visitor traveling to Vermont** and staying at a lodging establishment, short-term rental, or with friends and family, must follow these gathering restrictions. Staying with another household is considered a social gathering and you must follow the rules listed above. Learn more about [Vermonters hosting visitors in their homes](https://apps.health.vermont.gov/COVID/faq/#4704).\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.",
+            "answer": "**What are the current restrictions on gatherings?**\n\nVermont has restrictions on social gatherings based on whether you are fully vaccinated or not. You are fully vaccinated 14 days after your final shot. Since children cannot get vaccinated at this time, a household with children is **not** considered a fully vaccinated household. Find out [when the social gathering restrictions will change](https://accd.vermont.gov/covid-19/vermont-forward/events-and-gatherings).\n\nIf you **are** fully vaccinated:\n\n*   **You may gather with other fully vaccinated people or households.** You don’t need to wear a mask or stay 6 feet apart when you gather.\n*   **You may gather with up to two unvaccinated people or households at a time**. The gathering can also include other vaccinated people or households. If you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart.\n\nIf you **are not** fully vaccinated:\n\n*   **You may gather with fully vaccinated people or households**. You don’t need to wear a mask or stay 6 feet apart, unless someone is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk.\n*   **You may gather with one other unvaccinated person or household at a time**. Fully vaccinated people or households can also be at the gathering. Everyone should wear a mask and stay 6 feet apart.\n*   **You can do outdoor recreation and fitness activities with anyone.** This includes biking, hiking, walking, running, hunting and fishing, skiing, snowboarding, skating, snow machining and other no-contact outdoor activities. However, you must stay at least 6 feet away from people you don’t live with and wear a mask at all times. Do not gather at trailheads, access areas or other outdoor facilities before or after the activity.\n*   **If you live alone**, you may gather with people who live in one other household.\n*   **You can take in and shelter** people from another household who are living in a dangerous, unhealthy or otherwise unsafe situation.\n\n**If you are a visitor traveling to Vermont** and staying at a lodging establishment, short-term rental, or with friends and family, must follow these gathering restrictions. Staying with another household is considered a social gathering and you must follow the rules listed above. Learn more about [Vermonters hosting visitors in their homes](https://apps.health.vermont.gov/COVID/faq/#4704).\n\nIt is not considered a social gathering if you have contact with someone for less than 15 minutes, you both are wearing masks, and you stay at least 6 feet apart (for example, checking on a neighbor, friend or family member not in your household). You are allowed to come in contact with members of other households in settings that continue to operate – such as schools, workplaces, retail stores, close contact businesses, etc. – as long as all the required health protocols are followed.",
             "source": "Editorial",
             "questions": [
                 "Why are social gatherings prohibited right now?",
@@ -6217,7 +6031,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-06T17:31:57.432+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:51:18.9+00:00",
             "isDocumentText": false
         },
         {
@@ -6438,7 +6252,7 @@
         },
         {
             "id": 4770,
-            "answer": "**I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?**\n\nThe Governor’s executive orders do not exempt people who had COVID-19 or received a positive antibody test. This means that even if you had COVID-19 or received a positive antibody test, **you must quarantine when you travel or return to Vermont** under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine). This also means that you must follow the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nIf you have received a [positive antibody test](https://apps.health.vermont.gov/COVID/faq/#4654), that does not mean you have “proof of immunity” from COVID-19.\n\nCurrently, we recommend that everyone, including people who had COVID-19, received a positive antibody test, or got the COVID-19 vaccine, continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask.",
+            "answer": "**I had COVID-19 or received a positive antibody test. Does that mean I am exempt from the travel quarantine or social gathering requirements?**\n\nIf you had COVID-19 within the last 3 months and have recovered, you do not need to test or quarantine unless they develop new symptoms. If you had COVID-19 and it’s been more than 3 months since you recovered, **you must get tested when you travel to or return to Vermont** under the [current travel rules](https://www.healthvermont.gov/covid-19/travel-quarantine). \n\nIf you received a positive antibody test, **you must get tested when you travel to or return to Vermont** under the [current travel rules](https://www.healthvermont.gov/covid-19/travel-quarantine). Getting a [positive antibody test](https://apps.health.vermont.gov/COVID/faq/#4654), that does not mean you have “proof of immunity” from COVID-19.\n\nEveryone must follow the current [social gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nCurrently, we recommend that everyone, including people who had COVID-19 or received a positive antibody test, continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19.",
             "source": "Editorial",
             "questions": [
                 "Can I travel to Vermont if I'm vaccinated?",
@@ -6466,7 +6280,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-29T19:30:01.923+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:53:18.253+00:00",
             "isDocumentText": false
         },
         {
@@ -7913,7 +7727,7 @@
         },
         {
             "id": 4813,
-            "answer": "**How can we make holiday celebrations safer?**\n\nTo slow the spread of COVID-19, Vermonters are not allowed to gather with anyone you don’t live with. We know how hard it is to be apart from family and friends who we usually celebrate holidays with. Here’s what you need to know:\n\n*   Staying home and with people you live with is still the lowest risk.\n*   The Health Department strongly encourages getting tested as soon as 2 days after the gathering, and again 7 days after the gathering.\n*   The Health Department strongly advises against travel, even within Vermont. All travel to and from Vermont requires quarantine (unless it’s considered [essential travel](https://apps.health.vermont.gov/COVID/faq/#4637)).\n\nQuarantine means staying home and away from other people for 14 days. You can end quarantine early if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. Imagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. The more layers there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, holidays will look different and we need to do everything we can to keep each other safe.\n\nFind information for [communities of faith](https://www.healthvermont.gov/covid-19/your-community/communities-faith).\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/winter.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
+            "answer": "**How can we make holiday celebrations safer?**\n\nTo slow the spread of COVID-19, Vermont has [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761). We know how hard it is to be apart from family and friends who we usually celebrate holidays with. Here’s what you need to know:\n\n*   Staying home and with people you live with is still the lowest risk.\n*   The Health Department strongly encourages people who are unvaccinated and gather with multiple households at a time get tested as soon as 2 days after the gathering, and again 7 days after the gathering.\n*   The Health Department strongly advises against travel, even within Vermont. Find out the [current travel rules](https://www.healthvermont.gov/covid-19/travel-quarantine).\n\nAny time you are around others, remember to add these things: 6-Foot Spaces, Masks on Faces, Uncrowded Places. Imagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. The more layers there are, the safer everyone will be. Learn more about [COVID-19 prevention steps](https://www.healthvermont.gov/staysafevt).\n\nRemember, the virus can spread easily among family and friends — because they are the ones we are often in close contact with — when they don’t know they have it. Like other aspects of our lives, holidays will look different and we need to do everything we can to keep each other safe.\n\nFind information for [communities of faith](https://www.healthvermont.gov/covid-19/your-community/communities-faith).\n\n**Find more tips from the CDC:**\n\n*   [Holiday celebrations](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/winter.html)\n*   [Hosting gatherings or cook-outs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings)\n*   [Attending an event or gathering](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#event)",
             "source": "Editorial",
             "questions": [
                 "How can we make holiday celebrations safer?"
@@ -7935,7 +7749,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-16T18:48:23.274+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T20:22:54.175+00:00",
             "isDocumentText": false
         },
         {
@@ -8236,7 +8050,7 @@
         },
         {
             "id": 4820,
-            "answer": "**I had COVID-19. Do I need to quarantine if I am a close contact of someone with COVID-19?**\n\nIf you had COVID-19 – and then are exposed to someone with COVID-19 (for example, you are a close contact of someone with COVID-19) – **you do not need to quarantine only if**:\n\n1.  you had a positive COVID-19 test result (from a PCR or antigen test) and have met the [criteria to end your isolation](https://apps.health.vermont.gov/COVID/faq/#4601), **and**\n2.  the new exposure is within the first 3 months [after symptoms from your initial infection started](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), or within the first 3 months of your [first positive test if you didn’t have symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png) during your initial infection, **and**\n3.  you have not had any COVID-19 symptoms since the new exposure.\n\nHowever, **you must quarantine** when you travel or return to Vermont under the [current travel guidelines](https://www.healthvermont.gov/covid-19/travel-quarantine) and you must follow the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).",
+            "answer": "**I had COVID-19. Do I need to quarantine if I am a close contact of someone with COVID-19?**\n\nIf you had COVID-19 – and then are exposed to someone with COVID-19 (for example, you are a close contact of someone with COVID-19) – **you do not need to quarantine only if**:\n\n1.  you had a positive COVID-19 test result (from a PCR or antigen test) and have met the [criteria to end your isolation](https://apps.health.vermont.gov/COVID/faq/#4601), **and**\n2.  the new exposure is within the first 3 months [after symptoms from your initial infection started](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), or within the first 3 months of your [first positive test if you didn’t have symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png) during your initial infection, **and**\n3.  you have not had any COVID-19 symptoms since the new exposure.\n\nHowever, **you must follow** the [current social gathering guidelines](https://apps.health.vermont.gov/COVID/faq/#4761).",
             "source": "Editorial",
             "questions": [
                 "I had COVID-19. Do I need to quarantine if I am a close contact of someone with COVID-19?",
@@ -8271,7 +8085,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-15T17:21:05.087+00:00",
+            "lastUpdatedTimestamp": "2021-04-09T19:49:10.535+00:00",
             "isDocumentText": false
         },
         {
@@ -9096,6 +8910,33 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-04-09T00:07:31.048+00:00",
+            "isDocumentText": false
+        },
+        {
+            "id": 4847,
+            "answer": "**If I travel, do I need to quarantine before getting tested or while I’m waiting for my test results?**\n\nNo. There is no quarantine required due to travel.\n\nFor example, if you are an unvaccinated Vermonter returning from travel outside of the state, you do not need to quarantine when you come back to Vermont or while you are waiting for your test results. You only need to get a test within 3 days of returning to Vermont.\n\nOr, if you are an unvaccinated visitor to Vermont, you do not need to quarantine while you are waiting for your test results before you come to Vermont. You only need to get a test within 3 days before arriving in Vermont.",
+            "source": "Editorial",
+            "questions": [
+                "If I travel, do I need to quarantine before getting tested or while I’m waiting for my test results?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "travel"
+                }
+            ],
+            "alternateQuestionClusters": [],
+            "context": {
+                "isContextOnly": false,
+                "prompts": [
+                    {
+                        "displayOrder": 1,
+                        "qnaId": 4533,
+                        "displayText": "This did NOT answer my question."
+                    }
+                ]
+            },
+            "lastUpdatedTimestamp": "2021-04-09T20:08:55.256+00:00",
             "isDocumentText": false
         }
     ]
