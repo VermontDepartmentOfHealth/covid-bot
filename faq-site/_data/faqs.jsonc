@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-04-13T20:12:42.554+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T19:03:23.625+00:00",
             "isDocumentText": false
         },
         {
@@ -643,7 +643,7 @@
         },
         {
             "id": 4557,
-            "answer": "**What do communities of faith need to do?**\n\nFor many traditions, gathering together is the heart of a faith-based community. Gatherings can increase the risk of spreading COVID-19, so it's important to follow public health guidelines to keep communities safe while keeping traditions alive.\n\nReligious facilities and places of worship can operate under certain [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order#religious-facilities-and-places-of-worship) from the Agency of Commerce and Community Development (ACCD). Find out what actions [congregates, attendees, and organizations leaders and staff](https://www.healthvermont.gov/covid-19/your-community/communities-faith) can take to stay safe.",
+            "answer": "**What do communities of faith need to do?**\n\nFor many traditions, gathering together is the heart of a faith-based community. Gatherings can increase the risk of spreading COVID-19, so it's important to follow public health guidelines to keep communities safe while keeping traditions alive.\n\nReligious facilities and places of worship can operate under certain [health and safety requirements](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#group-b-work-safe-guidance-7-4) from the Agency of Commerce and Community Development (ACCD). Find out what actions [congregates, attendees, and organizations leaders and staff](https://www.healthvermont.gov/covid-19/your-community/communities-faith) can take to stay safe.",
             "source": "KB-COVID",
             "questions": [
                 "when is the church open",
@@ -676,7 +676,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-17T18:01:27.718+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T19:03:23.625+00:00",
             "isDocumentText": false
         },
         {
@@ -873,7 +873,7 @@
         },
         {
             "id": 4567,
-            "answer": "**Are there any travel rules if I traveled out of state and am returning to Vermont?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance. Except for [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel), **travel no longer requires quarantine**.\n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated Vermonters** who have traveled outside the state must be tested within 3 days of returning to Vermont. Day 0 is the day you arrive back in Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   Find [free and fast testing](https://www.healthvermont.gov/covid-19/testing/where-get-tested#where) near you.\n*   You do not need to quarantine while you wait for a result. But if you have any symptoms, stay home and away from other people.\n\n**Vaccinated Vermonters** do not need to get tested.\n\n**People who have recovered from COVID-19 within the last 3 months** do not need to test unless they develop new symptoms. If it has been more than 3 months since you recovered from COVID-19, you will need to get tested.\n\nThere are no additional restrictions for **people taking public transportation**. However, The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nRules for **Vermonters who have traveled to other countries** are different. Learn more about [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel).\n\nFind out more about [what to do when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
+            "answer": "**Are there any travel rules if I traveled out of state and am returning to Vermont?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance. Except for [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel), **travel no longer requires quarantine**.\n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated Vermonters** who have traveled outside the state must be tested within 3 days of returning to Vermont. Day 0 is the day you arrive back in Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   Find [free and fast testing](https://www.healthvermont.gov/covid-19/testing/where-get-tested#where) near you.\n*   You do not need to quarantine while you wait for a result. But if you have any symptoms, stay home and away from other people.\n*   Quarantining does not exempt you from the testing requirement. You may choose to quarantine, but you are still required to get a negative test after returning to Vermont.\n\n**Vaccinated Vermonters** do not need to get tested.\n\n**People who have recovered from COVID-19 within the last 3 months** do not need to test unless they develop new symptoms. If it has been more than 3 months since you recovered from COVID-19, you will need to get tested.\n\nThere are no additional restrictions for **people taking public transportation**. However, The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nRules for **Vermonters who have traveled to other countries** are different. Learn more about [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel).\n\nFind out more about [what to do when you return to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).",
             "source": "KB-COVID",
             "questions": [
                 "QnaId4567"
@@ -900,7 +900,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-12T19:14:24.811+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:50:21.046+00:00",
             "isDocumentText": false
         },
         {
@@ -1886,7 +1886,7 @@
         },
         {
             "id": 4607,
-            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification.\n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate.\n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Governor’s orders, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u). You can call your local law enforcement agency for concerns about people who are not quarantining as required.\n\nLearn more about [executive order enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
+            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s [executive orders](https://governor.vermont.gov/document-types/executive-orders) is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification.\n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate.\n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Governor’s orders, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u). You can call your local law enforcement agency for concerns about people who are not quarantining as required.\n\nLearn more about [executive order enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
             "source": "Editorial",
             "questions": [
                 "what is the fine for non compliance",
@@ -1911,7 +1911,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-13T20:11:41.756+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:51:22.312+00:00",
             "isDocumentText": false
         },
         {
@@ -2079,7 +2079,7 @@
         },
         {
             "id": 4615,
-            "answer": "**Are there any travel rules for people visiting Vermont, including people who own second or seasonal homes?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance. Except for [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel), **travel no longer requires quarantine**.\n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated people** must have a COVID-19 test within 3 days before arriving in Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   If the test is positive, do not come to Vermont.\n*   Please bring proof of your negative test result with you.\n\n**Vaccinated people** do not need to get tested.\n\n**People who have recovered from COVID-19 within the last 3 months** do not need to test unless they develop new symptoms. If it has been more than 3 months since you recovered from COVID-19, you will need to get tested.\n\nThere are no additional restrictions for **people taking public transportation**. However, The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nRules for **visitors from other countries** are different. Learn more about [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel).\n\n[Masks are required](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces in Vermont. There are also [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nLearn about [overnight stays in lodging, camping or short-term rental properties](https://apps.health.vermont.gov/COVID/faq/#4616).\n\nWe strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders.\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
+            "answer": "**Are there any travel rules for people visiting Vermont, including people who own second or seasonal homes?**\n\nYes. As part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), there is new travel guidance. Except for [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel), **travel no longer requires quarantine**.\n\nCDC recommends delaying travel until you are fully vaccinated, because travel increases your chance of getting and spreading COVID-19.\n\n**Unvaccinated people** must have a COVID-19 test within 3 days before arriving in Vermont.\n\n*   The test you get must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n*   If the test is positive, do not come to Vermont.\n*   Please bring proof of your negative test result with you.\n*   Quarantining does not exempt you from the testing requirement. You may choose to quarantine, but you are still required to get a negative test before coming to Vermont.\n\n**Vaccinated people** do not need to get tested.\n\n**People who have recovered from COVID-19 within the last 3 months** do not need to test unless they develop new symptoms. If it has been more than 3 months since you recovered from COVID-19, you will need to get tested.\n\nThere are no additional restrictions for **people taking public transportation**. However, The CDC requires people to [wear masks when using public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html).\n\nRules for **visitors from other countries** are different. Learn more about [international travel](https://www.healthvermont.gov/covid-19/travel-quarantine/international-travel).\n\n[Masks are required](https://apps.health.vermont.gov/COVID/faq/#4540) in public spaces in Vermont. There are also [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nLearn about [overnight stays in lodging, camping or short-term rental properties](https://apps.health.vermont.gov/COVID/faq/#4616).\n\nWe strongly encourage you to [sign up with Sara Alert](https://apps.health.vermont.gov/EpiInfoWebSurvey/Home/9c2e5941-1ba7-4ab4-84be-558ba7684f5d) once you arrive in Vermont to get two weeks of daily symptom check reminders.\n\nFind more [travel information for visitors to Vermont](https://www.healthvermont.gov/covid-19/travel-quarantine/visitors-vermont).",
             "source": "Editorial",
             "questions": [
                 "QnaId4615"
@@ -2110,7 +2110,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-12T19:12:48.901+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:49:39.604+00:00",
             "isDocumentText": false
         },
         {
@@ -2479,7 +2479,7 @@
         },
         {
             "id": 4630,
-            "answer": "**What do businesses and non-profits need to do?**\n\nAs part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), businesses are transitioning from sector-specific guidance to universal guidance. The transition will happen in two phases depending on which sector your business belongs to. Find out more about [business operations and universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations) from the Agency of Commerce and Community Development (ACCD).\n\nFind more [health resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.",
+            "answer": "**What do businesses and non-profits need to do?**\n\nAs part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), businesses are transitioning from sector-specific guidance to universal guidance. The transition will happen in two phases depending on which sector your business belongs to. Find out more about [business operations and universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations) from the Agency of Commerce and Community Development (ACCD).\n\n**More resources**:\n\n*   [Health guidance and resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [What to do if you operate a critical infrastructure business and your essential workers are close contacts](https://accd.vermont.gov/covid-19/business/faqs#i-operate-a-critical-infrastructure-business-what-do-i-do-if-my-essential-workers-are-close-contacts-of-someone-with-covid-19)\n*   [Checklist for Employers: COVID-19 in the Workplace](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-in-the-Workplace-Checklist-for-Employers.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) \n*   [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business) from the ACCD\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.",
             "source": "Editorial",
             "questions": [
                 "sample safety plan",
@@ -2490,22 +2490,33 @@
                 "What should factories do?",
                 "What should construction companies do?",
                 "What should my business do?",
-                "Should I close my business?",
                 "Are there guidelines for small businesses?",
-                "should that business shut down",
                 "should construction on nonessential building still be happening?",
                 "construction",
                 "how many people can be in a business?",
                 "independent contractor restrictions",
-                "when can driving schools resume?",
                 "how many people can work in the same building?",
                 "site visits for commercial development",
                 "information for business",
-                "how to perform employee health screenings",
                 "What are current business requirements?",
                 "construction workers",
-                "health screening",
-                "What do businesses and non-profits need to do?"
+                "What do businesses and non-profits need to do?",
+                "Must restaurant workers offering to go food wear masks?",
+                "Are food providers supposed to wear masks",
+                "Guidelines for employers",
+                "Rules for restaurants",
+                "my employee is sick",
+                "employee tests positive",
+                "Employees may have been exposed",
+                "Employee may have been exposed",
+                "guidelines for offices",
+                "business had a positive case",
+                "My employee has",
+                "what does business do if staff member gets infected?",
+                "workplace has positive employees",
+                "Should an employer close if one staff person test positive?",
+                "Are employers in the state of Vermont required to take employee temperatures upon arrival at work?",
+                "I am an employer. What information is available about COVID-19 in the workplace?"
             ],
             "metadata": [
                 {
@@ -2524,7 +2535,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T19:56:20.151+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T19:02:48.161+00:00",
             "isDocumentText": false
         },
         {
@@ -2876,7 +2887,7 @@
         },
         {
             "id": 4646,
-            "answer": "**How can I report a person or business who is violating the Governor's executive orders?**\n\nEnforcement of the Governor’s executive orders — [Be Smart, Stay Safe](https://governor.vermont.gov/document-types/executive-orders) — is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses or lodging establishments** that are violating the Governor’s orders, use the Department of Public Safety’s [online reporting tool](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).\n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form).\n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency.\n\nLearn more about [how the executive orders are enforced](https://apps.health.vermont.gov/COVID/faq/#4607).",
+            "answer": "**How can I report a person or business who is violating the Governor's executive orders?**\n\nEnforcement of the Governor’s [executive orders](https://governor.vermont.gov/document-types/executive-orders) is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses or lodging establishments** that are violating the Governor’s orders, use the Department of Public Safety’s [online reporting tool](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).\n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form).\n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency.\n\nLearn more about [how the executive orders are enforced](https://apps.health.vermont.gov/COVID/faq/#4607).",
             "source": "Editorial",
             "questions": [
                 "businesses not in compliance to the covid-19 order",
@@ -2931,7 +2942,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-18T20:25:46.297+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:51:53.706+00:00",
             "isDocumentText": false
         },
         {
@@ -3090,50 +3101,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-03-24T18:08:17.205+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4656,
-            "answer": "**I am an employer. What information is available about COVID-19 in the workplace?**\n\nCurrent information is on the Agency of Commerce and Community Development’s (ACCD’s) [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business):\n\n*   Up-to-date guidance and mandatory [health and safety requirements](https://accd.vermont.gov/news/update-new-work-safe-additions-be-smart-stay-safe-order). This includes having a [health safety officer onsite at every shift](https://accd.vermont.gov/covid-19/business/stay-home-stay-safe-business-faqs#does-my-business-need-to-hire-a-new-health-safety-officer) and requiring employees to wear masks. Businesses and non-profits may require customers or clients to wear masks.\n*   Answers to [Be Smart, Stay Safe FAQs for Businesses](https://accd.vermont.gov/covid-19-guidance/stay-home-stay-safe-business-faqs)\n\n**For more information**:\n\n*   [Health guidance and resources for businesses and employees](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [What to do if you operate a critical infrastructure business and your essential workers are close contacts](https://accd.vermont.gov/covid-19/business/faqs#i-operate-a-critical-infrastructure-business-what-do-i-do-if-my-essential-workers-are-close-contacts-of-someone-with-covid-19)\n*   [Checklist for Employers: COVID-19 in the Workplace](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-in-the-Workplace-Checklist-for-Employers.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration.",
-            "source": "Editorial",
-            "questions": [
-                "Must restaurant workers offering to go food wear masks?",
-                "Are food providers supposed to wear masks",
-                "Guidelines for employers",
-                "Rules for restaurants",
-                "What should businesses protect workers and customers?",
-                "my employee is sick",
-                "employee tests positive",
-                "directive to work at home if possible",
-                "Employees may have been exposed",
-                "Employee may have been exposed",
-                "guidelines for offices",
-                "business had a positive case",
-                "I am an employer. What information is available about COVID-19 in the workplace?",
-                "Are employers in the state of Vermont required to take employee temperatures upon arrival at work?",
-                "Should an employer close if one staff person test positive?",
-                "workplace has positive employees",
-                "what does business do if staff member gets infected?",
-                "My employee has"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "work and employees"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-03-17T19:19:08.068+00:00",
             "isDocumentText": false
         },
         {
@@ -4271,7 +4238,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-12T20:07:00.225+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:50:21.046+00:00",
             "isDocumentText": false
         },
         {
@@ -6086,7 +6053,7 @@
         },
         {
             "id": 4781,
-            "answer": "**How do I make an appointment for a COVID-19 vaccine?**\n\nThere are enough appointments for everyone who is eligible. Appointments are required. Clinics cannot accept walk-ins. Find out [who is eligible](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nAlready have an account set up? [**Log in to your account**](https://vermont.force.com/events/s/selfregistration) to make an appointment.\n\nAnyone who is unable to make their appointment online, needs help, or who wants to speak with someone in a language other than English can call 855-722-7878.\n\n**Create an Account**\n\nYou will need to create an account in our online system first, and then log in to schedule your appointment. Even if you’re not currently eligible to get a vaccine, you can set up an account ahead of time.\n\nYou will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\n[**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\n**Make a Vaccine Appointment**\n\nIf you are eligible, find out what information you need and how to [**make a vaccine appointment**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nYou can also watch videos on how to:\n\n*   [make your vaccine appointment online](https://youtu.be/4baPyZvfiz4)\n*   [make an appointment if you are eligible by high-risk health condition or organization](https://youtu.be/G4Fpy52Cvqg)\n*   [add a dependent or spouse to your account](https://youtu.be/Dpo4NXMO04U)\n\nYou can find a different appointment or adjust other appointment search criteria without losing your information. Click “CANCEL” to leave the “Schedule Appointment” screen, click on “Search Event” in the menu to the left, change your search criteria, and then click “Schedule Appointment” to jump back to where you were.\n\nTalk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently. Read the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.\n\n**For more information**:\n\n*   [Tips for making a vaccine appointment](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-MakingVaccineAppointmentTips.Feb2021.final_.pdf)\n*   [How to make a vaccine appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790)\n*   [What to do if you have problems scheduling a vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4812)\n*   [What to expect at your vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4789)\n*   [Frequently asked questions about vaccine registration and appointments](https://apps.health.vermont.gov/COVID/faq/#vaccine-registration-and-appointments)\n*   [Who will be eligible next to get the vaccine](https://apps.health.vermont.gov/COVID/faq/#4814)",
+            "answer": "**How do I make an appointment for a COVID-19 vaccine?**\n\nThere are enough appointments for everyone who is eligible. Appointments are required. Clinics cannot accept walk-ins. Find out [who is eligible](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nAlready have an account set up? [**Log in to your account**](https://vermont.force.com/events/s/selfregistration) to make an appointment.\n\nAnyone who is unable to make their appointment online, needs help, or who wants to speak with someone in a language other than English can call **855-722-7878**. This phone line is TTY enabled.\n\n**Create an Account**\n\nYou will need to create an account in our online system first, and then log in to schedule your appointment. Even if you’re not currently eligible to get a vaccine, you can set up an account ahead of time.\n\nYou will need an email address to create an account, and can use the same address for more than one person. Learn more about [what to do if you don’t have an email address](https://apps.health.vermont.gov/COVID/faq/#4811).\n\nIf you already have an account because you were tested for COVID-19 through a Health Department site, you need to use the same account information to schedule an appointment to get a vaccine. The online system will not allow you to create a new account if you use an email address that is already in the system.\n\n[**Create an account**](https://vermont.force.com/events/s/selfregistration).\n\n**Make a Vaccine Appointment**\n\nIf you are eligible, find out what information you need and how to [**make a vaccine appointment**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nYou can also watch videos on how to:\n\n*   [make your vaccine appointment online](https://youtu.be/4baPyZvfiz4)\n*   [make an appointment if you are eligible by high-risk health condition or organization](https://youtu.be/G4Fpy52Cvqg)\n*   [add a dependent or spouse to your account](https://youtu.be/Dpo4NXMO04U)\n\nYou can find a different appointment or adjust other appointment search criteria without losing your information. Click “CANCEL” to leave the “Schedule Appointment” screen, click on “Search Event” in the menu to the left, change your search criteria, and then click “Schedule Appointment” to jump back to where you were.\n\nTalk with your health care provider if you've had an immediate allergic reaction to any other vaccine, injectable therapy, or polysorbate, or if you have questions about whether getting the vaccine is right for you because of health conditions, allergies, or other vaccines you've received recently. Read the [health screening questions](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) asked before you get the vaccine.\n\n**For more information**:\n\n*   [Tips for making a vaccine appointment](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-MakingVaccineAppointmentTips.Feb2021.final_.pdf)\n*   [How to make a vaccine appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790)\n*   [What to do if you have problems scheduling a vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4812)\n*   [What to expect at your vaccine appointment](https://apps.health.vermont.gov/COVID/faq/#4789)\n*   [Frequently asked questions about vaccine registration and appointments](https://apps.health.vermont.gov/COVID/faq/#vaccine-registration-and-appointments)\n*   [Who will be eligible next to get the vaccine](https://apps.health.vermont.gov/COVID/faq/#4814)",
             "source": "Editorial",
             "questions": [
                 "when can I get a vaccine",
@@ -6147,7 +6114,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-06T17:25:57.408+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:48:57.016+00:00",
             "isDocumentText": false
         },
         {
@@ -7986,7 +7953,7 @@
         },
         {
             "id": 4835,
-            "answer": "**I lost my vaccine card. How do I get a new one?**\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nIf your vaccine requires a second dose, you should have scheduled your second dose at the clinic where you received your first dose. We recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nIf you misplace your vaccine card, the Vermont Immunization Registry has your vaccination record. You can **request a record of your vaccine** from the Immunization Registry directly or through your health care provider. To request it directly through the Immunization Registry, email [vaxrecordrequest@vermont.gov](mailto:vaxrecordrequest@vermont.gov) or call 888-688-4667, option 3. You can get a copy of your record as an encrypted email or through the mail. On weekdays, you can expect an email within an hour or two. Mail will take about one week.",
+            "answer": "**How do I protect my vaccine card? Can I get a new one if I lose it?**\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nIf your vaccine requires a second dose, you should have scheduled your second dose at the clinic where you received your first dose. We recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou may want to protect your card. If you choose to get your vaccine card laminated, please note that the ink used to write in your dose could run when heat is applied. Also, if booster shots are needed, they won’t be able to be recorded if the card is laminated. \n\nIf you lost your vaccine card, the Vermont Immunization Registry has your vaccination record. You can **request a record of your vaccine** from the Immunization Registry directly or through your health care provider. To request it directly through the Immunization Registry, email [vaxrecordrequest@vermont.gov](mailto:vaxrecordrequest@vermont.gov) or call 888-688-4667, option 3. You can get a copy of your record as an encrypted email or through the mail. On weekdays, you can expect an email within an hour or two. Mail will take about one week.",
             "source": "Editorial",
             "questions": [
                 "I lost my vaccine card. How do I get a new one?",
@@ -7996,7 +7963,8 @@
                 "Lost covid vaccine card",
                 "Lost card",
                 "covid passport",
-                "record of my Covid vaccination"
+                "record of my Covid vaccination",
+                "How do I protect my vaccine card? Can I get a new one if I lose it?"
             ],
             "metadata": [
                 {
@@ -8015,7 +7983,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-06T17:23:48.585+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:46:31.713+00:00",
             "isDocumentText": false
         },
         {
@@ -8394,7 +8362,7 @@
         },
         {
             "id": 4847,
-            "answer": "**If I travel, do I need to quarantine before getting tested or while I’m waiting for my test results?**\n\nNo. There is no quarantine required due to travel.\n\nFor example, if you are an unvaccinated Vermonter returning from travel outside of the state, you do not need to quarantine when you come back to Vermont or while you are waiting for your test results. You only need to get a test within 3 days of returning to Vermont.\n\nOr, if you are an unvaccinated visitor to Vermont, you do not need to quarantine while you are waiting for your test results before you come to Vermont. You only need to get a test within 3 days before arriving in Vermont.",
+            "answer": "**If I travel, do I need to quarantine before getting tested or while I’m waiting for my test results?**\n\nNo. There is no quarantine required due to travel.\n\nFor example, if you are an unvaccinated Vermonter returning from travel outside of the state, you do not need to quarantine when you come back to Vermont or while you are waiting for your test results. You only need to get a test within 3 days of returning to Vermont.\n\nOr, if you are an unvaccinated visitor to Vermont, you do not need to quarantine while you are waiting for your test results before you come to Vermont. You only need to get a test within 3 days before arriving in Vermont.\n\nYou may choose to quarantine, but quarantine does not exempt you from the testing requirement. You are still required to get a negative test before coming to or after returning to Vermont.",
             "source": "Editorial",
             "questions": [
                 "If I travel, do I need to quarantine before getting tested or while I’m waiting for my test results?"
@@ -8416,12 +8384,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T20:08:55.256+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:50:51.242+00:00",
             "isDocumentText": false
         },
         {
             "id": 4848,
-            "answer": "**Why is the Johnson & Johnson vaccine being paused?**\n\nOn April 13, Vermont decided to pause Johnson & Johnson vaccinations due to [CDC and FDA recommendation](https://www.cdc.gov/media/releases/2021/s0413-JJ-vaccine.html) after six reported cases out of 6.8 million doses (0.00009%) in the U.S. of a severe type of blood clot. While the serious blood clot issue appeared in an extremely small number of people, the CDC and FDA are committed to vaccine safety and transparency every step of the way. \n\nAll six cases occurred in women 18 to 48 years of age after receiving the Johnson & Johnson vaccine. They developed a rare and severe type of blood clot called cerebral venous sinus thrombosis (CVST) within 6 to 13 days after receiving their vaccine. \n\nTo date, there are no known cases of this type of blood clot among people who have been vaccinated with the Johnson & Johnson vaccine in Vermont. \n\nThis pause was necessary to give the FDA, CDC and states time to give health care providers the information needed about the potential blood clotting symptoms to look for (severe headache, leg pain, shortness of breath) after vaccination, and of the appropriate medical treatment.\n\nIt is common to experience some temporary side effects shortly after vaccination, such as headache, muscle aches, chills, fever. However, if you received the Johnson & Johnson vaccine within the past month and are experiencing **severe headache, abdominal or leg pain, or shortness of breath – contact your health care provider and seek treatment right away. **These symptoms do not occur immediately after vaccination.\n\nUntil we know more, we are contacting people who have appointments for a Johnson & Johnson vaccine through Friday, April 16 to get them rescheduled. They will be offered to reschedule for a 2-dose vaccine (Pfizer or Moderna) at a later date. Once we learn more about when the Johnson & Johnson will be available again, we expect people will be able to start making appointments for the Johnson & Johnson vaccine again.\n\nWe will continue to work with our federal and state partners to understand what this means for Vermonters and will share updates on social media as we get new information.",
+            "answer": "**Why is the Johnson & Johnson vaccine being paused?**\n\nOn April 13, Vermont decided to pause Johnson & Johnson vaccinations due to [CDC and FDA recommendation](https://www.cdc.gov/media/releases/2021/s0413-JJ-vaccine.html) after six reported cases out of 6.8 million doses (0.00009%) in the U.S. of a severe type of blood clot. While the serious blood clot issue appeared in an extremely small number of people, the CDC and FDA are committed to vaccine safety and transparency every step of the way.\n\nAll six cases occurred in women 18 to 48 years of age after receiving the Johnson & Johnson vaccine. They developed a rare and severe type of blood clot called cerebral venous sinus thrombosis (CVST) within 6 to 13 days after receiving their vaccine.\n\nTo date, there are no known cases of this type of blood clot among people who have been vaccinated with the Johnson & Johnson vaccine in Vermont.\n\nThis pause was necessary to give the FDA, CDC and states time to give health care providers the information needed about the potential blood clotting symptoms to look for (severe headache, leg pain, shortness of breath) after vaccination, and of the appropriate medical treatment.\n\nIt is common to experience some temporary side effects shortly after vaccination, such as headache, muscle aches, chills, fever. However, if you received the Johnson & Johnson vaccine within the past month and are experiencing **severe headache, abdominal or leg pain, or shortness of breath – contact your health care provider and seek treatment right away**. These symptoms do not occur immediately after vaccination.\n\nIf you have an appointment for a Johnson & Johnson vaccine through the state registration system through Friday, April 16, the Health Department will reach out to you to reschedule your appointment. You will be offered a 2-dose vaccine (Pfizer or Moderna) appointment at a later date. If you receive a voicemail from the Health Department, please return the call.\n\nIf you are having trouble finding a new appointment online, **we may be able to help you find an earlier one** by calling 855-722-7878.\n\nIf you made an appointment through a system other than the state's registration system, please contact that entity to find out what you need to do to reschedule. If you cannot get rescheduled through that entity, you can contact our call center. Please do not make more than one appointment.\n\nOnce we learn more about when the Johnson & Johnson will be available again, we expect people will be able to start making appointments for the Johnson & Johnson vaccine again.\n\nWe will continue to work with our federal and state partners to understand what this means for Vermonters and will share updates on social media as we get new information.",
             "source": "Editorial",
             "questions": [
                 "Why is the Johnson & Johnson vaccine being paused?"
@@ -8443,7 +8411,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-13T19:24:57.941+00:00",
+            "lastUpdatedTimestamp": "2021-04-14T18:48:05.307+00:00",
             "isDocumentText": false
         }
     ]
