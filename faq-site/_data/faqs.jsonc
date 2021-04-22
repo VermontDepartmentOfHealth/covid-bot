@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-04-21T19:37:02.354+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:15:19.618+00:00",
             "isDocumentText": false
         },
         {
@@ -1852,7 +1852,7 @@
         },
         {
             "id": 4607,
-            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s [executive orders](https://governor.vermont.gov/document-types/executive-orders) is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification.\n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate.\n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nIf you have a concern about businesses, lodging establishments, short-term rental properties, nonprofits, other entities that are violating the Governor’s orders, call your local law enforcement agency or [file a report online](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u). You can call your local law enforcement agency for concerns about people who are not quarantining as required.\n\nLearn more about [executive order enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).",
+            "answer": "**How are the Governor’s executive orders being enforced?**\n\nEnforcement of the Governor’s [executive orders](https://governor.vermont.gov/document-types/executive-orders) is mainly done through education and voluntary compliance. Law enforcement officers are encouraged to talk to people or businesses if they see or are made aware of possible violations.\n\n*   The orders do not close roads, do not establish roadblocks or checkpoints, and do not require people to show their identification.\n*   People may be out and about. Motor vehicles with Vermont and out-of-state registrations are allowed to operate.\n*   There will be no motor vehicle stops and no people detained for questioning about their travel.\n\nLearn more about [executive order enforcement](https://vsp.vermont.gov/covid19/stayhome_enforcement).\n\nFind out [how to report a business or person who is not complying with the Governor’s executive orders](https://apps.health.vermont.gov/COVID/faq/#4646).",
             "source": "Editorial",
             "questions": [
                 "what is the fine for non compliance",
@@ -1877,7 +1877,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-15T12:09:43.711+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:13:20.858+00:00",
             "isDocumentText": false
         },
         {
@@ -2853,7 +2853,7 @@
         },
         {
             "id": 4646,
-            "answer": "**How can I report a person or business who is violating the Governor's executive orders?**\n\nEnforcement of the Governor’s [executive orders](https://governor.vermont.gov/document-types/executive-orders) is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses or lodging establishments** that are violating the Governor’s orders, use the Department of Public Safety’s [online reporting tool](https://forms.office.com/Pages/ResponsePage.aspx?id=O5O0IK26PEOcAnDtzHVZxp8VoIcMV9NNu0QyG_vdGAVUN1pLSTdOMERRR1dXOVpZMDBZUEtNVlhXMi4u).\n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form).\n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency.\n\nLearn more about [how the executive orders are enforced](https://apps.health.vermont.gov/COVID/faq/#4607).",
+            "answer": "**How can I report a business or person who is not complying with the Governor's executive orders?**\n\nEnforcement of the Governor’s [executive orders](https://governor.vermont.gov/document-types/executive-orders) is mainly done through education and voluntary compliance.\n\n*   For concerns about **businesses, lodging establishments, short-term rental properties, nonprofits or other entities** that are not complying with the Governor’s orders, call your local law enforcement agency, or file a report by contacting the Vermont Department of Health at 802-863-7240 (toll-free 833-722-0860) or [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).\n*   For concerns or complaints about **restaurants**, use the Health Department’s [online sanitation complaint form](https://www.surveygizmo.com/s3/4721087/Food-Lodging-Program-Sanitation-Complaint-Form), email [FoodLodging@vermont.gov](mailto:FoodLodging@vermont.gov), or call 802-863-7221.\n*   For **employees** to report alleged safety or health hazards, use the Vermont Occupational Safety and Health Administration’s (VOSHA) confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form).\n*   For complaints about **people who are not quarantining** as required, call your local law enforcement agency. Do not dial 911. Only use their non-emergency number when calling in a report.\n\nLearn more about [how the executive orders are enforced](https://apps.health.vermont.gov/COVID/faq/#4607).",
             "source": "Editorial",
             "questions": [
                 "businesses not in compliance to the covid-19 order",
@@ -2889,7 +2889,8 @@
                 "What if I know someone is not quarantining?",
                 "Noncompliance with COVID restrictions",
                 "someone is breaking covid rules",
-                "Where do I file a noncompliance COVID report?"
+                "Where do I file a noncompliance COVID report?",
+                "How can I report a business or person who is not complying with the Governor's executive orders?"
             ],
             "metadata": [
                 {
@@ -2908,7 +2909,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-15T12:10:08.887+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:15:19.618+00:00",
             "isDocumentText": false
         },
         {
@@ -5929,7 +5930,7 @@
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in an eligible occupation or setting in Vermont (such as health care, education, or public safety).\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIf you are a resident of another state and have a primary care provider in Vermont, you are not eligible to get a vaccine in Vermont. This is because primary care providers do not have vaccine to give right now. You will need to get the vaccine in your home state.\n\nOn April 29, Vermont expects to open vaccine registration to college students who are residents of another state and do not intend to stay in Vermont for the summer, as well as people who live part of the year in Vermont. Please note that this will be based on the vaccine supply we receive from the federal government.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nYes. You will need to provide your address to make an appointment for the COVID-19 vaccine. However, if you live in another state, you can still get a vaccine in Vermont if:\n\n*   You work in an eligible occupation or setting in Vermont (such as health care, education, or public safety).\n*   You moved to Vermont within the last 6 months with the intention of becoming a resident.\n\nIf you are a resident of another state and have a primary care provider in Vermont, you are not eligible to get a vaccine in Vermont. This is because primary care providers do not have vaccine to give right now. You will need to get the vaccine in your home state.\n\nOn April 29, Vermont expects to open vaccine registration to college students who are residents of another state and do not intend to stay in Vermont for the summer, boarding students, and people who live part of the year in Vermont. Please note that this will be based on the vaccine supply we receive from the federal government.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
@@ -5981,7 +5982,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-21T18:38:42.274+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:12:40.974+00:00",
             "isDocumentText": false
         },
         {
@@ -6848,7 +6849,7 @@
         },
         {
             "id": 4804,
-            "answer": "**Why can’t children and adolescents get the COVID-19 vaccine?**\n\nChildren’s immune systems are different at different ages. They are also different from adults. This means that the vaccine studies need to be repeated with children. Both Pfizer-BioNTech and Moderna have started vaccine trials with children as young as age 12. Johnson & Johnson plans to have clinical trials with children.\n\nIf the trials are successful, there will be the usual review processes before the vaccines can be approved for emergency use and then produced for distribution. This process can take a while, especially for very young ages, which are usually tested last.\n\n*   The [Pfizer-BioNTech vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) for people 16 years and older. \n*   The [Moderna vaccine is authorized](https://www.fda.gov/news-events/press-announcements/fda-takes-additional-action-fight-against-covid-19-issuing-emergency-use-authorization-second-covid) for people 18 years and older.\n*   The [Johnson & Johnson (Janssen) vaccine is authorized](https://www.fda.gov/media/146305/download) for people 18 years and older.\n\nBecause children cannot get vaccinated at this time, they will need to get tested when they travel and are not considered part of a fully vaccinated household. Learn more about [traveling out of state](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state) and [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).",
+            "answer": "**Why can’t children and adolescents get the COVID-19 vaccine?**\n\nChildren’s immune systems are different at different ages. They are also different from adults.\n\nIn early April, Pfizer-BioNTech asked the FDA to expand use of its COVID-19 vaccine to adolescents ages 12 to 15. If approved, we may be able to start vaccinating this age group May or June. We will provide more details when we have them.\n\nModerna is currently running clinical vaccine trials with adolescents aged 12 to 17. Both Pfizer-BioNTech and Moderna have clinical trials of their vaccines for younger children going on now.\n\nJohnson & Johnson plans to have clinical trials with children.\n\nIf the trials are successful, there will be the usual review processes before the vaccines can be approved for emergency use and then produced for distribution. This process can take a while, especially for very young ages, which are usually tested last.\n\n*   The [Pfizer-BioNTech vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) for people 16 years and older.\n*   The [Moderna vaccine is authorized](https://www.fda.gov/news-events/press-announcements/fda-takes-additional-action-fight-against-covid-19-issuing-emergency-use-authorization-second-covid) for people 18 years and older.\n*   The [Johnson & Johnson (Janssen) vaccine is authorized](https://www.fda.gov/media/146305/download) for people 18 years and older.\n\nBecause children under 16 cannot get vaccinated at this time, they will need to get tested when they travel and are not considered part of a fully vaccinated household. Learn more about [traveling out of state](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state) and [gathering restrictions](https://apps.health.vermont.gov/COVID/faq/#4761).",
             "source": "Editorial",
             "questions": [
                 "Why can’t children and adolescents get the COVID-19 vaccine? ",
@@ -6877,7 +6878,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-19T19:29:49.556+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:10:35.443+00:00",
             "isDocumentText": false
         },
         {
@@ -7103,7 +7104,7 @@
         },
         {
             "id": 4814,
-            "answer": "**When can I get my vaccine? Who will be eligible next?**\n\n**All Vermont residents age 16 and older are eligible to be vaccinated**.\n\nOn April 29, Vermont expects to open vaccine registration to college students who are residents of another state and do not intend to stay in Vermont for the summer, as well as people who live part of the year in Vermont. Please note that this will be based on the vaccine supply we receive from the federal government. You can [create an account ahead of time](https://apps.health.vermont.gov/COVID/faq/#4781) in our online system, so you'll be ready to make an appointment when your turn comes.\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nYou can also find specific clinic locations for certain groups:\n\n*   [People who are homebound](https://apps.health.vermont.gov/COVID/faq/#4786)\n*   [Clinic options for Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#bipoc)\n*   [Clinic options for English language learners and people in immigrant/refugee communities](https://apps.health.vermont.gov/COVID/faq/#4840)\n\nLearn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).\n\nThe goal is to have Vermonters fully vaccinated by July. The length of the entire process will vary, but you can expect it to take about 2 months from when you sign up to when you are considered fully vaccinated. This includes the time between when you make your appointment, the time of getting your first and final dose, and the 14 days after your final dose for the vaccine to be most effective.",
+            "answer": "**When can I get my vaccine? Who will be eligible next?**\n\n**All Vermont residents age 16 and older are eligible to be vaccinated**.\n\nOn April 29, Vermont expects to open vaccine registration to college students who are residents of another state and do not intend to stay in Vermont for the summer, boarding students, and people who live part of the year in Vermont. Please note that this will be based on the vaccine supply we receive from the federal government. You can [create an account ahead of time](https://apps.health.vermont.gov/COVID/faq/#4781) in our online system, so you'll be ready to make an appointment when your turn comes.\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nYou can also find specific clinic locations for certain groups:\n\n*   [People who are homebound](https://apps.health.vermont.gov/COVID/faq/#4786)\n*   [Clinic options for Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#bipoc)\n*   [Clinic options for English language learners and people in immigrant/refugee communities](https://apps.health.vermont.gov/COVID/faq/#4840)\n\nLearn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).\n\nThe goal is to have Vermonters fully vaccinated by July. The length of the entire process will vary, but you can expect it to take about 2 months from when you sign up to when you are considered fully vaccinated. This includes the time between when you make your appointment, the time of getting your first and final dose, and the 14 days after your final dose for the vaccine to be most effective.",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
@@ -7210,7 +7211,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-21T18:38:19.416+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:11:44.918+00:00",
             "isDocumentText": false
         },
         {
@@ -7470,7 +7471,7 @@
         },
         {
             "id": 4822,
-            "answer": "**What should I know about side effects?**\n\nSide effects from the vaccine are normal signs that your body is building protection against COVID-19. They might even affect your daily activities but should go away in a few days. Common side effects are:\n\n*   Pain, swelling or redness on the arm where you got the shot\n*   Tiredness\n*   Headache\n*   Chills\n*   Muscle or joint pain\n*   Fever\n*   Nausea or vomiting\n\n**What to do about side effects:**\n\n*   Call your health care or vaccine provider if side effects are worrying you or if they don’t go away after a few days.\n*   You can use V-safe to tell the CDC about any side effects and to get reminders for your second dose. V-safe is an optional smartphone tool that uses text messages and web surveys to provide personalized check-ins. Learn more and [register for V-safe](http://www.cdc.gov/vsafe). If you don’t have a smartphone, a family member can sign up for you.\n*   If you have a bad reaction after getting vaccinated, you or your health care provider can report it to the Vaccine Adverse Event Reporting System (VAERS). Call 1-800-822-7967 or [report it online](http://www.vaers.hhs.gov/reportevent.html).\n\nLearn about [why it is important to get two doses of the Pfizer-BioNTech or Moderna vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).",
+            "answer": "**What should I know about side effects?**\n\nSide effects from the vaccine are normal signs that your body is building protection against COVID-19. They might even affect your daily activities but should go away in a few days. Common side effects are:\n\n*   Pain, swelling or redness on the arm where you got the shot\n*   Tiredness\n*   Headache\n*   Chills\n*   Muscle or joint pain\n*   Fever\n*   Nausea or vomiting\n\n**What to do about side effects:**\n\n*   After your vaccine, you can take pain relievers for any side effects you may have from the vaccine to help you feel better. Don't take them before you get the vaccine to prevent side effects.\n*   Call your health care or vaccine provider if side effects are worrying you or if they don’t go away after a few days.\n*   You can use V-safe to tell the CDC about any side effects and to get reminders for your second dose. V-safe is an optional smartphone tool that uses text messages and web surveys to provide personalized check-ins. Learn more and [register for V-safe](http://www.cdc.gov/vsafe). If you don’t have a smartphone, a family member can sign up for you.\n*   If you have a bad reaction after getting vaccinated, you or your health care provider can report it to the Vaccine Adverse Event Reporting System (VAERS). Call 1-800-822-7967 or [report it online](http://www.vaers.hhs.gov/reportevent.html).\n\nLearn about [why it is important to get two doses of the Pfizer-BioNTech or Moderna vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).",
             "source": "Editorial",
             "questions": [
                 "What should I know about side effects?",
@@ -7505,7 +7506,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-19T19:29:28.201+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:09:15.231+00:00",
             "isDocumentText": false
         },
         {
@@ -8143,7 +8144,7 @@
         },
         {
             "id": 4848,
-            "answer": "**Why is the Johnson & Johnson vaccine being paused?**\n\nOn April 13, Vermont decided to pause Johnson & Johnson vaccinations due to a [CDC and FDA recommendation](https://www.cdc.gov/media/releases/2021/s0413-JJ-vaccine.html) after six reported cases out of 6.8 million doses (0.00009%) in the U.S. of a severe type of blood clot. While the serious blood clot issue appeared in an extremely small number of people, the CDC and FDA are committed to vaccine safety and transparency every step of the way.\n\nThe CDC's Advisory Committee on Immunization Practices (ACIP) met on April 14 to review all available data, and opted not to make a decision on the Johnson & Johnson vaccine until they have more information. The pause will remain in effect until they meet again.\n\nAll six cases occurred in women 18 to 48 years of age after receiving the Johnson & Johnson vaccine. They developed a rare and severe type of blood clot called cerebral venous sinus thrombosis (CVST) within 6 to 13 days after receiving their vaccine.\n\nTo date, there are no known cases of this type of blood clot among people who have been vaccinated with the Johnson & Johnson vaccine in Vermont.\n\nThis pause was necessary to give the FDA, CDC and states time to give health care providers the information needed about the potential blood clotting symptoms to look for (severe headache, leg pain, shortness of breath) about 1 or 2 weeks after vaccination, and to learn how to assess and treat this rare condition.\n\nIt is common to experience some temporary side effects shortly after vaccination, such as headache, muscle aches, chills and fever. However, if you received the Johnson & Johnson vaccine within the past month and are experiencing **severe headache, abdominal or leg pain, or shortness of breath – contact your health care provider and seek treatment right away**. These symptoms do not occur immediately after vaccination.\n\nWhile we wait for more information, Johnson & Johnson appointments in Vermont have been canceled, up to and including Friday, April 23. If you have an appointment for a Johnson & Johnson vaccine through the state registration system through April 23, you will be sent a notice of cancellation.\n\nThe Health Department has reached out to people to reschedule their appointments. If you receive a voicemail from the Health Department, please return the call.\n\nIf your appointment was canceled through the state registration system, you can [reschedule it online](http://reschedule%20it%20online) or by calling the call center at 855-722-7878.\n\nIf you made an appointment with CVS or Walgreens, please contact them to reschedule. If you cannot get rescheduled through them, you can contact our call center at 855-722-7878 to make an appointment with the state system instead.\n\nWe believe there are enough appointments available to get everyone a spot within the month of April. Please do not make more than one appointment.\n\nOnce we learn more about when the Johnson & Johnson will be available again, we expect people will be able to start making appointments for the Johnson & Johnson vaccine.\n\nWe will continue to work with our federal and state partners to understand what this means for Vermonters and will share updates on social media as we get new information.",
+            "answer": "**Why is the Johnson & Johnson vaccine being paused?**\n\nOn April 13, Vermont decided to pause Johnson & Johnson vaccinations due to a [CDC and FDA recommendation](https://www.cdc.gov/media/releases/2021/s0413-JJ-vaccine.html) after six reported cases out of 6.8 million doses (0.00009%) in the U.S. of a severe type of blood clot. While the serious blood clot issue appeared in an extremely small number of people, the CDC and FDA are committed to vaccine safety and transparency every step of the way.\n\nThe CDC's Advisory Committee on Immunization Practices (ACIP) met on April 14 to review all available data, and opted not to make a decision on the Johnson & Johnson vaccine until they have more information. The pause will remain in effect until they meet again.\n\nAll six cases occurred in women 18 to 48 years of age after receiving the Johnson & Johnson vaccine. They developed a rare and severe type of blood clot called cerebral venous sinus thrombosis (CVST) within 6 to 13 days after receiving their vaccine.\n\nTo date, there are no known cases of this type of blood clot among people who have been vaccinated with the Johnson & Johnson vaccine in Vermont.\n\nThis pause was necessary to give the FDA, CDC and states time to give health care providers the information needed about the potential blood clotting symptoms to look for (severe headache, leg pain, shortness of breath) about 1 or 2 weeks after vaccination, and to learn how to assess and treat this rare condition.\n\nIt is common to experience some temporary side effects shortly after vaccination, such as headache, muscle aches, chills and fever. However, if you received the Johnson & Johnson vaccine within the past month and are experiencing **severe headache, abdominal or leg pain, or shortness of breath – contact your health care provider and seek treatment right away**. These symptoms do not occur immediately after vaccination.\n\nWhile we wait for more information, Johnson & Johnson appointments in Vermont have been canceled, up to and including Friday, April 23. If you have an appointment for a Johnson & Johnson vaccine through the state registration system through April 23, you will be sent a notice of cancellation.\n\nThe Health Department has reached out to people to reschedule their appointments. If you receive a voicemail from the Health Department, please return the call.\n\nIf your appointment was canceled through the state registration system, you can [reschedule it online](https://vermont.force.com/events/s/selfregistration) or by calling the call center at 855-722-7878.\n\nIf you made an appointment with CVS or Walgreens, please contact them to reschedule. If you cannot get rescheduled through them, you can contact our call center at 855-722-7878 to make an appointment with the state system instead.\n\nWe believe there are enough appointments available to get everyone a spot within the month of April. Please do not make more than one appointment.\n\nOnce we learn more about when the Johnson & Johnson will be available again, we expect people will be able to start making appointments for the Johnson & Johnson vaccine.\n\nWe will continue to work with our federal and state partners to understand what this means for Vermonters and will share updates on social media as we get new information.",
             "source": "Editorial",
             "questions": [
                 "Why is the Johnson & Johnson vaccine being paused?"
@@ -8169,7 +8170,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-19T20:07:59.513+00:00",
+            "lastUpdatedTimestamp": "2021-04-22T18:11:12.642+00:00",
             "isDocumentText": false
         },
         {
