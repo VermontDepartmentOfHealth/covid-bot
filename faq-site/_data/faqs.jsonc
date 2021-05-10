@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-05-06T20:00:24.254+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T20:10:58.876+00:00",
             "isDocumentText": false
         },
         {
@@ -491,7 +491,9 @@
                 "how long before a test come back",
                 "how many days for pcr test to come back",
                 "Can I have written proof of my covid test result?",
-                "what is the current test turnaround time"
+                "what is the current test turnaround time",
+                "Current test turnaround times",
+                "When will my test results be updated? "
             ],
             "metadata": [
                 {
@@ -528,7 +530,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:35:41.458+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:53:35.421+00:00",
             "isDocumentText": false
         },
         {
@@ -660,7 +662,8 @@
                 "What information is available for long-term care facilities and other facilities that serve older Vermonters (group homes, nursing homes, assisted living, and state therapeutic care residences)?",
                 "hospice",
                 "in residential",
-                "in a nursing home"
+                "in a nursing home",
+                "Do vaccinated staff who work in a long term facility need to have COVID testing weekly"
             ],
             "metadata": [
                 {
@@ -683,7 +686,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-21T18:47:48.565+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:26:24.498+00:00",
             "isDocumentText": false
         },
         {
@@ -871,7 +874,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T20:11:03.725+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:19:22.85+00:00",
             "isDocumentText": false
         },
         {
@@ -907,7 +910,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T20:18:27.081+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:15:05.14+00:00",
             "isDocumentText": false
         },
         {
@@ -1265,7 +1268,8 @@
                 "is there a special registration for testing children?",
                 "testing for children",
                 "How to register children",
-                "kids"
+                "kids",
+                "babies need to get tested for covid-19"
             ],
             "metadata": [
                 {
@@ -1288,7 +1292,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:42:20.987+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:22:56.286+00:00",
             "isDocumentText": false
         },
         {
@@ -1425,7 +1429,8 @@
                 "How many people can dine together",
                 "dining restrictions",
                 "eating out with friends",
-                "Are bars and restaurants open? Are there any restrictions?"
+                "Are bars and restaurants open? Are there any restrictions?",
+                "Do bars need to collect and store customer contact information?"
             ],
             "metadata": [
                 {
@@ -1444,7 +1449,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:43:53.286+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:24:42.419+00:00",
             "isDocumentText": false
         },
         {
@@ -1938,7 +1943,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:17:29.135+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:19:22.85+00:00",
             "isDocumentText": false
         },
         {
@@ -2518,7 +2523,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:49:03.979+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:19:22.85+00:00",
             "isDocumentText": false
         },
         {
@@ -3576,7 +3581,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:19:04.815+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:19:22.85+00:00",
             "isDocumentText": false
         },
         {
@@ -3675,7 +3680,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:47:09.388+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:19:22.85+00:00",
             "isDocumentText": false
         },
         {
@@ -3743,7 +3748,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T00:57:15.946+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:19:22.85+00:00",
             "isDocumentText": false
         },
         {
@@ -3937,7 +3942,11 @@
                 "If I go out of VT do I need to quarantine?",
                 "short trip less than 24",
                 "non vermonter attending funeral service",
-                "Can I attend an outdoor burial in another state"
+                "Can I attend an outdoor burial in another state",
+                "Can citizens of South America travel to US",
+                "can citizens of china visit us",
+                "quarantine for international travelers",
+                "traveler from canada need to quarantine"
             ],
             "metadata": [
                 {
@@ -3966,7 +3975,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:49:03.979+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:20:39.552+00:00",
             "isDocumentText": false
         },
         {
@@ -3988,42 +3997,37 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
+                        "qnaId": 4533,
+                        "displayText": "My question is not covered by these options."
+                    },
+                    {
+                        "displayOrder": 0,
                         "qnaId": 4615,
-                        "displayText": "Can I travel to Vermont? Are out-of-state visitors allowed?"
+                        "displayText": "Are there any travel rules for people visiting Vermont, including people who own second or seasonal homes?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4709,
-                        "displayText": "Do I need to quarantine if I do a short trip (day trip)?"
+                        "displayText": "Do I need to get tested if I make a short trip (day trip)?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4637,
-                        "displayText": "Does the Be Smart, Stay Safe Order ban travel to neighboring states for work or court-ordered parental visitation?"
+                        "displayText": "Do I need to get tested if I’m traveling for an essential purpose (like work in a neighboring state or health care)?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4567,
-                        "displayText": "Is it okay to travel within the United States? Do I need to quarantine when I return?"
+                        "displayText": "Are there any travel rules if I traveled out of state and am returning to Vermont?"
                     },
                     {
                         "displayOrder": 0,
                         "qnaId": 4717,
-                        "displayText": "Are there any travel restrictions if I am traveling through Vermont?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4704,
-                        "displayText": "Do I need to quarantine if out-of-state visitors are staying in my home?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "My question is not covered by these options."
+                        "displayText": "Are there any travel rules if I am traveling through Vermont?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:30:45.641+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:20:39.552+00:00",
             "isDocumentText": false
         },
         {
@@ -4045,16 +4049,6 @@
                 "prompts": [
                     {
                         "displayOrder": 0,
-                        "qnaId": 4568,
-                        "displayText": "I traveled internationally or by cruise ship. Do I need to quarantine?"
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4728,
-                        "displayText": "Can I travel to Canada?"
-                    },
-                    {
-                        "displayOrder": 0,
                         "qnaId": 4718,
                         "displayText": "I have a different question on the topic of travel."
                     },
@@ -4067,10 +4061,20 @@
                         "displayOrder": 0,
                         "qnaId": 4533,
                         "displayText": "My question is not covered by these options."
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4568,
+                        "displayText": "I traveled internationally or by cruise ship. What do I need to do when I return to Vermont?"
+                    },
+                    {
+                        "displayOrder": 0,
+                        "qnaId": 4728,
+                        "displayText": "Can I travel to or from Canada?"
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-24T18:30:45.641+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:20:39.552+00:00",
             "isDocumentText": false
         },
         {
@@ -4079,7 +4083,11 @@
             "source": "Editorial",
             "questions": [
                 "What do I do if one of my co-workers has COVID-19?",
-                "Positive case at work"
+                "Positive case at work",
+                "What does my employer do when someone has tested positive ",
+                "Contact in the office",
+                "Contact in the workplace",
+                "What should i do when i come in contact with someone that has tested positive in the work place"
             ],
             "metadata": [
                 {
@@ -4098,7 +4106,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-01-28T18:22:40.261+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:23:59.798+00:00",
             "isDocumentText": false
         },
         {
@@ -4351,7 +4359,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T20:18:03.533+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:15:05.14+00:00",
             "isDocumentText": false
         },
         {
@@ -4365,7 +4373,8 @@
                 "proof that I got tested",
                 "who will ask to see my vaccine card",
                 "Do I have to prove I have been vaccinated?",
-                "What is the best proof that I have completed the shot?"
+                "What is the best proof that I have completed the shot?",
+                "vaccine passport"
             ],
             "metadata": [
                 {
@@ -4384,7 +4393,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:13:17.309+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:21:36.437+00:00",
             "isDocumentText": false
         },
         {
@@ -4555,7 +4564,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-09T19:46:08.775+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:15:05.14+00:00",
             "isDocumentText": false
         },
         {
@@ -5608,7 +5617,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:35:41.458+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:53:35.421+00:00",
             "isDocumentText": false
         },
         {
@@ -5843,7 +5852,7 @@
         },
         {
             "id": 4782,
-            "answer": "**What can I do after I am fully vaccinated?**\n\nYou are fully vaccinated 14 days after your final shot. Until you are fully vaccinated, you should follow the same guidance as unvaccinated people. Learn about [why it is important to get two doses of the Pfizer-BioNTech or Moderna vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\n**Continue Prevention**\n\nContinue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), except as described below. You should still watch out for [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), especially if you’ve been around someone who is sick. If you have symptoms of COVID-19, you should call your health care provider to get tested and stay home and away from others.\n\nThe vaccine protects you from illness, but we don’t know for sure if you can give the virus to someone else. Some [recent studies](https://apps.health.vermont.gov/COVID/faq/#4831) suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. Until enough people are vaccinated and we know more, it is important to continue to follow prevention steps and continue to wear a mask, keep 6 feet apart, and wash your hands.\n\n**Gathering with Others**\n\nThe following guidance only applies in non-health care settings. Read [CDC’s guidance for health care workers](https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-after-vaccination.html).\n\n*   You may gather with other fully vaccinated people without wearing masks or staying 6 feet apart.\n*   You may also gather with unvaccinated people from one household without wearing masks or staying 6 feet apart, as long as everyone in that household is at low risk for severe COVID-19.\n\nIf you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart. Check the current [limits on gatherings and events](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Travel**\n\nYou may travel to or return to Vermont without getting tested. Find out [more about travel](https://apps.health.vermont.gov/COVID/faq/#4829), including [staying in someone's home](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Close Contact of Someone with COVID-19**\n\nIf you are a [close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825), as long as you do not have symptoms and are not in a health care setting:\n\n*   You do not need to seek testing.\n*   You do not need to quarantine.",
+            "answer": "**What can I do after I am fully vaccinated?**\n\nYou are fully vaccinated 14 days after your final shot. Until you are fully vaccinated, you should follow the same guidance as unvaccinated people. Learn about [why it is important to get two doses of the Pfizer-BioNTech or Moderna vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\n**Continue Prevention**\n\nContinue taking [steps to prevent COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), except as described below. You should still watch out for [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), especially if you’ve been around someone who is sick. If you have symptoms of COVID-19, you should call your health care provider to get tested and stay home and away from others.\n\nThe vaccine protects you from serious illness, and may also [protect the people around you](https://apps.health.vermont.gov/COVID/faq/#4831). Until we learn more, it is important to continue following the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, even after you are fully vaccinated.\n\n**Gathering with Others**\n\nThe following guidance only applies in non-health care settings. Read [CDC’s guidance for health care workers](https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-after-vaccination.html).\n\n*   You may gather with other fully vaccinated people without wearing masks or staying 6 feet apart.\n*   You may also gather with unvaccinated people from one household without wearing masks or staying 6 feet apart, as long as everyone in that household is at low risk for severe COVID-19.\n\nIf you gather with people from more than one unvaccinated household, or with someone who is at [higher risk of severe COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) or lives with someone at higher risk, everyone should wear a mask and stay 6 feet apart. Check the current [limits on gatherings and events](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Travel**\n\nYou may travel to or return to Vermont without getting tested. Find out [more about travel](https://apps.health.vermont.gov/COVID/faq/#4829), including [staying in someone's home](https://apps.health.vermont.gov/COVID/faq/#4761).\n\n**Close Contact of Someone with COVID-19**\n\nIf you are a [close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4825), as long as you do not have symptoms and are not in a health care setting:\n\n*   You do not need to seek testing.\n*   You do not need to quarantine.",
             "source": "Editorial",
             "questions": [
                 "quarantine and vaccine",
@@ -5882,7 +5891,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:15:05.955+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T20:10:18.709+00:00",
             "isDocumentText": false
         },
         {
@@ -5923,7 +5932,7 @@
         },
         {
             "id": 4784,
-            "answer": "**What are the ingredients in the COVID-19 vaccines?**\n\nThe ingredients in the COVID-19 vaccines are similar to what is found in other vaccines. They contain protein, and fats, salts and polysorbate. The mRNA vaccines (Pfizer-BioNTech and Moderna) also have sugars and polyethylene glycol. They do not have any fetal tissue, pork products, eggs, gelatin, latex or preservatives in them.\n\nThe CDC recommends that people get vaccinated even if they have a history of severe allergic reactions not related to vaccines or injectable medications — such as food, pet, venom, environmental, or latex allergies.\n\nFind more details about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes).",
+            "answer": "**What are the ingredients in the COVID-19 vaccines?**\n\nThe ingredients in the COVID-19 vaccines are similar to what is found in other vaccines. They contain protein, and fats, salts and polysorbate. The mRNA vaccines (Pfizer-BioNTech and Moderna) also have sugars and polyethylene glycol. They do not have any fetal tissue, pork products, eggs, gelatin, latex, microchips or preservatives in them.\n\nThe CDC recommends that people get vaccinated even if they have a history of severe allergic reactions not related to vaccines or injectable medications — such as food, pet, venom, environmental, or latex allergies.\n\nFind more details about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes).",
             "source": "Editorial",
             "questions": [
                 "What are the ingredients in the COVID-19 vaccines?",
@@ -5957,7 +5966,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-27T19:07:18.388+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:55:54.824+00:00",
             "isDocumentText": false
         },
         {
@@ -6181,7 +6190,7 @@
         },
         {
             "id": 4791,
-            "answer": "**Where can I get vaccinated?**\n\nThere are many vaccination sites across the state. Vaccines are available at regional clinics offered by the state and through our partner pharmacies. More sites will become available as we get more vaccine from the federal government.\n\nYou can make an appointment for a clinic or pharmacy near you through the Health Department website. This includes clinics run by the Health Department, the National Guard, health care partners, Costco, Hannaford, Price Chopper, Rite Aid, Shaws and Walmart (please do not call the stores directly). [Make an appointment](https://vermont.force.com/events/s/selfregistration).\n\nYou can find a map of the areas where vaccination sites are, not actual locations. When you schedule your appointment, you will get the address of the vaccination site you chose. Find the [map of vaccination sites](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nIf you would like to make an appointment for a Kinney Drugs, CVS, Walgreens, Northfield Pharmacy or UVMMC Outpatient Pharmacy near you, you can make an appointment directly through their websites. Make an appointment with [Kinney Drugs](https://kinneydrugs.com/pharmacy/covid-19/vaccination-scheduling/vt/), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walgreens](https://www.walgreens.com/schedulevaccine), [Northfield Pharmacy](http://www.northfieldpharmacy.com/) or [UVMMC Outpatient Pharmacies](https://www.uvmhealth.org/medcenter/departments-and-programs/pharmacy-services/schedule-your-covid-19-vaccine).",
+            "answer": "**Where can I get vaccinated?**\n\nThere are many vaccination sites across the state. Generally, appointments are required, although some clinics may be able to accept walk-ins. When that happens, we will share that information on [our website](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine) and on our [@healthvermont social media channels](https://www.healthvermont.gov/media/social).\n\nYou can make an appointment for a clinic or pharmacy near you through the Health Department website. This includes clinics run by the Health Department, the National Guard, health care partners, Costco, Hannaford, Price Chopper, Rite Aid, Shaws and Walmart (please do not call the stores directly). [Make an appointment](https://vermont.force.com/events/s/selfregistration).\n\nYou can find a map of the areas where vaccination sites are, not actual locations. When you schedule your appointment, you will get the address of the vaccination site you chose. Find the [map of vaccination sites](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nIf you would like to make an appointment for a Kinney Drugs, CVS, Walgreens, Northfield Pharmacy or UVMMC Outpatient Pharmacy near you, you can make an appointment directly through their websites. Make an appointment with [Kinney Drugs](https://kinneydrugs.com/pharmacy/covid-19/vaccination-scheduling/vt/), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walgreens](https://www.walgreens.com/schedulevaccine), [Northfield Pharmacy](http://www.northfieldpharmacy.com/) or [UVMMC Outpatient Pharmacies](https://www.uvmhealth.org/medcenter/departments-and-programs/pharmacy-services/schedule-your-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
                 "Where can people get vaccinated?",
@@ -6226,7 +6235,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:32:26.633+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:56:21.324+00:00",
             "isDocumentText": false
         },
         {
@@ -6294,7 +6303,8 @@
                 "How long after having covid should you wait to get the vaccine",
                 "Can you receive the second shot if you have a fever",
                 "Is it ok to be vaccinated if you think you could have covid",
-                "How soon after having COVID can you get the COVID vaccine"
+                "How soon after having COVID can you get the COVID vaccine",
+                "Can you be vaccinated after having covid"
             ],
             "metadata": [
                 {
@@ -6317,7 +6327,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T18:59:14.371+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:50:59.824+00:00",
             "isDocumentText": false
         },
         {
@@ -6423,7 +6433,10 @@
                 "Reschedule 2nd dose",
                 "can't make it to my second appointment",
                 "look for another appointment without losing my current one",
-                "how to reschedule your second dose"
+                "how to reschedule your second dose",
+                "cancellation of vaccine shot",
+                "change an appt",
+                "reschedule second COVID vaccine"
             ],
             "metadata": [
                 {
@@ -6446,7 +6459,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-27T19:11:44.424+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:49:16.062+00:00",
             "isDocumentText": false
         },
         {
@@ -6555,7 +6568,7 @@
         },
         {
             "id": 4802,
-            "answer": "**When do I need to get my second shot of the Pfizer-BioNTech or Moderna vaccine?**\n\nThe Pfizer-BioNTech and Moderna vaccines are two shots, given 21 or 28 days apart. Both of them are over 94% effective with two doses.\n\n*   Doses of the Pfizer-BioNTech vaccine are given about 21 days apart.\n*   Doses of the Moderna vaccine are given about 28 days apart.\n\nFor the vaccine to be the most effective and help prevent you from getting COVID-19, it’s best to get your second shot as close to the recommended schedule as possible. It is okay to get your shot 4 days before the recommended schedule. But if you miss your second dose, get it as soon as you can. However, if you are not able to get it close to the recommended schedule, it is okay to get it up to 42 days after your first dose. There is limited data on how effective the vaccine is, if the second dose is given after 42 days. Learn more about [why it is important to get two doses of the vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nWe recommend bringing your vaccine card to your second dose appointment, but it is not required. We also recommend getting your second dose at the same place you got your first dose. This way you can be sure that you get the same vaccine.\n\n**Find out**:\n\n*   [How to schedule your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4846)\n*   [How to reschedule or cancel your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4798)\n*   [How to schedule a second dose appointment if you got your first dose in another state](https://apps.health.vermont.gov/COVID/faq/#4842)",
+            "answer": "**When do I need to get my second dose of the Pfizer-BioNTech or Moderna vaccine?**\n\nThe Pfizer-BioNTech and Moderna vaccines are two shots, given 21 or 28 days apart. Both of them are over 94% effective with two doses.\n\n*   Doses of the Pfizer-BioNTech vaccine are given about 21 days apart.\n*   Doses of the Moderna vaccine are given about 28 days apart.\n\nFor the vaccine to be the most effective and help prevent you from getting COVID-19, it’s best to get your second shot as close to the recommended schedule as possible. It is okay to get your shot 4 days before the recommended schedule. But if you miss your second dose, get it as soon as you can. However, if you are not able to get it close to the recommended schedule, it is okay to get it up to 42 days after your first dose. There is limited data on how effective the vaccine is, if the second dose is given after 42 days. Learn more about [why it is important to get two doses of the vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nWe recommend bringing your vaccine card to your second dose appointment, but it is not required. We also recommend getting your second dose at the same place you got your first dose. This way you can be sure that you get the same vaccine.\n\n**Find out**:\n\n*   [How to schedule your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4846)\n*   [How to reschedule or cancel your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4798)\n*   [How to schedule a second dose appointment if you got your first dose in another state](https://apps.health.vermont.gov/COVID/faq/#4842)",
             "source": "Editorial",
             "questions": [
                 "When will my second dose be scheduled?",
@@ -6577,7 +6590,8 @@
                 "can you go anywhere to get the dose 2",
                 "when to schedule second dose",
                 "date range for second vaccine",
-                "How long between two doses of Moderna vaccine?"
+                "How long between two doses of Moderna vaccine?",
+                "how long do I have to wait between doses for the moderna vaccine?"
             ],
             "metadata": [
                 {
@@ -6600,7 +6614,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:07:41.377+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:51:57.451+00:00",
             "isDocumentText": false
         },
         {
@@ -7176,7 +7190,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:36:11.326+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:53:35.421+00:00",
             "isDocumentText": false
         },
         {
@@ -7390,7 +7404,8 @@
                 "vaccinated person has contact with an infected person",
                 "If I am fully vaccinated what do I do if I have been exposed to a person with COVID?",
                 "fully vaccinated and exposed to covid",
-                "do i need to isolate if I'm fully vaccinated but was exposed to someone who is positive for covid"
+                "do i need to isolate if I'm fully vaccinated but was exposed to someone who is positive for covid",
+                "If you've been vaccinated and come in contact with a positive case of COVID"
             ],
             "metadata": [
                 {
@@ -7413,7 +7428,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:48:00.997+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:22:09.552+00:00",
             "isDocumentText": false
         },
         {
@@ -7601,7 +7616,7 @@
         },
         {
             "id": 4831,
-            "answer": "**Can I still infect someone with the COVID-19 virus after I've been fully vaccinated?**\n\nYou may not be protected from COVID-19 until you are fully vaccinated, which is 14 days after your final shot. While the vaccine protects you from serious illness, we don’t know yet if you can give the virus to someone else, how long the [protection lasts](https://apps.health.vermont.gov/COVID/faq/#4834), or how well the vaccines protect against the [newer variants](https://apps.health.vermont.gov/COVID/faq/#4777).\n\nHowever, some recent studies suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. Until more research is done, it is important that you continue to follow the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, and to follow the [social gathering](https://apps.health.vermont.gov/COVID/faq/#4761) guidelines, even after you’ve been vaccinated.\n\nLearn more about the studies:\n\n*   [Decreased SARS-CoV-2 viral load following vaccination](https://www.medrxiv.org/content/10.1101/2021.02.06.21251283v1)\n*   [Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study](https://pubmed.ncbi.nlm.nih.gov/33545090/)\n*   [Interim Estimates of Vaccine Effectiveness of Pfizer-BioNTech and Moderna COVID-19 Vaccines in Preventing SARS-CoV-2 Infection Among Health Care Personnel, First Responders, and Other Essential and Frontline Workers](https://www.cdc.gov/mmwr/volumes/70/wr/mm7013e3.htm)",
+            "answer": "**Can I still spread the COVID-19 virus after I've been fully vaccinated?**\n\nAccording to the CDC, early data show that the vaccines may help keep people from spreading COVID-19. Some recent studies suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. We are continuing to learn more as more people get vaccinated. \n\nAll three vaccines (Pfizer-BioNTech, Moderna and Johnson & Johnson) are safe and effective at keeping you from getting COVID-19. Getting a COVID-19 vaccine will also help keep you from getting seriously ill even if you do get COVID-19. We are still learning how long [protection from the vaccines last](https://apps.health.vermont.gov/COVID/faq/#4834) and how well the vaccines protect against the [newer variants](https://apps.health.vermont.gov/COVID/faq/#4777). \n\nUntil more research is done, it is important that you continue to follow the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, even after you’re fully vaccinated.\n\nLearn more about the studies:\n\n*   [Decreased SARS-CoV-2 viral load following vaccination](https://www.medrxiv.org/content/10.1101/2021.02.06.21251283v1)\n*   [Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study](https://pubmed.ncbi.nlm.nih.gov/33545090/)\n*   [Interim Estimates of Vaccine Effectiveness of Pfizer-BioNTech and Moderna COVID-19 Vaccines in Preventing SARS-CoV-2 Infection Among Health Care Personnel, First Responders, and Other Essential and Frontline Workers](https://www.cdc.gov/mmwr/volumes/70/wr/mm7013e3.htm)",
             "source": "Editorial",
             "questions": [
                 "Can I still infect someone with the COVID-19 virus after I've been fully vaccinated?",
@@ -7626,12 +7641,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-27T18:55:29.835+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:34:55.58+00:00",
             "isDocumentText": false
         },
         {
             "id": 4832,
-            "answer": "**I live in a border town. Do I need to get tested if I travel to and from towns across the border?**\n\nA border town is considered a town that is within 5 miles of the Vermont border. While travel for essential purposes has been allowed for some time, new guidance allows for limited travel between Vermont’s border towns that are economically and culturally linked to a neighboring state’s border towns. This means that if you are a Vermonter living in a border town or if you live in a border town in a neighboring state, **you do not need to get tested only if**:\n\n*   You travel 5 miles into a neighboring state or into Vermont **and**\n*   You travel to a neighboring state or to Vermont and back home in the same day.\n\nEven though you are allowed to travel, there are still risks involved when you do. Continue following the [COVID-19 prevention measures](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), including [wearing a mask](https://apps.health.vermont.gov/COVID/faq/#4540) and staying at least 6 feet away from people you don’t live with, when you are in a border town in Vermont or in a neighboring state.\n\nEmployers, schools and other organizations may have their own travel guidance that exceeds this policy. Before you decide to travel to a border town, you may want to check with your employer, school or other organization to see if they will require you to get tested when you return.",
+            "answer": "**I live in a border town. Do I need to get tested if I travel to and from towns across the border?**\n\nNo. A border town is considered a town that is within 5 miles of the Vermont border. New guidance allows for travel between Vermont’s border towns that are economically and culturally linked to a neighboring state’s border towns.\n\n**This means you do not need to get tested if**:\n\n*   You travel 5 miles into a neighboring state or into Vermont **and**\n*   You travel to a neighboring state or to Vermont and back home in the same day.\n\nEven though you are allowed to travel, there are still risks involved when you do. Continue following the [COVID-19 prevention measures](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19), including [wearing a mask](https://apps.health.vermont.gov/COVID/faq/#4540) and staying at least 6 feet away from people you don’t live with, when you are in a border town in Vermont or in a neighboring state.",
             "source": "Editorial",
             "questions": [
                 "people who live near state lines",
@@ -7654,12 +7669,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:50:30.332+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T20:10:58.876+00:00",
             "isDocumentText": false
         },
         {
             "id": 4833,
-            "answer": "**How long does it take for the vaccine to protect me from getting COVID-19?**\n\nYou may not be protected from COVID-19 until you are fully vaccinated, which is 14 days after your final shot. It takes time for the vaccine to train your body to fight COVID-19.\n\nThe vaccine protects you from serious illness, but we don’t know for sure if you can give the virus to someone else. Some [recent studies](https://apps.health.vermont.gov/COVID/faq/#4831) suggest that a person who is vaccinated is less likely to infect other people with the COVID-19 virus. Until enough people are vaccinated and we know more, it is important to continue following the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, and to follow the [social gathering](https://apps.health.vermont.gov/COVID/faq/#4761) guidelines, even after you’ve been vaccinated.",
+            "answer": "**How long does it take for the vaccine to protect me from getting COVID-19?**\n\nYou may not be protected from COVID-19 until you are fully vaccinated, which is 14 days after your final shot. It takes time for the vaccine to train your body to fight COVID-19.\n\nThe vaccine protects you from serious illness, and may also [protect the people around you](https://apps.health.vermont.gov/COVID/faq/#4831). Until we learn more, it is important to continue following the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, even after you are fully vaccinated.",
             "source": "Editorial",
             "questions": [
                 "How long does it take for the vaccine to protect me from getting COVID-19? "
@@ -7681,7 +7696,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-01T20:34:03.445+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:54:38.453+00:00",
             "isDocumentText": false
         },
         {
@@ -8076,7 +8091,8 @@
                 "Is it possible to get COVID-19 even if I’m fully vaccinated?",
                 "breakthrough cases",
                 "can i get covid if i have had first dose of vaccine",
-                "how many breakthrough cases are there in vermont"
+                "how many breakthrough cases are there in vermont",
+                "Can i catch covid after vaccination"
             ],
             "metadata": [
                 {
@@ -8095,7 +8111,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T18:46:03.916+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T18:48:30.7+00:00",
             "isDocumentText": false
         },
         {
@@ -8134,7 +8150,8 @@
             "answer": "**Can businesses or institutions require someone to be vaccinated?**\n\nThis is an evolving legal issue. We recommend seeking private legal advice about whether a business, institution, league, etc. can require staff or a member to be vaccinated. We will update this information when we have more to share.",
             "source": "Editorial",
             "questions": [
-                "Can businesses or institutions require someone to be vaccinated?"
+                "Can businesses or institutions require someone to be vaccinated?",
+                "ask my Employees if they been vaccinated"
             ],
             "metadata": [
                 {
@@ -8153,7 +8170,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:45:19.599+00:00",
+            "lastUpdatedTimestamp": "2021-05-10T19:25:32.369+00:00",
             "isDocumentText": false
         }
     ]
