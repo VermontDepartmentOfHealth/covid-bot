@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-05-10T20:10:58.876+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T20:00:13.816+00:00",
             "isDocumentText": false
         },
         {
@@ -136,15 +136,15 @@
         },
         {
             "id": 4538,
-            "answer": "**Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?**\n\nAccording to the CDC, while fewer children have been sick with COVID-19 compared to adults, children can be infected with the COVID-19 virus, can get sick from COVID-19, and can spread the virus to others. Children, like adults, who have COVID-19 but have no symptoms can still spread the virus to others.\n\nMost children with COVID-19 have mild symptoms or have no symptoms at all. However, some children can get severely ill from COVID-19. They might require hospitalization, intensive care, or a ventilator to help them breathe. In rare cases, they might die. Babies under 1 year old and children with certain underlying conditions may be more likely to have severe illness from COVID-19. Learn more from the CDC about [COVID-19 in children and teens](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/symptoms.html).\n\nA few children have developed [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://apps.health.vermont.gov/COVID/faq/#4697). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can teach your children the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19:\n\n*   Stay home if you are sick.\n*   Wash your hands often.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small.\n*   Stay at least 6 feet apart.\n*   Wear a mask (children over 2 who are able).\n*   Get the COVID-19 vaccine (when it becomes available to children).\n\nSocializing for children is important for their development and wellbeing. There are [ways children can socialize](https://apps.health.vermont.gov/COVID/faq/#4584) but still stay safe from getting or spreading COVID-19.\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children) and information from the CDC for [children, teens and young adults](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/caring-for-children.html).\n\nYou can find information about cases across age groups along with other COVID-19 data on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard). More detailed information is in the [Weekly Data Summaries](https://www.healthvermont.gov/covid-19/current-activity/weekly-data-summary), which include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
+            "answer": "**How are children affected by the COVID-19 virus?**\n\nAccording to the CDC, while fewer children have been sick with COVID-19 compared to adults, children can be infected with the COVID-19 virus, can get sick from COVID-19, and can spread the virus to others. Children, like adults, who have COVID-19 but have no symptoms can still spread the virus to others.\n\nMost children with COVID-19 have mild symptoms or have no symptoms at all. However, some children can get severely ill from COVID-19. They might require hospitalization, intensive care, or a ventilator to help them breathe. In rare cases, they might die. Babies under 1 year old and children with certain underlying conditions may be more likely to have severe illness from COVID-19. Learn more from the CDC about [COVID-19 in children and teens](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/symptoms.html).\n\nA few children have developed [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/mis-c/). Currently, information about MIS-C is limited, and the CDC is working to learn more.\n\nYou can find information about cases across age groups along with other COVID-19 data on the [Vermont Dashboard](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard). More detailed information is in the [Weekly Data Summaries](https://www.healthvermont.gov/covid-19/current-activity/weekly-data-summary), which include more details on who has been impacted by COVID-19 in Vermont. You can find out more about testing trends, outbreaks, pre-existing conditions and symptoms of Vermonters with COVID-19.",
             "source": "KB-COVID",
             "questions": [
                 "Can kids get Covid-19?",
                 "Can kids get it?",
                 "are children at risk",
-                "Are children more susceptible to the COVID-19 virus? How can I help my children from getting sick?",
                 "baby",
-                "info on covid in children"
+                "info on covid in children",
+                "How are children affected by the COVID-19 virus"
             ],
             "metadata": [
                 {
@@ -168,12 +168,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-21T18:55:14.33+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:28:01.152+00:00",
             "isDocumentText": false
         },
         {
             "id": 4539,
-            "answer": "**How can I help protect myself from getting the virus?**\n\nThe virus is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537) from person to person. Here is how you can protect yourself from getting COVID-19 and from spreading it to others:\n\n*   Stay home and away from others if you are sick.\n*   Wash your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer with at least 60% alcohol, especially after being in a public place, before eating, and after blowing your nose, coughing, or sneezing.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small. If you are around other people, it’s [safest to be outdoors](https://apps.health.vermont.gov/COVID/faq/#4746).\n*   Stay at least 6 feet away from people you don’t live with.\n*   Wear a mask anytime you are around people you don’t live with.\n*   Have the “[COVID Talk](https://www.healthvermont.gov/covid-19/protect-yourself-others/tips-you-get-together)” with people before you make plans and share what you need to feel safe and comfortable.\n*   Avoid close contact with people who are sick.\n*   Avoid crowded indoor spaces.\n*   Avoid touching your eyes, nose, and mouth.\n*   Cover your coughs and sneezes with a tissue or the inside of your elbow. Throw the tissue in the trash and wash your hands or use hand sanitizer.\n*   Clean and disinfect [frequently touched surfaces](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) daily.\n*   Limit your travel. Check [Vermont's travel guidance](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state), and read CDC's guidance on [travel in the United States](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html).\n*   Get the [COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\n**Learn more:**\n\n*   [Preventing COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19)\n*   [Daily activities and going out](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/going-out.html)\n*   [How to help care for someone sick at home](https://apps.health.vermont.gov/COVID/faq/#4670)\n*   [How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)",
+            "answer": "**How can I help protect myself from getting the virus?**\n\nThe virus is thought to [spread mainly through close contact](https://apps.health.vermont.gov/COVID/faq/#4537) from person to person. Here is how you can protect yourself from getting COVID-19 and from spreading it to others:\n\n*   Get the [COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n*   Stay home and away from others if you are sick.\n*   [Wash your hands](https://www.cdc.gov/handwashing/when-how-handwashing.html) often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer with at least 60% alcohol, especially after being in a public place, before eating, and after blowing your nose, coughing, or sneezing.\n*   Keep your [social circle](https://apps.health.vermont.gov/COVID/faq/#4761) small. If you are around other people, it’s [safest to be outdoors](https://apps.health.vermont.gov/COVID/faq/#4746).\n*   Stay at least 6 feet away from people you don’t live with.\n*   [Wear a mask](https://apps.health.vermont.gov/COVID/faq/#4540) anytime you are around people you don’t live with.\n*   Have “[The COVID Talk](https://www.healthvermont.gov/covid-19/protect-yourself-others/tips-you-get-together)” with people before you make plans and share what you need to feel safe and comfortable.\n*   Avoid close contact with people who are sick.\n*   Avoid crowded indoor spaces.\n*   Avoid touching your eyes, nose, and mouth.\n*   Cover your coughs and sneezes with a tissue or the inside of your elbow. Throw the tissue in the trash and wash your hands or use hand sanitizer.\n*   [Clean and disinfect](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) frequently touched surfaces daily.\n*   Limit your travel. Check [Vermont's travel guidance](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state), and read CDC's guidance on [travel in the United States](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html).\n\n**Learn more:**\n\n*   [Preventing COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19)\n*   [How to help care for someone sick at home](https://apps.health.vermont.gov/COVID/faq/#4670)\n*   [Tips for daily activities and going out](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/going-out.html) from the CDC\n*   [How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) from the CDC",
             "source": "KB-COVID",
             "questions": [
                 "How can you help prevent getting the virus?",
@@ -188,16 +188,25 @@
                 " Hand sanitizer protect against corona virus",
                 "am I safe?",
                 "exposure risk",
-                "How do I stay safe?"
+                "How do I stay safe?",
+                "Should I use antibacterial soap?",
+                "What does the CDC recommend for hand hygiene?",
+                "hand hygiene",
+                "How do I wash or sanitize my hands to keep from getting sick?",
+                "handsanitizer",
+                "hand sanitizer\n",
+                "What types of disinfectants should I be using to clean?",
+                "using certain cleaners",
+                "bleach",
+                "lysol",
+                "How do I clean",
+                "sanitizing",
+                "cleaning after covid"
             ],
             "metadata": [
                 {
                     "name": "category",
                     "value": "how to protect yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "prevention"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -211,7 +220,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-21T18:51:02.27+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:46:00.701+00:00",
             "isDocumentText": false
         },
         {
@@ -450,7 +459,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-06T19:34:14.763+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:43:52.955+00:00",
             "isDocumentText": false
         },
         {
@@ -587,34 +596,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4554,
-            "answer": "**What should pregnant or breastfeeding people do?**\n\nBased on what we know at this time, pregnant people with COVID-19 are at an increased risk for severe illness from COVID-19 — including hospitalization, intensive care, a ventilator or special equipment to help them breathe, and death — compared with non-pregnant people. Additionally, pregnant people with COVID-19 might be at increased risk of other adverse outcomes, such as preterm birth (delivering the baby earlier than 37 weeks). Therefore, it is especially important for pregnant people, and those who live with them, to protect themselves from getting COVID-19.\n\nWe don’t know for sure if people with COVID-19 can spread the virus to babies through their breast milk, but the current evidence suggests that it is not likely.\n\nLearn more from the CDC about [COVID-19 and pregnancy](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnant-people.html) and [COVID-19 and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children).",
-            "source": "KB-COVID",
-            "questions": [
-                "What should pregnant or breastfeeding people do?",
-                "pregnancy"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "families with children"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-29T19:37:16.926+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4557,
             "answer": "**What do communities of faith need to do?**\n\nFor many traditions, gathering together is the heart of a faith-based community. Gatherings can increase the risk of spreading COVID-19, so it's important to follow public health guidelines to keep communities safe while keeping traditions alive.\n\nReligious facilities and places of worship are following [universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#universal-guidance). Find out what actions [congregates, attendees, and organizations leaders and staff](https://www.healthvermont.gov/covid-19/your-community/communities-faith) can take to stay safe.",
             "source": "KB-COVID",
@@ -669,10 +650,6 @@
                 {
                     "name": "category",
                     "value": "businesses, organizations, health care and other facilities"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -686,7 +663,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-10T19:26:24.498+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:33:33.617+00:00",
             "isDocumentText": false
         },
         {
@@ -970,44 +947,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4570,
-            "answer": "**What types of disinfectants should I be using to clean?**\n\nFind tips from the CDC on how to [clean and disinfect your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) routinely and when someone is sick.\n\nMake sure you are using cleaning products and disinfectants safely. **Always read and follow the directions on the label** and follow these guidelines:\n\n*   Wear protective gear (such as gloves and eye protection).\n*   Use them in a well-ventilated area (for example, open windows).\n*   Use only the amount recommended on the label.\n*   Use water at room temperature for dilution (unless the label says a different temperature).\n*   Label diluted cleaning solutions.\n*   Store and use them out of the reach of children and pets.\n*   Do not mix products or chemicals.\n*   Do not eat, drink, breathe or inject these products into your body or apply them directly to your skin as they can cause serious harm.\n*   Do not wipe or bathe pets with any cleaning and disinfection products.\n\nIf you feel sick after using disinfectants, you can chat with the [Northern New England Poison Center](https://www.nnepc.org/) on their website, call 1-800-222-1222 or text POISON to 85511.",
-            "source": "KB-COVID",
-            "questions": [
-                "What types of disinfectants should I be using to clean?",
-                "using certain cleaners",
-                "bleach",
-                "Lysol",
-                "cleaning the workplace after exposure",
-                "sanitizing apartments",
-                "How do I clean",
-                "cleaning after covid"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "prevention"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-21T18:51:47.031+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4571,
             "answer": "**How can I get help finding a health care provider?**\n\nVermont 2-1-1 lists [community clinics and hospital-connected clinics](https://www.navigateresources.net/211vermont/Subcategory.aspx?;;0;;N;0;276976;Health%20Care,%20Dental%20Care) around the state and can connect you with one if you do not have a health care provider.\n\nVermont 2-1-1 does not list individual primary care providers. If you need a health care provider referral, contact your health care insurer.\n\nYou can also contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) (FQHC) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/) if you don’t have a health care provider. Anyone can go to an FQHC. They accept all insurances and offer a sliding scale payment if you don’t have insurance. Free clinics are for people who don’t have insurance or don’t have enough insurance coverage.\n\nIf you don’t have health insurance, [Vermont Health Connect](https://portal.healthconnect.vermont.gov/VTHBELand/welcome.action) offers health plans for individuals, families and small businesses.",
             "source": "KB-COVID",
@@ -1017,27 +956,19 @@
                 "Who would a person call who has no PCP",
                 "What if I don’t have a health care provider?",
                 "no health care provider and need covid test",
-                "How can I get help finding a health care provider?"
+                "How can I get help finding a health care provider?",
+                "don't have a local primary care"
             ],
             "metadata": [
                 {
                     "name": "category",
                     "value": "additional resources"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "assistance"
                 }
             ],
             "alternateQuestionClusters": [],
             "context": {
                 "isContextOnly": false,
                 "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4691,
-                        "displayText": "My health care provider is out-of-state. Can I be tested in Vermont?"
-                    },
                     {
                         "displayOrder": 0,
                         "qnaId": 4533,
@@ -1050,7 +981,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-10T21:26:51.56+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:43:52.955+00:00",
             "isDocumentText": false
         },
         {
@@ -1201,43 +1132,8 @@
             "isDocumentText": false
         },
         {
-            "id": 4581,
-            "answer": "**What should dentists know about COVID-19?**\n\nThe challenge with dentistry is the generation of aerosols as part of many office-based activities. This includes dental hygiene through a variety of preventive, restorative, endodontic, periodontic and orthodontic procedures.\n\nDental health care professionals can resume all procedures, including those that generate aerosol. Read the [Interim Guidance for Resuming Dental Services in Vermont](https://www.healthvermont.gov/sites/default/files/documents/pdf/Phase-3-Dental-ReOpening.pdf).\n\nDentists and other health care providers must continue to be available to their patients as needed for emergencies and urgent care.\n\nFind more information for [health care professionals](https://www.healthvermont.gov/response/infectious-disease/novel-coronavirus-covid-19-health-care-professionals).",
-            "source": "Editorial",
-            "questions": [
-                "What should dentists do?",
-                "I'm a dentist, ",
-                "What should dentists know ",
-                "are dental ",
-                "Dentist open"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, health care and other facilities"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "health care and other facilities"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-13T18:50:35.831+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4584,
-            "answer": "**I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?**\n\n**Vaccination**\n\nSince children under age 16 cannot get vaccinated at this time, they are considered unvaccinated.\n\nLearn more about [why children and adolescents under 16 can’t get vaccinated yet](https://apps.health.vermont.gov/COVID/faq/#4804), and [how to make an appointment for 16- and 17-year-olds](https://apps.health.vermont.gov/COVID/faq/#4849).\n\nIf approved by the FDA, the COVID-19 vaccine may be available to adolescents ages 12 to 15 as soon as May or June. We will provide more details when we have them.\n\n**Testing**\n\nChildren 12 months or older can get tested at a Health Department testing site if they do not have symptoms. Infants under 12 months can get tested at their health care provider’s office. Anyone under 18 should be accompanied by a parent or guardian or bring a signed parental consent form. Learn more about [getting tested for COVID-19](https://apps.health.vermont.gov/COVID/faq/#4545).\n\nIf your child has [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), **do not go to a testing site**. Talk to their health care provider about getting tested. If your child doesn't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\n**Social Gatherings**\n\nFind out the [current limits on gatherings and events](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nWhen gathering with other households, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nWhen you are outdoors, masks are only required when you are in a crowd or with multiple other households where you can’t maintain a 6-foot distance, whether you are vaccinated or not.\n\n**Travel**\n\nIf you are a fully vaccinated parent or caregiver and are traveling with children, your children will need to get tested within 3 days of returning to Vermont. This is because children cannot get vaccinated yet. Learn more about the [travel rules](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\n**Prevention**\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
+            "answer": "**I am a parent. What do I need to know, and how can I help keep my children safe from COVID-19?**\n\n**Vaccination**\n\nSince children under age 16 cannot get vaccinated at this time, they are considered unvaccinated.\n\nThe FDA authorized the Pfizer-BioNTech COVID-19 for emergency use in people ages 12 to 15. We expect to start vaccinating this age group soon. We will provide more details when we have them. Learn more about [vaccinating 12- to 15-year-olds](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinesforchildren).\n\nLearn more about [why children can’t get vaccinated yet](https://apps.health.vermont.gov/COVID/faq/#4804), and [how to make an appointment for 16- and 17-year-olds](https://apps.health.vermont.gov/COVID/faq/#4849).\n\n**Testing**\n\nChildren 12 months or older can get tested at a Health Department testing site if they do not have symptoms. Infants under 12 months can get tested at their health care provider’s office. Anyone under 18 should be accompanied by a parent or guardian or bring a signed parental consent form. Learn more about [getting tested for COVID-19](https://apps.health.vermont.gov/COVID/faq/#4545).\n\nIf your child has [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), **do not go to a testing site**. Talk to their health care provider about getting tested. If your child doesn't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/).\n\n**Social Gatherings**\n\nFind out the [current limits on gatherings and events](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nWhen gathering with other households, it’s safest to be outdoors. Because of the nature of how the virus spreads and how it survives, [being indoors increases your risk](https://apps.health.vermont.gov/COVID/faq/#4746) of spreading or getting COVID-19.\n\nWhen you are outdoors, masks are only required when you are in a crowd or with multiple other households where you can’t maintain a 6-foot distance, whether you are vaccinated or not.\n\n**Travel**\n\nIf you are a fully vaccinated parent or caregiver and are traveling with children, your children will need to get tested within 3 days of returning to Vermont. This is because children cannot get vaccinated yet. Learn more about the [travel rules](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state).\n\n**Prevention**\n\nThere will always be some risk of COVID-19 when we leave home, but it is possible to live your life and stay safer. Look for three things to help weigh the risk when making plans or going out:\n\n*   **6-Foot Spaces**: Can I easily keep 6 feet from others?\n*   **Masks on Faces**: Will people wear masks?\n*   **Uncrowded Places**: Is there enough space for people to spread out?\n\nImagine these things as layers protecting us from getting and spreading COVID-19. The more layers we have, the lower the risk. Find more [tips on preventing COVID-19](https://www.healthvermont.gov/staysafevt).\n\n**Learn more:**\n\n*   [Resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)\n*   [Coping with family stress during COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [Frequently asked questions about school and child care](https://apps.health.vermont.gov/COVID/faq/#families-with-children-school)",
             "source": "Editorial",
             "questions": [
                 "How should we practice social distancing with children?",
@@ -1292,7 +1188,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-10T19:22:56.286+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:28:01.152+00:00",
             "isDocumentText": false
         },
         {
@@ -1336,53 +1232,26 @@
             "isDocumentText": false
         },
         {
-            "id": 4588,
-            "answer": "**How do I wash or sanitize my hands to keep from getting sick?**\n\nThe CDC recommends [washing your hands often](https://www.cdc.gov/handwashing/when-how-handwashing.html) with soap and water for 20 seconds. To prevent the spread of germs during the COVID-19 pandemic, it’s especially important to wash your hands before and after:\n\n*   Touching your eyes, nose or mouth\n*   Eating or preparing food\n*   Blowing your nose, coughing or sneezing\n*   Touching your mask\n*   Entering and leaving a public place\n*   Touching an item or surface that may be frequently touched by other people (such as door handles, tables, gas pumps, shopping carts, or electronic cashier registers/screens, etc.)\n*   Caring for someone who is sick\n\nIf soap and water are not available, use an alcohol-based hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry. Always wash your hands with soap and water if they look dirty.",
-            "source": "Editorial",
-            "questions": [
-                "Should I use antibacterial soap?",
-                "What does the CDC recommend for hand hygiene?",
-                "How to make hand sanitizer",
-                "are my light winter gloves ok?",
-                "gloves",
-                "How do I wash or sanitize my hands to keep from getting sick?",
-                "handsanitizer",
-                "hand sanitizer"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "prevention"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-15T12:28:25.644+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4589,
-            "answer": "**Where can I find additional resources?**\n\n*   Go to the [Vermont Department of Health's COVID-19 website](http://www.healthvermont.gov/COVID-19).\n*   Find [information sheets, posters and infographics](https://www.healthvermont.gov/covid-19/resources) from the Health Department.\n*   Find resources for [people who are deaf and hard of hearing](https://www.healthvermont.gov/media/deaf).\n*   Find [multilingual resources](https://www.healthvermont.gov/covid-19/resources/multilingual-resources).\n*   Read the [CDC’s COVID-19 frequently asked questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html).\n*   Go to the [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19).\n*   Call the Vermont Department of Health call center at 802-863-7240 to talk to a person.\n*   Call 2-1-1 (If you are having trouble calling from a cell phone – turn off your WiFi, then call again.)\n*   If your question still isn’t answered, email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).\n\nGet the latest news and updates on the Health Department's COVID-19 response. Sign up for our [Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19).",
+            "answer": "**Where can I find additional resources?**\n\n*   Go to the [Vermont Department of Health's COVID-19 website](http://www.healthvermont.gov/COVID-19).\n*   Find [information sheets, posters and infographics](https://www.healthvermont.gov/covid-19/resources) from the Health Department.\n*   Find resources for [people who are deaf and hard of hearing](https://www.healthvermont.gov/media/deaf).\n*   Find [multilingual resources](https://www.healthvermont.gov/covid-19/resources/multilingual-resources).\n*   Read the [CDC’s COVID-19 frequently asked questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html).\n*   Go to the [Agency of Commerce and Community Development’s (ACCD) COVID-19 Recovery Resource Center](https://accd.vermont.gov/covid-19).\n*   Find information on [how to get food help](https://vem.vermont.gov/pods).\n*   If you need temporary housing, call the [Vermont Economic Services Division](https://dcf.vermont.gov/esd/covid19) at 1-800-479-6151 Monday through Thursday from 8 a.m. to 6 p.m. and Friday from 8 a.m. to 4:15 p.m. After hours, you can call 2-1-1.\n*   Call the Vermont Department of Health call center at 802-863-7240 to talk to a person.\n*   Call 2-1-1 (If you are having trouble calling from a cell phone – turn off your WiFi, then call again.)\n*   If your question still isn’t answered, email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).\n\nGet the latest news and updates on the Health Department's COVID-19 response. Sign up for our [Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19).",
             "source": "Editorial",
             "questions": [
                 "Where can I find additional resources?",
                 "what resources are available",
                 "Where can I get more information?",
                 "posters",
-                "sinage"
+                "sinage",
+                "food",
+                "food resources",
+                "food assistance",
+                "hunger",
+                "hungerfree",
+                "Where can I get food?",
+                "I have questions about financial assistance and housing.",
+                "we have no income, can I get help?",
+                "pay for housing",
+                "eviction",
+                "financial assistance"
             ],
             "metadata": [
                 {
@@ -1405,7 +1274,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-02-25T17:14:19.552+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:43:29.077+00:00",
             "isDocumentText": false
         },
         {
@@ -1595,53 +1464,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4603,
-            "answer": "**I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?**\n\nEmployees with COVID-19 related concerns in the workplace can contact the Vermont Occupational Safety and Health Administration (VOSHA). You can submit a confidential [online safety complaint form](https://labor.vermont.gov/form/safety-complaint-form), or call toll free at 1-800-287-2765.",
-            "source": "Editorial",
-            "questions": [
-                "How can I share a safety complaint about my workplace related to COVID-19?",
-                "I don’t feel safe at work. How can I share a safety complaint about my workplace related to COVID-19?",
-                "I don’t feel my employer is abiding by the stay at home order properly.",
-                "can my work place make me",
-                "I don't feel safe at work",
-                "My work won't close down",
-                "My work isn't taking proper precautions",
-                "My employer doesn't comply with social distancing",
-                "I am required to go to work where it is not possible to stay 6 feet away",
-                "My employer is not providing ppe",
-                "What if my employer is making me come in contact with more people than I need to be?",
-                "my employer is not requiring us to wear masks",
-                "my employer is not requiring customers to wear masks",
-                "What are my rights as an employee",
-                "can my employer make me",
-                "What do I do if someone is working who is not essential?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "work and employees"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4646,
-                        "displayText": "How can I report a person or business who is violating the Governor's executive orders?"
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-16T18:17:54.384+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4604,
             "answer": "**How can I take care of myself, my family, or friends with the stress from COVID-19?**\n\nFeeling anxious, confused, overwhelmed or powerless is common during a pandemic. Taking care of yourself, your friends, and your family can help you cope with stress. Coping with stress in a healthy way will make you, the people you care about, and your community stronger.\n\n*   Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.\n*   Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.\n*   Make time to unwind. Try to do some other activities you enjoy.\n*   Connect with others. Talk with people you trust about your concerns and how you are feeling.\n\nFind more information on [coping with COVID-19 stress](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress), including resources for local help, self-care, Vermont teens, suicide prevention, domestic violence, and grieving the loss of a loved one.\n\nIf you or someone you know is in crisis or needs emotional support, **help is available 24/7**: \n\n*   Call your [local mental health crisis line](https://vermontcarepartners.org/crisis-lines/).\n*   Text VT to 741741 to talk with someone at the [Crisis Text Line](https://www.crisistextline.org/).\n*   Call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. \n*   For multilingual support, call 800-985-5990 or text TalkWithUs to 66746.\n\nYou can also get **more information and resources**:\n\n*   Visit our [Coping with Stress](https://www.healthvermont.gov/covid-19/protect-yourself-others/coping-stress) web page.\n*   Get connected to Alcohol and Drug Support Services at [VT Helplink](http://www.vthelplink.org/).\n*   Get self-help tips and connect to mental health services at [COVID Support VT](http://covidsupportvt.org/).",
             "source": "Editorial",
@@ -1669,52 +1491,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-04-15T12:23:59.114+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4605,
-            "answer": "**What information is available for health care providers and workers?**\n\nThe Health Department has [guidance and information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals). It includes current guidance for the health care community, including health alerts, [testing information](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals), [vaccine information](https://www.healthvermont.gov/covid-19/health-care-professionals/vaccine-information-health-care-professionals) and resources for protecting patients and health care workers in different settings.\n\n**Report all suspected cases of COVID-19 immediately** to the Vermont Department of Health Infectious Disease Epidemiology by calling 802-863-7240 (24/7).\n\nIf you suspect that a patient with a fever or respiratory illness has COVID-19:\n\n*   Give the patient a surgical mask.\n*   Notify facility infection control personnel immediately.\n*   Use standard precautions, contact precautions, airborne precautions, and use eye protection when entering the room.\n*   Evaluate the patient in a private room with the door closed, ideally in an airborne infection isolation room.\n\nHealth care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. Health care providers can test them in their office or refer them to a centralized testing site. Find more [testing information for health care professionals](https://www.healthvermont.gov/covid-19/health-care-professionals/testing-information-health-care-professionals).\n\nCOVID-19 activity in the community may affect how facilities and providers make decisions about testing, operations and personal protective equipment (PPE). Find information for health care providers, nursing homes and other long-term care facilities to make decisions based on measures of [community-level burden](https://www.healthvermont.gov/covid-19/health-care-professionals/community-thresholds-decision-making).",
-            "source": "Editorial",
-            "questions": [
-                "What should assisted living workers do?",
-                "Should assisted living workers have PPE?",
-                "Should assisted living workers have masks?",
-                "Healthcare",
-                "screening health care providers",
-                "guidelines for health care services",
-                "nurse",
-                "healthcare providers",
-                "what do staff need to wear when doing testing",
-                "What should health care providers and workers do?",
-                "What information is available for health care providers and workers?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "businesses, organizations, health care and other facilities"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "health care and other facilities"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4619,
-                        "displayText": "Can I volunteer to help with the State’s response to COVID-19?"
-                    },
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-13T18:49:13.13+00:00",
             "isDocumentText": false
         },
         {
@@ -2123,50 +1899,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4619,
-            "answer": "**How can I help with the State’s response to COVID-19?**\n\nPeople with **medical or other health care**, mental health or other clinical experience, health care administrative experience (translators, medical data entry), or who have experience working with displaced people can volunteer with Vermont's Medical Reserve Corps. Learn how to [join the Medical Reserve Corps](https://oncallforvt.org/medical-reserve-corps/) and find [frequently asked questions](http://oncallforvt.org/wordpress/wp-content/uploads/2021/02/Vermont-Medical-Reserve-Corps-2021-FAQ.pdf).\n\n**Nurses and caregivers**, both paid and volunteer are needed to support Vermont's long-term care facilities provide direct care and support. **People with other skills** (for example, drivers, food service, construction, IT, security, skilled trades, etc.) from across different sectors and disciplines to are needed to keep our essential infrastructure operational. [Find paid or volunteer opportunities](https://www.vermont.gov/covid-staffing).\n\nVermont has eased licensing requirements for the purpose of helping out with the COVID-19 response. Learn more about [getting a temporary license](https://apps.health.vermont.gov/COVID/faq/#4657) if you are a **health professional**.\n\n**Here are other ways you can help:**\n\n*   Donate blood with the [American Red Cross](https://www.redcross.org/local/new-hampshire-vermont.html).\n*   [Support your local Foodbank](https://www.vtfoodbank.org/) by volunteering or donating online, or you can text GIVEHEALTH to 85511.\n*   Donate or volunteer with community organizations or emergency supply efforts.\n*   Help your neighbors – older adults and at-risk people need to stay home as much as possible. Offer to go shopping for them or keep them company by phone.",
-            "source": "Editorial",
-            "questions": [
-                "Can I volunteer to help with the State’s response to COVID-19?",
-                "Can I volunteer",
-                "what can i do to help?",
-                "where to go to volunteer for Covid-19",
-                "how can I to help with Covid-19?",
-                "platelets",
-                "Can I volunteer with the health department",
-                "Covid-19 jobs with health department",
-                "How can I become a contact tracer?",
-                "How can I help with the State’s response to COVID-19?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "volunteering"
-                },
-                {
-                    "name": "sort",
-                    "value": "1"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-21T19:37:02.354+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4622,
             "answer": "**What do owners of lodging establishments need to do?**\n\nLodging, campgrounds and other accommodations need to follow [universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations).\n\nOut-of-state guests who are staying at a lodging, camping or short-term rental property in Vermont must [self-certify that they meet certain conditions](https://accd.vermont.gov/covid-19/vermont-forward/cross-state-travel).\n\nRead the [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf) and find more resources for [food and lodging businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees) from the Health Department.\n\nFind out [what to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf) from the Health Department.",
             "source": "Editorial",
@@ -2275,42 +2007,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4628,
-            "answer": "**Can I get unemployment? How do I file an unemployment claim?**\n\nFind out about [unemployment related to COVID-19](https://labor.vermont.gov/covid19/employees) from the Department of Labor.\n\nFind answers to [frequently asked questions about unemployment insurance](https://accd.vermont.gov/covid-19/individuals/faqs#unemployment-insurance) from the Agency of Commerce and Community Development (ACCD).",
-            "source": "Editorial",
-            "questions": [
-                "Can I get unemployment? How do I file an unemployment claim?",
-                "stimulus package unemployment benefits",
-                "self-employed",
-                "need the extra 600 dollars",
-                "Can I collect unemployment due to Covid-19?",
-                "Can you return to work and still collect benefits?",
-                "unemployment if I left at doctor's advice",
-                "What if I can't work due to my health?",
-                "filed for UI because I was furloughed ",
-                "am i eligible for partial unemployment"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "work and employees"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-03-26T18:23:58.967+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4630,
             "answer": "**What do businesses and non-profits need to do?**\n\nAs part of [Vermont's phased reopening plan](https://www.vermont.gov/vermont-forward), most sectors have transitioned to [universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#universal-guidance) and some will need to also follow [specialized guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#specialized-guidance).\n\n**More resources**:\n\n*   [Health guidance and resources for businesses](https://www.healthvermont.gov/covid-19/your-community/businesses-employees)\n*   [What to do if an employee tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-What-employers-should-do-if-their-employee-tests-positive.pdf)\n*   [What to do if a guest or visitor at your establishment tests positive for COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Guidance-Positive-Guest-Establishment.pdf)\n*   [What to do if you operate a critical infrastructure business and your essential workers are close contacts](https://accd.vermont.gov/covid-19/business/faqs#i-operate-a-critical-infrastructure-business-what-do-i-do-if-my-essential-workers-are-close-contacts-of-someone-with-covid-19)\n*   [Checklist for Employers: COVID-19 in the Workplace](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-in-the-Workplace-Checklist-for-Employers.pdf)\n*   [COVID-19 Guidance for Food and Lodging Businesses](https://www.healthvermont.gov/sites/default/files/documents/pdf/EH-COVID-19-Food-Lodging-Business-Fact-Sheet.pdf)\n*   [COVID-19 Recovery Resource Center for Businesses](https://accd.vermont.gov/covid-19/business) from the ACCD\n*   [Best Practices for Retail Food Stores, Restaurants, and Food Pick-Up/Delivery Services During the COVID-19 Pandemic](https://www.fda.gov/food/food-safety-during-emergencies/best-practices-retail-food-stores-restaurants-and-food-pick-updelivery-services-during-covid-19) from the Food and Drug Administration\n\nThe Health Department and Agency of Agriculture do not recommend the use of fogging, fumigation, ​electrostatic or wide-area spraying on hard surfaces to control the spread of COVID-19. These methods, while they can be effective, ​are unnecessary and do not clean contaminated surfaces. They also may result in chemical exposures to workers and the public. Additionally, the Environmental Protection Agency does not recommend using these methods to apply disinfectants unless the label specifically states it is appropriate to do so.",
             "source": "Editorial",
@@ -2369,55 +2065,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-05-03T19:22:20.139+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4632,
-            "answer": "**Is there any financial assistance available?**\n\nThe Agency of Commerce and Community Development (ACCD) has answers to questions regarding financial assistance (for example, mortgage, utility bills, internet, and taxes) and housing (for example, paying rent, short-term housing and emergency housing) on its [COVID-19 Resource Recovery Center](https://accd.vermont.gov/covid-19/individuals).",
-            "source": "Editorial",
-            "questions": [
-                "I have questions about financial assistance and housing.",
-                "can't pay premium",
-                "we have no income, can I get help?",
-                "eviction",
-                "Can people be evicted?",
-                "Can she claim for financial assistance?",
-                "Can I claim for financial assistance?",
-                " pay for housing",
-                "Is there any financial assistance available?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "additional resources"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "assistance"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4628,
-                        "displayText": "Can I get unemployment? How do I file an unemployment claim?"
-                    },
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4675,
-                        "displayText": "Is there temporary housing available if I might have or have tested positive for COVID-19?"
-                    },
-                    {
-                        "displayOrder": 2,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-03-26T18:23:58.967+00:00",
             "isDocumentText": false
         },
         {
@@ -2636,34 +2283,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4640,
-            "answer": "**What should families do if they are not able to get formula, diapers, or other baby necessities?**\n\nFamilies can call Help Me Grow-VT at 2-1-1 ext. 6 to be directed to services in their area that may be able to assist with formula, diapers, or other necessities.\n\nVermont WIC provides healthy foods, nutrition education, and breastfeeding support to pregnant and postpartum Vermonters and caregivers of infants and children under 5. Vermont WIC is open and invites new and returning families to join. If your family's financial circumstances have changed due to a job loss or reduced hours, you could be eligible for WIC.\n\nWIC has made a few changes to keep families and staff safe during the COVID-19 pandemic. All appointments are being done by phone and breastfeeding classes are offered online.\n\n[Apply for WIC online](https://www.healthvermont.gov/applytowic) or text VTWIC to 855-11. You can also [connect with WIC in your area](https://www.healthvermont.gov/local).\n\nFood banks and food shelves may be resources for families not eligible for WIC. Find more [information on food access](https://www.hungerfreevt.org/coronavirus) from Hunger Free Vermont.\n\nFind more [resources for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children).",
-            "source": "Editorial",
-            "questions": [
-                "What should families do if they are not able to get formula, diapers, or other baby necessities?",
-                "sign up for WIC"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "families with children"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-01-28T17:30:21.872+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4641,
             "answer": "**How can I make my own cloth mask?**\n\nHomemade cloth masks can be made using simple materials found in most homes, for example, an old t-shirt or bandanna and rubber bands or hair ties. Make your mask with two or more layers of washable, breathable fabric.\n\nThe CDC has instructions on [how to make a mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) in several different methods, including machine or hand-sewn, a no-sew method with a t-shirt and scissors, and a no-sew method with a bandana.\n\nCheck Vermont’s current [mask requirements](https://apps.health.vermont.gov/COVID/faq/#4540). \n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [Face coverings for children](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-childfacecovering.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of free cloth masks to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
             "source": "Editorial",
@@ -2761,7 +2380,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-22T18:15:19.618+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:31:26.514+00:00",
             "isDocumentText": false
         },
         {
@@ -2818,10 +2437,6 @@
                 {
                     "name": "category",
                     "value": "businesses, organizations, health care and other facilities"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "health care and other facilities"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -2835,38 +2450,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-29T19:38:44.365+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4652,
-            "answer": "**I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?**\n\nIf you’ve fully recovered from COVID-19, the plasma in your blood may contain COVID-19 antibodies that can attack the virus. Plasma is being evaluated as a possible treatment for people who are currently sick with COVID-19. \n\nThe Red Cross is looking for people who have fully recovered from COVID-19 and would like to donate their plasma. If you are interested in donating your plasma, [fill out the form on the Red Cross website](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html).",
-            "source": "Editorial",
-            "questions": [
-                "I have recovered from COVID-19. Can I donate my blood plasma to help other people suffering from COVID-19?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "volunteering"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-15T12:29:28.593+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:33:48.332+00:00",
             "isDocumentText": false
         },
         {
@@ -2923,37 +2507,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4657,
-            "answer": "**I’m a health professional and would like to volunteer. How do I get a temporary license?**\n\nIf you are a health care professional, you can quickly become temporarily licensed to provide care during the COVID-19 pandemic. You can be granted a temporary license if you:\n\n*   Are licensed and in good standing in other states\n*   Were licensed in Vermont, but your license lapsed in recent years\n\nThere are no fees of any kind to obtain a temporary emergency license.\n\nTo apply for a license or get more information about the process, contact the licensing authority for your profession:\n\n*   [Board of Medical Practice](https://www.healthvermont.gov/health-professionals-systems/board-medical-practice/COVID19) (medical doctors, physician assistants, and podiatrists) or 802-657-4223\n*   [Office of Professional Regulation](https://sos.vermont.gov/opr/about-opr/covid-19-response/) (other health care professions – including nurses and osteopathic physicians) or 802-828-1505",
-            "source": "Editorial",
-            "questions": [
-                "I’m a health professional and would like to volunteer. How do I get a temporary license?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "volunteering"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-15T12:29:44.623+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4658,
             "answer": "**What do managers and owners of apartment complexes need to do?**\n\nThere is [guidance for managers and owners of apartment complexes](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Prevention-Apartment-Complexes-final.pdf) to help prevent the spread of COVID-19, which includes information for making a plan, preparing common spaces and communicating with residents or staff, in addition to outlining the role of the Health Department.",
             "source": "Editorial",
@@ -2984,41 +2537,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-02-16T18:10:50.253+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4661,
-            "answer": "**How can I safely run errands?**\n\nThe CDC has guidance on [how to safely run essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html) to meet basic household needs, such as going grocery shopping, getting deliveries and takeout, banking, and getting gas.\n\nIt is safe to use reusable, or cloth, grocery bags. Find out more about [shopping for food during the COVID-19 pandemic](https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers) from the Food and Drug Administration.\n\nThe CDC also has tips on how to stay safe when scheduling [services or repairs inside your home](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/at-home/in-home-services.html).",
-            "source": "Editorial",
-            "questions": [
-                "How can I safely run errands for essential purposes?",
-                "How can I get medication?",
-                "How can I safely run errands?",
-                "can i bring groceries into the house?",
-                "Do you need to wipe your groceries?",
-                "shopping\n",
-                "Should gloves be worn when grocery shopping?",
-                "shopping bags",
-                "shopping totes"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-15T12:23:41.606+00:00",
             "isDocumentText": false
         },
         {
@@ -3192,92 +2710,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4672,
-            "answer": "**Where can I get food assistance?**\n\nThere are multiple options for those in need to get help, including meal distribution and other food resources. [Get more details on how to get food help](https://vem.vermont.gov/pods).",
-            "source": "Editorial",
-            "questions": [
-                "Is there food available if I need it?",
-                "Where can I get food?",
-                "food",
-                "food resources",
-                "hunger",
-                "hungerfree",
-                "food assistance",
-                "Where can I get food assistance?",
-                "is there any assistance available for food?",
-                "How can I get food?",
-                "How can I get food assistance?",
-                "will snap benefits be extended"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "additional resources"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "assistance"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "0001-01-01T00:00:00+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4675,
-            "answer": "**Is there temporary housing available if I might have or have tested positive for COVID-19?**\n\nThere is temporary housing available – commonly referred to as the motel voucher program – for people experiencing homelessness who are suspected to have or tested positive for COVID-19 and don’t require hospitalization.\n\nCall the [Vermont Economic Services Division](https://dcf.vermont.gov/esd/covid19) at 1-800-479-6151 Monday through Thursday from 8 a.m. to 6 p.m. and Friday from 8 a.m. to 4:15 p.m. After hours, you can call 2-1-1.\n\nIf you need to isolate or quarantine due to COVID-19 and don’t have a suitable home environment, there is temporary housing available. Learn more about [isolation/quarantine and recovery housing sites](https://humanservices.vermont.gov/help-and-resources/covid-19-information).",
-            "source": "Editorial",
-            "questions": [
-                "I don't have a house or a home, how can I stay safe?",
-                "homeless",
-                "Is there temporary housing available if I might have or have tested positive for COVID-19?",
-                "Does Vermont have hotels or places to quarantine if someone tests positive?",
-                "where are housing sites for homeless with covid-19",
-                "motel housing for homeless people",
-                "motel housing",
-                "How do I reach the Ho Hum Motel",
-                "I am homeless what do I do?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "additional resources"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "assistance"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4632,
-                        "displayText": "Is there any financial assistance available?"
-                    },
-                    {
-                        "displayOrder": 2,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-03-26T18:23:58.967+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4676,
             "answer": "**Are syringe service programs (needle exchanges) still open?**\n\nYes! Services have been changed to limit the risk of getting COVID-19. Also, some services may not be available like walk-in HIV/Hepatitis C testing. See the [list of services](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs#services) that are being offered at each program. \n\nFind a [syringe service program](https://www.healthvermont.gov/disease-control/hiv-std-hepatitis-community-resources/syringe-service-programs) near you. \n\nYou can also call VT Helplink for free, confidential alcohol and drug support and referrals at 802-565-LINK or [search for a syringe service program](https://vthelplink.org/app/account/opa_result/incident_id/5957686b59773d3d).",
             "source": "Editorial",
@@ -3384,34 +2816,6 @@
             "isDocumentText": false
         },
         {
-            "id": 4691,
-            "answer": "**My health care provider is out-of-state. Can I be tested in Vermont?**\n\nYes, out-of-state health care providers can refer their patients for COVID-19 testing in Vermont. Ask your health care provider for a referral. ",
-            "source": "Editorial",
-            "questions": [
-                "My health care provider is out-of-state. Can I be tested in Vermont?",
-                "don't have a local primary care"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "testing"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 9,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-10T21:26:51.56+00:00",
-            "isDocumentText": false
-        },
-        {
             "id": 4692,
             "answer": "**I am under a 14-day quarantine. Can I have the option to be tested and end my quarantine period?**\n\nIf you are currently under [quarantine](https://apps.health.vermont.gov/COVID/faq/#4618) and have had no symptoms of COVID-19 during the first seven days of quarantine, you have the option to be tested and end your quarantine early. The test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\n**You can end your quarantine period before 14 days only if**:\n\n*   You have not had [symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) during your quarantine period;\n*   You are tested on day 7 or later;\n*   You remain in quarantine until the result comes back;\n*   You receive a negative test result and are still not having symptoms; and\n*   You continue to monitor yourself for symptoms for the full 14 days.\n\n**If you develop symptoms** at any point during your quarantine, contact your health care provider and the Health Department right away.\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. [**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing).\n\nIf you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nStudies have found most people will develop symptoms by day 7. This is [why there is the option](https://apps.health.vermont.gov/COVID/faq/#4714) for people to be tested on day 7 or after in their quarantine and, if the test is negative, to end quarantine.\n\nResidents and staff of group living facilities (for example long-term care facilities or corrections facilities) and new admissions to nursing homes, assisted living residences, and residential care homes **must complete the full 14-day quarantine**.",
             "source": "Editorial",
@@ -3486,33 +2890,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-04-15T12:21:39.403+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4697,
-            "answer": "**What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?**\n\nAccording to the CDC, [Multisystem Inflammatory Syndrome in Children (MIS-C)](https://www.cdc.gov/mis-c/) is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. We do not yet know what causes MIS-C. However, many children with MIS-C had the COVID-19 virus, or had been around someone with COVID-19. MIS-C can be serious, even deadly, but most children who were diagnosed with this condition have gotten better with medical care. \n\nIf your child is experiencing [symptoms of MIS-C](https://www.healthvermont.gov/sites/default/files/documents/pdf/MIS-C-Fact-Sheet.pdf), call their primary care provider right away. MIS-C appears to be rare both worldwide and, in the U.S., and most children with this syndrome have responded well to supportive treatment. \n\nThere have been several reports of a similar multisystem inflammatory syndrome in adults (MIS-A). Learn more about [MIS-A from the CDC](https://www.cdc.gov/mis-c/mis-a.html).",
-            "source": "Editorial",
-            "questions": [
-                "What is known about Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "families with children"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-25T17:32:11.821+00:00",
             "isDocumentText": false
         },
         {
@@ -4773,7 +4150,7 @@
         },
         {
             "id": 4745,
-            "answer": "**What are the long-term health effects of COVID-19?**\n\nThe CDC is working to learn more about the whole range of short- and long-term health effects associated with COVID-19. Many organs besides the lungs are affected by COVID-19, and there are many ways the infection can affect someone’s health.\n\nWhile most people with COVID-19 recover and return to normal health, some can have symptoms that can last for weeks or even months after their recovery. Even people who are not hospitalized and who have a mild illness can experience persistent or late symptoms. Studies are being done to learn more.\n\nFind out what the [long-term health symptoms and complications](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects.html) of COVID-19 are from the CDC.",
+            "answer": "**What are the long-term health effects of COVID-19?**\n\nAlthough most people with COVID-19 get better within weeks of illness, some people experience post-COVID conditions. **Post-COVID conditions** are a wide range of new, returning, or ongoing health problems people can experience **more than four weeks** after first being infected with the virus that causes COVID-19. Even people who did not have symptoms when they were infected can have post-COVID conditions. These conditions can have different types and combinations of health problems for different lengths of time.\n\nThe CDC and experts around the world are working to learn more about short- and long-term health effects associated with COVID-19, who gets them, and why.\n\nLearn more from the CDC about [post COVID conditions](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects.html).",
             "source": "Editorial",
             "questions": [
                 "What are the long-term health effects of COVID-19?"
@@ -4799,7 +4176,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2020-11-20T19:49:27.597+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T20:00:13.816+00:00",
             "isDocumentText": false
         },
         {
@@ -4952,33 +4329,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-04-15T12:24:36.441+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4753,
-            "answer": "**What are some ways I can talk about my COVID-19 \"comfort level\" when making plans with friends and family?**\n\nWhen we are able to see our friends and family again, we know there is a lot to discuss beforehand to feel comfortable and stay safe. Here are four tips to help have the “COVID Talk” – a conversation to negotiate boundaries and establish expectations ahead of time.\n\n1.  **Ask questions**. Before you get together, start with an open and honest conversation about what everyone has been doing to stay healthy and how they have been socializing. Consider everyone’s worries, boundaries and possible COVID-19 exposure risk so you can all get on the same page.\n2.  **Focus on what you need**. Using “I” instead of “you” statements helps people avoid feeling defensive or judged. In fact, blaming and shaming may actually increase push back and the likelihood of risk-taking behaviors. We recommend sharing what you’re comfortable with based on your own perspective instead of making demands of others.\n3.  **Share why it is important to you**. Share what level of risk works for you and why. It might be different for others. Some people feel comfortable taking on a moderate amount of risk in their lives. Others may not feel comfortable taking on any risk. Focusing on your own reasons for staying safe can help people to better understand and get on board.\n4.  **Set boundaries and stick to them**. We are all for keeping it friendly, open and non-judgmental – but that doesn’t mean you have to skimp on your safety! It’s OK to be clear and straightforward with what you need to feel safe and comfortable. It’s also okay to decline invitations or leave situations that feel too risky. You should never have to feel bad or apologize for prioritizing your safety. Lead by example by sticking to what works for you and avoiding judgment.\n\nFind some [examples of the “COVID Talk”](https://www.healthvermont.gov/covid-19/protect-yourself-others/tips-you-get-together).",
-            "source": "Editorial",
-            "questions": [
-                "What are some ways I can talk about my COVID-19 \"comfort level\" when making plans with friends and family?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "how to protect yourself and others"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-15T12:25:17.823+00:00",
             "isDocumentText": false
         },
         {
@@ -6099,7 +5449,7 @@
         },
         {
             "id": 4789,
-            "answer": "**What can I expect at my vaccine appointment?**\n\nMost clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic.\n\nYou do not need to bring any identification to your appointment. Some clinics may ask for your health insurance information and for you to bring your health insurance card to your appointment, but you do not need health insurance to get a vaccine.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nArrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**.\n\nIf you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics. This person will not be able to get a vaccine unless they have an appointment. There is [no waitlist for extra doses](https://apps.health.vermont.gov/COVID/faq/#4769).\n\n**Once you arrive at the vaccine clinic**, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\n**If you are going to a drive-through clinic**, you will stay in your car. Someone will check you in and then give you the vaccine. You’ll be asked to wait 15 to 30 minutes before leaving.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
+            "answer": "**What can I expect at my vaccine appointment?**\n\nMost clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic.\n\nYou do not need to bring any identification to your appointment. Some clinics may ask for your health insurance information and for you to bring your health insurance card to your appointment, but you do not need health insurance to get a vaccine.\n\nIf you are getting a Pfizer-BioNTech or Moderna vaccine, we recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nArrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**.\n\nIf you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics. This person will not be able to get a vaccine unless they have an appointment. There is [no waitlist for extra doses](https://apps.health.vermont.gov/COVID/faq/#4769).\n\n**Once you arrive at the vaccine clinic**, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\n**If you are going to a drive-through clinic**, you will stay in your car. Someone will check you in and then give you the vaccine. You’ll be asked to wait 15 to 30 minutes before leaving.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
             "source": "Editorial",
             "questions": [
                 "What can I expect at my vaccine appointment?",
@@ -6145,7 +5495,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-27T19:36:10.087+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:06:40.828+00:00",
             "isDocumentText": false
         },
         {
@@ -6240,13 +5590,14 @@
         },
         {
             "id": 4793,
-            "answer": "**I am pregnant or breastfeeding. Should I get vaccinated?**\n\nPregnant people are at an increased risk for severe illness and for [poor pregnancy outcomes](https://www.healthvermont.gov/covid-19/protect-yourself-others/people-higher-risk) if they get COVID-19. Any of the vaccines can be given to people who are pregnant or breastfeeding. \n\nThe three vaccines have not been studied in pregnant people. But medical and scientific experts believe they are unlikely to pose a risk to the pregnant person or fetus because the vaccines cannot copy themselves in the body or cause infection. The [American College of Obstetrics and Gynecology](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2020/12/vaccinating-pregnant-and-lactating-patients-against-covid-19) recommends that COVID-19 vaccines should not be withheld from people who are pregnant, want to become pregnant, or who are lactating.\n\nThere are no data on the safety of COVID-19 vaccines in people who are breastfeeding or the effects of the vaccines on milk production/excretion or on the breastfed baby. Since these vaccines do not reproduce inside your body’s cells, they are not thought to be a risk to the breastfed baby.\n\nThe CDC and other professional organizations recommend that you talk with your health care provider if you have any questions about the vaccines. \n\nFor more information, watch the video [Sara Asks about the COVID-19 Vaccine](https://youtu.be/Idq1kyVwZHk), which is also [available in other languages](https://www.healthvermont.gov/covid-19/resources/multilingual-resources).",
+            "answer": "**I am pregnant or breastfeeding. Can I get the vaccine?**\n\nYes. If you are pregnant or breastfeeding, you can get a COVID-19 vaccine. You might want to talk with your health care provider to help you decide whether to get vaccinated. While this conversation might be helpful, it is not required before you get your vaccine.\n\nBased on how these vaccines work in the body (that is, they do not reproduce inside your body’s cells), experts believe they are unlikely to pose a risk for people who are pregnant, people who are lactating or breastfeeding babies. However, there are currently limited data on the safety of COVID-19 vaccines in pregnant people. Additionally, there are no data on the safety of COVID-19 vaccines in people who are breastfeeding, the effects of the vaccines on milk production or excretion, or the effects of vaccination on the breastfed baby.\n\nFor more information, watch the video [Sara Asks about the COVID-19 Vaccine](https://youtu.be/Idq1kyVwZHk), which is also [available in other languages](https://www.healthvermont.gov/covid-19/resources/multilingual-resources). Learn more from the CDC about [vaccination considerations for people who are pregnant or breastfeeding.](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/pregnancy.html)\n\nPregnant people with COVID-19 are at an increased risk for severe illness from COVID-19 — including hospitalization, intensive care, a ventilator or special equipment to help them breathe, and death — compared with non-pregnant people. Additionally, pregnant people with COVID-19 might be at increased risk of other adverse outcomes, such as preterm birth (delivering the baby earlier than 37 weeks). Learn more from the CDC about [COVID-19 and pregnancy](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnant-people.html).\n\nWe don’t know for sure if people with COVID-19 can spread the virus to babies through their breast milk, but the current evidence suggests that it is not likely. Learn more from the CDC about [COVID-19 and breastfeeding](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html).",
             "source": "Editorial",
             "questions": [
                 "I am pregnant or breastfeeding. Should I get vaccinated?",
                 "Will the vaccine harm my unborn baby?",
                 "Can we get the vaccine while breast feeding?",
-                "Is the covid vaccine safe when pregnant"
+                "Is the covid vaccine safe when pregnant",
+                "I am pregnant or breastfeeding. Can I get the vaccine?"
             ],
             "metadata": [
                 {
@@ -6269,7 +5620,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:02:12.554+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:59:45.029+00:00",
             "isDocumentText": false
         },
         {
@@ -6368,7 +5719,7 @@
         },
         {
             "id": 4797,
-            "answer": "**Do I need to bring identification to my vaccine appointment?**\n\nNo. Identification is not required to make your vaccine appointment, and you don't need to bring an ID with you to your appointment.\n\nWhen you sign up for your appointment, you will be asked to provide your:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n\nLearn more about if [you are not a Vermont resident](https://apps.health.vermont.gov/COVID/faq/#4780).",
+            "answer": "**Do I need to bring identification to my vaccine appointment?**\n\nNo. Identification is not required to make your vaccine appointment, and you don't need to bring an ID with you to your appointment.\n\nIf you are getting a Pfizer-BioNTech or Moderna vaccine, we recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nWhen you sign up for your appointment, you will be asked to provide your:\n\n*   Name\n*   Date of birth\n*   Address\n*   Email (if available)\n*   Phone number\n\nLearn more about if [you are not a Vermont resident](https://apps.health.vermont.gov/COVID/faq/#4780).",
             "source": "Editorial",
             "questions": [
                 "Do I need to bring identification to my vaccine appointment?",
@@ -6400,7 +5751,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-03-26T19:01:45.215+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:05:45.927+00:00",
             "isDocumentText": false
         },
         {
@@ -6692,7 +6043,7 @@
         },
         {
             "id": 4804,
-            "answer": "**Why can’t children and adolescents get the COVID-19 vaccine?**\n\nChildren’s immune systems are different at different ages. They are also different from adults.\n\nIn early April, Pfizer-BioNTech asked the FDA to expand use of its COVID-19 vaccine to adolescents ages 12 to 15. If approved, we may be able to start vaccinating this age group in May or June. We will provide more details when we have them.\n\nModerna and Johnson & Johnson are each running clinical vaccine trials with adolescents aged 12 to 17. Pfizer-BioNTech and Moderna have clinical trials of their vaccines for younger children going on now.\n\nIf the trials are successful, there will be the usual review processes before the vaccines can be approved for emergency use and then produced for distribution. This process can take a while, especially for very young ages, which are usually tested last.\n\n*   The [Pfizer-BioNTech vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) for people 16 years and older.\n*   The [Moderna vaccine is authorized](https://www.fda.gov/news-events/press-announcements/fda-takes-additional-action-fight-against-covid-19-issuing-emergency-use-authorization-second-covid) for people 18 years and older.\n*   The [Johnson & Johnson (Janssen) vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/janssen-covid-19-vaccine#additional) for people 18 years and older.\n\nBecause children under 16 cannot get vaccinated at this time, they will need to get tested when they travel and are not considered part of a fully vaccinated household. Learn more about [traveling out of state](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state) and check the current [limits on gatherings and events](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nFind out [what children age 16 and 17 need to do to get vaccinated](https://apps.health.vermont.gov/COVID/faq/#4849).",
+            "answer": "**Why can’t children and adolescents get the COVID-19 vaccine?**\n\nChildren’s immune systems are different at different ages. They are also different from adults.\n\nThe FDA authorized the Pfizer-BioNTech COVID-19 for emergency use in people ages 12 to 15. We expect to start vaccinating this age group soon. We will provide more details when we have them. Learn more about [vaccinating 12- to 15-year-olds](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinesforchildren).\n\nModerna and Johnson & Johnson are each running clinical vaccine trials with adolescents aged 12 to 17. Pfizer-BioNTech and Moderna have clinical trials of their vaccines for younger children going on now.\n\nIf the trials are successful, there will be the usual review processes before the vaccines can be approved for emergency use and then produced for distribution. This process can take a while, especially for very young ages, which are usually tested last.\n\n*   The [Pfizer-BioNTech vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) for people 16 years and older.\n*   The [Moderna vaccine is authorized](https://www.fda.gov/news-events/press-announcements/fda-takes-additional-action-fight-against-covid-19-issuing-emergency-use-authorization-second-covid) for people 18 years and older.\n*   The [Johnson & Johnson (Janssen) vaccine is authorized](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/janssen-covid-19-vaccine#additional) for people 18 years and older.\n\nBecause children under 16 cannot get vaccinated at this time, they will need to get tested when they travel and are not considered part of a fully vaccinated household. Learn more about [traveling out of state](https://www.healthvermont.gov/covid-19/travel-quarantine/vermonters-traveling-out-state) and check the current [limits on gatherings and events](https://apps.health.vermont.gov/COVID/faq/#4761).\n\nFind out [what 16- and 17-year-olds need to do to get vaccinated](https://apps.health.vermont.gov/COVID/faq/#4849).",
             "source": "Editorial",
             "questions": [
                 "Why can’t children and adolescents get the COVID-19 vaccine? ",
@@ -6721,7 +6072,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:15:38.589+00:00",
+            "lastUpdatedTimestamp": "2021-05-11T19:03:42.846+00:00",
             "isDocumentText": false
         },
         {
@@ -7088,38 +6439,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-05-06T19:33:48.793+00:00",
-            "isDocumentText": false
-        },
-        {
-            "id": 4816,
-            "answer": "**I have recovered from COVID-19, but I am sick with a new illness and symptoms. When can I return to work, school or child care?**\n\nIf you develop new illness symptoms within the first 3 months of recovering from a COVID-19 infection, we do not recommend retesting. Data to date show that a person who has had and recovered from COVID-19 may have low levels of virus in their bodies for up to 3 months after diagnosis. This means that if the person who has recovered from COVID-19 is retested within 3 months of their initial infection, they may continue to have a positive test result, even though they are not spreading COVID-19. \n\nYou should still stay home when you are sick to prevent spreading illness to others. You should remain home until your symptoms have improved or are gone. If you have a fever, you should stay home until you are fever-free (without the use of fever-reducing medicine) for at least 24 hours. Contact your health care provider if you have questions or concerns.\n\nLearn more about [if people who recover from COVID-19 can be infected again](https://apps.health.vermont.gov/COVID/faq/#4602) and [when you are considered to be recovered from COVID-19](https://apps.health.vermont.gov/COVID/faq/#4601).",
-            "source": "Editorial",
-            "questions": [
-                "I have recovered from COVID-19, but I am sick with a new illness and symptoms. When can I return to work, school or child care?",
-                "Recovered from covid now sick"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "symptoms and sickness"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "sickness"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-02-09T13:42:52.139+00:00",
             "isDocumentText": false
         },
         {
