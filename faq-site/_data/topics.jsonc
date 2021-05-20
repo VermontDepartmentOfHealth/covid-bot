@@ -1,11 +1,5 @@
 [
-    { 
-        "name": "Symptoms and Sickness",
-        "subs": [
-            "Symptoms",
-            "Sickness"
-        ]
-    },
+    {"name": "Symptoms and Sickness" },
     { "name": "Vaccine" },
     { "name": "Testing" },
     { "name": "Travel" },
@@ -21,7 +15,6 @@
     { "name": "Vermont Forward Plan" },
     { "name": "Vermont COVID-19 Data" },
     { "name": "Families with Children" },
-    { "name": "Work and Employees" },
-    { "name": "Businesses, Organizations, Health Care and Other Facilities" },
+    { "name": "Businesses, Organizations and Workplaces" },
     { "name": "Additional Resources" }
 ]
