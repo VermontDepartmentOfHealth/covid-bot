@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-05-27T20:28:52.028+00:00",
+            "lastUpdatedTimestamp": "2021-06-01T18:44:54.613+00:00",
             "isDocumentText": false
         },
         {
@@ -1047,7 +1047,7 @@
         },
         {
             "id": 4592,
-            "answer": "**Are bars and restaurants open? Are there any restrictions?**\n\nRestaurants, catering, food service, social clubs and bars are open and following [universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#universal-guidance). They are required to close at 10 p.m. every night.",
+            "answer": "**Are bars and restaurants open? Are there any restrictions?**\n\nRestaurants, catering, food service, social clubs and bars are open and following [universal guidance](https://accd.vermont.gov/covid-19/vermont-forward/business-operations#universal-guidance).",
             "source": "Editorial",
             "questions": [
                 "when will we be allowed to dine in restaurants in Vermont again?",
@@ -1086,7 +1086,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T15:06:29.118+00:00",
+            "lastUpdatedTimestamp": "2021-06-01T18:44:54.613+00:00",
             "isDocumentText": false
         },
         {
@@ -1619,7 +1619,7 @@
         },
         {
             "id": 4639,
-            "answer": "**How is Vermont deciding when it is safe to reopen?**\n\nGovernor Scott released a phased reopening plan – [Vermont Forward](https://www.vermont.gov/vermont-forward) – to help Vermonters and local businesses see the path for a phased return to unrestricted travel, business operations, and event gatherings. The plan was developed by the Department of Health, the Department of Public Safety, and the Agency of Commerce and Community Development and uses vaccination milestones to ensure a safe easing of personal restrictions and continued reopening of the state's economy.\n\nGovernor Scott and administration officials provide updates to Vermont’s response to COVID-19 at 11 a.m. on Tuesdays and Fridays. Most Vermont TV and radio news stations broadcast the briefings. You can [watch it live on ORCA Media’s YouTube channel](https://www.youtube.com/playlist?list=PL-xsDpLCa0iRMj4dQrqum7uoXaQmqeGvT).\n\n**Learn more**:\n\n*   [Vermont COVID-19 modeling projections](https://dfr.vermont.gov/about-us/covid-19/modeling) from the Vermont Department of Financial Regulation\n*   [Governor Scott's executive orders](https://governor.vermont.gov/document-types/executive-orders)\n*   [Summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response)",
+            "answer": "**How is Vermont deciding when it is safe to reopen?**\n\nGovernor Scott released a phased reopening plan – [Vermont Forward](https://www.vermont.gov/vermont-forward) – to help Vermonters and local businesses see the path for a phased return to unrestricted travel, business operations, and event gatherings. The plan was developed by the Department of Health, the Department of Public Safety, and the Agency of Commerce and Community Development and uses vaccination milestones to ensure a safe easing of personal restrictions and continued reopening of the state's economy.\n\nGovernor Scott and administration officials provide updates to Vermont’s response to COVID-19 at 11 a.m. on Tuesdays. Most Vermont TV and radio news stations broadcast the briefings. You can [watch it live on ORCA Media’s YouTube channel](https://www.youtube.com/playlist?list=PL-xsDpLCa0iRMj4dQrqum7uoXaQmqeGvT).\n\n**Learn more**:\n\n*   [Vermont COVID-19 modeling projections](https://dfr.vermont.gov/about-us/covid-19/modeling) from the Vermont Department of Financial Regulation\n*   [Governor Scott's executive orders](https://governor.vermont.gov/document-types/executive-orders)\n*   [Summary of current strategies on the Governor's website](https://governor.vermont.gov/covid19response)",
             "source": "Editorial",
             "questions": [
                 "When will restrictions be lifted?",
@@ -1659,7 +1659,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T17:43:02.427+00:00",
+            "lastUpdatedTimestamp": "2021-06-01T18:44:24.235+00:00",
             "isDocumentText": false
         },
         {
@@ -5117,7 +5117,7 @@
         },
         {
             "id": 4833,
-            "answer": "**How long does it take for the vaccine to protect me from getting COVID-19?**\n\nYou may not be protected from COVID-19 until you are fully vaccinated, which is 14 days after your final shot. It takes time for the vaccine to train your body to fight COVID-19.\n\nThe vaccine protects you from serious illness, and may also [protect the people around you](https://apps.health.vermont.gov/COVID/faq/#4831). Until we learn more, it is important to continue following the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782), like wearing a mask, keeping 6 feet apart, and washing your hands, even after you are fully vaccinated.",
+            "answer": "**How long does it take for the vaccine to protect me from getting COVID-19?**\n\nIt takes 14 days after your final shot until you are fully vaccinated and protected from COVID-19. This is because it takes time for the vaccine to train your body to fight COVID-19.\n\nIt is possible you could still get COVID-19 soon after getting vaccinated because your body has not had enough time to build full protection. Be sure to continue following the [prevention steps](https://apps.health.vermont.gov/COVID/faq/#4782) until you are fully vaccinated.\n\nLearn more from the CDC about [how effective the COVID-19 vaccines are](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html).",
             "source": "Editorial",
             "questions": [
                 "How long does it take for the vaccine to protect me from getting COVID-19? "
@@ -5139,12 +5139,12 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-10T19:54:38.453+00:00",
+            "lastUpdatedTimestamp": "2021-06-01T18:43:31.035+00:00",
             "isDocumentText": false
         },
         {
             "id": 4834,
-            "answer": "**How long does protection from the vaccine last?**\n\nAccording to the CDC, we don’t know how long protection lasts for those who are vaccinated. What we do know is that COVID-19 has caused very serious illness and death for a lot of people. If you get COVID-19, you also risk giving it to loved ones who may get very sick. Getting a COVID-19 vaccine is a safer choice.\n\nExperts are working to learn more about both natural immunity and immunity from being vaccinated. The CDC will keep the public informed as new evidence becomes available.\n\nLearn more from the CDC about [how effective the COVID-19 vaccines are](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html).",
+            "answer": "**How long does protection from the vaccine last?**\n\nAccording to some studies published in May 2021, immunity to the COVID-19 virus lasts at least a year, and maybe longer — whether you got that immunity from being infected or from getting vaccinated. \n\nIf you did have COVID-19, the studies suggest your level of protection will be much higher by getting vaccinated and you shouldn’t even need a booster shot. People who are vaccinated and never got infected will most likely need a booster shot, but most likely after a longer period of time than was previously thought.\n\nThese studies show good evidence that we are protected now, and our bodies can recognize and stop this virus in the longer term. Even if antibody levels decrease in your bloodstream, there are potent immune cells with memory in your bone marrow that get activated if you encounter the virus again or a variant strain. \n\nLearn more about the studies:\n\n*   [SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans](https://www.nature.com/articles/s41586-021-03647-4)\n*   [Vaccination boosts naturally enhanced neutralizing breadth to SARS-CoV-2 one year after infection](https://www.biorxiv.org/content/10.1101/2021.05.07.443175v1.abstract)",
             "source": "Editorial",
             "questions": [
                 "How long does protection from the vaccine last?",
@@ -5169,7 +5169,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-05T19:06:25.178+00:00",
+            "lastUpdatedTimestamp": "2021-06-01T18:44:01.234+00:00",
             "isDocumentText": false
         },
         {
