@@ -19,13 +19,13 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-06-15T17:09:39.333+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T20:13:09.167+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4534,
-            "answer": "**What are the symptoms of COVID-19?**\n\nPeople with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may start 2 to 14 days after exposure to the virus. People with these symptoms may have COVID-19:\n\n*   Fever (100.4°F or greater)\n*   Cough\n*   Shortness of breath or difficulty breathing\n*   Chills\n*   Fatigue\n*   Muscle or body aches\n*   Headache\n*   New loss of taste or smell\n*   Sore throat\n*   Congestion or runny nose\n*   Nausea or vomiting\n*   Diarrhea\n\nThis list does not include all possible symptoms. The CDC will continue to update the list of symptoms as more is learned. You can check your symptoms with the [CDC's self-checker tool](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html#).\n\n**Not everyone with COVID-19 has a fever. Even mild symptoms** (like a headache or dry cough) could be signs of COVID-19.\n\n**Not everyone infected with the COVID-19 virus has symptoms**. People with COVID-19 who don't have any symptoms can spread the virus to other people. Learn [how to protect yourself and others](https://www.healthvermont.gov/covid-19/protect-yourself-others).\n\n**If you have symptoms, even mild ones, contact your health care provider to get tested**. Your provider will test you at their office or refer you for testing nearby. Stay home while waiting for your result.\n\n**If you do not have a health care provider**, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\n**Get medical care immediately** if you have trouble breathing, persistent pain or pressure in the chest, new confusion, inability to wake or stay awake, or changes in color on your lips, gums, face, around the eyes, or nails.\n\nLearn more about what to do [if you have COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19).\n\nFind information about the [differences and similarities between flu and COVID-19](https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm) from the CDC.",
+            "answer": "**What are the symptoms of COVID-19?**\n\nPeople with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may start 2 to 14 days after exposure to the virus. People with these symptoms may have COVID-19:\n\n*   Fever (100.4°F or greater)\n*   Cough\n*   Shortness of breath or difficulty breathing\n*   Chills\n*   Fatigue\n*   Muscle or body aches\n*   Headache\n*   New loss of taste or smell\n*   Sore throat\n*   Congestion or runny nose\n*   Nausea or vomiting\n*   Diarrhea\n\nThis list does not include all possible symptoms. The CDC will continue to update the list of symptoms as more is learned. You can check your symptoms with the [CDC's self-checker tool](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html#).\n\n**Get medical care immediately** if you have trouble breathing, persistent pain or pressure in the chest, new confusion, inability to wake or stay awake, or changes in color on your lips, gums, face, around the eyes, or nails.\n\n**Not everyone with COVID-19 has a fever. Even mild symptoms** (like a headache or dry cough) could be signs of COVID-19.\n\n**Not everyone infected with the COVID-19 virus has symptoms**. People with COVID-19 who don't have any symptoms can spread the virus to other people. Learn [how to protect yourself and others](https://www.healthvermont.gov/covid-19/protect-yourself-others).\n\n**If you have symptoms, even mild ones, contact your health care provider to get tested**, even if you are vaccinated or had COVID-19. Your provider will test you at their office or refer you for testing nearby. Stay home while waiting for your result.\n\n**If you do not have a health care provider**, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nLearn more about what to do [if you have COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19).\n\nFind information about the [differences and similarities between flu and COVID-19](https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm) from the CDC.",
             "source": "KB-COVID",
             "questions": [
                 "What are the symptoms of COVID-19?",
@@ -83,7 +83,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T16:35:14.287+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:11:36.691+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -222,7 +222,7 @@
         },
         {
             "id": 4540,
-            "answer": "**Are masks required in Vermont? When do I need to wear a mask?**\n\nBe sure to bring a mask with you when you leave home. **You may be required to wear a mask in some settings**, even if you are fully vaccinated. For now, everyone is still required to wear a mask in health care settings, long-term care facilities and on [public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html) (including school buses), even if you are fully vaccinated.\n\n**For schools, child care and summer camps**, the Health Department recommends that unvaccinated people 2 years and older wear masks when inside this summer.\n\n**If you are not fully vaccinated**, wearing a mask helps protect you and the people around you from getting or spreading COVID-19. A mask helps contain your respiratory droplets and can keep them from reaching other people. COVID-19 can spread even if a person does not have any symptoms.\n\n**If you're gathering with people indoors and are not fully vaccinated**, wearing a mask and staying 6 feet apart helps protect anyone who is unvaccinated, at [increased risk of severe illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html), or lives with someone who is at increased risk.\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of **free cloth masks** to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
+            "answer": "**Are masks required in Vermont? When do I need to wear a mask?**\n\nBe sure to bring a mask with you when you leave home. **You may be required to wear a mask in some settings**, even if you are fully vaccinated. For now, everyone should wear a mask in health care settings and long-term care facilities. Everyone is **required** to wear a mask on [public transportation](https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html) (including school buses), even if you are fully vaccinated. You are fully vaccinated 14 days after your final shot.\n\n**For schools, child care and summer camps**, the Health Department recommends that unvaccinated people 2 years and older wear masks when inside this summer.\n\n**If you or your children are not vaccinated or only had your first dose**, wearing a mask helps protect you and the people around you from getting or spreading COVID-19. A mask helps contain your respiratory droplets and can keep them from reaching other people. COVID-19 can spread even if a person does not have any symptoms.\n\n**If you're gathering with people indoors and are not fully vaccinated**, wearing a mask and staying 6 feet apart helps protect anyone who is unvaccinated, at [increased risk of severe illness from COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html), or lives with someone who is at increased risk.\n\n**Learn more**:\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks",
             "source": "KB-COVID",
             "questions": [
                 "Can face masks keep you from getting sick?",
@@ -282,13 +282,13 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-14T16:05:31.703+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T20:13:09.167+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4545,
-            "answer": "**What do I need to know about COVID-19 testing? Where can I get tested?**\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. You can make an appointment or just walk in. Testing is free to all, and many sites now let you [take your own sample](https://www.healthvermont.gov/covid-19/testing/what-expect) using a short swab in your nose.\n\n[**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing/where-get-tested).\n\nAnyone can get tested at a Health Department testing site if they do not have symptoms. This includes children 12 months or older, people who work in Vermont, visitors to Vermont and international travelers. Infants under 12 months can get tested at their health care provider’s office. Anyone under 18 should be accompanied by a parent or guardian or bring a signed parental consent form.\n\nThe Health Department uses and recommends [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671). You can get other tests, like at-home or saliva tests. However, if you are testing out of quarantine early, the test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), **do not go to a testing site**. Talk to your health care provider about getting tested.\n\nIf you or your child don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/). If you are visiting Vermont or are an international traveler, you will need to contact your primary care provider or call Vermont 2-1-1 if you do not have a provider.\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   You have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms) (call your health care provider first).\n*   You are referred by your health care provider.\n*   You are not fully vaccinated and a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n\nYou may come to a Health Department testing site to get **tested more than once** if you have reason to be concerned about infection.\n\nIf you need a **ride to the testing site**, schedule your appointment first, and then call 833-387-7200 at least two days before the appointment.\n\n**Find out:**\n\n*   [Where to get tested and how to **schedule an appointment**](https://www.healthvermont.gov/covid-19/testing/where-get-tested)\n*   [**What to expect** at a Health Department testing site](https://www.healthvermont.gov/covid-19/testing/what-expect) – including answers to **more questions about testing**\n*   [What to do **while you’re waiting** for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf)\n*   [When you will get your **test results**](https://apps.health.vermont.gov/COVID/faq/#4547)\n*   [What the different **types of tests** are](https://apps.health.vermont.gov/COVID/faq/#testing-types-of-tests)\n*   [How many Vermonters have been tested](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard) – this information is updated daily.",
+            "answer": "**What do I need to know about COVID-19 testing? Where can I get tested?**\n\nThere are a variety of testing options available to you: your health care provider, pharmacies and Health Department testing sites. You can make an appointment or just walk in. Testing is free to all, and many sites now let you [take your own sample](https://www.healthvermont.gov/covid-19/testing/what-expect) using a short swab in your nose.\n\n[**Find out where to get tested**](https://www.healthvermont.gov/covid-19/testing/where-get-tested).\n\nAnyone can get tested at a Health Department testing site if they do not have symptoms. This includes children 12 months or older, people who work in Vermont, visitors to Vermont and international travelers. Infants under 12 months can get tested at their health care provider’s office. Anyone under 18 should be accompanied by a parent or guardian or bring a signed parental consent form.\n\nThe Health Department uses and recommends [PCR tests](https://apps.health.vermont.gov/COVID/faq/#4671). You can get other tests, like at-home or saliva tests. However, if you are testing out of quarantine early, the test must be for a current infection (like a PCR test), except it cannot be an antigen test (also known as a rapid test).\n\nIf you have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), **do not go to a testing site**. Talk to your health care provider about getting tested.\n\nIf you or your child don't have a provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont's free & referral clinics](https://vtfreeclinics.org/). If you are visiting Vermont or are an international traveler, you will need to contact your primary care provider or call Vermont 2-1-1 if you do not have a provider.\n\nThe Health Department recommends testing **as soon as possible** when:\n\n*   You have [symptoms of COVID-19](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), whether or not you are fully vaccinated or previously had COVID-19. Call your health care provider first.\n*   You are referred by your health care provider.\n*   You are not fully vaccinated and a person in your workplace or household, or a person you attended an event with, tests positive for COVID-19.\n\nYou may come to a Health Department testing site to get **tested more than once** if you have reason to be concerned about infection.\n\nIf you need a **ride to the testing site**, schedule your appointment first, and then call 833-387-7200 at least two days before the appointment.\n\n**Find out:**\n\n*   [Where to get tested and how to **schedule an appointment**](https://www.healthvermont.gov/covid-19/testing/where-get-tested)\n*   [**What to expect** at a Health Department testing site](https://www.healthvermont.gov/covid-19/testing/what-expect) – including answers to **more questions about testing**\n*   [What to do **while you’re waiting** for test results](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Waiting-For-Test-Results-English.pdf)\n*   [When you will get your **test results**](https://apps.health.vermont.gov/COVID/faq/#4547)\n*   [What the different **types of tests** are](https://apps.health.vermont.gov/COVID/faq/#testing-types-of-tests)\n*   [How many Vermonters have been tested](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard) – this information is updated daily.",
             "source": "KB-COVID",
             "questions": [
                 "Can I get tested?",
@@ -375,7 +375,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T17:40:09.23+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:21:58.034+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -456,7 +456,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T17:40:09.23+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:21:58.034+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -750,7 +750,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T20:23:57.869+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:24:07.878+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -972,7 +972,7 @@
         },
         {
             "id": 4589,
-            "answer": "**Where can I find translated materials and other assistance?**\n\n*   Find [multilingual resources](https://www.healthvermont.gov/covid-19/resources/multilingual-resources) and [translated materials](https://www.healthvermont.gov/media/translation/covid-19-translations) from the Health Department and [information about COVID-19 available in several languages](https://www.newamericansinvermont.com/morecovid-19) from NewAmericansInVermont.com.\n*   Find resources for [people who are Deaf and hard of hearing](https://www.healthvermont.gov/media/deaf).\n*   Find information on [how to get food help](https://vem.vermont.gov/pods).\n*   Get connected with [VT Helplink](https://vthelplink.org/) to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n*   If you need temporary housing, call the [Vermont Economic Services Division](https://dcf.vermont.gov/esd/covid19) at 1-800-479-6151 Monday through Thursday from 8 a.m. to 6 p.m. and Friday from 8 a.m. to 4:15 p.m. After hours, you can call 2-1-1.\n*   Call the Vermont Department of Health call center at 802-863-7240 or email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).\n*   Call 2-1-1 (If you are having trouble calling from a cell phone – turn off your WiFi, then call again.)\n\nGet the latest news and updates on the Health Department's COVID-19 response. Sign up for our [Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19).\n\nYou can also [sign up to get notifications from VT-ALERT](http://www.vtalert.gov/). VT-ALERT sends important updates to the Governor’s Executive Orders and other related COVID-19 announcements that will directly impact Vermonters. You can get notifications by email, text, phone and the Everbridge mobile app. You can also specify geographic areas (for example, the town or county where you live or work). Once you register for VT-ALERT, select the alerts you would like to get. COVID-19 information is listed under “Health Alerts”. If you are already subscribed, you can update your subscriptions after you log in.",
+            "answer": "**Where can I find translated materials and other assistance?**\n\n*   Find [multilingual resources](https://www.healthvermont.gov/covid-19/resources/multilingual-resources) and [translated materials](https://www.healthvermont.gov/media/translation/covid-19-translations) from the Health Department and [information about COVID-19 available in several languages](https://www.newamericansinvermont.com/morecovid-19) from NewAmericansInVermont.com.\n*   Find resources for [people who are Deaf and hard of hearing](https://www.healthvermont.gov/media/deaf).\n*   Get connected with [VT Helplink](https://vthelplink.org/) to receive free, confidential and personalized information and referrals to substance use prevention, treatment and recovery services throughout the state.\n*   If you need temporary housing, call the [Vermont Economic Services Division](https://dcf.vermont.gov/esd/covid19) at 1-800-479-6151 Monday through Thursday from 8 a.m. to 6 p.m. and Friday from 8 a.m. to 4:15 p.m. After hours, you can call 2-1-1.\n*   Call the Vermont Department of Health call center at 802-863-7240 or email [AHS.VDHPublicCommunication@vermont.gov](mailto:AHS.VDHPublicCommunication@vermont.gov).\n*   Call 2-1-1 (If you are having trouble calling from a cell phone – turn off your WiFi, then call again.)\n\nGet the latest news and updates on the Health Department's COVID-19 response. Sign up for our [Weekly COVID-19 Update Email](https://lp.constantcontactpages.com/su/sFxLaby/covid19).\n\nYou can also [sign up to get notifications from VT-ALERT](http://www.vtalert.gov/). VT-ALERT sends important updates to the Governor’s Executive Orders and other related COVID-19 announcements that will directly impact Vermonters. You can get notifications by email, text, phone and the Everbridge mobile app. You can also specify geographic areas (for example, the town or county where you live or work). Once you register for VT-ALERT, select the alerts you would like to get. COVID-19 information is listed under “Health Alerts”. If you are already subscribed, you can update your subscriptions after you log in.",
             "source": "Editorial",
             "questions": [
                 "Where can I find additional resources?",
@@ -1018,13 +1018,13 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T17:32:54.992+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:38:00.575+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4597,
-            "answer": "**Is one type of mask better than another? Is wearing two masks better?**\n\nThe most important thing to do is to wear a mask — period. Wearing a mask protects both you and the people around you from getting or spreading COVID-19.\n\nThere are several [types of masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) to choose from, including cloth, disposable, N95 and KN95.\n\nAccording to the CDC, the most effective fabrics for **cloth masks** are:\n\n*   tightly woven fabrics, such as cotton and cotton blends\n*   breathable\n*   two or three fabric layers\n\nIf you choose to wear a gaiter as a face covering, fold it over so it is two layers.\n\nYou can also wear a **disposable mask**, like a surgical or medical procedure mask, instead of a cloth mask, now that they are in greater supply. These masks may provide some additional protection.\n\nThe CDC has found that “double masking” or **wearing two masks** (disposable mask underneath **and** a cloth mask on top) can offer a better fit and provide extra protection.\n\nTypically **N95** masks should be reserved for health care workers who are at highest risk and need them most. **KN95** masks are also available for the public to purchase, but make sure the mask has been [approved by the Food & Drug Administration](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/personal-protective-equipment-euas).\n\nWhichever mask you choose, **it is important to make sure it fits properly**. Learn more from the CDC about [improving how your mask protects you](https://www.cdc.gov/coronavirus/2019-ncov/your-health/effective-masks.html).\n\nThe CDC continues to study the effectiveness of different types of masks, and we will update our recommendations as new scientific evidence becomes available.",
+            "answer": "**Is one type of mask better than another? Is wearing two masks better?**\n\nThere are several [types of masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) to choose from, including cloth, disposable, N95 and KN95.\n\nAccording to the CDC, the most effective fabrics for **cloth masks** are:\n\n*   tightly woven fabrics, such as cotton and cotton blends\n*   breathable\n*   two or three fabric layers\n\nIf you choose to wear a gaiter as a face covering, fold it over so it is two layers.\n\nYou can also wear a **disposable mask**, like a surgical or medical procedure mask, instead of a cloth mask, now that they are in greater supply. These masks may provide some additional protection.\n\nThe CDC has found that “double masking” or **wearing two masks** (disposable mask underneath **and** a cloth mask on top) can offer a better fit and provide extra protection.\n\nTypically **N95** masks should be reserved for health care workers who are at highest risk and need them most. **KN95** masks are also available for the public to purchase, but make sure the mask has been [approved by the Food & Drug Administration](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/personal-protective-equipment-euas).\n\nWhichever mask you choose, **it is important to make sure it fits properly**. Learn more from the CDC about [improving how your mask protects you](https://www.cdc.gov/coronavirus/2019-ncov/your-health/effective-masks.html).\n\nThe CDC continues to study the effectiveness of different types of masks, and we will update our recommendations as new scientific evidence becomes available.",
             "source": "Editorial",
             "questions": [
                 "Do homemade cloth masks work?",
@@ -1053,13 +1053,13 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-14T16:05:31.703+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T20:13:09.167+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4601,
-            "answer": "**When am I considered to be recovered from COVID-19? When can I stop self-isolating (home isolation)?**\n\nPeople with COVID-19 who have stayed home (home isolated) can stop home isolation when they have recovered, which means they have met the following conditions:\n\n[**If you had symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider):\n\n*   you have had no fever for at least 24 hours without the use of medicine that reduces fevers **AND**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **AND**\n*   at least 10 days have passed since your symptoms first appeared\n\n[**If you did not have any symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png), you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nMost people do not need a test to determine when they can be around others again. However, if your health care provider recommends testing, they will let you know when you can resume being around others based on your test results.\n\nAfter stopping home isolation, continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19.",
+            "answer": "**When am I considered to be recovered from COVID-19? When can I stop isolation?**\n\nIf you have COVID-19, even if you are fully vaccinated, you can stop home isolation once you have recovered. This means you have met the following conditions:\n\n[**If you had symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png), you can leave home and be with others after these three things have happened (unless otherwise instructed by your health care provider):\n\n*   you have had no fever for at least 24 hours without the use of medicine that reduces fevers **and**\n*   other symptoms have improved (for example, when your cough or shortness of breath have improved) **and**\n*   at least 10 days have passed since your symptoms first appeared\n\n[**If you did not have any symptoms**](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png), you can leave home and be with others after:\n\n*   10 days have passed since the date you had your positive test (unless otherwise instructed by your health care provider).\n\nYour health care provider will follow CDC guidelines. In all cases, follow the guidance of your health care provider and the Health Department. The decision to stop home isolation should be made in consultation with your health care provider and the Health Department.\n\nMost people do not need a test to determine when they can be around others again. However, if your health care provider recommends testing, they will let you know when you can resume being around others based on your test results.\n\nAfter stopping home isolation, continue to follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19) to keep from getting or spreading COVID-19.",
             "source": "Editorial",
             "questions": [
                 "How long after being ill with Covid-19 does someone need to stay quarantined?",
@@ -1106,7 +1106,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T20:26:51.877+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:59:17.43+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -1193,7 +1193,7 @@
         },
         {
             "id": 4618,
-            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. This helps to prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nQuarantine is for people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone with COVID-19 ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820)). Day 1 of your quarantine starts the day after you were last in contact with them.\n\n**Quarantine means you need to stay home and away from other people for 14 days**. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands. You should separate yourself from others and check yourself for symptoms. Call your health care provider if you start to feel sick. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nYou are allowed to go outside for a walk or a bike ride while you are in quarantine only if:\n\n*   you do not have any symptoms,\n*   you are alone,\n*   you wear a mask at all times,\n*   you are in an uncrowded place, **and**\n*   you can stay at least 6 feet from other people at all times.\n\nFor example, you can go for a walk or bike ride in your neighborhood. You should not go for a walk or bike ride on a bike path, on busy hiking or biking trails, or in a downtown area.\n\n**You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\n**Find out if you need to quarantine if**:\n\n*   [You are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You had close contact with someone who is in quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png)\n*   [Tips about quarantining when you share a home](https://www.cdc.gov/coronavirus/2019-ncov/downloads/living-in-close-quarters.pdf)",
+            "answer": "**What is quarantine?**\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. This helps to prevent the spread of COVID-19 before a person knows they are sick, or if they are infected with the virus and don’t have symptoms.\n\nQuarantine is for people who were in [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone with COVID-19 ([unless you are fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820)). Day 1 of your quarantine starts the day after you were last in contact with them.\n\n**Quarantine means you need to stay home and away from other people for 14 days**. This means you can’t do any activities outside of your home, like going to school, work, or out to do errands. You should separate yourself from others and check yourself for symptoms. Call your health care provider if you start to feel sick. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).\n\nYou are allowed to go outside for a walk or a bike ride while you are in quarantine only if:\n\n*   you do not have any symptoms,\n*   you are alone,\n*   you wear a mask at all times,\n*   you are in an uncrowded place, **and**\n*   you can stay at least 6 feet from other people at all times.\n\nFor example, you can go for a walk or bike ride in your neighborhood. You should not go for a walk or bike ride on a bike path, on busy hiking or biking trails, or in a downtown area.\n\n**You can end quarantine early** if you get tested on or after day 7 of your quarantine and get a negative test result. You must not have had any symptoms of COVID-19, and must continue to monitor yourself for symptoms for the full 14 days. Find out more about [the option to end your quarantine early](https://apps.health.vermont.gov/COVID/faq/#4692).\n\n**Find out if you need to quarantine if**:\n\n*   [You are a close contact of someone with COVID-19](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You had close contact with someone who is in quarantine](https://apps.health.vermont.gov/COVID/faq/#4724).\n*   [You live with or had close contact with someone who tested positive](https://apps.health.vermont.gov/COVID/faq/#4819).\n*   [You live with someone who is waiting for their test results](https://apps.health.vermont.gov/COVID/faq/#4760).\n*   [You take care of someone who is in isolation and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4764).\n*   [You take care of someone who is in quarantine and can’t avoid close contact with them](https://apps.health.vermont.gov/COVID/faq/#4765).\n\n**Learn more:**\n\n*   [What is isolation, quarantine and self-observation?](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf)\n*   [What to do if you are a close contact of someone with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_What-to-do-if-you-are-a-close-contact-of-someone-with-COVID-19_final.pdf)\n*   [Timeline for close contacts of people with COVID-19](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png)",
             "source": "Editorial",
             "questions": [
                 "what does quarantine mean?",
@@ -1257,7 +1257,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T20:26:51.877+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:24:07.878+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -1348,7 +1348,7 @@
         },
         {
             "id": 4630,
-            "answer": "**Are there any restrictions or requirements for businesses, organizations and workplaces?**\n\nAs of June 14, there are no COVID-19 restrictions or requirements for businesses to follow. Businesses can refer to the Vermont Occupational and Safety and Health Administration's (VOSHA) for [recommendations related to COVID-19](https://labor.vermont.gov/news/memo-workplace-safety-top-10-recommendations-relating-covid-19).\n\nVermont's high vaccination rates mean the vast majority of Vermonters are protected from the virus and keep the virus from spreading to others. With high vaccination rates and low number of COVID-19 cases, it’s safe for most Vermonters to return to the activities they did before the pandemic.\n\nIf you would like to host a COVID-19 vaccine clinic for your staff or local community, please submit a request using the [Vaccine Clinic Registration form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=5dd1527c94&e=c893a7f9e9).\n\n**More resources**:\n\n*   [COVID-19 information for Vermont employers and employees](https://labor.vermont.gov/COVID19) from the Vermont Department of Labor\n*   [Guidance for Cleaning and Disinfecting Public Spaces, Workplaces, Businesses, Schools, and Homes](https://www.cdc.gov/coronavirus/2019-ncov/community/reopen-guidance.html) from the CDC",
+            "answer": "**Are there any restrictions or requirements for businesses, organizations and workplaces?**\n\nAs of June 14, there are no COVID-19 restrictions or requirements for businesses to follow. Businesses can refer to the Vermont Occupational and Safety and Health Administration's (VOSHA) for [recommendations related to COVID-19](https://labor.vermont.gov/news/memo-workplace-safety-top-10-recommendations-relating-covid-19).\n\nHowever, you may be [required to wear a mask in some settings](https://apps.health.vermont.gov/COVID/faq/#4540), even if you are fully vaccinated.\n\nVermont's high vaccination rates mean the vast majority of Vermonters are protected from the virus and keep the virus from spreading to others. With high vaccination rates and low number of COVID-19 cases, it’s safe for most Vermonters to return to the activities they did before the pandemic.\n\nIf you would like to host a COVID-19 vaccine clinic for your staff or local community, please submit a request using the [Vaccine Clinic Registration form](https://vermont.us3.list-manage.com/track/click?u=ff50346b45ae607c4e55c01ec&id=5dd1527c94&e=c893a7f9e9).\n\n**More resources**:\n\n*   [COVID-19 information for Vermont employers and employees](https://labor.vermont.gov/COVID19) from the Vermont Department of Labor\n*   [Guidance for Cleaning and Disinfecting Public Spaces, Workplaces, Businesses, Schools, and Homes](https://www.cdc.gov/coronavirus/2019-ncov/community/reopen-guidance.html) from the CDC",
             "source": "Editorial",
             "questions": [
                 "sample safety plan",
@@ -1409,7 +1409,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-14T15:40:16.845+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:33:07.444+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -1865,7 +1865,7 @@
         },
         {
             "id": 4723,
-            "answer": "**What is the correct way to wear a mask?**\n\nPeople with COVID-19 can spread the virus even if they don’t have any symptoms. Wearing a mask protects both you and the people around you from getting or spreading COVID-19. \n\nA mask must be worn properly to be effective and avoid spreading the virus:\n\n*   Wash your hands or use hand sanitizer before putting it on.\n*   Put it over your nose and mouth and secure it under your chin.\n*   Make sure it fits snugly against the side of your face.\n*   Slip the loops over your ears or tie the strings behind your head.\n*   Do not touch it when you are wearing it.\n*   Remove it by handling only the ear loops or ties and fold the outside corners together.\n*   Be careful not to touch your eyes, nose or mouth, then wash your hands immediately after removing it.\n\nWash your mask regularly and make sure it’s completely dry before using it again. Have a few on hand so you can rotate them for washing and have enough clean ones to wear.\n\n**During hot weather**, if you feel like you are overheating and are having trouble breathing because it is hot, take off your mask, drink water, rest and seek shade or a cool place. It is important that you stay at least 6 feet away from others whenever possible, especially when you are not wearing a mask.\n\n**During cold weather**, change your mask when it becomes wet. Keep a spare mask to replace the wet one, and put the wet one in a plastic bag until you get home. If you need to wear a scarf, ski mask or balaclava, wear it over your mask. If you wear glasses, find a mask that fits closely over your nose or has a nose wire to help reduce fogging.\n\nWearing masks is one way we can help slow the spread of COVID-19 – in addition to staying at least 6 feet away from people you don’t live with and other [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others/prevent-covid-19).\n\n**Learn more:**\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks\n\nThe State of Vermont is offering a limited number of free cloth masks to the public. [Find out if free cloth masks are available in your area](https://vem.vermont.gov/maskdistribution).",
+            "answer": "**What is the correct way to wear a mask?**\n\nA mask must be worn properly to be effective and avoid spreading the virus:\n\n*   Wash your hands or use hand sanitizer before putting it on.\n*   Put it over your nose and mouth and secure it under your chin.\n*   Make sure it fits snugly against the side of your face.\n*   Slip the loops over your ears or tie the strings behind your head.\n*   Do not touch it when you are wearing it.\n*   Remove it by handling only the ear loops or ties and fold the outside corners together.\n*   Be careful not to touch your eyes, nose or mouth, then wash your hands immediately after removing it.\n\nWash your mask regularly and make sure it’s completely dry before using it again. Have a few on hand so you can rotate them for washing and have enough clean ones to wear.\n\n**During hot weather**, if you feel like you are overheating and are having trouble breathing because it is hot, take off your mask, drink water, rest and seek shade or a cool place. \n\n**During cold weather**, change your mask when it becomes wet. Keep a spare mask to replace the wet one, and put the wet one in a plastic bag until you get home. If you need to wear a scarf, ski mask or balaclava, wear it over your mask. If you wear glasses, find a mask that fits closely over your nose or has a nose wire to help reduce fogging.\n\n**Learn more:**\n\n*   [Wearing face masks to keep COVID-19 from spreading](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-VDH-mask-guidance.pdf)\n*   [CDC’s guide to masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) – how to choose, wear, store and wash masks",
             "source": "Editorial",
             "questions": [
                 "What is the correct way to wear a mask?"
@@ -1891,7 +1891,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-14T15:27:27.259+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:32:12.134+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2138,36 +2138,8 @@
             "extractionConfidence": 0
         },
         {
-            "id": 4741,
-            "answer": "**How many cases of COVID-19 are in Vermont K-12 schools?**\n\nYou can find a [school-by-school listing of COVID-19 cases](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Transmission-Schools.pdf) in Vermont K-12 learning communities while infectious. The list is updated on Tuesdays and Fridays with data through the previous Sunday and Wednesday, respectively.",
-            "source": "Editorial",
-            "questions": [
-                "How many cases of COVID-19 are in Vermont K-12 schools?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vermont covid-19 data"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-05-27T20:03:43.617+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
             "id": 4743,
-            "answer": "**When can I return to work if I had symptoms of COVID-19?**\n\n**If you are sick with any** [**symptoms of COVID-19**](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms)**,**\n\nTalk with your health care provider to determine if:\n\n*   your symptoms are due to COVID-19 or some other reason\n*   you should or should not go to public places or work\n\n**If COVID-19 is suspected**, your health care provider can refer you for testing. Stay home while you are waiting for your test results. If you test positive, a Health Department contact tracer will reach out to walk you through what to do next.\n\nYou will be advised to stay home from work and other activities until:\n\n*   your fever has resolved for at least 24 hours without the use of fever-reducing medications, and other symptoms (like cough or shortness of breath) have improved, **and**\n*   at least 10 days have passed since symptoms first appeared.\n\nIf you are sick due to **something other than COVID-19**, you should stay out of work until:\n\n*   you have been without fever for 24 hours without using fever-reducing medications (if you had a fever), **and**\n*   any other symptoms have resolved or are improving.\n\n**More information for employees**:\n\n*   [COVID-19 information for Vermont employers and employees](https://labor.vermont.gov/COVID19) (Vermont Department of Labor)\n*   [How to protect yourself and others from COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others)\n*   If you have a COVID-19 related concern in your workplace, contact the [Vermont Occupational Safety and Health Administration](https://labor.vermont.gov/vermont-occupational-safety-and-health-administration-vosha) [(VOSHA)](https://labor.vermont.gov/vermont-occupational-safety-and-health-administration-vosha). You can [submit a safety complaint form](https://labor.vermont.gov/vermont-occupational-safety-and-health-administration-vosha) on VOSHA’s website or call toll-free at 1-800-287-2765.",
+            "answer": "**When can I return to work if I had symptoms of COVID-19?**\n\nIf you were a close contact of someone with COVID-19 or were exposed to COVID-19, you do not need to stay home from work if you are fully vaccinated and are not having any symptoms of COVID-19.\n\n**If you are sick with any** [**symptoms of COVID-19**](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms)**,**\n\nTalk with your health care provider to determine if:\n\n*   your symptoms are due to COVID-19 or some other reason\n*   you should or should not go to public places or work\n\n**If COVID-19 is suspected**, your health care provider can refer you for testing. Stay home while you are waiting for your test results. If you test positive, a Health Department contact tracer will reach out to walk you through what to do next.\n\nYou will be advised to stay home from work and other activities until:\n\n*   your fever has resolved for at least 24 hours without the use of fever-reducing medications, and other symptoms (like cough or shortness of breath) have improved, **and**\n*   at least 10 days have passed since symptoms first appeared.\n\nIf you are sick due to **something other than COVID-19**, you should stay out of work until:\n\n*   you have been without fever for 24 hours without using fever-reducing medications (if you had a fever), **and**\n*   any other symptoms have resolved or are improving.\n\n**More information for employees**:\n\n*   [COVID-19 information for Vermont employers and employees](https://labor.vermont.gov/COVID19) (Vermont Department of Labor)\n*   [How to protect yourself and others from COVID-19](https://www.healthvermont.gov/covid-19/protect-yourself-others)\n*   If you have a COVID-19 related concern in your workplace, contact the [Vermont Occupational Safety and Health Administration](https://labor.vermont.gov/vermont-occupational-safety-and-health-administration-vosha) [(VOSHA)](https://labor.vermont.gov/vermont-occupational-safety-and-health-administration-vosha). You can [submit a safety complaint form](https://labor.vermont.gov/vermont-occupational-safety-and-health-administration-vosha) on VOSHA’s website or call toll-free at 1-800-287-2765.",
             "source": "Editorial",
             "questions": [
                 "When can I return to work if I had a symptom or multiple symptoms of COVID-19?",
@@ -2191,7 +2163,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-14T16:19:57.404+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:37:38.098+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2355,7 +2327,7 @@
         },
         {
             "id": 4756,
-            "answer": "**What is isolation?**\n\nIsolation is when people with COVID-19 stay home and away from other people, [until they have recovered](https://apps.health.vermont.gov/COVID/faq/#4601). This prevents further spread of the virus. Learn about the timeline for people with COVID-19 ([with symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png) and [without symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png)), from being exposed to being released from isolation.\n\nIf you test positive for COVID-19, the Health Department's team of expert contact tracers will call you to provide guidance and information on staying home. They will also ask you about your [close contacts](https://apps.health.vermont.gov/COVID/faq/#4575). Contact tracers call your close contacts to make sure they know to [stay home and quarantine](https://apps-test.health.vermont.gov/COVID/faq/index.html#4618) to prevent further spread.\n\nLearn more about the [timeline for close contacts,](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png) from when they have may have been exposed to when they can end quarantine.\n\nLearn more about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) and [what to do if you have COVID-19.](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19)",
+            "answer": "**What is isolation?**\n\nIsolation is when people with COVID-19 stay home and away from other people, [until they have recovered](https://apps.health.vermont.gov/COVID/faq/#4601). This prevents further spread of the virus. Learn about the timeline for people with COVID-19 – [with symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-with-symptoms.png) and [without symptoms](https://www.healthvermont.gov/sites/default/files/images/2020/10/COVID19-timeline-without-symptoms.png) – from being exposed to being released from isolation. \n\nIf you test positive for COVID-19, even if you are fully vaccinated, the Health Department's team of expert contact tracers will call you to provide guidance and information on staying home. They will also ask you about your [close contacts](https://apps.health.vermont.gov/COVID/faq/#4575). Contact tracers call your close contacts to make sure they know to [stay home and quarantine](https://apps-test.health.vermont.gov/COVID/faq/index.html#4618) to prevent further spread.\n\nLearn more about the [timeline for close contacts,](https://www.healthvermont.gov/sites/default/files/images/2021/02/COVID19-timeline-close-contacts.png) from when they have may have been exposed to when they can end quarantine.\n\nLearn more about [isolation, quarantine and self-observation](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-chart-observation-isolation-quarantine_final.pdf) and [what to do if you have COVID-19.](https://www.healthvermont.gov/covid-19/symptoms-sickness/if-you-have-covid-19)",
             "source": "Editorial",
             "questions": [
                 "What is isolation?",
@@ -2386,7 +2358,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:30:15.561+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:22:46.738+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2542,7 +2514,7 @@
         },
         {
             "id": 4762,
-            "answer": "**I am in isolation because I tested positive for COVID-19, but I can't avoid close contact with someone I take care of. Do they need to quarantine?**\n\nYes. If you have COVID-19 and you **cannot** avoid [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone you take care of, then they should quarantine while you are sick. They should also quarantine for 14 days **after** you are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601). For example, if you are a parent of young children who depend on you for care, then your children will need to quarantine.\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days since the day you were potentially exposed. You should separate yourself from others and check yourself for symptoms. Learn about the [option to be tested](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine after 7 days.\n\nHowever, people who are [fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or who [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820) do not need to quarantine.\n\nLearn more about when a child’s [parent or caregiver is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/parents-caregivers.html) and find tips on what to do [when a household member is sick with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
+            "answer": "**I am in isolation because I tested positive for COVID-19, but I can't avoid close contact with someone I take care of. Do they need to quarantine?**\n\nYes. If you have COVID-19 and you **cannot** avoid [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone you take care of, then they should quarantine while you are sick. They should also quarantine for 14 days **after** you are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601). For example, if you are a parent of young children who depend on you for care, then your children will need to quarantine.\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days since the day you were potentially exposed. You should separate yourself from others and check yourself for symptoms. Learn about the [option to be tested](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine after 7 days.\n\nHowever, people who are [fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or who [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820) do not need to quarantine.\n\nLearn more about when a child’s [parent or caregiver is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/parents-caregivers.html).",
             "source": "Editorial",
             "questions": [
                 "I am in isolation because I tested positive for COVID-19, but I can't avoid close contact with someone I take care of. Do they need to quarantine?"
@@ -2568,7 +2540,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T20:25:05.324+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:24:54.344+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2608,7 +2580,7 @@
         },
         {
             "id": 4764,
-            "answer": "**I take care of someone who is in isolation because they tested positive for COVID-19, but I can’t avoid close contact with them. Do I need to quarantine?**\n\nYes. If you **cannot** avoid [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone with COVID-19, you should quarantine while the person you are caring for is sick. You should also quarantine for 14 days **after** they are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days since the day you were potentially exposed. You should separate yourself from others and check yourself for symptoms. Learn about the [option to be tested](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine after 7 days.\n\nHowever, people who are [fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or who [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820) do not need to quarantine.\n\nFind tips on what to do [when a household member is sick with COVID-19](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
+            "answer": "**I take care of someone who is in isolation because they tested positive for COVID-19, but I can’t avoid close contact with them. Do I need to quarantine?**\n\nYes. If you **cannot** avoid [close contact](https://apps.health.vermont.gov/COVID/faq/#4575) with someone with COVID-19, you should quarantine while the person you are caring for is sick. You should also quarantine for 14 days **after** they are able to end [home isolation](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nQuarantine is used to keep someone who might have been exposed to COVID-19 away from other people. Quarantine means you need to stay home and away from other people for 14 days since the day you were potentially exposed. You should separate yourself from others and check yourself for symptoms. Learn about the [option to be tested](https://apps.health.vermont.gov/COVID/faq/#4692) to end quarantine after 7 days.\n\nHowever, people who are [fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or who [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820) do not need to quarantine.",
             "source": "Editorial",
             "questions": [
                 "I take care of someone who is in isolation because they tested positive for COVID-19, but I can’t avoid close contact with them. Do I need to quarantine?"
@@ -2634,7 +2606,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T20:27:46.693+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:25:21.965+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2800,7 +2772,7 @@
         },
         {
             "id": 4777,
-            "answer": "**What is known about variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nMultiple COVID-19 variants are circulating globally, namely in the United Kingdom (UK), South Africa and Brazil. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe Health Department is working to detect any potential variants of concern — through genetic sequencing of certain specimens taken from various parts of the state and through wastewater testing in Burlington. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts. You can find a table that shows the [cumulative number of variants identified in Vermont](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities#variants) by county of residence. It does not reflect the actual number of variants circulating. The table is updated on Tuesdays and Fridays.\n\nHere is what you can do to protect yourself and your community:\n\n*   Keep up with prevention steps, like wearing masks, staying 6 feet apart, staying home if you are sick, washing your hands often, and avoiding crowded places. Prevention steps continue to be effective against variants.\n*   Get tested if you think you have been exposed to COVID-19 or if you think you have any symptoms, even if they are mild. While a test is not able to determine if a variant is present, knowing that you have COVID-19 as soon as possible will help protect yourself and your community.\n*   Get vaccinated. So far, studies suggest that the vaccines available now will help our bodies fight against strains of the virus that causes COVID-19.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [variants of the COVID-19 virus](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nNew variants of the COVID-19 virus are spreading in the United States and in other parts of the world. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe Health Department is working to detect any potential variants of concern — through genetic sequencing of certain specimens taken from various parts of the state and through wastewater testing in Burlington. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts. You can find a table that shows the [cumulative number of variants identified in Vermont](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities#variants) by county of residence. It does not reflect the actual number of variants circulating. The table is updated on Tuesdays and Fridays.\n\nHere is what you can do to protect yourself and your community:\n\n*   Get vaccinated. So far, studies suggest that the vaccines available now will help our bodies fight against the variants that are currently circulating.\n*   Follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others) if you are not fully vaccinated, like wearing masks, staying 6 feet apart, staying home if you are sick, washing your hands often, and avoiding crowded places. Prevention steps continue to be effective against variants.\n*   Get tested if you have any [COVID-19 symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), even if they are mild. While a test is not able to determine if a variant is present, knowing that you have COVID-19 as soon as possible will help protect yourself and your community.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [variants of the COVID-19 virus](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?",
@@ -2825,7 +2797,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-19T19:52:44.753+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:29:20.451+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2875,7 +2847,7 @@
         },
         {
             "id": 4780,
-            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nNo. Anyone age 12 and older who lives in Vermont or is visiting Vermont, can get vaccinated. You do not have to be a Vermont resident or a part-time resident.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).",
+            "answer": "**Do I have to be a Vermont resident to get the COVID-19 vaccine?**\n\nNo. Anyone age 12 and older who lives in Vermont or is visiting Vermont, can get vaccinated. You do not have to be a Vermont resident or a part-time resident.",
             "source": "Editorial",
             "questions": [
                 "Do I have to be a Vermont resident to get the COVID-19 vaccine?",
@@ -2931,7 +2903,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:53:53.979+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:15:36.458+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -3206,7 +3178,7 @@
                 },
                 {
                     "name": "subcategory",
-                    "value": "registration and appointments"
+                    "value": "getting the vaccine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -3220,13 +3192,13 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:29:15.409+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:18:42.124+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4789,
-            "answer": "**What can I expect at my vaccine appointment? Do I need to bring anything?**\n\nMost clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou will need to wear a mask during your appointment. If you do not have one, there will be one available for you at the clinic.\n\nYou do not need to bring any identification to your appointment. Some clinics may ask for your health insurance information and for you to bring your health insurance card to your appointment, but you do not need health insurance to get a vaccine.\n\nIf you are getting a Pfizer-BioNTech or Moderna vaccine, we recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nArrive on time so you don’t have to wait long, or keep others waiting. **Please do not arrive earlier than 15 minutes before your appointment**.\n\nIf you need someone to come with you for assistance, please only bring one person so we can limit the number of people inside the clinics. This person will not be able to get a vaccine unless they have an appointment. \n\n**Once you arrive at the vaccine clinic**, here is what will happen:\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to reschedule your appointment.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\n**If you are going to a drive-through clinic**, you will stay in your car. Someone will check you in and then give you the vaccine. You’ll be asked to wait 15 to 30 minutes before leaving.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
+            "answer": "**What can I expect when I get my vaccine? Do I need to bring anything?**\n\nMost clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou do not need to bring any identification. Some clinics may ask for your health insurance information and for you to show your health insurance card, but you do not need health insurance to get a vaccine.\n\nIf you are getting a Pfizer-BioNTech or Moderna vaccine, we recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nYou may need to wear a mask. If you are not vaccinated, wearing a mask helps protect you and the people around you from getting or spreading COVID-19.\n\nIf you made an appointment, arrive on time so you don’t have to wait long, or keep others waiting. Please do not arrive earlier than 15 minutes before your appointment.\n\nIf you need someone to come with you for assistance, please only bring one person.\n\n**Every vaccine clinic is a little bit different, but here is what you can generally expect:**\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to get your vaccine later.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\n**If you are going to a drive-through clinic**, you will stay in your car. Someone will check you in and then give you the vaccine. You’ll be asked to wait 15 to 30 minutes before leaving.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
             "source": "Editorial",
             "questions": [
                 "Health Screening Questionnaire",
@@ -3259,7 +3231,7 @@
                 },
                 {
                     "name": "subcategory",
-                    "value": "registration and appointments"
+                    "value": "getting the vaccine"
                 }
             ],
             "alternateQuestionClusters": [],
@@ -3273,7 +3245,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-15T17:04:48.427+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T20:10:32.621+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -3621,7 +3593,7 @@
         },
         {
             "id": 4801,
-            "answer": "**Do I need to wait to get my vaccine if I am under quarantine or isolation?**\n\nIf you are under quarantine, you can leave quarantine to get your first or second dose of the vaccine. However, if you have symptoms of COVID-19, contact your health care provider. You will need to stay home and reschedule your appointment.\n\nIf you tested positive for COVID-19 and are still in your isolation period, you will need to wait to get your first or second dose until you are able to [end your isolation](https://apps.health.vermont.gov/COVID/faq/#4601).\n\nThere are enough appointment slots available for everyone. You will be able to easily get another appointment. Find out [how to reschedule your appointment](https://apps.health.vermont.gov/COVID/faq/#4798).",
+            "answer": "**Do I need to wait to get my vaccine if I am under quarantine or isolation?**\n\nIf you are under quarantine, you can leave quarantine to get your first or second dose of the vaccine. However, if you have symptoms of COVID-19, contact your health care provider. You will need to stay home and reschedule your appointment.\n\nIf you tested positive for COVID-19 and are still in your isolation period, you will need to wait to get your first or second dose until you are able to [end your isolation](https://apps.health.vermont.gov/COVID/faq/#4601).",
             "source": "Editorial",
             "questions": [
                 "I’m in quarantine because I was exposed to someone who was positive for COVID-19. Should I still get the vaccine? ",
@@ -3657,13 +3629,13 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-26T18:44:34.343+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:15:54.985+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4802,
-            "answer": "**When do I need to get my second dose of the Pfizer-BioNTech or Moderna vaccine?**\n\nThe Pfizer-BioNTech and Moderna vaccines are two shots, given 21 or 28 days apart. Both of them are over 94% effective with two doses.\n\n*   Doses of the Pfizer-BioNTech vaccine are given about 21 days apart.\n*   Doses of the Moderna vaccine are given about 28 days apart.\n\nFor the vaccine to be the most effective and help prevent you from getting COVID-19, it’s best to get your second shot as close to the recommended schedule as possible. It is okay to get your shot 4 days before the recommended schedule. But if you miss your second dose, get it as soon as you can. However, if you are not able to get it close to the recommended schedule, it is okay to get it up to 42 days after your first dose. There is limited data on how effective the vaccine is, if the second dose is given after 42 days. Learn more about [why it is important to get two doses of the vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nWe recommend bringing your vaccine card to your second dose appointment, but it is not required. We also recommend getting your second dose at the same place you got your first dose. This way you can be sure that you get the same vaccine.\n\n**Find out**:\n\n*   [How to schedule your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4846)\n*   [How to reschedule or cancel your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4798)\n*   [How to schedule a second dose appointment if you got your first dose in another state](https://apps.health.vermont.gov/COVID/faq/#4842)",
+            "answer": "**When do I need to get my second dose of the Pfizer-BioNTech or Moderna vaccine?**\n\nThe Pfizer-BioNTech and Moderna vaccines are two shots, given 21 or 28 days apart. Both of them are over 94% effective with two doses.\n\n*   Doses of the Pfizer-BioNTech vaccine are given about 21 days apart.\n*   Doses of the Moderna vaccine are given about 28 days apart.\n\nFor the vaccine to be the most effective and help prevent you from getting COVID-19, it’s best to get your second shot as close to the recommended schedule as possible. It is okay to get your shot 4 days before the recommended schedule. But if you miss your second dose, get it as soon as you can. However, if you are not able to get it close to the recommended schedule, it is okay to get it up to 42 days after your first dose. There is limited data on how effective the vaccine is, if the second dose is given after 42 days. Learn more about [why it is important to get two doses of the vaccine](https://apps.health.vermont.gov/COVID/faq/#4830).\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nWe recommend bringing your vaccine card to your second dose appointment, but it is not required. We also recommend getting your second dose at the same place you got your first dose. This way you can be sure that you get the same vaccine.\n\n**Find out**:\n\n*   [How to schedule your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4846)\n*   [How to reschedule or cancel your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4798)",
             "source": "Editorial",
             "questions": [
                 "When will my second dose be scheduled?",
@@ -3710,13 +3682,13 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:54:28.254+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:18:11.384+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
         {
             "id": 4803,
-            "answer": "**Do I have a choice of which vaccine I get? Which vaccine should I get?**\n\nIf you are making an appointment through the Health Department system, you will see the name of the vaccine listed after the “event” description. However, there is no way to search for an appointment based on which vaccine is available. \n\nPlease note the Pfizer-BioNTech vaccine is the only vaccine that is authorized for people age 12 to 17.  Find out [what 12 to 17-year-olds need to do to get vaccinated](https://apps.health.vermont.gov/COVID/faq/#4849).\n\nFor the two-dose vaccines (Pfizer-BioNTech and Moderna), you should get the same vaccine for both your first and second dose. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it. Find out [how to make your second dose appointment](https://apps.health.vermont.gov/COVID/faq/#4846).\n\nThe vaccines are working in the real world. Studies show them to be more than 90% effective in real-world settings in preventing mild and severe disease, hospitalization and death. The vaccines have also proven to be effective against the COVID-19 variants that are currently circulating in the country.\n\nThe vaccines available have similar side effects. Side effects are a normal way that your body builds immunity to COVID-19. \n\nLearn more about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes) and [where you can get the vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nLearn about [why the Johnson & Johnson vaccine was briefly paused](https://apps.health.vermont.gov/COVID/faq/#4848).",
+            "answer": "**Do I have a choice of which vaccine I get? Which vaccine should I get?**\n\nIf you are making an appointment through the Health Department system, you will see the name of the vaccine listed after the “event” description. However, there is no way to search for an appointment based on which vaccine is available.\n\nPlease note the Pfizer-BioNTech vaccine is the only vaccine that is authorized for people age 12 to 17. Find out [what 12 to 17-year-olds need to do to get vaccinated](https://apps.health.vermont.gov/COVID/faq/#4849).\n\nFor the two-dose vaccines (Pfizer-BioNTech and Moderna), you should get the same vaccine for both your first and second dose. You will also be given a card with the name of the vaccine you received when you get your first shot. If you have a smartphone, you may want to take a picture of the card in case you misplace it. Find out [how to get your second dose](https://apps.health.vermont.gov/COVID/faq/#4846).\n\nThe vaccines are working in the real world. Studies show them to be more than 90% effective in real-world settings in preventing mild and severe disease, hospitalization and death. Current data suggest that COVID-19 vaccines authorized for use in the United States offer protection against most variants currently spreading in the United States.\n\nThe vaccines available have similar side effects. Side effects are a normal way that your body builds immunity to COVID-19.\n\nLearn more about [the vaccines available in Vermont](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#vaccinetypes) and [where you can get the vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).",
             "source": "Editorial",
             "questions": [
                 "Can people choose which vaccine they wanted?",
@@ -3784,7 +3756,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:12:52.285+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:15:18.404+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -3939,38 +3911,6 @@
             "extractionConfidence": 0
         },
         {
-            "id": 4811,
-            "answer": "**I don’t have an email address. How do I schedule an appointment?**\n\nIf you don’t have an email address, you can call **855-722-7878** to schedule your appointment over the phone. However, you will not get an appointment reminder since those are being sent by email. The call center is open Monday through Friday from 8:15 a.m. – 5:30 p.m. and Saturday 10:00 a.m. – 3:00 p.m.\n\nAnother option would be to ask a family member to create an online account with their email address. Your family member will be able to add you as a “dependent” to schedule and assist with managing your appointments. Learn more about [making an appointment for someone else](https://apps.health.vermont.gov/COVID/faq/#4790).",
-            "source": "Editorial",
-            "questions": [
-                "I don’t have an email address. How do I schedule an appointment?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "registration and appointments"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-06-15T17:04:07.01+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
             "id": 4812,
             "answer": "**I am having problems making my vaccine appointment. Who do I contact?**\n\nIf you have questions or need help creating an account, scheduling an appointment, or signing up someone as a dependent, please call 855-722-7878.\n\nThe COVID-19 Event Portal is used for both testing and vaccine registration. [Log in to your account](https://vermont.force.com/events/s/selfregistration).\n\nFind out what to do if you are having [problems making an appointment for **testing** or have questions about your **test results**](https://apps.health.vermont.gov/COVID/faq/#4809).",
             "source": "Editorial",
@@ -4024,7 +3964,7 @@
         },
         {
             "id": 4814,
-            "answer": "**Where can I get the COVID-19 vaccine?**\n\nThere are many vaccination sites across the state. You can either make an appointment or [find a walk-in clinic](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine). Anyone age 12 and older who lives in Vermont or is visiting Vermont, can get vaccinated. You do not have to be a Vermont resident or a part-time resident.\n\nYou can make an appointment for a clinic or pharmacy near you through the Health Department website. This includes clinics run by the Health Department, the National Guard, health care partners, Costco, Hannaford, Price Chopper, Rite Aid, Shaws and Walmart (please do not call the stores directly). You will make your second-dose appointment when you get your first dose. Learn how to [make an appointment](https://vermont.force.com/events/s/selfregistration).\n\nIf you would like to make an appointment at a pharmacy near you, you can make an appointment directly through their websites. Make an appointment with [Kinney Drugs](https://kinneydrugs.com/pharmacy/covid-19/vaccination-scheduling/vt/), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walgreens](https://www.walgreens.com/schedulevaccine), [Northfield Pharmacy](http://www.northfieldpharmacy.com/) or [UVMMC Outpatient Pharmacies](https://www.uvmhealth.org/medcenter/departments-and-programs/pharmacy-services/schedule-your-covid-19-vaccine).\n\n[**Make an appointment to get the COVID-19 vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nYou can also find specific clinic locations for certain groups:\n\n*   [People who are homebound](https://apps.health.vermont.gov/COVID/faq/#4786)\n*   [Clinic options for Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#bipoc)\n*   [Clinic options for English language learners and people in immigrant/refugee communities](https://apps.health.vermont.gov/COVID/faq/#4840)\n\nLearn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
+            "answer": "**Where can I get the COVID-19 vaccine?**\n\nThere are many vaccination sites across the state. You can get a vaccine at a walk-in clinic (without an appointment) or you can make an appointment. Anyone age 12 and older who lives in Vermont or is visiting Vermont, can get vaccinated. You do not have to be a Vermont resident or a part-time resident.\n\n[**Find a free vaccine**](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine).\n\nYou can also find specific clinic locations for certain groups:\n\n*   [People who are homebound](https://apps.health.vermont.gov/COVID/faq/#4786)\n*   [Clinic options for Black, Indigenous and people of color (BIPOC)](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#bipoc)\n*   [Clinic options for English language learners and people in immigrant/refugee communities](https://apps.health.vermont.gov/COVID/faq/#4840)\n\nLearn about [how we are working toward equity](https://www.healthvermont.gov/covid-19/vaccine/about-covid-19-vaccines-vermont#equity).",
             "source": "Editorial",
             "questions": [
                 "Who will be eligible next?",
@@ -4071,7 +4011,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-15T16:59:52.252+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:13:46.742+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -4182,7 +4122,7 @@
         },
         {
             "id": 4819,
-            "answer": "**Do I need to quarantine if I live with someone or had close contact with someone who tested positive?**\n\nYes. You will need to quarantine if you are a close contact or live with someone who tests positive for COVID-19 (unless you are [fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820)). If you are identified as a close contact, you will be contacted. This is known as contact tracing. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will give you guidance to stay home and away from others for a certain amount of time.\n\nLearn more about [what to expect from contact tracing](https://apps.health.vermont.gov/COVID/faq/#4682).\n\nFind tips about [quarantining when you share a home](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19_Prevention-Extended-Families-English.pdf).",
+            "answer": "**Do I need to quarantine if I live with someone or had close contact with someone who tested positive?**\n\nYes. You will need to quarantine if you are a close contact or live with someone who tests positive for COVID-19 (unless you are [fully vaccinated](https://apps.health.vermont.gov/COVID/faq/#4825) or [recently had COVID-19](https://apps.health.vermont.gov/COVID/faq/#4820)). If you are identified as a close contact, you will be contacted. This is known as contact tracing. The notification will come from the Health Department or a place you went to recently (for example, your employer, your child’s school, or your health care provider might contact you). They will give you guidance to stay home and away from others for a certain amount of time.\n\nLearn more about [what to expect from contact tracing](https://apps.health.vermont.gov/COVID/faq/#4682).",
             "source": "Editorial",
             "questions": [
                 "Do I have to quarantine if someone in my house test positive",
@@ -4227,7 +4167,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-04-29T19:18:30.669+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:24:25.272+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -4549,7 +4489,7 @@
         },
         {
             "id": 4831,
-            "answer": "**Can I still spread the COVID-19 virus after I've been fully vaccinated? Do the vaccines work?**\n\nIf you’re fully vaccinated, you are less likely to spread the virus. A [growing body of evidence](https://www.cdc.gov/coronavirus/2019-ncov/more/fully-vaccinated-people.html) suggests that fully vaccinated people are less likely to have COVID-19 without symptoms and to spread COVID-19 to others.\n\nThe vaccines are working in the real world. Studies show them to be more than 90% effective in real-world settings in preventing mild and severe disease, hospitalization and death. The vaccines have also proven to be effective against the COVID-19 variants that are currently circulating in the country.",
+            "answer": "**Can I still spread the COVID-19 virus after I've been fully vaccinated? Do the vaccines work?**\n\nIf you’re fully vaccinated, you are less likely to spread the virus. A [growing body of evidence](https://www.cdc.gov/coronavirus/2019-ncov/more/fully-vaccinated-people.html) suggests that fully vaccinated people are less likely to have COVID-19 without symptoms and to spread COVID-19 to others.\n\nThe vaccines are working in the real world. Studies show them to be more than 90% effective in real-world settings in preventing mild and severe disease, hospitalization and death. \n\nAccording to the CDC, current data suggest that COVID-19 vaccines authorized for use in the United States offer protection against most variants currently spreading in the United States. However, some variants might cause illness in some people even after they are fully vaccinated.",
             "source": "Editorial",
             "questions": [
                 "when is my vaccine effective",
@@ -4576,7 +4516,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:51:27.208+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:12:20.75+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -4641,7 +4581,7 @@
         },
         {
             "id": 4835,
-            "answer": "**How can I get a copy of my vaccine record? Can I get a new vaccine card if I lose it?**\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nIf your vaccine requires a second dose, you should have scheduled your second dose at the clinic where you received your first dose. We recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou may want to protect your card. If you choose to get your vaccine card laminated, please note that the ink used to write in your dose could run when heat is applied. Also, if booster shots are needed, they won’t be able to be recorded if the card is laminated.\n\nIf you lost your vaccine card or your information is wrong, the Vermont Immunization Registry has your vaccination record. You can **request a record of your vaccine** from the Immunization Registry directly or through your health care provider. To request it directly through the Immunization Registry, email [vaxrecordrequest@vermont.gov](mailto:vaxrecordrequest@vermont.gov) or call 888-688-4667, option 3. You can get a copy of your record as an encrypted email or through the mail. On weekdays, you can expect an email within an hour or two. Mail will take about one week.",
+            "answer": "**How can I get a copy of my vaccine record? Can I get a new vaccine card if I lose it?**\n\nOnce you get your vaccine card, put it in a safe place so you don’t lose it. You can keep it in your wallet or store it with other important documents. You can also take a picture of it with your smartphone, if you have one. You may need to show your card when you travel, so be sure to carry it with you and be prepared to show it when asked.\n\nIf your vaccine requires a second dose, you should have scheduled your second dose at the clinic where you received your first dose. We recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou may want to protect your card. If you choose to get your vaccine card laminated, please note that the ink used to write in your dose could run when heat is applied. Also, if booster shots are needed, they won’t be able to be recorded if the card is laminated.\n\nIf you lost your vaccine card or your information is wrong, the Vermont Immunization Registry has your vaccination record. You can **request a record of your vaccine** from the Immunization Registry directly or through your health care provider. To request it directly through the Immunization Registry, email [vaxrecordrequest@vermont.gov](mailto:vaxrecordrequest@vermont.gov) or call 888-688-4667, option 3. You can get a copy of your record as an encrypted email or through the mail. On weekdays, you can expect an email within an hour or two. Mail will take about one week.\n\nSome pharmacies may also offer to replace a COVID-19 vaccination card, but not all pharmacies or locations provide this service. Check before you go to be sure.",
             "source": "Editorial",
             "questions": [
                 "I lost my vaccine card. How do I get a new one?",
@@ -4678,157 +4618,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-20T18:08:30.777+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
-            "id": 4840,
-            "answer": "**I am an English language learner or a member of the immigrant/refugee community. Where can I get vaccinated?**\n\nThere are community-specific clinics for people who are English language learners or immigrant/refugee community members. Anyone age 12 or older can choose to register for one of these clinics.\n\nPlease call the Association of Africans Living in Vermont (AALV) at (802) 985-3106 or the U.S. Committee for Refugees and Immigrants of Vermont (USCRI VT) at (802) 655-1963 to register.\n\nYou can also make an appointment by calling 855-722-7878. Press 1 if you need interpretation services.",
-            "source": "Editorial",
-            "questions": [
-                "ELL",
-                "can I get a vaccine if I am not a us citizen",
-                "I am an English language learner or a member of the immigrant/refugee community. Where can I get vaccinated?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "getting the vaccine"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-05-27T19:14:34.61+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
-            "id": 4841,
-            "answer": "**I identify as BIPOC (Black, Indigenous or a person of color). Where can I get vaccinated?**\n\nIf you or anyone in your household identifies as Black, Indigenous, or a person of color (BIPOC), including anyone with Abenaki or other First Nations heritage, all household members who are 12 years or older have the option to get vaccinated at a BIPOC-focused community clinic.\n\nBIPOC includes anyone who is Black, Brown, Asian (AAPI or APIDA), Indigenous/First Nations/Abenaki, African American, Hispanic, Latino/Latina/Latinx, mixed race, or biracial.\n\nAAPI stands for Asian American and Pacific Islander. APIDA stands for Asian, Pacific Islander, Desi American. Desi is a pan-ethnic term used to refer to people from South Asia.\n\nFind out [how to make an appointment at a BIPOC household focused clinic](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#bipoc).",
-            "source": "Editorial",
-            "questions": [
-                "BIPOC",
-                "how do i make an appointment for bipoc family member",
-                "person of color",
-                "Black ",
-                "indigenous",
-                "people of color",
-                "BIPOC vaccine",
-                "minority",
-                "Abenaki heritage",
-                "asian",
-                "I identify as BIPOC (Black, Indigenous or a person of color). Where can I get vaccinated?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "getting the vaccine"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-05-27T19:20:51.267+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
-            "id": 4842,
-            "answer": "**Can I get my second dose in Vermont if I got my first dose in another state?**\n\nIdeally, you should schedule your second dose at the same place you got your first dose. If that’s not possible, you can call 855-722-7878 to schedule your second dose appointment.",
-            "source": "Editorial",
-            "questions": [
-                "Can I get my second dose in Vermont if I got my first dose in another state?",
-                "Got my first shot out of state",
-                "Got first vaccine in another state can I get second vaccine in Vermont",
-                "Can i schedule my second shot in Vermont if I received my first shot in another state?",
-                "I got my first shot in another state",
-                "can I get my vaccines in two different states",
-                "Can I get my second dose in a different state than my first dose?",
-                "I had 1st covid vaccine in another state how do I get second in vermont",
-                "I've been vaccinated in another state."
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "getting the vaccine"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-05-27T19:55:50.999+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
-            "id": 4844,
-            "answer": "**I am an undocumented immigrant living in Vermont. Can I get the vaccine?**\n\nYes. When you make a vaccine appointment, you may be asked for certain information. The only answers that are needed to make a vaccine appointment are your name, date of birth, and address. This information is kept confidential since it is legally protected personal health information. If you live in Vermont but do not have an address or do not feel comfortable sharing this information, you can answer \"UNKNOWN\" in the street address field. You will still need to select “VT” from the state dropdown field.\n\n[Make an appointment to get the COVID-19 vaccine](https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine#appointment).\n\nLearn more about [equal access to the vaccine for undocumented immigrants](https://www.dhs.gov/news/2021/02/01/dhs-statement-equal-access-covid-19-vaccines-and-vaccine-distribution-sites).",
-            "source": "Editorial",
-            "questions": [
-                "I am an undocumented immigrant living in Vermont. Can I get the vaccine?",
-                "legal resident",
-                "undocumented"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "getting the vaccine"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-04-19T20:09:38.237+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:12:48.379+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -4912,40 +4702,8 @@
             "extractionConfidence": 0
         },
         {
-            "id": 4848,
-            "answer": "**Why was the Johnson & Johnson vaccine paused?**\n\nVermont has resumed use of the Johnson & Johnson vaccine as of April 26. The [FDA and CDC announced](https://www.cdc.gov/media/releases/2021/fda-cdc-lift-vaccine-use.html) that they studied and confirmed that the Johnson & Johnson vaccine is recommended for people 18 years of age and older, and that the pause on its use since April 13 can be lifted.\n\nThe CDC announced the pause after reports of a small number of people developing a rare and severe type of blood clot called cerebral venous sinus thrombosis (CVST). This type of blood clot is found in the blood vessels that drain blood from the brain and is combined with low platelets.\n\nThere have been no reported cases of these side effects in Vermont.\n\nThe pause was necessary to give the CDC’s Advisory Committee on Immunization Practices time to review [additional data](https://www.cdc.gov/vaccines/acip/meetings/slides-2021-04-23.html) about the reported side effects.\n\nVermont’s health care providers have been given information and guidance about the potential blood clotting symptoms and appropriate medical treatment. They will be given any updated guidance.\n\nAlthough the [side effects](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/JJUpdate.html#symptoms-list-question) of concern are extremely rare, the FDA and CDC recommend that **you should contact your health care provider right away if you develop severe headache, abdominal pain, leg pain or shortness of breath within three weeks of receiving the Johnson & Johnson vaccine**. If you do not have a health care provider, call 2-1-1 to be connected to care, or contact the nearest [federally qualified health center](https://bistatepca.org/community-resources/vt-health-centers) or one of [Vermont’s free & referral clinics](https://vtfreeclinics.org/).",
-            "source": "Editorial",
-            "questions": [
-                "Why was the Johnson & Johnson vaccine paused?"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "vaccine"
-                },
-                {
-                    "name": "subcategory",
-                    "value": "about the vaccines"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 1,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-05-20T16:50:29+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
             "id": 4849,
-            "answer": "**I’m between the ages of 12 and 17. What do I need to know about getting my vaccine?**\n\nIf you are making an appointment through the Health Department website, you’ll need to [create an account](https://apps.health.vermont.gov/COVID/faq/#4781). Either you can create your own account, or your parent or guardian can [add you as a dependent](https://apps.health.vermont.gov/COVID/faq/#4790) on their account.\n\nWhen you make your appointment through the Health Department website, you will only see appointments for the [Pfizer vaccine](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) since that is the only vaccine that is authorized for people age 12 to 17.\n\nCertain pharmacies, including CVS and Kinney Drugs, are also offering the Pfizer vaccine to your age group, and some have walk-in opportunities.\n\nFor the appointments made through the Health Department website and through CVS, you will either need to:\n\n*   Make an [appointment through the website](https://vermont.force.com/events/s/selfregistration) **or**\n*   Come to get your vaccine with a parent or guardian who can give consent **or**\n*   Come to get your vaccine with a completed [consent form](https://www.healthvermont.gov/sites/default/files/documents/pdf/Vermont-Dept-Health-Walk-In-Consent.pdf) and completed [prevaccination checklist](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf)\n\nIf you are making an appointment directly through Walgreens, your parent or guardian will need to go with you to your appointment and give their consent.",
+            "answer": "**I’m between the ages of 12 and 17. What do I need to know about getting my vaccine?**\n\nYou can get a vaccine at a walk-in clinic (without an appointment) or you can make an appointment. Be sure you are getting the [Pfizer vaccine](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine) since that is the only vaccine that is authorized for people age 12 to 17.\n\nIf you are making an appointment through the Health Department website, you’ll need to [create an account](https://apps.health.vermont.gov/COVID/faq/#4781). Either you can create your own account, or your parent or guardian can [add you as a dependent](https://apps.health.vermont.gov/COVID/faq/#4790) on their account. You will only see appointments for the Pfizer vaccine.\n\nCertain pharmacies, including CVS and Kinney Drugs, are also offering the Pfizer vaccine to your age group, and some have walk-in opportunities.\n\nFor the appointments made through the Health Department website and through CVS, you will either need to:\n\n*   Make an [appointment through the website](https://vermont.force.com/events/s/selfregistration) **or**\n*   Come to get your vaccine with a parent or guardian who can give consent **or**\n*   Come to get your vaccine with a completed [Immunization Clinic Consent Form](https://www.healthvermont.gov/sites/default/files/documents/pdf/Vermont-Dept-Health-Walk-In-Consent.pdf) and completed [Prevaccination Checklist for COVID-19 Vaccine](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf) (find [consent and checklist translations](https://www.healthvermont.gov/media/translation/covid-19-translations)).\n\nIf you are making an appointment directly through Walgreens, your parent or guardian will need to go with you to your appointment and give their consent.",
             "source": "Editorial",
             "questions": [
                 "need an adult",
@@ -4978,7 +4736,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-15T17:00:52.127+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:49:11.971+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -5049,7 +4807,7 @@
         },
         {
             "id": 4852,
-            "answer": "**Can businesses require someone to wear masks or be vaccinated?**\n\nYes. Businesses can make their own decisions about whether to require employees or customers to wear masks or to be vaccinated.",
+            "answer": "**Can businesses require someone to wear masks or be vaccinated?**\n\nYes. Businesses can make their own decisions about whether to require employees or customers to wear masks or to be vaccinated.\n\nHowever, you may be [required to wear a mask in some settings](https://apps.health.vermont.gov/COVID/faq/#4540), even if you are fully vaccinated.",
             "source": "Editorial",
             "questions": [
                 "Can businesses or institutions require someone to be vaccinated?",
@@ -5081,7 +4839,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-15T17:09:39.333+00:00",
+            "lastUpdatedTimestamp": "2021-06-22T19:34:35.283+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
