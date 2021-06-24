@@ -19,7 +19,7 @@
                 "isContextOnly": false,
                 "prompts": []
             },
-            "lastUpdatedTimestamp": "2021-06-22T20:13:09.167+00:00",
+            "lastUpdatedTimestamp": "2021-06-24T15:35:38.408+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -1988,7 +1988,7 @@
         },
         {
             "id": 4727,
-            "answer": "**What do parents need to know about school and child care?**\n\nWith Vermont’s high vaccination rates and low number of COVID-19 cases, it’s safe for most Vermonters to return to the activities they did before the pandemic. Our high vaccination rates mean the vast majority of Vermonters are protected from the virus, and keep the virus from spreading to others.\n\nBecause a COVID-19 vaccine is not currently available for children under 12 years old, there are a large number of unvaccinated people at schools, child care and summer camps. The Health Department recommends that unvaccinated people 2 years and older wear masks when inside at schools, child care and summer camps this summer.\n\nThe Health Department continues to work with the [Agency of Education](https://education.vermont.gov/) and other partners to support the health and wellness of children and their families.\n\n**Learn more**:\n\n*   [COVID-19 prevention recommendations for end of the school year](https://education.vermont.gov/documents/memo-french-levine-covid19-prevention-recommendations-for-end-of-the-school-year) from the Agency of Education and Department of Health\n*   [Information for Families: Return to School Following Illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoSchoolAfterIllness_0.pdf)\n*   [What if there is a case of COVID-19 in school?](https://apps.health.vermont.gov/COVID/faq/#4738)\n*   [Spread of COVID-19 Related to Participation in High School Sports](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-databrief-HS-Sports.pdf)\n*   [Instructional Operations for Fall 2021](https://education.vermont.gov/sites/aoe/files/documents/edu-instructional-operations-for-fall-2021.pdf) from the Agency of Education\n*   [Summer Matters](https://www.vermontafterschool.org/summermatters/) from Vermont Afterschool\n*   [More information for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)",
+            "answer": "**What do parents need to know about school and child care?**\n\nWith Vermont’s high vaccination rates and low number of COVID-19 cases, it’s safe for most Vermonters to return to the activities they did before the pandemic. Our high vaccination rates mean the vast majority of Vermonters are protected from the virus, and keep the virus from spreading to others.\n\nBecause a COVID-19 vaccine is not currently available for children under 12 years old, there are a large number of unvaccinated people at schools, child care and summer camps. The Health Department recommends that unvaccinated people 2 years and older wear masks when inside at schools, child care and summer camps this summer.\n\nThe Health Department continues to work with the [Agency of Education](https://education.vermont.gov/) and other partners to support the health and wellness of children and their families.\n\n**Learn more**:\n\n*   [Summer Matters](https://www.vermontafterschool.org/summermatters/) from Vermont Afterschool \n*   [Caring for our Children](https://nrckids.org/CFOC) standards from the National Resource Center for Health and Safety in Child Care and Early Education\n*   [Children's Development Division COVID-19 Regulations](https://dcf.vermont.gov/cdd/laws-regs/childcare)\n*   [Information for Families: Return to School Following Illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoSchoolAfterIllness_0.pdf)\n*   [Information for Families: Return to Child Care or an Out of School Care Program Following Illness](https://www.healthvermont.gov/sites/default/files/documents/pdf/CYF_VTBacktoChildCareAfterIllness.pdf)\n*   [Spread of COVID-19 Related to Participation in High School Sports](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-databrief-HS-Sports.pdf)\n*   [Instructional Operations for Fall 2021](https://education.vermont.gov/sites/aoe/files/documents/edu-instructional-operations-for-fall-2021.pdf) from the Agency of Education\n*   [More information for families with children](https://www.healthvermont.gov/covid-19/your-community/families-children)",
             "source": "Editorial",
             "questions": [
                 "Is it safe to send my children to school or child care?",
@@ -2017,7 +2017,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-15T17:08:03.035+00:00",
+            "lastUpdatedTimestamp": "2021-06-24T15:35:38.408+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2090,50 +2090,6 @@
                 ]
             },
             "lastUpdatedTimestamp": "2021-05-27T19:08:51.557+00:00",
-            "isDocumentText": false,
-            "extractionConfidence": 0
-        },
-        {
-            "id": 4738,
-            "answer": "**What if there is a case of COVID-19 in school?**\n\nThe Health Department responds every time we receive a positive test result for COVID-19.\n\n**The Health Department will**:\n\n*   Contact the person who tested positive (or their parent/guardian), ask them questions about their recent activities and who they’ve been in [close contact](https://www.healthvermont.gov/covid-19/symptoms-sickness/close-contacts-contact-tracing) with, and give instructions on staying home.\n*   Notify the school if the person who tested positive is associated with a school.\n*   Schools do not need to take action if the Health Department determines that there is no risk of further spread at the school. For example, if the person with COVID-19 was not at school during their infectious period, there would not have been an opportunity to spread the virus to others at school.\n*   Work closely with the school to identify people at the school who had close contact (within 6 feet for a total of 15 minutes or more over a 24-hour period) with a person with COVID-19 during their [infectious period](https://apps.health.vermont.gov/COVID/faq/#4734), including during [high-risk activities](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Framework-High-Risk-Activities.pdf).\n\n**The school should**:\n\n*   Follow the [Checklist for Handling COVID-19 in Schools](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-School-Check-List.pdf) and collaborate with the Health Department on the investigation.\n*   [Clean and disinfect](https://www.cdc.gov/coronavirus/2019-ncov/community/clean-disinfect/index.html) any areas where the person spent longer than 15 minutes (like a classroom, gym, or a cafeteria), especially high-touch surfaces.\n\n**For more information:**\n\n*   Learn more about the [Health Department's response to COVID-19 cases](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID-19-Flowchart-When-Someone-Tests-Positive.pdf).\n*   Find a table showing the [number of COVID-19 cases in Vermont K-12 schools](https://www.healthvermont.gov/sites/default/files/documents/pdf/COVID19-Transmission-Schools.pdf) while infectious, by school name.\n*   Several resources for school administrators, nurses and COVID-19 coordinators are available on the Health Department's [PreK-12 Schools web page](https://www.healthvermont.gov/covid-19/your-community/prek-12-schools).",
-            "source": "Editorial",
-            "questions": [
-                "What if there is a case of COVID-19 in school?",
-                "school outbreak",
-                "school positive case",
-                "School exposure",
-                "can my child return to school if they do not have test results back?",
-                "School quarantine",
-                "Children in school with COVID",
-                "a classmate of my child tested positive, what should i do",
-                "After exposure to a confirmed COVID person, how soon can students return to school?",
-                "return to school",
-                "My kids school closed does he need to quarantine",
-                "my child has been exposed at school"
-            ],
-            "metadata": [
-                {
-                    "name": "category",
-                    "value": "families with children"
-                }
-            ],
-            "alternateQuestionClusters": [],
-            "context": {
-                "isContextOnly": false,
-                "prompts": [
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4533,
-                        "displayText": "This did NOT answer my question."
-                    },
-                    {
-                        "displayOrder": 0,
-                        "qnaId": 4727,
-                        "displayText": "Is it safe to send my children back to school or child care?"
-                    }
-                ]
-            },
-            "lastUpdatedTimestamp": "2021-06-15T17:08:03.035+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -2772,7 +2728,7 @@
         },
         {
             "id": 4777,
-            "answer": "**What is known about variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nNew variants of the COVID-19 virus are spreading in the United States and in other parts of the world. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe Health Department is working to detect any potential variants of concern — through genetic sequencing of certain specimens taken from various parts of the state and through wastewater testing in Burlington. We will continue this work, to help Vermonters understand any changes in the virus that may require us to strengthen our prevention efforts. You can find a table that shows the [cumulative number of variants identified in Vermont](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities#variants) by county of residence. It does not reflect the actual number of variants circulating. The table is updated on Tuesdays and Fridays.\n\nHere is what you can do to protect yourself and your community:\n\n*   Get vaccinated. So far, studies suggest that the vaccines available now will help our bodies fight against the variants that are currently circulating.\n*   Follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others) if you are not fully vaccinated, like wearing masks, staying 6 feet apart, staying home if you are sick, washing your hands often, and avoiding crowded places. Prevention steps continue to be effective against variants.\n*   Get tested if you have any [COVID-19 symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), even if they are mild. While a test is not able to determine if a variant is present, knowing that you have COVID-19 as soon as possible will help protect yourself and your community.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [variants of the COVID-19 virus](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
+            "answer": "**What is known about variants of the COVID-19 virus?**\n\nViruses constantly change through mutation, and new variants of a virus are expected to occur over time. Information about these variants is rapidly emerging. Scientists are working to learn more about how easily they spread, whether they could cause more severe illness, and whether currently authorized vaccines will protect people against them.\n\nNew variants of the COVID-19 virus are spreading in the United States and in other parts of the world. According to the CDC, these variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. You can find a [map showing the number of confirmed cases caused by variants in the U.S](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant-cases.html).\n\nThe Health Department detects any potential [variants of concern](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html) through genetic sequencing of certain viral specimens. These specimens are taken from people who had already tested positive for COVID-19 across various parts of the state. Currently, only a small percentage of samples are sequenced. You can find a table that shows the [cumulative number of variants identified in Vermont](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities#variants) by county of residence.\n\nHere is what you can do to protect yourself and your community:\n\n*   Get vaccinated. So far, studies suggest that the vaccines available now will help our bodies fight against the variants that are currently circulating.\n*   Follow the [prevention steps](https://www.healthvermont.gov/covid-19/protect-yourself-others) if you are not fully vaccinated, like wearing masks, staying 6 feet apart, staying home if you are sick, washing your hands often, and avoiding crowded places. Prevention steps continue to be effective against variants.\n*   Get tested if you have any [COVID-19 symptoms](https://www.healthvermont.gov/covid-19/symptoms-sickness/symptoms), even if they are mild. While a test is not able to determine if a variant is present, knowing that you have COVID-19 as soon as possible will help protect yourself and your community.\n\nLearn more about what we know, what we don’t know, and what the CDC is doing about [variants of the COVID-19 virus](https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html).",
             "source": "Editorial",
             "questions": [
                 "What is known about the new variants of the COVID-19 virus?",
@@ -2797,7 +2753,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-22T19:29:20.451+00:00",
+            "lastUpdatedTimestamp": "2021-06-24T15:34:14.295+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -3198,7 +3154,7 @@
         },
         {
             "id": 4789,
-            "answer": "**What can I expect when I get my vaccine? Do I need to bring anything?**\n\nMost clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou do not need to bring any identification. Some clinics may ask for your health insurance information and for you to show your health insurance card, but you do not need health insurance to get a vaccine.\n\nIf you are getting a Pfizer-BioNTech or Moderna vaccine, we recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nYou may need to wear a mask. If you are not vaccinated, wearing a mask helps protect you and the people around you from getting or spreading COVID-19.\n\nIf you made an appointment, arrive on time so you don’t have to wait long, or keep others waiting. Please do not arrive earlier than 15 minutes before your appointment.\n\nIf you need someone to come with you for assistance, please only bring one person.\n\n**Every vaccine clinic is a little bit different, but here is what you can generally expect:**\n\n1.  Before you enter the clinic, someone will take your temperature and ask questions to determine if you have any current symptoms of COVID-19. If you do, then you will be asked to get your vaccine later.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\n**If you are going to a drive-through clinic**, you will stay in your car. Someone will check you in and then give you the vaccine. You’ll be asked to wait 15 to 30 minutes before leaving.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
+            "answer": "**What can I expect when I get my vaccine? Do I need to bring anything?**\n\nMost clinics are not drive-through. You will need to get out of your car and go inside.\n\nYou do not need to bring any identification. Some clinics may ask for your health insurance information and for you to show your health insurance card, but you do not need health insurance to get a vaccine.\n\nIf you are getting a Pfizer-BioNTech or Moderna vaccine, we recommend bringing your vaccine card to your second dose appointment, but it is not required.\n\nYou do not need to get tested for COVID-19 before getting the vaccine.\n\nYou may need to wear a mask. If you are not vaccinated, wearing a mask helps protect you and the people around you from getting or spreading COVID-19.\n\nIf you made an appointment, arrive on time so you don’t have to wait long, or keep others waiting. Please do not arrive earlier than 15 minutes before your appointment.\n\nIf you need someone to come with you for assistance, please only bring one person.\n\n**Every vaccine clinic is a little bit different, but here is what you can generally expect:**\n\n1.  Before you enter the clinic, someone will ask questions to determine if you have any current symptoms of COVID-19. You may have your temperature checked. If you do have symptoms, then you will be asked to get your vaccine later.\n2.  You will go inside and check in. You will be asked to fill out paperwork, which will include a [health screening questionnaire](https://www.cdc.gov/vaccines/covid-19/downloads/pre-vaccination-screening-form.pdf).\n3.  You will be asked to go to a vaccination station where you will get the vaccine in your arm.\n4.  You will be given a handout with information about the vaccine you got and any possible side effects to watch out for, as well as how to report any reactions or side effects you may have.\n5.  You will be asked to stay for 15 to 30 minutes so you can be watched for any immediate reactions to the shot.\n6.  Someone will help you schedule an appointment to get your second dose of vaccine at a later date.\n\n**If you are going to a drive-through clinic**, you will stay in your car. Someone will check you in and then give you the vaccine. You’ll be asked to wait 15 to 30 minutes before leaving.\n\nFind more information on [what kind of assistance is available](https://apps.health.vermont.gov/COVID/faq/#4785).",
             "source": "Editorial",
             "questions": [
                 "Health Screening Questionnaire",
@@ -3245,7 +3201,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-06-22T20:10:32.621+00:00",
+            "lastUpdatedTimestamp": "2021-06-24T15:33:30.788+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
@@ -4742,7 +4698,7 @@
         },
         {
             "id": 4850,
-            "answer": "**Is it possible to get COVID-19 even if I’m fully vaccinated?**\n\nYes. COVID-19 vaccines are very effective at preventing serious disease, including hospitalization and death. But no vaccine is 100% effective. That means some people who are vaccinated may become infected with COVID-19. This is called a “vaccine breakthrough.” This happens with any vaccine including measles, mumps, flu and others.\n\nAs more people are vaccinated, it is likely that the number of people who get sick with COVID-19 even after getting vaccinated will increase, especially if the amount of COVID-19 virus in our communities remains high. This growing number may sound concerning, but this is expected. Fortunately, the percentage of people who get COVID-19 after being vaccinated should stay low. Among those who get COVID-19 after being vaccinated, few will get very sick.\n\n**Community Immunity**\n\nVaccine protection is more than one person being vaccinated. The more virus going around in the community, the higher your chances of coming into close contact with someone who is sick with COVID-19. When enough people in a community are protected against a contagious disease, it's very hard for it to spread. It is this community immunity that helps protect us all from getting sick. This is why – until we reach community immunity and the amount of virus in our community goes down – our prevention steps are so important.\n\n**Variants**\n\nScientific studies show that some vaccines may not work as well on some of the variants. Studies with people in real world conditions are ongoing. [Variants are circulating in Vermont](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities#variants) and the [numbers of people](https://www.healthvermont.gov/covid-19/current-activity/vermont-dashboard) getting sick with COVID-19 is rising. Vermont’s numbers are too small to make any conclusions about the role of variants and the infections among fully vaccinated people that we are seeing. The Health Department is working to increase our ability to sequence more samples and select certain samples, like those among fully vaccinated people to look at more closely.\n\n**Learn more from the CDC about:**\n\n*   [What you should know about the possibility of COVID-19 illness after vaccination](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/why-measure-effectiveness/breakthrough-cases.html)\n*   [Vaccine breakthrough cases](https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html)",
+            "answer": "**Is it possible to get COVID-19 even if I’m fully vaccinated?**\n\nYes. COVID-19 vaccines are very effective at preventing serious disease, including hospitalization and death. But no vaccine is 100% effective. That means some people who are vaccinated may become infected with COVID-19. This is called a “vaccine breakthrough.” This happens with any vaccine including measles, mumps, flu and others. Fortunately, the percentage of people who get COVID-19 after being vaccinated should stay low. Among those who get COVID-19 after being vaccinated, few will get very sick.\n\n**Community Immunity**\n\nVaccine protection is more than one person being vaccinated. The more virus going around in the community, the higher your chances of coming into close contact with someone who is sick with COVID-19. When enough people in a community are protected against a contagious disease, it's very hard for it to spread. It is this community immunity that helps protect us all from getting sick.\n\n**Variants**\n\nCurrent data suggest that COVID-19 vaccines authorized for use in the United States offer protection against variants currently circulating in the United States. Vermont’s number of specimens connected to a COVID-19 infection after vaccination is too small to make any conclusions about the role variants play in causing infections among fully vaccinated people. \n\nThe Health Department sequences specimens and prioritizes any that are connected with an infection after vaccination. Learn more about [the variants circulating in Vermont](https://www.healthvermont.gov/covid-19/current-activity/covid-19-communities#variants).\n\n**Learn more from the CDC about:**\n\n*   [What you should know about the possibility of COVID-19 illness after vaccination](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/why-measure-effectiveness/breakthrough-cases.html)\n*   [Vaccine breakthrough cases](https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html)",
             "source": "Editorial",
             "questions": [
                 "Is it possible to get COVID-19 even if I’m fully vaccinated?",
@@ -4769,7 +4725,7 @@
                     }
                 ]
             },
-            "lastUpdatedTimestamp": "2021-05-27T19:50:39.457+00:00",
+            "lastUpdatedTimestamp": "2021-06-24T15:32:43.306+00:00",
             "isDocumentText": false,
             "extractionConfidence": 0
         },
