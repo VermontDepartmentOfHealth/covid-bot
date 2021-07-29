@@ -1,5 +1,5 @@
 ﻿---
-title: VT Covid Bot Docs
+title: VT Covid Bot Documents
 permalink: /
 ---
 
